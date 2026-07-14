@@ -28,7 +28,7 @@ export function GoalBar({ goal, onGoal, onWeight }: Props) {
       <div className="flex items-center gap-3">
         <div className="shrink-0">
           <div className="text-lg font-semibold tracking-tight">
-            Value<span className="text-accent">Rank</span>
+            Value<span className="logo-gradient">Rank</span>
           </div>
           <div className="text-[10px] text-mute -mt-0.5">rank by what it does to you</div>
         </div>

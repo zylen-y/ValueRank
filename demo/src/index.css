@@ -23,6 +23,14 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 
+/* logo wordmark — mint → blue gradient */
+.logo-gradient {
+  background: linear-gradient(90deg, #0ac7b4 0%, #00b3e3 55%, #0070f3 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
