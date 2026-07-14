@@ -1,0 +1,37 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-ink: #0b0e14;
+  --color-panel: #12161f;
+  --color-panel2: #171c27;
+  --color-line: #232a38;
+  --color-mute: #8b93a7;
+  --color-bright: #e8ecf4;
+  --color-accent: #5eead4; /* teal — ValueRank */
+  --color-accent2: #818cf8; /* indigo — goal */
+  --color-hot: #fb7185; /* rose — engagement / off-goal */
+  --color-warn: #fbbf24;
+  --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif;
+}
+
+html {
+  background: var(--color-ink);
+  color: var(--color-bright);
+  font-family: var(--font-sans);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #2a3242;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+input[type='range'] {
+  accent-color: var(--color-accent2);
+}
