@@ -1,19 +1,19 @@
 @import 'tailwindcss';
 @import '@fontsource-variable/geist';
 
-/* Chrome & Ice — cool steel instrument design system.
-   Blue-black grays, chrome-gradient key numbers; brass is the single accent. */
+/* Titanium — warm monochrome design system.
+   Titanium + electric cobalt: monochrome graphite/silver base, cobalt signal, brick audit warning. */
 @theme {
-  --color-ink: #0a0c0e; /* blue-black */
-  --color-panel: #101317;
-  --color-panel2: #161a1f;
-  --color-line: #262c33;
-  --color-mute: #7d8590;
-  --color-bright: #e6eaee; /* ice white */
-  --color-accent: #c3ccd6; /* steel highlight — ValueRank */
-  --color-accent2: #aab6c2; /* steel — goal */
-  --color-hot: #5b6470; /* gunmetal — engagement / off-goal */
-  --color-warn: #d4a24c; /* brass — audit warning, the single accent */
+  --color-ink: #0e0e0d; /* warm near-black */
+  --color-panel: #151514;
+  --color-panel2: #1c1c1a;
+  --color-line: #2a2a27;
+  --color-mute: #8f8d86;
+  --color-bright: #f2f1ee; /* warm silver-white */
+  --color-accent: #4d7cfe; /* electric cobalt — ValueRank */
+  --color-accent2: #8fa8e8; /* soft cobalt — goal */
+  --color-hot: #6e6c66; /* receding gray — engagement / off-goal */
+  --color-warn: #c9564e; /* muted brick — audit warning, the only hue */
   --font-sans: 'Geist Variable', 'Geist', Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
 }
 
@@ -24,20 +24,12 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 
-/* chrome text — machined-metal sheen for key numbers */
-.chrome {
-  background: linear-gradient(180deg, #f5f7fa 0%, #c9d2dc 45%, #9aa4b0 55%, #dfe5eb 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-}
-
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
 }
 ::-webkit-scrollbar-thumb {
-  background: #333c46;
+  background: #3a3a36;
   border-radius: 4px;
 }
 ::-webkit-scrollbar-track {

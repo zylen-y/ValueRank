@@ -73,7 +73,7 @@ export function FeedColumn({ title, subtitle, color, items, readIds, P, u, onRea
                   </div>
                   {isVR && (
                     <div className="flex shrink-0 flex-col items-end gap-1">
-                      <span className="chrome text-[11px] font-semibold tabular-nums">
+                      <span className="text-[11px] font-semibold tabular-nums text-accent">
                         V {v.toFixed(3)}
                       </span>
                       <Spark dP={dP} />
