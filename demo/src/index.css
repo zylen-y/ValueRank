@@ -23,9 +23,9 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 
-/* logo wordmark — mint → blue gradient */
+/* logo wordmark — silver metallic gradient */
 .logo-gradient {
-  background: linear-gradient(90deg, #0ac7b4 0%, #00b3e3 55%, #0070f3 100%);
+  background: linear-gradient(180deg, #fafafa 0%, #d4d4d4 40%, #8a8a8a 55%, #e5e5e5 100%);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
