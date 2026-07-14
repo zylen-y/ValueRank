@@ -57,11 +57,11 @@ export function StatePanel({ P, u, history, onAuto, autoRunning, onReset }: Prop
         <div className="h-56">
           <ResponsiveContainer>
             <RadarChart data={radar} outerRadius="72%">
-              <PolarGrid stroke="#2a2a27" />
-              <PolarAngleAxis dataKey="axis" tick={{ fill: '#8f8d86', fontSize: 10 }} />
+              <PolarGrid stroke="#262c33" />
+              <PolarAngleAxis dataKey="axis" tick={{ fill: '#7d8590', fontSize: 10 }} />
               <PolarRadiusAxis domain={[0, 100]} tick={false} axisLine={false} />
-              <Radar name="goal u" dataKey="goal" stroke="#c0bdb4" fill="#c0bdb4" fillOpacity={0.08} strokeDasharray="4 3" />
-              <Radar name="you" dataKey="you" stroke="#e8e6e1" fill="#e8e6e1" fillOpacity={0.25} isAnimationActive />
+              <Radar name="goal u" dataKey="goal" stroke="#aab6c2" fill="#aab6c2" fillOpacity={0.08} strokeDasharray="4 3" />
+              <Radar name="you" dataKey="you" stroke="#c3ccd6" fill="#c3ccd6" fillOpacity={0.25} isAnimationActive />
             </RadarChart>
           </ResponsiveContainer>
         </div>
@@ -73,14 +73,14 @@ export function StatePanel({ P, u, history, onAuto, autoRunning, onReset }: Prop
         <div className="mt-1 h-40">
           <ResponsiveContainer>
             <LineChart data={history} margin={{ top: 8, right: 8, bottom: 0, left: -26 }}>
-              <XAxis dataKey="step" tick={{ fill: '#8f8d86', fontSize: 10 }} stroke="#2a2a27" />
-              <YAxis tick={{ fill: '#8f8d86', fontSize: 10 }} stroke="#2a2a27" />
+              <XAxis dataKey="step" tick={{ fill: '#7d8590', fontSize: 10 }} stroke="#262c33" />
+              <YAxis tick={{ fill: '#7d8590', fontSize: 10 }} stroke="#262c33" />
               <Tooltip
-                contentStyle={{ background: '#1c1c1a', border: '1px solid #2a2a27', borderRadius: 8, fontSize: 11 }}
-                labelStyle={{ color: '#8f8d86' }}
+                contentStyle={{ background: '#161a1f', border: '1px solid #262c33', borderRadius: 8, fontSize: 11 }}
+                labelStyle={{ color: '#7d8590' }}
               />
-              <Line type="monotone" dataKey="valuerank" name="ValueRank" stroke="#e8e6e1" strokeWidth={2} dot={false} />
-              <Line type="monotone" dataKey="engagement" name="Engagement feed" stroke="#6e6c66" strokeWidth={2} dot={false} strokeDasharray="5 4" />
+              <Line type="monotone" dataKey="valuerank" name="ValueRank" stroke="#c3ccd6" strokeWidth={2} dot={false} />
+              <Line type="monotone" dataKey="engagement" name="Engagement feed" stroke="#5b6470" strokeWidth={2} dot={false} strokeDasharray="5 4" />
             </LineChart>
           </ResponsiveContainer>
         </div>
