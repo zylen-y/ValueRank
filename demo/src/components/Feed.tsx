@@ -66,7 +66,7 @@ export function FeedColumn({ title, subtitle, color, items, readIds, P, u, onRea
                       <span>{a.minutes} min</span>
                       {!isVR && (
                         <span className={a.engagement > 0.8 ? 'text-hot' : ''}>
-                          🔥 {(a.engagement * 100).toFixed(0)}
+                          ▲ {(a.engagement * 100).toFixed(0)}
                         </span>
                       )}
                     </div>
