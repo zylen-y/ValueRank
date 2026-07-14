@@ -119,21 +119,21 @@ export default function App() {
         <FeedColumn
           title="Engagement feed"
           subtitle="ranked by predicted clicks — today's internet"
-          color="#fb7185"
+          color="#ff6166"
           items={byEngagement}
           readIds={engReadIds}
         />
         <FeedColumn
           title="LLM re-ranker"
           subtitle="goal-conditioned relevance — blind to your state"
-          color="#fbbf24"
+          color="#f5a623"
           items={byLLM}
           readIds={new Set()}
         />
         <FeedColumn
           title="ValueRank"
           subtitle="V = ⟨f(P,x) − P, u⟩ — predicted change in you"
-          color="#5eead4"
+          color="#0ac7b4"
           items={byValue}
           readIds={readIds}
           P={P}
