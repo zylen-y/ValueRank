@@ -133,7 +133,7 @@ export default function App() {
         <FeedColumn
           title="ValueRank"
           subtitle="V = ⟨f(P,x) − P, u⟩ — predicted change in you"
-          color="#bf7af0"
+          color="#9d63d9"
           items={byValue}
           readIds={readIds}
           P={P}
