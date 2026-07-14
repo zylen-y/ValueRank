@@ -35,7 +35,7 @@ export function AuditPanel({ vr, eng }: { vr: ShiftAudit; eng: ShiftAudit }) {
         Every induced change in you decomposes into ΔP∥ (toward your declared goal) and ΔP⊥ (drift you never asked for).
       </div>
       <div className="mt-3 space-y-2">
-        <Meter label="ValueRank policy" audit={vr} color="#9d63d9" />
+        <Meter label="ValueRank policy" audit={vr} color="#0ac7b4" />
         <Meter label="Engagement policy (counterfactual)" audit={eng} color="#ff6166" />
       </div>
       {flagged && (

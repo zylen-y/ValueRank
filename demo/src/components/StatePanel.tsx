@@ -61,7 +61,7 @@ export function StatePanel({ P, u, history, onAuto, autoRunning, onReset }: Prop
               <PolarAngleAxis dataKey="axis" tick={{ fill: '#a1a1a1', fontSize: 10 }} />
               <PolarRadiusAxis domain={[0, 100]} tick={false} axisLine={false} />
               <Radar name="goal u" dataKey="goal" stroke="#0070f3" fill="#0070f3" fillOpacity={0.08} strokeDasharray="4 3" />
-              <Radar name="you" dataKey="you" stroke="#9d63d9" fill="#9d63d9" fillOpacity={0.25} isAnimationActive />
+              <Radar name="you" dataKey="you" stroke="#0ac7b4" fill="#0ac7b4" fillOpacity={0.25} isAnimationActive />
             </RadarChart>
           </ResponsiveContainer>
         </div>
@@ -79,7 +79,7 @@ export function StatePanel({ P, u, history, onAuto, autoRunning, onReset }: Prop
                 contentStyle={{ background: '#111111', border: '1px solid #262626', borderRadius: 8, fontSize: 11 }}
                 labelStyle={{ color: '#a1a1a1' }}
               />
-              <Line type="monotone" dataKey="valuerank" name="ValueRank" stroke="#9d63d9" strokeWidth={2} dot={false} />
+              <Line type="monotone" dataKey="valuerank" name="ValueRank" stroke="#0ac7b4" strokeWidth={2} dot={false} />
               <Line type="monotone" dataKey="engagement" name="Engagement feed" stroke="#ff6166" strokeWidth={2} dot={false} strokeDasharray="5 4" />
             </LineChart>
           </ResponsiveContainer>
