@@ -1,0 +1,353 @@
+{
+  "verifiedAt": "2026-09-26T11:57:17.240Z",
+  "automated": {
+    "testFiles": 17,
+    "tests": 285,
+    "lint": "passed",
+    "typecheck": "passed",
+    "productionBuild": "passed"
+  },
+  "searches": [
+    {
+      "scenario": "full-web-flow",
+      "sessionId": "1c7452c9-1d37-439b-81f6-b7e7def54330",
+      "status": "completed",
+      "questionCount": 2,
+      "answeredQuestionCount": 2,
+      "sources": [
+        {
+          "url": "https://docs.typesafe.ai/llms.txt",
+          "provenance": "search-excerpt",
+          "characters": 5000,
+          "limitations": [
+            "Search-provider excerpt; the complete page has not been independently downloaded."
+          ]
+        },
+        {
+          "url": "https://docs.typesafe.ai/llms-full.txt",
+          "provenance": "search-excerpt",
+          "characters": 4999,
+          "limitations": [
+            "Search-provider excerpt; the complete page has not been independently downloaded."
+          ]
+        }
+      ],
+      "cardCount": 3,
+      "evidencePassageCount": 3,
+      "allEvidenceQuotesMatch": true,
+      "answerCharacters": 594,
+      "answerCitationCount": 2,
+      "allAnswerCitationsResolve": true,
+      "pendingCards": 0,
+      "models": [
+        "alibaba/qwen3.8-flash",
+        "typesafe/jev-1.13",
+        "typesafe/jev-1.13-20260917"
+      ],
+      "usage": {
+        "llmTokens": 146614,
+        "jevTokens": 3875,
+        "searchCalls": 10,
+        "elapsedMs": 73889
+      },
+      "attempts": [
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:54:39.285Z",
+          "message": "Structured generation attempt 1: started.",
+          "model": "alibaba/qwen3.8-flash",
+          "tokens": 0,
+          "durationMs": 0
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:54:44.608Z",
+          "message": "Structured generation attempt 1: completed. Reported reasoning tokens: 0.",
+          "model": "alibaba/qwen3.8-flash",
+          "tokens": 3652,
+          "durationMs": 5323
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:55:56.130Z",
+          "message": "Structured generation attempt 1: started.",
+          "model": "alibaba/qwen3.8-flash",
+          "tokens": 0,
+          "durationMs": 0
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:56:09.064Z",
+          "message": "Structured generation attempt 1: completed. Reported reasoning tokens: 0.",
+          "model": "alibaba/qwen3.8-flash",
+          "tokens": 5157,
+          "durationMs": 12934
+        },
+        {
+          "stage": "evidence",
+          "at": "2026-09-26T11:56:09.074Z",
+          "message": "3 of 3 candidate cards passed exact source-quote matching. This checks provenance, not semantic truth."
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:56:09.569Z",
+          "message": "Structured generation attempt 1: started.",
+          "model": "alibaba/qwen3.8-flash",
+          "tokens": 0,
+          "durationMs": 0
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:56:14.124Z",
+          "message": "Structured generation attempt 1: completed. Reported reasoning tokens: 0.",
+          "model": "alibaba/qwen3.8-flash",
+          "tokens": 1937,
+          "durationMs": 4555
+        },
+        {
+          "stage": "complete",
+          "at": "2026-09-26T11:56:14.128Z",
+          "message": "3 cards ready. Compare cards to teach the personal model."
+        }
+      ]
+    },
+    {
+      "scenario": "explicit-url-and-resume",
+      "sessionId": "799dff82-cc88-4c09-bf8b-431df1eaf68f",
+      "status": "completed",
+      "questionCount": 0,
+      "answeredQuestionCount": 0,
+      "sources": [
+        {
+          "url": "https://docs.typesafe.ai/models",
+          "provenance": "page-extraction",
+          "characters": 4152,
+          "limitations": [
+            "Readable page text; page layout and media are omitted.",
+            "1 other supplied URL(s) could not be read."
+          ]
+        }
+      ],
+      "cardCount": 3,
+      "evidencePassageCount": 5,
+      "allEvidenceQuotesMatch": true,
+      "answerCharacters": 658,
+      "answerCitationCount": 2,
+      "allAnswerCitationsResolve": true,
+      "pendingCards": 0,
+      "models": [
+        "public-url-extractor",
+        "xiaomi/mimo-v2.6-flash",
+        "typesafe/jev-1.13",
+        "alibaba/qwen3.8-flash",
+        "typesafe/jev-1.13-20260917"
+      ],
+      "usage": {
+        "llmTokens": 7863,
+        "jevTokens": 4425,
+        "searchCalls": 0,
+        "elapsedMs": 291248
+      },
+      "lastResumeElapsedMs": 20937,
+      "retrievalEventsAfterLastResume": 0,
+      "attempts": [
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:42:36.291Z",
+          "message": "Structured generation attempt 1: started.",
+          "model": "xiaomi/mimo-v2.6-flash",
+          "tokens": 0,
+          "durationMs": 0
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:43:18.787Z",
+          "message": "Structured generation attempt 1: completed.",
+          "model": "xiaomi/mimo-v2.6-flash",
+          "tokens": 2149,
+          "durationMs": 42496
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:43:18.789Z",
+          "message": "Structured generation attempt 1: validation-failed. Constraints: questions (too_big).",
+          "model": "xiaomi/mimo-v2.6-flash",
+          "tokens": 0,
+          "durationMs": 42498
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:43:18.790Z",
+          "message": "Structured generation attempt 2: started.",
+          "model": "xiaomi/mimo-v2.6-flash",
+          "tokens": 0,
+          "durationMs": 0
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:44:06.296Z",
+          "message": "Structured generation attempt 2: failed.",
+          "model": "xiaomi/mimo-v2.6-flash",
+          "tokens": 0,
+          "durationMs": 47506
+        },
+        {
+          "stage": "error",
+          "at": "2026-09-26T11:44:06.299Z",
+          "message": "LLM extraction via Vercel AI Gateway: The request exceeded its time limit. Retry the item; if this continues, check provider availability or shorten the source."
+        },
+        {
+          "stage": "resume",
+          "at": "2026-09-26T11:45:35.166Z",
+          "message": "Resuming stored source excerpts. No web-search request will be repeated."
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:45:35.169Z",
+          "message": "Structured generation attempt 1: started.",
+          "model": "xiaomi/mimo-v2.6-flash",
+          "tokens": 0,
+          "durationMs": 0
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:47:05.171Z",
+          "message": "Structured generation attempt 1: failed.",
+          "model": "xiaomi/mimo-v2.6-flash",
+          "tokens": 0,
+          "durationMs": 90002
+        },
+        {
+          "stage": "error",
+          "at": "2026-09-26T11:47:05.175Z",
+          "message": "LLM extraction via Vercel AI Gateway: The request exceeded its time limit. Retry the item; if this continues, check provider availability or shorten the source."
+        },
+        {
+          "stage": "error",
+          "at": "2026-09-26T11:47:05.177Z",
+          "message": "Some source batches could not produce valid grounded cards. Results below contain only accepted cards. LLM extraction via Vercel AI Gateway: The request did not complete. Check credentials, credits, model availability, and source validity before retrying."
+        },
+        {
+          "stage": "resume",
+          "at": "2026-09-26T11:49:00.272Z",
+          "message": "Resuming stored source excerpts. No web-search request will be repeated."
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:49:00.273Z",
+          "message": "Structured generation attempt 1: started.",
+          "model": "alibaba/qwen3.8-flash",
+          "tokens": 0,
+          "durationMs": 0
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:50:30.278Z",
+          "message": "Structured generation attempt 1: failed.",
+          "model": "alibaba/qwen3.8-flash",
+          "tokens": 0,
+          "durationMs": 90005
+        },
+        {
+          "stage": "error",
+          "at": "2026-09-26T11:50:30.280Z",
+          "message": "LLM extraction via Vercel AI Gateway: The request exceeded its time limit. Retry the item; if this continues, check provider availability or shorten the source."
+        },
+        {
+          "stage": "error",
+          "at": "2026-09-26T11:50:30.282Z",
+          "message": "Some source batches could not produce valid grounded cards. Results below contain only accepted cards. LLM extraction via Vercel AI Gateway: The request did not complete. Check credentials, credits, model availability, and source validity before retrying."
+        },
+        {
+          "stage": "resume",
+          "at": "2026-09-26T11:52:23.303Z",
+          "message": "Resuming stored source excerpts. No web-search request will be repeated."
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:52:23.306Z",
+          "message": "Structured generation attempt 1: started.",
+          "model": "alibaba/qwen3.8-flash",
+          "tokens": 0,
+          "durationMs": 0
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:52:38.442Z",
+          "message": "Structured generation attempt 1: completed. Reported reasoning tokens: 0.",
+          "model": "alibaba/qwen3.8-flash",
+          "tokens": 3629,
+          "durationMs": 15136
+        },
+        {
+          "stage": "evidence",
+          "at": "2026-09-26T11:52:38.452Z",
+          "message": "3 of 3 candidate cards passed exact source-quote matching. This checks provenance, not semantic truth."
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:52:38.948Z",
+          "message": "Structured generation attempt 1: started.",
+          "model": "alibaba/qwen3.8-flash",
+          "tokens": 0,
+          "durationMs": 0
+        },
+        {
+          "stage": "llm-attempt",
+          "at": "2026-09-26T11:52:44.235Z",
+          "message": "Structured generation attempt 1: completed. Reported reasoning tokens: 0.",
+          "model": "alibaba/qwen3.8-flash",
+          "tokens": 2085,
+          "durationMs": 5287
+        },
+        {
+          "stage": "complete",
+          "at": "2026-09-26T11:52:44.240Z",
+          "message": "3 cards ready. Compare cards to teach the personal model."
+        }
+      ]
+    }
+  ],
+  "vision": [
+    {
+      "model": "xiaomi/mimo-v2.6-flash",
+      "tokens": 1218,
+      "elapsedMs": 11023,
+      "featureCount": 16,
+      "input": "actual original interface PNG pixels"
+    },
+    {
+      "at": "2026-09-26T11:54:06.305Z",
+      "model": "alibaba/qwen3.8-flash",
+      "tokens": 1743,
+      "elapsedMs": 5005,
+      "featureCount": 16,
+      "input": "actual original interface PNG pixels"
+    }
+  ],
+  "browserQa": {
+    "isolatedDatabase": true,
+    "checks": [
+      "A/B choice updates model",
+      "undo refits remaining labels",
+      "blind-test label excluded from training",
+      "tie, neither, skip",
+      "Memory add/edit/delete",
+      "8-row CSV import and refresh persistence",
+      "390px Arena and Memory without horizontal overflow",
+      "no uncaught browser errors"
+    ],
+    "paidMultiImageImportVerified": false
+  },
+  "userWorkspace": {
+    "trainingChoices": 0,
+    "testChoices": 0,
+    "syntheticPreferenceLabelsAdded": 0
+  },
+  "notes": [
+    "Provider token reports may omit failed or cancelled requests.",
+    "Cumulative session elapsed time includes failed and repaired attempts; it is not a clean latency benchmark.",
+    "Exact quote matching establishes provenance, not semantic truth or source authority.",
+    "No personal accuracy claim is made from synthetic tests."
+  ]
+}

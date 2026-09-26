@@ -12,7 +12,7 @@ Copy `.env.example` to `.env.local` and set:
 | `AI_GATEWAY_API_KEY` | Server-side Vercel AI Gateway authentication |
 | `OPENROUTER_API_KEY` | Server-side OpenRouter authentication for real Jev; no TypeSafe account needed |
 | `TYPESAFE_API_KEY` | Optional alternative: direct TypeSafe authentication |
-| `VALUERANK_LLM_MODEL` | Optional Gateway model; default `xiaomi/mimo-v2.6-flash` |
+| `VALUERANK_LLM_MODEL` | Optional Gateway model; default `alibaba/qwen3.8-flash` |
 | `VALUERANK_JEV_PROVIDER` | `auto` (default), `openrouter`, or `typesafe`; auto prefers a configured OpenRouter key |
 | `VALUERANK_OPENROUTER_JEV_MODEL` | Optional OpenRouter Jev model; default `typesafe/jev-1.13` |
 | `VALUERANK_JEV_MODEL` | Optional direct TypeSafe model; default pinned `jev-1.13.0` |
@@ -31,7 +31,11 @@ The current Gateway model ID was checked against the live model catalog during
 implementation. Availability can change. Configuration errors are visible in the
 pipeline; the app never substitutes a model response with a simulated one.
 
-MiMo was verified through this account's Gateway free-tier access. OpenAI GPT-6 Luna
+Qwen 3.8 Flash was verified through this account's Gateway key. Routine generation
+requests reasoning off; the completed search reported zero reasoning tokens.
+MiMo remains an optional route, but repeated 90-second timeouts occurred during
+the final search verification. Earlier MiMo runs did complete successfully.
+OpenAI GPT-6 Luna
 returned HTTP 403 because that model required purchased credits on this account.
 Choose an account-eligible model or enable paid access before changing the setting.
 See the [Gateway eligibility filter](https://vercel.com/ai-gateway/models?freeTier=true).
@@ -39,18 +43,44 @@ See the [Gateway eligibility filter](https://vercel.com/ai-gateway/models?freeTi
 The harness separates source-tool selection from JSON synthesis. MiMo's route uses
 JSON mode, with the complete schema supplied in the trusted prompt and validated
 locally; valid JSON alone is never enough. Reasoning is disabled for this routine
-MiMo extraction. See [MiMo JSON mode](https://mimo.mi.com/docs/en-US/quick-start/usage-guide/text-generation/structured-output)
+MiMo extraction and the default Qwen routine calls. See [MiMo JSON mode](https://mimo.mi.com/docs/en-US/quick-start/usage-guide/text-generation/structured-output)
 and [Gateway reasoning controls](https://vercel.com/docs/ai-gateway/models-and-providers/reasoning).
 
 `npm run dev` launches the API at `127.0.0.1:8787` and UI at `127.0.0.1:5188`.
 `npm run build && npm start` serves the compiled app and API together at port 8787.
-The personal database is `.data/valuerank.sqlite`. A custom path is available via
+The earlier reading database is `.data/valuerank.sqlite`. A custom path is available via
 `VALUERANK_DB_PATH`, useful for isolated tests. `API_PORT` changes the API port;
 update the Vite proxy too if changing it in development.
 
+## Personal search, Arena, and Memory
+
+Search is the default entry. Gateway's Exa tool uses the existing Gateway key; no
+separate search key is required. The implementation stores actual tool-returned
+URLs and text, validates quotations, scores cards with Jev, and uses a separate
+trainable pairwise ranking head. A fresh web exploration takes longer than the
+prepared-brief lab benchmark. Source excerpts and partial results remain visible.
+
+Arena provides an original 36-image interface pack, explicit comparisons, tournament
+play, and held-out predictions. New image imports use the configured LLM's vision
+capability; the verified default supports this. Another configured model must also
+support image inputs. Image jobs cache encodings and report actual per-image progress.
+
+The new databases are `.data/personal.sqlite` and `.data/personal-media.sqlite`.
+`VALUERANK_PERSONAL_DB_PATH` and `VALUERANK_MEDIA_DB_PATH` permit isolated testing.
+`VALUERANK_SKIP_SEEDS=1` suppresses the original design pack on first initialization.
+Deleting the pack does not automatically recreate it on restart.
+
+Memory exports the complete personal record, including uploaded image assets.
+Selected collection/session deletion removes related observations and refits affected
+models. `DELETE /api/personal/data` removes all new personal-engine and image data;
+the earlier reading workspace remains separate. Jobs must finish or be cancelled
+before deletion. The UI contains no real preference labels until someone chooses.
+
+See [implementation and learning limits](../docs/prototype/PERSONAL-INTELLIGENCE.md).
+
 ## Signal Lab
 
-The default view screens 48 prepared editorial briefs with real Jev and six concurrent
+The Lab view screens 48 prepared editorial briefs with real Jev and six concurrent
 workers. It uses no LLM generation. Results and actual completion timestamps persist
 in `.data/burst.json`; replay makes no API calls. A 10/20/30-minute selector uses only
 briefs above the stated relevance and novelty cutoffs. Saving a session preserves

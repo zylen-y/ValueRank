@@ -1,92 +1,87 @@
 # ValueRank
 
-**A personal reading engine that learns what is worth your time.**
+**Search the web. Shape the information. Train your personal ranking engine.**
 
-ValueRank turns source text into grounded reading notes, asks Jev bounded questions
-about relevance, novelty, and actionability, then ranks the results against your
-explicit goal, recorded knowledge, and feedback.
+ValueRank combines open web exploration with source-grounded information cards and a
+model that learns from your choices. The durable asset is your editable, scoped
+knowledge and preferences, plus versioned content, comparisons, and ranking weights.
 
-The new prototype replaces the earlier browser-only simulation. The original
-proposal and historical demo remain in Git history and `docs/` for reference.
+![ValueRank personal search](docs/prototype/personal-home.png)
 
-![ValueRank Signal Lab](docs/prototype/signal-lab.png)
+## Try it locally
 
-## Run it
-
-Requires **Node.js 24+**.
+Requires Node.js 24+.
 
 ```bash
 cd demo
 npm ci
 cp .env.example .env.local
-# Set AI_GATEWAY_API_KEY and OPENROUTER_API_KEY in .env.local.
+# Add AI_GATEWAY_API_KEY and OPENROUTER_API_KEY locally.
 npm run dev
 ```
 
-Open **http://127.0.0.1:5188**. The API runs on loopback port 8787.
+Open **http://127.0.0.1:5188**. Credentials stay on the server. Databases, keys,
+uploaded images, and private evaluation records are ignored by Git.
 
-Keys remain server-side. `.env.local`, the personal SQLite database, and local QA
-artifacts are ignored by Git. Credentials are reread when an engine run starts;
-adding them does not require a server restart.
+## Three connected experiences
 
-## The Signal Lab demo
+**Search.** Enter a real query, answer optional clarification questions, and explore
+original source results, independently readable information cards, or a generated
+answer. Every card links its supporting source passages. Jev evaluates relevance,
+novelty, and actionability; your learned ranking head changes the order. Compare two
+cards, record something you already know, or ask a follow-up. Search sessions have
+addressable links and survive refreshes.
 
-**48 source-linked briefs → a reading session that fits your time.** The measured
-live run completed 48 real Jev requests and 144 typed forecasts in **2.197 seconds**
-with six concurrent workers. These are prepared editorial briefs, not 48 full
-articles fetched and summarized in that time.
+**Arena.** Choose between images or content to build a preference dataset. The
+included **Interface instincts** pack contains 36 original interface studies with
+known design parameters. Import images for actual vision-based feature extraction,
+or import JSON/CSV content. Learn mode selects informative pairs; tournament mode
+eliminates items only through actual choices. Blind tests reserve separate entities,
+lock predictions before the answer, and keep evaluation answers out of training.
 
-Open **Signal Lab**, choose a direction and 10/20/30 minutes, then **Find my signal**.
-Watch each decision arrive, inspect any tile, and save the resulting session.
-**Replay this run** shows the recorded execution without additional API calls.
-See [design, measured results, and product direction](docs/prototype/SIGNAL-LAB.md).
+**Memory.** Inspect and correct scoped knowledge, preferences, and values. See
+actual model weights and comparison history. Undo rebuilds the affected model;
+deleting a collection removes its learning records and rebuilds remaining models.
+Export versioned sources, items, observations, comparisons, predictions, feature
+vectors, weights, training rows, and uploaded assets.
 
-## The reading workspace
+## How the learning works
 
-1. Choose a goal and inspect the source-linked starter reading queue.
-2. Add a public article URL or paste your own passage.
-3. Click **Run engine**. The pipeline shows actual LLM tools, quotation checks,
-   Jev calls, durations, and token counts. Use **Analyze this source** in a reading
-   brief to process just one item.
-4. Open a reading brief to see its evidence, new/known concepts, and score factors.
-5. Mark an item **Already know** or **Useful**. Watch the ordering and profile change.
-   Click the selected verdict again to undo it.
-6. Export the feedback as JSONL, with immutable observations and retraction history.
+The local personal model is a regularized pairwise logistic ranker:
 
-### What is real
+`P(A preferred to B) = sigmoid(prior(A) - prior(B) + w · (features(A) - features(B)))`
 
-- A bounded Vercel AI SDK `ToolLoopAgent`, with a scoped read-only source tool,
-  separate JSON synthesis, runtime schema and source-quote validation, time limits,
-  and limited retries. The default LLM is `xiaomi/mimo-v2.6-flash` through Gateway.
-- The official TypeSafe SDK calling real Jev through OpenRouter (`typesafe/jev-1.13`)
-  or directly through TypeSafe (`jev-1.13.0`), with three explicit Noul questions
-  and runtime response validation. An OpenRouter key requires no TypeSafe account.
-- A deterministic personal ranking policy and feedback-driven topic weights.
-- SQLite persistence across page reloads and server restarts.
-- Public-URL text extraction with size, time, redirect, and private-network guards.
+A real explicit choice updates the weights `w`. Different domains and feature
+schemas have separate heads. A tie is a soft equal label; neither and skip are
+recorded without inventing directional preferences. Clicks and saves are weak
+observations, not automatic negative/positive training labels.
 
-### What the prototype does not claim
+The LLM handles clarification, grounded synthesis, and vision observations. Jev
+handles fast typed textual judgments. The personal head learns your choices.
+**Hosted Jev is not fine-tuned**, and **Jev does not receive images**. Image imports
+use a vision model to produce a fixed set of fallible visual attributes. Those are
+not identity recognition or a substitute for a dedicated visual embedding model.
 
-The starter sources are **original editorial briefs** with primary-source links,
-not full scraped pages or precomputed live model answers. They are labeled in the
-interface. Add a URL or paste text to analyze an actual source passage.
+A ranking utility score is not a calibrated probability of truth. Pairwise choice
+probabilities require personal held-out evaluation; the app reports sample counts,
+accuracy, log loss, and Brier score rather than an invented “understands you” meter.
 
-Before keys are configured, a labeled local ranking policy works without inference.
-Missing, failed, or outdated Jev judgments are never presented as current model
-results. A changed profile invalidates old Jev forecasts until the engine is rerun.
+## The throughput lab
 
-The 0–100 score is **heuristic utility, not a calibrated probability of learning**.
-Jev's outputs are model forecasts about named predicates. The app does not fine-tune
-Jev or claim to reproduce its RLCD training. “Useful” changes preferences; only
-explicit “Already know” feedback adds specific concepts to recorded knowledge.
+**Lab → Signal Lab** retains the real Jev bulk demonstration: 48 prepared editorial
+briefs, 144 typed forecasts, six workers, **2.197 seconds** in the recorded run.
+Replay shows actual saved completion timestamps without additional model calls.
+That measurement does not include fresh web search or LLM content generation.
+The original reading queue, source harness, and provider traces remain available.
 
-## Implementation and verification
+## Implementation and evidence
 
-- [`demo/README.md`](demo/README.md) — configuration and operational scope
-- [`docs/prototype/ARCHITECTURE.md`](docs/prototype/ARCHITECTURE.md) — data flow and design decisions
-- [`docs/prototype/JEV.md`](docs/prototype/JEV.md) — verified API contract and sources
-- [`docs/prototype/VERIFICATION.md`](docs/prototype/VERIFICATION.md) — tests, browser checks, and two real-provider runs
-- [`docs/ValueRank_Proposal_v4.pdf`](docs/ValueRank_Proposal_v4.pdf) — original research proposal
+- [Personal-engine implementation and limits](docs/prototype/PERSONAL-INTELLIGENCE.md)
+- [Approved implementation plan](docs/prototype/PERSONAL-INTELLIGENCE-PLAN.md)
+- [Configuration and operation](demo/README.md)
+- [Jev contract and official references](docs/prototype/JEV.md)
+- [Signal Lab measurements](docs/prototype/SIGNAL-LAB.md)
+- [Original proposal](docs/ValueRank_Proposal_v4.pdf)
 
 ```bash
 cd demo
@@ -95,7 +90,6 @@ npm run lint
 npm run build
 ```
 
-This is a **single-user local prototype**. It binds to loopback and has no shared
-account system. A public deployment needs authentication, tenant isolation,
-a durable job worker, and an appropriate hosted database before exposing personal
-data or paid API calls.
+This is a single-user local prototype: React, Vite, Node, SQLite, AI SDK, Gateway,
+and the TypeSafe SDK through OpenRouter. It binds to loopback. Hosted accounts,
+tenant isolation, and durable remote workers are subsequent deployment work.

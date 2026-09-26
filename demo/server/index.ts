@@ -13,6 +13,8 @@ import { extractSource, validateUrl } from './extract.ts';
 import { startPipeline } from './pipeline.ts';
 import { createBurstService } from './burst.ts';
 import { BURST_CORPUS } from '../src/domain/burst-corpus.ts';
+import { createPersonalHttp } from './personal-http.ts';
+import { PersonalError } from './personal-service.ts';
 
 const store = createStore(process.env.VALUERANK_DB_PATH || undefined);
 const burst = createBurstService({ configuration: () => { const c = config(); return { apiKey: c.jevKey, model: c.jevModel, provider: c.jevProvider }; }, persistencePath: resolve(demoRoot, '.data/burst.json') });
@@ -22,14 +24,15 @@ function state(): AppState {
   return { profile: saved.profile, items: rankItems(saved.items, saved.profile), feedback: saved.feedback, run: saved.run, connections: { llm: Boolean(c.gatewayKey), jev: Boolean(c.jevKey), jevProvider: c.jevProvider, llmModel: c.llmModel, jevModel: c.jevModel } };
 }
 function json(response: ServerResponse, status: number, data: unknown) { response.writeHead(status, { 'Content-Type': 'application/json', 'Cache-Control': 'no-store', 'X-Content-Type-Options': 'nosniff' }); response.end(JSON.stringify(data)); }
-async function body(request: IncomingMessage) {
+async function body(request: IncomingMessage, maxBytes = 250_000) {
   if (!request.headers['content-type']?.includes('application/json')) throw new Error('Send application/json.');
   let bytes = 0; const chunks: Buffer[] = [];
-  for await (const chunk of request) { bytes += chunk.length; if (bytes > 250_000) throw new Error('Request is too large.'); chunks.push(chunk); }
+  for await (const chunk of request) { bytes += chunk.length; if (bytes > maxBytes) throw new Error('Request is too large.'); chunks.push(chunk); }
   return JSON.parse(Buffer.concat(chunks).toString('utf8')) as unknown;
 }
 const profileSchema = z.object({ goal: z.string().trim().min(5).max(400).optional(), knownConcepts: z.array(z.string().trim().min(2).max(90)).max(80).optional(), interests: z.record(z.enum(TOPICS), z.number().min(0).max(1)).optional() }).strict();
 const sourceSchema = z.object({ title: z.string().trim().max(200).optional(), url: z.string().trim().max(2000).optional(), text: z.string().trim().max(50_000).optional() }).strict();
+const personal = createPersonalHttp({profile:()=>store.get().profile,legacyBusy:()=>store.get().run?.status==='running'||burst.snapshot()?.status==='running',json,body});
 const server = createServer(async (request, response) => {
   try {
     const host = request.headers.host?.split(':')[0];
@@ -39,10 +42,12 @@ const server = createServer(async (request, response) => {
       if (!['localhost', '127.0.0.1'].includes(origin.hostname)) { json(response, 403, { error: 'Cross-origin requests are not allowed.' }); return; }
     }
     const url = new URL(request.url ?? '/', 'http://localhost'); const path = url.pathname;
+    if (await personal.handle(request,response,path)) return;
     if (request.method === 'GET' && path === '/api/state') { json(response, 200, state()); return; }
     if (request.method === 'GET' && path === '/api/burst') { json(response, 200, { job: burst.snapshot() }); return; }
     if (request.method === 'POST' && path === '/api/burst') {
       const input = z.object({ goal: z.string().trim().min(5).max(400), knownConcepts: z.array(z.string().trim().min(2).max(90)).max(80) }).strict().parse(await body(request));
+      if (personal.isRunning()) throw new Error('Wait for the personal search or image import to finish first.');
       if (store.get().run?.status === 'running') throw new Error('Wait for the reading engine before starting a screening run.');
       const profile = { ...structuredClone(store.get().profile), ...input };
       const { job } = burst.start(profile); json(response, 202, { job }); return;
@@ -89,6 +94,7 @@ const server = createServer(async (request, response) => {
     }
     if (request.method === 'POST' && path === '/api/run') {
       const input = z.object({ itemIds: z.array(z.string()).max(8).optional() }).strict().parse(await body(request));
+      if (personal.isRunning()) throw new Error('Wait for the personal search or image import to finish first.');
       if (burst.snapshot()?.status === 'running') throw new Error('Wait for the Signal Lab screening run before starting the reading engine.');
       const { runId } = startPipeline(store, input.itemIds); json(response, 202, { runId }); return;
     }
@@ -110,7 +116,7 @@ const server = createServer(async (request, response) => {
     } catch { json(response, 404, { error: 'Run npm run dev, or build the frontend before npm start.' }); }
   } catch (error) {
     const message = error instanceof z.ZodError ? error.issues.map(issue => `${issue.path.join('.')}: ${issue.message}`).join('; ') : error instanceof SyntaxError ? 'Invalid JSON.' : error instanceof Error ? error.message : 'Request failed.';
-    json(response, 400, { error: message });
+    json(response, error instanceof PersonalError ? error.status : 400, { error: message });
   }
 });
 const port = Number(process.env.API_PORT || 8787);

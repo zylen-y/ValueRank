@@ -1,0 +1,9 @@
+title,body,sourceUrl,entityId
+"A worked implementation","I prefer a concrete implementation with a small runnable example and explicit tradeoffs.",,implementation
+"A broad introduction","I prefer a short overview that explains the vocabulary before going into implementation.",,introduction
+"An experimental result","I prefer controlled experiments with measurements, confidence intervals, and limitations.",,experiment
+"A visual explanation","I prefer an illustrated explanation that makes an unfamiliar mechanism easy to picture.",,visual
+"A contrary perspective","I prefer a reasoned counterargument that could change the direction of my project.",,counterargument
+"A practical checklist","I prefer a concise sequence of actions I can try in my project today.",,checklist
+"A deep derivation","I prefer a mathematical derivation that explains why the method behaves as it does.",,derivation
+"An inspiring case study","I prefer a concrete story about a builder's choices and the product they created.",,case-study

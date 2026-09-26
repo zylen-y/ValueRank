@@ -47,7 +47,7 @@ export async function analyzeSource(item: ContentItem, settings: { apiKey: strin
     instructions: 'Call read_source exactly once to read the authorized document. Do not answer yet.',
     toolChoice: { type: 'tool', toolName: 'read_source' },
     stopWhen: isStepCount(1),
-    ...(jsonModeOnly ? { reasoning: 'none' as const } : {}),
+    ...(jsonModeOnly || settings.model === 'alibaba/qwen3.8-flash' ? { reasoning: 'none' as const } : {}),
     maxOutputTokens: 1800,
     maxRetries: 1,
   });
@@ -57,7 +57,7 @@ export async function analyzeSource(item: ContentItem, settings: { apiKey: strin
     model, tools, toolChoice: 'none', instructions,
     messages: [{ role: 'user', content: prompt }, ...reading.responseMessages, { role: 'user', content: `Return the structured, evidence-grounded reading notes from the source tool result. Aim for a summary under 500 characters, 2-5 short concepts, 1-2 exact quotes under 200 characters each, and short insights. ${correction}` }],
     output: jsonModeOnly ? Output.json() : Output.object({ schema: analysisSchema }),
-    ...(jsonModeOnly ? { reasoning: 'none' as const } : {}),
+    ...(jsonModeOnly || settings.model === 'alibaba/qwen3.8-flash' ? { reasoning: 'none' as const } : {}),
     maxOutputTokens: 1800,
     maxRetries: 1,
     abortSignal,

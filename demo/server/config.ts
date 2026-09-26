@@ -12,7 +12,7 @@ export function resolveConfig(local: Record<string, string | undefined>, environ
     gatewayKey: value('AI_GATEWAY_API_KEY'),
     jevProvider,
     jevKey: value(jevProvider === 'openrouter' ? 'OPENROUTER_API_KEY' : 'TYPESAFE_API_KEY'),
-    llmModel: value('VALUERANK_LLM_MODEL') || 'xiaomi/mimo-v2.6-flash',
+    llmModel: value('VALUERANK_LLM_MODEL') || 'alibaba/qwen3.8-flash',
     jevModel: jevProvider === 'openrouter'
       ? value('VALUERANK_OPENROUTER_JEV_MODEL') || 'typesafe/jev-1.13'
       : value('VALUERANK_JEV_MODEL') || 'jev-1.13.0',
