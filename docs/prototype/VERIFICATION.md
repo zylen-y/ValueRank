@@ -6,7 +6,7 @@
 |---|---|
 | TypeScript and production frontend | `npm run build` passes |
 | Static checks | `npm run lint` passes |
-| Automated behavior | 195 tests across 9 files pass |
+| Automated behavior | 216 tests across 11 files pass |
 | Dependency audit | 0 known vulnerabilities after compatible patches |
 | Browser / API / database | Live UI loaded from port 5188 and received persisted state from port 8787 |
 | Real URL extraction | Requested Vercel Jev article imported: 9,130 characters, correct title, `url-extraction` provenance |
@@ -91,3 +91,10 @@ or mock language models. The independent live result above is recorded separatel
 
 The local database contains demo browser-verification events and imported articles.
 It is not committed. No personal profile, source body, or API key was uploaded.
+
+## Signal Lab expansion
+
+The new default view adds fast Jev screening, a time-budgeted reading session,
+and a redesigned neutral Geist interface. **48 real Jev requests completed in
+2.197 seconds** with zero errors. See [the full Signal Lab verification](SIGNAL-LAB.md)
+for corpus limitations, browser checks, replay semantics, and measured evidence.

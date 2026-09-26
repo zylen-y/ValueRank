@@ -48,7 +48,20 @@ The personal database is `.data/valuerank.sqlite`. A custom path is available vi
 `VALUERANK_DB_PATH`, useful for isolated tests. `API_PORT` changes the API port;
 update the Vite proxy too if changing it in development.
 
-## Inference budget
+## Signal Lab
+
+The default view screens 48 prepared editorial briefs with real Jev and six concurrent
+workers. It uses no LLM generation. Results and actual completion timestamps persist
+in `.data/burst.json`; replay makes no API calls. A 10/20/30-minute selector uses only
+briefs above the stated relevance and novelty cutoffs. Saving a session preserves
+workspace context; off-profile Jev decisions are not reused.
+
+A screening click can make up to 48 logical Jev calls (the SDK can retry eligible
+transport failures once). Stop run aborts in-flight requests and preserves completed
+results. Reported usage may omit failed/cancelled calls. Screening and the reading
+engine cannot run together. See [Signal Lab](../docs/prototype/SIGNAL-LAB.md).
+
+## Reading-engine inference budget
 
 A click processes at most 8 items, one at a time. Each source normally uses two
 logical LLM steps (forced source-tool read, then separately validated JSON). If a

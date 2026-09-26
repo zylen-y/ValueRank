@@ -9,7 +9,7 @@ explicit goal, recorded knowledge, and feedback.
 The new prototype replaces the earlier browser-only simulation. The original
 proposal and historical demo remain in Git history and `docs/` for reference.
 
-![ValueRank workspace](docs/prototype/ui-preview.png)
+![ValueRank Signal Lab](docs/prototype/signal-lab.png)
 
 ## Run it
 
@@ -29,7 +29,19 @@ Keys remain server-side. `.env.local`, the personal SQLite database, and local Q
 artifacts are ignored by Git. Credentials are reread when an engine run starts;
 adding them does not require a server restart.
 
-## A two-minute demo
+## The Signal Lab demo
+
+**48 source-linked briefs → a reading session that fits your time.** The measured
+live run completed 48 real Jev requests and 144 typed forecasts in **2.197 seconds**
+with six concurrent workers. These are prepared editorial briefs, not 48 full
+articles fetched and summarized in that time.
+
+Open **Signal Lab**, choose a direction and 10/20/30 minutes, then **Find my signal**.
+Watch each decision arrive, inspect any tile, and save the resulting session.
+**Replay this run** shows the recorded execution without additional API calls.
+See [design, measured results, and product direction](docs/prototype/SIGNAL-LAB.md).
+
+## The reading workspace
 
 1. Choose a goal and inspect the source-linked starter reading queue.
 2. Add a public article URL or paste your own passage.

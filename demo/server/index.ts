@@ -11,8 +11,11 @@ import { createStore } from './store.ts';
 import { addItem, editProfile, exportFeedback, giveFeedback, undoFeedback } from './service.ts';
 import { extractSource, validateUrl } from './extract.ts';
 import { startPipeline } from './pipeline.ts';
+import { createBurstService } from './burst.ts';
+import { BURST_CORPUS } from '../src/domain/burst-corpus.ts';
 
 const store = createStore(process.env.VALUERANK_DB_PATH || undefined);
+const burst = createBurstService({ configuration: () => { const c = config(); return { apiKey: c.jevKey, model: c.jevModel, provider: c.jevProvider }; }, persistencePath: resolve(demoRoot, '.data/burst.json') });
 store.update(s => { if (s.run?.status === 'running') { s.run.status = 'failed'; s.run.finishedAt = new Date().toISOString(); for (const event of s.run.events) if (event.status === 'running') event.status = 'failed'; } for (const item of s.items) if (item.status === 'processing') { item.status = 'error'; item.error = 'Server restarted during processing. Run the engine again.'; } });
 function state(): AppState {
   const saved = store.get(); const c = config();
@@ -37,6 +40,34 @@ const server = createServer(async (request, response) => {
     }
     const url = new URL(request.url ?? '/', 'http://localhost'); const path = url.pathname;
     if (request.method === 'GET' && path === '/api/state') { json(response, 200, state()); return; }
+    if (request.method === 'GET' && path === '/api/burst') { json(response, 200, { job: burst.snapshot() }); return; }
+    if (request.method === 'POST' && path === '/api/burst') {
+      const input = z.object({ goal: z.string().trim().min(5).max(400), knownConcepts: z.array(z.string().trim().min(2).max(90)).max(80) }).strict().parse(await body(request));
+      if (store.get().run?.status === 'running') throw new Error('Wait for the reading engine before starting a screening run.');
+      const profile = { ...structuredClone(store.get().profile), ...input };
+      const { job } = burst.start(profile); json(response, 202, { job }); return;
+    }
+    if (request.method === 'POST' && path === '/api/burst/cancel') { await body(request); json(response, 200, { job: burst.cancel() }); return; }
+    if (request.method === 'POST' && path === '/api/burst/save') {
+      const input = z.object({ jobId: z.string(), itemIds: z.array(z.string()).min(1).max(5) }).strict().parse(await body(request));
+      const job = burst.snapshot();
+      if (!job || job.id !== input.jobId || job.status === 'running') throw new Error('Wait for this screening run to finish before saving.');
+      if (store.get().run?.status === 'running') throw new Error('Wait for the reading engine before saving a session.');
+      const ids = [...new Set(input.itemIds)];
+      if (ids.some(id => !job.items.some(item => item.id === id && item.status === 'completed'))) throw new Error('Only successfully screened sources can be saved.');
+      let added = 0, contextMatched = false;
+      store.update(saved => {
+        const newItems = ids.map(id => BURST_CORPUS.find(item => item.id === id)!).filter(item => !saved.items.some(prior => prior.id === item.id || prior.url === item.url));
+        if (saved.items.length + newItems.length > 100) throw new Error('This local prototype supports up to 100 sources.');
+        const sameContext = saved.profile.goal === job.profile.goal && saved.profile.version === job.profile.version && JSON.stringify(saved.profile.knownConcepts) === JSON.stringify(job.profile.knownConcepts) && JSON.stringify(saved.profile.interests) === JSON.stringify(job.profile.interests);
+        contextMatched = sameContext;
+        for (const item of newItems) {
+          saved.items.push({ ...structuredClone(item), addedAt: new Date().toISOString(), decision: sameContext ? job.items.find(i => i.id === item.id)!.decision : null });
+          added++;
+        }
+      });
+      json(response, 200, { added, contextMatched }); return;
+    }
     if (request.method === 'GET' && path === '/api/export') {
       response.writeHead(200, { 'Content-Type': 'application/x-ndjson', 'Content-Disposition': 'attachment; filename="valuerank-feedback.jsonl"', 'Cache-Control': 'no-store' }); response.end(exportFeedback(store)); return;
     }
@@ -58,6 +89,7 @@ const server = createServer(async (request, response) => {
     }
     if (request.method === 'POST' && path === '/api/run') {
       const input = z.object({ itemIds: z.array(z.string()).max(8).optional() }).strict().parse(await body(request));
+      if (burst.snapshot()?.status === 'running') throw new Error('Wait for the Signal Lab screening run before starting the reading engine.');
       const { runId } = startPipeline(store, input.itemIds); json(response, 202, { runId }); return;
     }
     if (request.method === 'POST' && path === '/api/reset') {
