@@ -19,7 +19,7 @@ Requires **Node.js 24+**.
 cd demo
 npm ci
 cp .env.example .env.local
-# Set AI_GATEWAY_API_KEY and TYPESAFE_API_KEY in .env.local.
+# Set AI_GATEWAY_API_KEY and OPENROUTER_API_KEY in .env.local.
 npm run dev
 ```
 
@@ -44,8 +44,9 @@ adding them does not require a server restart.
 
 - A bounded Vercel AI SDK `ToolLoopAgent`, with a scoped read-only source tool,
   typed output, exact source-quote validation, time limits, and limited retries.
-- The official TypeSafe SDK calling Jev (`jev-1.13.0` by default), with three
-  explicit Noul questions and runtime response validation.
+- The official TypeSafe SDK calling real Jev through OpenRouter (`typesafe/jev-1.13`)
+  or directly through TypeSafe (`jev-1.13.0`), with three explicit Noul questions
+  and runtime response validation. An OpenRouter key requires no TypeSafe account.
 - A deterministic personal ranking policy and feedback-driven topic weights.
 - SQLite persistence across page reloads and server restarts.
 - Public-URL text extraction with size, time, redirect, and private-network guards.

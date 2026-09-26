@@ -23,6 +23,7 @@ export interface Decision {
   novelty: number;
   actionability: number;
   source: 'jev';
+  provider?: 'typesafe' | 'openrouter';
   model: string;
   profileVersion: number;
   createdAt: string;
@@ -98,6 +99,7 @@ export interface Run {
 export interface ConnectionStatus {
   llm: boolean;
   jev: boolean;
+  jevProvider: 'typesafe' | 'openrouter';
   llmModel: string;
   jevModel: string;
 }

@@ -6,7 +6,8 @@ const mocks = vi.hoisted(() => ({
   evaluate: vi.fn(),
   credentials: {
     gatewayKey: 'mock-gateway-key',
-    typesafeKey: 'mock-typesafe-key',
+    jevKey: 'mock-typesafe-key',
+    jevProvider: 'typesafe' as 'typesafe' | 'openrouter',
     llmModel: 'mock/extraction-model',
     jevModel: 'jev-1.13.0',
   },
@@ -67,7 +68,9 @@ beforeEach(() => {
   mocks.analyze.mockReset();
   mocks.evaluate.mockReset();
   mocks.credentials.gatewayKey = 'mock-gateway-key';
-  mocks.credentials.typesafeKey = 'mock-typesafe-key';
+  mocks.credentials.jevKey = 'mock-typesafe-key';
+  mocks.credentials.jevProvider = 'typesafe';
+  mocks.credentials.jevModel = 'jev-1.13.0';
   mocks.analyze.mockImplementation(async (item: ContentItem, _settings: unknown, emit: (event: TraceEvent) => void) => {
     emit(llmEvent(item, 'running'));
     await Promise.resolve();
@@ -210,10 +213,23 @@ describe('bounded inference pipeline with an in-memory SQLite store', () => {
 
   it('requires both provider credentials before starting a run', () => {
     const store = makeStore(1);
-    mocks.credentials.typesafeKey = '';
+    mocks.credentials.jevKey = '';
     expect(() => startPipeline(store)).toThrow('TYPESAFE_API_KEY');
     expect(store.get().run).toBeNull();
     expect(mocks.analyze).not.toHaveBeenCalled();
     expect(mocks.evaluate).not.toHaveBeenCalled();
+  });
+
+  it('routes Jev through the configured OpenRouter key and records that route', async () => {
+    const store = makeStore(1);
+    mocks.credentials.jevKey = 'mock-openrouter-key';
+    mocks.credentials.jevProvider = 'openrouter';
+    mocks.credentials.jevModel = 'typesafe/jev-1.13';
+    await startPipeline(store).done;
+    expect(mocks.evaluate).toHaveBeenCalledWith(expect.anything(), expect.anything(), expect.anything(), {
+      apiKey: 'mock-openrouter-key', model: 'typesafe/jev-1.13', provider: 'openrouter',
+    });
+    expect(store.get().run?.events.find(event => event.stage === 'jev')?.detail).toContain('Via OpenRouter');
+    expect(JSON.stringify(store.get())).not.toContain('mock-openrouter-key');
   });
 });

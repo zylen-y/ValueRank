@@ -6,7 +6,7 @@
 |---|---|
 | TypeScript and production frontend | `npm run build` passes |
 | Static checks | `npm run lint` passes |
-| Automated behavior | 138 tests across 6 files pass |
+| Automated behavior | 157 tests across 7 files pass |
 | Dependency audit | 0 known vulnerabilities after compatible patches |
 | Browser / API / database | Live UI loaded from port 5188 and received persisted state from port 8787 |
 | Real URL extraction | Requested Vercel Jev article imported: 9,130 characters, correct title, `url-extraction` provenance |
@@ -24,16 +24,19 @@
 - Ranking, goals, known concepts, preferences, score bounds, ties, stale Jev forecasts.
 - Real in-memory SQLite transactions, idempotence, replacement/undo, immutable history,
   knowledge overrides, export, and source deduplication.
-- Actual TypeSafe SDK serialization with a mocked transport: auth, retries, response
-  schema, model pins, cancellation, deadlines, and bounded context.
+- Actual TypeSafe SDK serialization with a mocked transport for both direct and
+  OpenRouter routes: auth, retries, response schema, model pins/snapshots,
+  cancellation, deadlines, and bounded context.
+- Provider-specific key/model selection; no TypeSafe key sent to OpenRouter.
 - Private/reserved IP and URL boundary cases, exact-source quotation and schema checks.
 - Pipeline serialization, eight-item limit, cache reuse, traces, sanitized errors,
   partial failures, and mid-run profile changes.
 
 ## Live inference status
 
-**Pending API credentials.** The user is preparing `AI_GATEWAY_API_KEY` and
-`TYPESAFE_API_KEY`. No successful real LLM or Jev inference is claimed by this
+**Pending saved API credentials.** The user is preparing `AI_GATEWAY_API_KEY` and
+`OPENROUTER_API_KEY`; OpenRouter provides real Jev without a separate TypeSafe key.
+No successful real LLM or Jev inference is claimed by this
 verification record. SDK and pipeline tests use explicit mocked transports.
 The UI labels this state as local ranking and disables Run engine until both keys
 are present. Live inference is the remaining acceptance check.

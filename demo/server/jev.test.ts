@@ -34,6 +34,13 @@ const response = () => ({
   },
   usage: { input_tokens: 480, output_tokens: 20 },
 });
+const openRouterResponse = () => ({
+  ...response(),
+  id: 'gen-dec-mock-request',
+  model: 'typesafe/jev-1.13-20260917',
+  provider: 'TypeSafe',
+  usage: { input_tokens: 480, output_tokens: 20, cost: 0.00002016 },
+});
 const json = (body: unknown, status = 200, headers: Record<string, string> = {}) =>
   new Response(JSON.stringify(body), { status, headers: { 'content-type': 'application/json', ...headers } });
 
@@ -67,6 +74,15 @@ describe('Jev request', () => {
     expect(() => buildRequest({ ...item, text: ' ' }, analysis, profile, 'jev-latest')).toThrow('source text');
     expect(() => buildRequest(item, analysis, profile, 'unrecognized')).toThrow('model configuration');
   });
+
+  it('uses provider-specific model IDs without changing the evaluation questions', () => {
+    const direct = buildRequest(item, analysis, profile, 'jev-1.13.0');
+    const routed = buildRequest(item, analysis, profile, 'typesafe/jev-1.13', 'openrouter');
+    expect(routed).toEqual({ ...direct, model: 'typesafe/jev-1.13' });
+    expect(() => buildRequest(item, analysis, profile, 'jev-1.13.0', 'openrouter')).toThrow('model configuration');
+    expect(() => buildRequest(item, analysis, profile, 'typesafe/jev-1.13')).toThrow('model configuration');
+    expect(() => buildRequest(item, analysis, profile, 'openai/gpt-6-luna', 'openrouter')).toThrow('model configuration');
+  });
 });
 
 describe('Jev response validation', () => {
@@ -94,6 +110,25 @@ describe('Jev response validation', () => {
     badUsage.usage.input_tokens = -1;
     expect(() => parseResponse(badUsage, 'jev-latest')).toThrow('invalid decision');
   });
+
+  it('accepts an OpenRouter pin or its dated snapshot, preserving the actual returned model', () => {
+    expect(parseResponse(openRouterResponse(), 'typesafe/jev-1.13', 'openrouter').model).toBe('typesafe/jev-1.13-20260917');
+    expect(parseResponse({ ...openRouterResponse(), model: 'typesafe/jev-1.13' }, 'typesafe/jev-1.13', 'openrouter').model).toBe('typesafe/jev-1.13');
+    expect(parseResponse(openRouterResponse(), 'typesafe/jev-1.13-20260917', 'openrouter').answers.relevance.noul).toBe(0.9);
+  });
+
+  it.each(['typesafe/jev-1.14', 'typesafe/jev-1.14-20260917'])('rejects another OpenRouter model family: %s', (model) => {
+    expect(() => parseResponse({ ...openRouterResponse(), model }, 'typesafe/jev-1.13', 'openrouter')).toThrow('different model');
+  });
+
+  it.each(['typesafe/jev-1.13-preview', 'typesafe/jev-1.13-20260917-extra', 'typesafe/jev-1.13.0', 'jev-1.13.0'])('rejects unsupported OpenRouter response IDs: %s', (model) => {
+    expect(() => parseResponse({ ...openRouterResponse(), model }, 'typesafe/jev-1.13', 'openrouter')).toThrow('invalid decision');
+  });
+
+  it('does not substitute another dated snapshot for an explicit snapshot pin', () => {
+    expect(() => parseResponse(openRouterResponse(), 'typesafe/jev-1.13-20260918', 'openrouter')).toThrow('different model');
+    expect(() => parseResponse(openRouterResponse(), 'jev-1.13.0')).toThrow('invalid decision');
+  });
 });
 
 describe('real SDK, mocked transport', () => {
@@ -110,8 +145,36 @@ describe('real SDK, mocked transport', () => {
     const result = await createJevEvaluator(transport)(item, analysis, profile, { apiKey: 'mock-key', model: 'jev-1.13.0' });
     expect(calls).toBe(1);
     expect(result.tokens).toBe(500);
-    expect(result.decision).toMatchObject({ source: 'jev', model: 'jev-1.13.0', profileVersion: 3, relevance: 0.9, novelty: 0.8, actionability: 0.7 });
+    expect(result.decision).toMatchObject({ source: 'jev', provider: 'typesafe', model: 'jev-1.13.0', profileVersion: 3, relevance: 0.9, novelty: 0.8, actionability: 0.7 });
     expect('confidence' in result.decision).toBe(false);
+  });
+
+  it('routes the same real SDK through OpenRouter with its own key and preserves the snapshot', async () => {
+    const transport = vi.fn<Fetch>(async (url, init) => {
+      expect(url).toBe('https://openrouter.ai/api/v1/systemone');
+      expect(init?.method).toBe('POST');
+      expect(new Headers(init?.headers).get('authorization')).toBe('Bearer mock-openrouter-key');
+      expect(JSON.parse(init?.body as string)).toEqual(buildRequest(item, analysis, profile, 'typesafe/jev-1.13', 'openrouter'));
+      return json(openRouterResponse());
+    });
+    const result = await createJevEvaluator(transport)(item, analysis, profile, { apiKey: 'mock-openrouter-key', model: 'typesafe/jev-1.13', provider: 'openrouter' });
+    expect(transport).toHaveBeenCalledTimes(1);
+    expect(result.tokens).toBe(500);
+    expect(result.decision).toMatchObject({ source: 'jev', provider: 'openrouter', model: 'typesafe/jev-1.13-20260917', profileVersion: 3, relevance: 0.9, novelty: 0.8, actionability: 0.7 });
+    expect('confidence' in result.decision).toBe(false);
+  });
+
+  it.each(['typesafe', 'openrouter'] as const)('rejects missing %s credentials before calling the transport', async (provider) => {
+    const transport = vi.fn<Fetch>();
+    const model = provider === 'openrouter' ? 'typesafe/jev-1.13' : 'jev-1.13.0';
+    await expect(createJevEvaluator(transport)(item, analysis, profile, { apiKey: ' ', model, provider })).rejects.toThrow(`${provider === 'openrouter' ? 'OpenRouter' : 'TypeSafe'} API key`);
+    expect(transport).not.toHaveBeenCalled();
+  });
+
+  it('does not retry OpenRouter authentication failures or fall back to another provider', async () => {
+    const transport = vi.fn<Fetch>(async () => json({ error: { code: 401, message: 'Invalid key' } }, 401));
+    await expect(createJevEvaluator(transport)(item, analysis, profile, { apiKey: 'mock-key', model: 'typesafe/jev-1.13', provider: 'openrouter' })).rejects.toBeInstanceOf(AuthenticationError);
+    expect(transport).toHaveBeenCalledTimes(1);
   });
 
   it('does not retry authentication failures or return heuristic predictions', async () => {

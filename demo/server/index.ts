@@ -16,7 +16,7 @@ const store = createStore(process.env.VALUERANK_DB_PATH || undefined);
 store.update(s => { if (s.run?.status === 'running') { s.run.status = 'failed'; s.run.finishedAt = new Date().toISOString(); for (const event of s.run.events) if (event.status === 'running') event.status = 'failed'; } for (const item of s.items) if (item.status === 'processing') { item.status = 'error'; item.error = 'Server restarted during processing. Run the engine again.'; } });
 function state(): AppState {
   const saved = store.get(); const c = config();
-  return { profile: saved.profile, items: rankItems(saved.items, saved.profile), feedback: saved.feedback, run: saved.run, connections: { llm: Boolean(c.gatewayKey), jev: Boolean(c.typesafeKey), llmModel: c.llmModel, jevModel: c.jevModel } };
+  return { profile: saved.profile, items: rankItems(saved.items, saved.profile), feedback: saved.feedback, run: saved.run, connections: { llm: Boolean(c.gatewayKey), jev: Boolean(c.jevKey), jevProvider: c.jevProvider, llmModel: c.llmModel, jevModel: c.jevModel } };
 }
 function json(response: ServerResponse, status: number, data: unknown) { response.writeHead(status, { 'Content-Type': 'application/json', 'Cache-Control': 'no-store', 'X-Content-Type-Options': 'nosniff' }); response.end(JSON.stringify(data)); }
 async function body(request: IncomingMessage) {

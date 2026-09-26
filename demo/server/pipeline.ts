@@ -7,7 +7,7 @@ import { evaluateWithJev } from './jev.ts';
 
 export function startPipeline(store: Store, itemIds?: string[]) {
   const credentials = config();
-  if (!credentials.gatewayKey || !credentials.typesafeKey) throw new Error('Add AI_GATEWAY_API_KEY and TYPESAFE_API_KEY to demo/.env.local first.');
+  if (!credentials.gatewayKey || !credentials.jevKey) throw new Error('Add AI_GATEWAY_API_KEY and OPENROUTER_API_KEY (or TYPESAFE_API_KEY) to demo/.env.local first.');
   const state = store.get();
   if (state.run?.status === 'running') throw new Error('An engine run is already in progress.');
   const requested = itemIds?.length ? state.items.filter(i => itemIds.includes(i.id)) : state.items;
@@ -35,14 +35,14 @@ export function startPipeline(store: Store, itemIds?: string[]) {
         stage = 'jev';
         store.update(s => { s.items.find(i => i.id === item.id)!.analysis = analysis; });
         const jevEvent = randomUUID(); const started = Date.now();
-        emit({ id: jevEvent, stage: 'jev', title: 'Jev is evaluating three bounded questions', detail: 'Goal relevance, knowledge novelty, and actionable value under the saved profile.', itemId: item.id, status: 'running', at: new Date().toISOString(), model: credentials.jevModel });
-        const result = await evaluateWithJev(item, analysis, profile, { apiKey: credentials.typesafeKey, model: credentials.jevModel });
+        emit({ id: jevEvent, stage: 'jev', title: 'Jev is evaluating three bounded questions', detail: `Via ${credentials.jevProvider === 'openrouter' ? 'OpenRouter' : 'TypeSafe'}: goal relevance, knowledge novelty, and actionable value under the saved profile.`, itemId: item.id, status: 'running', at: new Date().toISOString(), model: credentials.jevModel });
+        const result = await evaluateWithJev(item, analysis, profile, { apiKey: credentials.jevKey, model: credentials.jevModel, provider: credentials.jevProvider });
         store.update(s => {
           const target = s.items.find(i => i.id === item.id)!;
           target.analysis = analysis; target.decision = result.decision; target.status = 'ready'; target.error = null;
           s.run!.processed += 1;
         });
-        emit({ id: jevEvent, stage: 'jev', title: 'Typed decision scores received', detail: 'Response probabilities validated in [0,1]. These are model estimates, not a calibration guarantee.', itemId: item.id, status: 'completed', at: new Date().toISOString(), durationMs: Date.now() - started, tokens: result.tokens, model: result.decision.model });
+        emit({ id: jevEvent, stage: 'jev', title: 'Typed decision scores received', detail: `Via ${credentials.jevProvider === 'openrouter' ? 'OpenRouter' : 'TypeSafe'}. Response probabilities validated in [0,1]. These are model estimates, not a calibration guarantee.`, itemId: item.id, status: 'completed', at: new Date().toISOString(), durationMs: Date.now() - started, tokens: result.tokens, model: result.decision.model });
         emit({ id: randomUUID(), stage: 'rank', title: 'Personalized ranking updated', detail: `Profile version ${profile.version}; utility blends typed judgments with explicit knowledge, preferences, and reading cost.`, itemId: item.id, status: 'completed', at: new Date().toISOString() });
       } catch (error) {
         // Never persist provider request objects/headers or raw response bodies.

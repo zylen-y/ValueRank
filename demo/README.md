@@ -10,12 +10,22 @@ Copy `.env.example` to `.env.local` and set:
 | Variable | Purpose |
 |---|---|
 | `AI_GATEWAY_API_KEY` | Server-side Vercel AI Gateway authentication |
-| `TYPESAFE_API_KEY` | Server-side TypeSafe API authentication |
+| `OPENROUTER_API_KEY` | Server-side OpenRouter authentication for real Jev; no TypeSafe account needed |
+| `TYPESAFE_API_KEY` | Optional alternative: direct TypeSafe authentication |
 | `VALUERANK_LLM_MODEL` | Optional Gateway model; default `openai/gpt-6-luna` |
-| `VALUERANK_JEV_MODEL` | Optional Jev model; default pinned `jev-1.13.0` |
+| `VALUERANK_JEV_PROVIDER` | `auto` (default), `openrouter`, or `typesafe`; auto prefers a configured OpenRouter key |
+| `VALUERANK_OPENROUTER_JEV_MODEL` | Optional OpenRouter Jev model; default `typesafe/jev-1.13` |
+| `VALUERANK_JEV_MODEL` | Optional direct TypeSafe model; default pinned `jev-1.13.0` |
 
 Gateway keys: https://vercel.com/docs/ai-gateway/authentication
-TypeSafe setup: https://docs.typesafe.ai/getting-started/quickstart
+OpenRouter Jev setup: https://openrouter.ai/docs/guides/community/typesafe-sdk
+Direct TypeSafe API: https://docs.typesafe.ai/api
+
+The LLM runs through Vercel AI Gateway. Jev runs through the selected provider;
+only that provider's key is sent to its fixed endpoint. Provider selection happens
+before the run, with no automatic switch after a failure. The UI shows the selected
+route, and persisted decisions record the route and the model snapshot returned.
+Direct and OpenRouter model settings are separate because their model IDs differ.
 
 The current Gateway model ID was checked against the live model catalog during
 implementation. Availability can change. Configuration errors are visible in the
