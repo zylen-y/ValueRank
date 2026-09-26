@@ -4,6 +4,7 @@ import type { TraceEvent } from '../src/domain/types.ts';
 import { config } from './config.ts';
 import { analyzeSource } from './harness.ts';
 import { evaluateWithJev } from './jev.ts';
+import { safeProviderError } from './provider-error.ts';
 
 export function startPipeline(store: Store, itemIds?: string[]) {
   const credentials = config();
@@ -21,7 +22,7 @@ export function startPipeline(store: Store, itemIds?: string[]) {
     const index = s.run.events.findIndex(e => e.id === event.id);
     if (index >= 0) s.run.events[index] = event; else s.run.events.push(event);
   });
-  // One worker is deliberate: an auditable maximum of 8 items, 16 LLM steps,
+  // One worker is deliberate: an auditable maximum of 8 items, 24 LLM steps,
   // and 8 logical Jev calls per click (each provider may retry once). No automatic background inference.
   const done = (async () => {
     for (const item of items) {
@@ -46,7 +47,7 @@ export function startPipeline(store: Store, itemIds?: string[]) {
         emit({ id: randomUUID(), stage: 'rank', title: 'Personalized ranking updated', detail: `Profile version ${profile.version}; utility blends typed judgments with explicit knowledge, preferences, and reading cost.`, itemId: item.id, status: 'completed', at: new Date().toISOString() });
       } catch (error) {
         // Never persist provider request objects/headers or raw response bodies.
-        const safe = error instanceof Error && error.message.startsWith('Evidence validation failed') ? error.message : `${stage === 'llm' ? 'LLM extraction' : 'Jev evaluation'} did not complete. Check credentials, credits, model availability, or retry after a timeout.`;
+        const safe = safeProviderError(error, { stage, provider: stage === 'llm' ? 'gateway' : credentials.jevProvider });
         store.update(s => {
           const target = s.items.find(i => i.id === item.id)!; target.status = 'error'; target.error = safe;
           s.run!.errors += 1;

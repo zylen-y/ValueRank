@@ -583,3 +583,10 @@ button { transition: background .16s, color .16s, border-color .16s, box-shadow 
 .vr-known-article .vr-article-title { color: #75836b; }
 .vr-known-article .vr-score { background: #f1f3eb; color: #97a28a; border-color: #e7ecde; }
 @media (max-width: 600px) { .vr-compressed-note { font-size: 8px; align-items: flex-start; } .vr-compressed-note svg { margin-top: 2px; } }
+.vr-source-run-actions { display: flex; align-items: center; gap: 17px; flex-wrap: wrap; margin: 20px 0 3px; }
+.vr-source-run-actions .vr-text-button { color: #668958; }
+.vr-decision-metadata { display: grid; gap: 3px; margin: 0 0 15px; padding: 11px 13px; border: 1px solid #e3ebda; border-radius: 5px; font-size: 9px; line-height: 1.65; color: #7c9467; overflow-wrap: anywhere; }
+.vr-decision-metadata > span:first-child { font-weight: 550; color: #5a7b46; }
+.vr-trace-source { display: inline-flex; align-items: center; gap: 6px; background: transparent; padding: 0; margin-bottom: 5px; color: #567944; font-size: 10px; font-weight: 500; text-align: left; overflow-wrap: anywhere; }
+.vr-trace-source:hover { color: #285839; text-decoration: underline; text-underline-offset: 3px; }
+.vr-form input:disabled, .vr-form textarea:disabled, .vr-goal-content input:disabled { opacity: .58; cursor: not-allowed; }

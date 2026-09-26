@@ -22,8 +22,17 @@ flowchart LR
 - `server/extract.ts`: public HTML/plain-text retrieval. Validate every redirect,
   reject private/reserved addresses, pin the resolved DNS address to the connection,
   cap bytes, and enforce a total deadline. No scripts execute.
-- `server/harness.ts`: a two-step `ToolLoopAgent`. Its only tool reads the one
-  authorized source. It cannot browse, write files, or invoke arbitrary tools.
+- `server/harness.ts`: a bounded harness. A one-step `ToolLoopAgent` reads the
+  authorized source; a separate `generateText` call synthesizes typed reading notes.
+  Separating tool selection and JSON output avoids incompatible simultaneous
+  constraints on some providers. MiMo uses JSON mode, a schema in the trusted
+  prompt, and local Zod validation; other models receive native structured output.
+  A JSON parsing or schema failure allows one repair using a fixed formatting
+  instruction or field/rule codes and the original source. Raw failed output is
+  never replayed as an instruction. At most three model calls share the same
+  90-second deadline; token accounting includes failed generation usage when reported.
+  Unsupported evidence quotes fail immediately rather than being accepted or repaired.
+  The only tool cannot browse, write files, or invoke arbitrary tools.
   Source content is untrusted data. Zod validates output and evidence quotes must
   match source text after whitespace normalization. Matching quotes is a provenance
   check, not a proof that every inference is semantically correct.
@@ -35,6 +44,9 @@ flowchart LR
   feedback, immutable observation history, profile replay, and JSONL export.
 - `server/pipeline.ts`: durable trace snapshots and sequential job execution. A
   restarted server marks incomplete work failed; it does not silently resume billing.
+- `server/provider-error.ts`: bounded error classification with static user-facing
+  actions for authentication, billing, model access, rate limits, and timeouts;
+  no raw provider errors, response bodies, or headers are persisted.
 - `src/App.tsx`: queue, knowledge editor, source/evidence reader, and actual run trace.
 
 ## Utility policy
@@ -71,6 +83,9 @@ inspectable baselines, not claims of learned general intelligence.
 - Source excerpts are limited to 12,000 characters for inference; traces say when
   truncated. Full retained source text is capped at 50,000 characters.
 - New runs are explicit, bounded, and serialized. Failures stop additional requests.
+- Each reading brief can start a single-source run. The queue exposes its batch
+  size, traces link to source titles, and the reader shows saved model provenance.
+- Profile editing and feedback controls are disabled while a UI run is active.
 
 ## Next engineering boundary
 

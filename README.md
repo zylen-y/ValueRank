@@ -34,7 +34,8 @@ adding them does not require a server restart.
 1. Choose a goal and inspect the source-linked starter reading queue.
 2. Add a public article URL or paste your own passage.
 3. Click **Run engine**. The pipeline shows actual LLM tools, quotation checks,
-   Jev calls, durations, and token counts.
+   Jev calls, durations, and token counts. Use **Analyze this source** in a reading
+   brief to process just one item.
 4. Open a reading brief to see its evidence, new/known concepts, and score factors.
 5. Mark an item **Already know** or **Useful**. Watch the ordering and profile change.
    Click the selected verdict again to undo it.
@@ -43,7 +44,8 @@ adding them does not require a server restart.
 ### What is real
 
 - A bounded Vercel AI SDK `ToolLoopAgent`, with a scoped read-only source tool,
-  typed output, exact source-quote validation, time limits, and limited retries.
+  separate JSON synthesis, runtime schema and source-quote validation, time limits,
+  and limited retries. The default LLM is `xiaomi/mimo-v2.6-flash` through Gateway.
 - The official TypeSafe SDK calling real Jev through OpenRouter (`typesafe/jev-1.13`)
   or directly through TypeSafe (`jev-1.13.0`), with three explicit Noul questions
   and runtime response validation. An OpenRouter key requires no TypeSafe account.
@@ -71,6 +73,7 @@ explicit “Already know” feedback adds specific concepts to recorded knowledg
 - [`demo/README.md`](demo/README.md) — configuration and operational scope
 - [`docs/prototype/ARCHITECTURE.md`](docs/prototype/ARCHITECTURE.md) — data flow and design decisions
 - [`docs/prototype/JEV.md`](docs/prototype/JEV.md) — verified API contract and sources
+- [`docs/prototype/VERIFICATION.md`](docs/prototype/VERIFICATION.md) — tests, browser checks, and two real-provider runs
 - [`docs/ValueRank_Proposal_v4.pdf`](docs/ValueRank_Proposal_v4.pdf) — original research proposal
 
 ```bash
