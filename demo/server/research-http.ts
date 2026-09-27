@@ -2,6 +2,7 @@ import type { IncomingMessage, ServerResponse } from 'node:http';
 import { z } from 'zod';
 import { PersonalError } from './personal-service.ts';
 import { researchBriefMarkdown, type ResearchService } from './research-service.ts';
+import { decisionMarkdown } from './research-decisions.ts';
 
 export function createResearchHttp(research: ResearchService, dependencies: {
   json: (response: ServerResponse, status: number, data: unknown) => void;
@@ -28,6 +29,15 @@ export function createResearchHttp(research: ResearchService, dependencies: {
       if (itemId === 'order' && method === 'PUT') { const input = z.object({ ids: z.array(z.string()).max(500) }).strict().parse(await body(request)); json(response, 200, { saved: research.reorder(id, input.ids) }); return true; }
       if (itemId && method === 'PUT') { const input = z.object({ note: z.string().max(2000) }).strict().parse(await body(request)); json(response, 200, { saved: research.note(id, itemId, input.note) }); return true; }
       if (itemId && method === 'DELETE') { research.removeSave(id, itemId); json(response, 200, { deleted: true }); return true; }
+    }
+    if (id && resource === 'decisions') {
+      if (!itemId && method === 'POST') { json(response, 201, { decision: research.decisions.record(id, await body(request)) }); return true; }
+      if (itemId && method === 'DELETE') { research.decisions.remove(id, itemId); json(response, 200, { deleted: true }); return true; }
+      if (itemId && method === 'GET') {
+        const record = research.decisions.get(id, itemId);
+        if (action === 'markdown') { response.writeHead(200, { 'Content-Type': 'text/markdown; charset=utf-8', 'Content-Disposition': 'attachment; filename="valuerank-my-decision.md"', 'Cache-Control': 'no-store' }); response.end(decisionMarkdown(record)); return true; }
+        if (!action) { json(response, 200, { decision: record }); return true; }
+      }
     }
     if (id && resource === 'briefs') {
       if (!itemId && method === 'POST') { const input = z.object({ savedIds: z.array(z.string()).min(1).max(8).optional() }).strict().parse(await body(request)); requireIdle(); json(response, 202, { brief: research.startBrief(id, input.savedIds) }); return true; }

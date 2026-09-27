@@ -7,6 +7,7 @@ import type { ResearchBriefContent } from '../src/domain/research.ts';
 import { createResearchStore } from './research-store.ts';
 import { createResearchService, researchBriefMarkdown } from './research-service.ts';
 import { buildBriefSupportReview } from './research-brief-support.ts';
+import { decisionMarkdown } from './research-decisions.ts';
 
 const at = '2026-09-27T12:00:00.000Z';
 const fixture = (): PersonalSearchSession => ({ id: 'session', query: 'Agent memory', status: 'completed', createdAt: at, updatedAt: at, context: { id: 'session', version: 1, query: 'Agent memory', goal: 'Choose a local memory store', answers: {} }, questions: [], answers: {}, sources: [{ id: 'source', version: 1, title: 'Source title', text: 'Exact retrieved text describing the option.', url: 'https://example.org/docs', publisher: 'example.org', retrievedAt: at, provenance: 'page-extraction' }], units: [{ id: 'card', version: 1, domain: 'content', modality: 'text', kind: 'tradeoff', title: 'A storage tradeoff', body: 'A source-backed information card describing an option.', sourceIds: ['source'], evidence: [{ sourceId: 'source', sourceVersion: 1, quote: 'Exact retrieved text describing the option.' }], concepts: ['memory'], limitations: ['Only one source.'], effortMinutes: 1, features: { schemaId: 'test', names: ['relevance'], values: [0.5], encoder: 'test', model: 'test', contextVersion: 1 }, prior: 0, createdAt: at }], events: [], answer: '', round: 1 });
@@ -23,6 +24,77 @@ function setup(now?: () => number) {
   const save = () => service.save(project.id, { sessionId: session.id, unitId: 'card', unitVersion: 1 });
   return { store, service, session, project, save, generate, verify };
 }
+
+describe('user decision journal and return visits', () => {
+  it('freezes chosen support but compares return visits against the entire prior shortlist', () => {
+    const { service, session, project, save, generate, verify } = setup();
+    const chosen = save();
+    session.units.push({ ...structuredClone(session.units[0]), id: 'unselected-card', title: 'An already available alternative' });
+    const unselected = service.save(project.id, { sessionId: session.id, unitId: 'unselected-card', unitVersion: 1 });
+    const record = service.decisions.record(project.id, { decision: 'Start with explicit records.', nextAction: 'Build a local comparison.', revisitTrigger: 'Revisit after observing repeated retrieval failures.', savedIds: [chosen.id] });
+    expect(record.evidence).toHaveLength(1); expect(record.baseline).toHaveLength(2);
+    expect(service.detail(project.id).decisionChanges).toMatchObject({ added: [], removed: [], contextChanged: false, newSourceUrls: [] });
+    service.note(project.id, chosen.id, 'A later thought.');
+    service.reorder(project.id, [unselected.id, chosen.id]);
+    service.update(project.id, { title: 'Only a title change', goal: project.goal, constraints: project.constraints });
+    expect(service.detail(project.id).decisionChanges).toMatchObject({ added: [], removed: [], contextChanged: false, notesChanged: [{ id: chosen.id }] });
+    expect(service.decisions.get(project.id, record.id).evidence[0].note).toBe('');
+    service.removeSave(project.id, unselected.id);
+    session.units.push({ ...structuredClone(session.units[0]), id: 'new-card', title: 'A newly saved reading' });
+    const added = service.save(project.id, { sessionId: session.id, unitId: 'new-card', unitVersion: 1 });
+    service.update(project.id, { title: project.title, goal: 'Handle multiple organizations', constraints: 'Keep evidence inspectable' });
+    expect(service.detail(project.id).decisionChanges).toMatchObject({ contextChanged: true, added: [{ id: added.id }], removed: [{ id: unselected.id }], newSourceUrls: [], changedSourceUrls: [] });
+    expect(service.decisions.get(project.id, record.id).project.goal).toBe(project.goal);
+    expect(generate).not.toHaveBeenCalled(); expect(verify).not.toHaveBeenCalled();
+  });
+
+  it('distinguishes newly captured identical text from changed source content', () => {
+    const { service, session, project, save } = setup(); const initial = save();
+    service.decisions.record(project.id, { decision: 'Keep a local baseline.', nextAction: 'Measure retrieval outcomes.', savedIds: [initial.id] });
+    const source = session.sources[0]; const unit = session.units[0];
+    const addCapture = (id: string, text: string) => {
+      session.sources.push({ ...source, id, text, retrievedAt: '2026-09-28T00:00:00.000Z' });
+      session.units.push({ ...structuredClone(unit), id: `${id}-card`, sourceIds: [id], evidence: [{ sourceId: id, sourceVersion: 1, quote: source.text }] });
+      service.save(project.id, { sessionId: session.id, unitId: `${id}-card`, unitVersion: 1 });
+    };
+    addCapture('same-text-new-capture', source.text);
+    expect(service.detail(project.id).decisionChanges).toMatchObject({ newSourceUrls: [], changedSourceUrls: [] });
+    addCapture('changed-text', `${source.text} A newly documented limitation.`);
+    expect(service.detail(project.id).decisionChanges).toMatchObject({ newSourceUrls: [], changedSourceUrls: [source.url] });
+  });
+
+  it('rejects cross-project or repeated support and rolls back the record when activity persistence fails', () => {
+    const { service, store, project, save } = setup(); const saved = save();
+    const other = service.create({ title: 'Other project', goal: 'Unrelated local decision' });
+    const input = { decision: 'Use explicit records.', nextAction: 'Build the smallest trial.', savedIds: [saved.id] };
+    expect(() => service.decisions.record(other.id, input)).toThrow('no longer in this project');
+    expect(() => service.decisions.record(project.id, { ...input, savedIds: [saved.id, saved.id] })).toThrow('once');
+    vi.spyOn(store, 'activity').mockImplementation(() => { throw new Error('write failed'); });
+    expect(() => service.decisions.record(project.id, input)).toThrow('write failed');
+    expect(store.all('research_decisions')).toHaveLength(0);
+  });
+
+  it('persists explicit records through reopen, exports frozen support, and deletes only the requested project record', () => {
+    const dir = mkdtempSync(join(tmpdir(), 'valuerank-decision-reopen-')); cleanups.push(() => rmSync(dir, { recursive: true, force: true }));
+    const path = join(dir, 'research.sqlite'); let store = createResearchStore(path); cleanups.push(() => store.close());
+    const session = fixture(); const deps = { getSession: () => session, configuration: () => ({ gatewayKey: '', llmModel: '' }) };
+    let service = createResearchService(store, deps);
+    const project = service.create({ title: 'My local call', goal: 'Choose a memory baseline' });
+    const saved = service.save(project.id, { sessionId: session.id, unitId: 'card', unitVersion: 1 });
+    const first = service.decisions.record(project.id, { decision: 'Try explicit profiles first.', nextAction: 'Run a small comparison.', savedIds: [saved.id] });
+    const second = service.decisions.record(project.id, { decision: 'Keep evaluating the baseline.', nextAction: 'Inspect another source.' });
+    store.close(); store = createResearchStore(path); service = createResearchService(store, deps);
+    expect(service.detail(project.id).decisions.map(item => item.id)).toEqual([second.id, first.id]);
+    const markdown = decisionMarkdown(service.decisions.get(project.id, first.id));
+    expect(markdown).toContain('not AI verification or a training label'); expect(markdown).toContain(session.sources[0].url); expect(markdown).toContain(session.units[0].evidence[0].quote); expect(markdown).toContain('Only one source.');
+    const other = service.create({ title: 'Other', goal: 'Unrelated decision' });
+    expect(() => service.decisions.remove(other.id, first.id)).toThrow('not found');
+    service.decisions.remove(project.id, second.id);
+    expect(service.detail(project.id).decisionChanges?.decisionId).toBe(first.id);
+    expect(service.exportData().decisions).toHaveLength(1);
+    service.remove(project.id); expect(store.all('research_decisions')).toHaveLength(0);
+  });
+});
 
 describe('durable research workspace', () => {
   it('records durable research activity without changing context versions or dates', async () => {
@@ -88,7 +160,7 @@ describe('durable research workspace', () => {
     const second = createResearchStore(path); cleanups.push(() => second.close());
     const b = createResearchService(second, { getSession: () => session, configuration: () => ({ gatewayKey: '', llmModel: '' }) });
     expect(b.detail(project.id).saved).toHaveLength(1); expect(b.detail(project.id).sessionIds).toEqual(['session']);
-    b.clear(); expect(b.exportData()).toEqual({ projects: [], saved: [], briefs: [], sessions: [] });
+    b.clear(); expect(b.exportData()).toEqual({ projects: [], saved: [], briefs: [], decisions: [], sessions: [] });
   });
   it('keeps project learning scope stable through editable goal revisions', () => {
     const { service, project, session } = setup(); session.context.scopeId = project.id; service.link(project.id, session.id);
@@ -245,7 +317,7 @@ describe('decision brief generation', () => {
     service.startBrief(project.id); await service.waitForIdle();
     expect(service.detail(project.id).briefs[0].status).toBe('completed');
     service.remove(project.id);
-    expect(service.exportData()).toEqual({ projects: [], saved: [], briefs: [], sessions: [] });
+    expect(service.exportData()).toEqual({ projects: [], saved: [], briefs: [], decisions: [], sessions: [] });
   });
   it('preserves failed generation usage and recovers interrupted disk records without replay', async () => {
     const { service, project, save, generate, store, session } = setup(); save();

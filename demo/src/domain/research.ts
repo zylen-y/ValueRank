@@ -25,6 +25,37 @@ export interface ResearchSave {
   updatedAt: string;
 }
 
+export interface ResearchDecisionBaseline {
+  savedId: string;
+  title: string;
+  unitId: string;
+  unitVersion: number;
+  noteHash: string;
+  sources: { id: string; version: number; url: string; textHash: string }[];
+}
+/** An explicit user record, separate from generated advice and comparison training. */
+export interface ResearchDecision {
+  id: string;
+  projectId: string;
+  author: 'user';
+  decision: string;
+  nextAction: string;
+  revisitTrigger: string;
+  project: ResearchProject;
+  evidence: ResearchSave[];
+  baseline: ResearchDecisionBaseline[];
+  createdAt: string;
+}
+export interface ResearchDecisionChanges {
+  decisionId: string;
+  contextChanged: boolean;
+  added: { id: string; title: string }[];
+  removed: { id: string; title: string }[];
+  notesChanged: { id: string; title: string }[];
+  newSourceUrls: string[];
+  changedSourceUrls: string[];
+}
+
 /** Citation IDs refer to immutable saved-card snapshots, never their current rank. */
 export interface ResearchStatement { text: string; evidenceIds: string[] }
 export interface ResearchBriefContent {
@@ -90,6 +121,8 @@ export interface ResearchProjectDetail {
   project: ResearchProject;
   saved: ResearchSave[];
   briefs: ResearchBrief[];
+  decisions: ResearchDecision[];
+  decisionChanges?: ResearchDecisionChanges;
   sessionIds: string[];
   sessions: { id: string; query: string; status: SearchStatus; createdAt: string; unitCount: number }[];
 }

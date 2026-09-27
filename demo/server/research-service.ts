@@ -7,6 +7,7 @@ import { failedSearchUsage, generateSearchJson, normalizeSearchText } from './pe
 import { safeProviderError } from './provider-error.ts';
 import type { ResearchStore } from './research-store.ts';
 import { buildBriefSupportReview, verifyBriefStatement, type ResearchModelSettings, type VerifyBriefStatement } from './research-brief-support.ts';
+import { createDecisionJournal, decisionChanges } from './research-decisions.ts';
 
 const projectInput = z.object({ title: z.string().trim().min(1).max(100), goal: z.string().trim().min(3).max(1000), constraints: z.string().trim().max(1500).default('') }).strict();
 const statement = z.object({ text: z.string().trim().min(10).max(1000), evidenceIds: z.array(z.string()).min(1).max(4) });
@@ -78,9 +79,11 @@ export function createResearchService(store: ResearchStore, options: {
   function get(id: string) { const value = store.get('research_projects', id); if (!value) throw new PersonalError('Research project not found.', 404); return { ...value, lastActivityAt: [value.updatedAt, value.lastActivityAt ?? value.updatedAt].sort().at(-1)! }; }
   function list() { return store.all('research_projects').map(project => get(project.id)).sort((a, b) => b.lastActivityAt.localeCompare(a.lastActivityAt)); }
   function saved(projectId: string) { return store.all('research_saves').filter(item => item.projectId === projectId).sort((a, b) => a.position - b.position || a.createdAt.localeCompare(b.createdAt)); }
+  const decisions = createDecisionJournal(store, { get, saved, now: iso });
   function detail(id: string): ResearchProjectDetail {
     const sessions = store.sessions(id).flatMap(sessionId => { const session = options.getSession(sessionId); return session ? [{ id: session.id, query: session.query, status: session.status, createdAt: session.createdAt, unitCount: session.units.length }] : []; });
-    return { project: get(id), saved: saved(id), briefs: briefs().filter(item => item.projectId === id).reverse(), sessionIds: sessions.map(session => session.id), sessions };
+    const project = get(id); const shortlist = saved(id); const records = decisions.list(id);
+    return { project, saved: shortlist, decisions: records, ...(records[0] ? { decisionChanges: decisionChanges(records[0], project, shortlist) } : {}), briefs: briefs().filter(item => item.projectId === id).reverse(), sessionIds: sessions.map(session => session.id), sessions };
   }
   function create(input: unknown) { const parsed = projectInput.parse(input); const at = iso(); const project = { id: randomUUID(), version: 1, ...parsed, createdAt: at, updatedAt: at, lastActivityAt: at }; store.project(project); return project; }
   function update(id: string, input: unknown) { const previous = get(id); const parsed = projectInput.parse(input); const project = { ...previous, ...parsed, version: previous.version + 1, updatedAt: iso() }; store.transaction(() => { store.project(project); store.activity(id, project.updatedAt); }); return get(id); }
@@ -204,7 +207,7 @@ export function createResearchService(store: ResearchStore, options: {
   function remove(id: string) { get(id); if (active?.projectId === id) throw new PersonalError('Stop the running brief before deleting this project.', 409); store.remove('research_projects', id); for (const [key, brief] of unsavedFailures) if (brief.projectId === id) unsavedFailures.delete(key); }
   function clear() { if (active) throw new PersonalError('Stop the running brief before deleting your data.', 409); store.clear(); unsavedFailures.clear(); }
   function exportData() { return { ...store.exportData(), briefs: briefs() }; }
-  return { store, get, list, detail, create, update, link, save, note, removeSave, reorder, startBrief, cancel, recoverInterrupted, remove, clear, projectForSession: store.projectForSession, exportData, isRunning: () => !!active, waitForIdle: async () => { await active?.task; } };
+  return { store, get, list, detail, create, update, link, save, note, removeSave, reorder, decisions, startBrief, cancel, recoverInterrupted, remove, clear, projectForSession: store.projectForSession, exportData, isRunning: () => !!active, waitForIdle: async () => { await active?.task; } };
 }
 export type ResearchService = ReturnType<typeof createResearchService>;
 
