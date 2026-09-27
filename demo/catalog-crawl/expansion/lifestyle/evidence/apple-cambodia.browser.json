@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+  "collection": "Top 100: Cambodia",
+  "fetchedAt": "2026-09-27T03:41:08.337Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 1 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 2 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 3 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 4 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "5",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 5 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "hate that i made you love me",
+      "canonicalUrl": "https://music.apple.com/us/song/hate-that-i-made-you-love-me/6763656876",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6763656876",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "hate that i made you love me 6 Ariana Grande petal PREVIEW 3:17"
+    },
+    {
+      "title": "Ain't In LA",
+      "canonicalUrl": "https://music.apple.com/us/song/aint-in-la/6792884101",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6792884101",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "7",
+        "explicit": true
+      },
+      "evidenceText": "Ain't In LA 7 ADÉLA PRIMA PREVIEW 3:04"
+    },
+    {
+      "title": "Less than a Lover",
+      "canonicalUrl": "https://music.apple.com/us/song/less-than-a-lover/6793277028",
+      "creator": "JENNIE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/ac/90/8dac9090-2a14-20d9-ed97-6a35ad299beb/196874620281.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6793277028",
+      "attributes": {
+        "album": "Less than a Lover - Single",
+        "duration": "2:25",
+        "durationIso": "PT2M25S",
+        "chartPosition": "8",
+        "explicit": false
+      },
+      "evidenceText": "Less than a Lover 8 JENNIE Less than a Lover - Single PREVIEW 2:25"
+    },
+    {
+      "title": "BLUE STORY",
+      "canonicalUrl": "https://music.apple.com/us/song/blue-story/6798461745",
+      "creator": "VannDa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/f5/16/02f51691-387d-5be6-e9c0-d0087db206e6/199316724554_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6798461745",
+      "attributes": {
+        "album": "DO YOU - Single",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "9",
+        "explicit": false
+      },
+      "evidenceText": "BLUE STORY 9 VannDa DO YOU - Single PREVIEW 4:04"
+    },
+    {
+      "title": "4starlove",
+      "canonicalUrl": "https://music.apple.com/us/song/4starlove/6765555787",
+      "creator": "Tep Piseth",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/25/75/c22575a8-f9f5-7cd7-2f89-2bff1b20cdc6/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6765555787",
+      "attributes": {
+        "album": "4starlove - Single",
+        "duration": "4:22",
+        "durationIso": "PT4M22S",
+        "chartPosition": "10",
+        "explicit": false
+      },
+      "evidenceText": "4starlove 10 Tep Piseth 4starlove - Single PREVIEW 4:22"
+    },
+    {
+      "title": "Opalite",
+      "canonicalUrl": "https://music.apple.com/us/song/opalite/1833328845",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1833328845",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "Opalite 11 Taylor Swift The Life of a Showgirl PREVIEW 3:55"
+    },
+    {
+      "title": "DRUNK V2",
+      "canonicalUrl": "https://music.apple.com/us/song/drunk-v2/1869198289",
+      "creator": "YENGKY",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/8d/cf/a78dcfd5-ed07-d6d2-5b3a-d6c7a588ec82/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1869198289",
+      "attributes": {
+        "album": "DRUNK V2 - Single",
+        "duration": "4:08",
+        "durationIso": "PT4M8S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "DRUNK V2 12 YENGKY DRUNK V2 - Single PREVIEW 4:08"
+    },
+    {
+      "title": "WAY YOU ARE (feat. Jenna Norodom)",
+      "canonicalUrl": "https://music.apple.com/us/song/way-you-are-feat-jenna-norodom/6763907748",
+      "creator": "Jady",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/0e/07/1d0e07a2-dc95-b2c1-8998-1a27b15917ac/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6763907748",
+      "attributes": {
+        "album": "WAY YOU ARE (feat. Jenna Norodom) - Single",
+        "duration": "3:52",
+        "durationIso": "PT3M52S",
+        "chartPosition": "13",
+        "explicit": false
+      },
+      "evidenceText": "WAY YOU ARE (feat. Jenna Norodom) 13 Jady WAY YOU ARE (feat. Jenna Norodom) - Single PREVIEW 3:52"
+    },
+    {
+      "title": "stupid song",
+      "canonicalUrl": "https://music.apple.com/us/song/stupid-song/1889992115",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1889992115",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "stupid song 14 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:29"
+    },
+    {
+      "title": "សូរិយា (អេតាសុីវិល)",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%9F-%E1%9E%9A-%E1%9E%99-%E1%9E%A2-%E1%9E%8F-%E1%9E%9F-%E1%9E%9C-%E1%9E%9B/1808539773",
+      "creator": "La Cima Cartel, All3rgy, Jenna Norodom",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/8e/3a/558e3ae4-2782-6042-1404-78fca243de56/199257272176_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1808539773",
+      "attributes": {
+        "album": "សូរិយា (អេតាសុីវិល) - Single",
+        "duration": "5:20",
+        "durationIso": "PT5M20S",
+        "chartPosition": "15",
+        "explicit": false
+      },
+      "evidenceText": "សូរិយា (អេតាសុីវិល) 15 La Cima Cartel, All3rgy, Jenna Norodom សូរិយា (អេតាសុីវិល) - Single PREVIEW 5:20"
+    },
+    {
+      "title": "ខ្យល់ត្រជាក់",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%81-%E1%9E%99%E1%9E%9B-%E1%9E%8F-%E1%9E%9A%E1%9E%87-%E1%9E%80/1550887305",
+      "creator": "Tena",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/58/fa/c858faea-26ec-f0e6-7464-c3970f6d621a/859745401456_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1550887305",
+      "attributes": {
+        "album": "ខ្យល់ត្រជាក់ - Single",
+        "duration": "4:11",
+        "durationIso": "PT4M11S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "ខ្យល់ត្រជាក់ 16 Tena ខ្យល់ត្រជាក់ - Single PREVIEW 4:11"
+    },
+    {
+      "title": "The Fate of Ophelia (Track by Track)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia-track-by-track/1843998667",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/74/44/3a74440e-a1c2-c2bc-22c4-c71bd4584ed1/25UM1IM53942.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1843998667",
+      "attributes": {
+        "album": "The Life of a Showgirl (Track by Track Version)",
+        "duration": "0:41",
+        "durationIso": "PT41S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia (Track by Track) 17 Taylor Swift The Life of a Showgirl (Track by Track Version) PREVIEW 0:41"
+    },
+    {
+      "title": "Ocean Breeze (feat. Monetrey Ek)",
+      "canonicalUrl": "https://music.apple.com/us/song/ocean-breeze-feat-monetrey-ek/6803559791",
+      "creator": "All3rgy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/0c/a2/cd0ca2b3-c921-8893-3eba-9cf7a2f2a957/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6803559791",
+      "attributes": {
+        "album": "Ocean Breeze (feat. Monetrey Ek) - Single",
+        "duration": "2:40",
+        "durationIso": "PT2M40S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "Ocean Breeze (feat. Monetrey Ek) 18 All3rgy Ocean Breeze (feat. Monetrey Ek) - Single PREVIEW 2:40"
+    },
+    {
+      "title": "នារី High Show V2",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%93-%E1%9E%9A-high-show-v2/6787122847",
+      "creator": "Thanz - សុថាន",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/d5/d5/cfd5d5ef-1ae0-62ac-f456-051e1482ca4d/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6787122847",
+      "attributes": {
+        "album": "នារី High Show V2 - Single",
+        "duration": "3:54",
+        "durationIso": "PT3M54S",
+        "chartPosition": "19",
+        "explicit": false
+      },
+      "evidenceText": "នារី High Show V2 19 Thanz - សុថាន នារី High Show V2 - Single PREVIEW 3:54"
+    },
+    {
+      "title": "ON THE FLOOR (feat. MC SEY)",
+      "canonicalUrl": "https://music.apple.com/us/song/on-the-floor-feat-mc-sey/1868685002",
+      "creator": "YENGKY",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/25/cc/6c25cc86-34fc-430c-e278-3ba97bc0c4c8/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1868685002",
+      "attributes": {
+        "album": "ON THE FLOOR (feat. MC SEY) - Single",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "20",
+        "explicit": true
+      },
+      "evidenceText": "ON THE FLOOR (feat. MC SEY) 20 YENGKY ON THE FLOOR (feat. MC SEY) - Single PREVIEW 3:44"
+    },
+    {
+      "title": "Echo of you",
+      "canonicalUrl": "https://music.apple.com/us/song/echo-of-you/1798635931",
+      "creator": "Mann Doss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/67/80/166780f1-176e-20c8-91cb-5773c03b8368/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1798635931",
+      "attributes": {
+        "album": "FROZEN MELODIES",
+        "duration": "4:36",
+        "durationIso": "PT4M36S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "Echo of you 21 Mann Doss FROZEN MELODIES PREVIEW 4:36"
+    },
+    {
+      "title": "the cure",
+      "canonicalUrl": "https://music.apple.com/us/song/the-cure/1889992123",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1889992123",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "22",
+        "explicit": true
+      },
+      "evidenceText": "the cure 22 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 4:57"
+    },
+    {
+      "title": "DO YOU",
+      "canonicalUrl": "https://music.apple.com/us/song/do-you/6798461748",
+      "creator": "VannDa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/f5/16/02f51691-387d-5be6-e9c0-d0087db206e6/199316724554_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6798461748",
+      "attributes": {
+        "album": "DO YOU - Single",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "DO YOU 23 VannDa DO YOU - Single PREVIEW 3:42"
+    },
+    {
+      "title": "About You",
+      "canonicalUrl": "https://music.apple.com/us/song/about-you/1850019038",
+      "creator": "The 1975",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/c7/98/1fc7988e-0a39-5724-1390-e45246250e24/198704825934_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1850019038",
+      "attributes": {
+        "album": "Being Funny In A Foreign Language",
+        "duration": "5:26",
+        "durationIso": "PT5M26S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "About You 24 The 1975 Being Funny In A Foreign Language PREVIEW 5:26"
+    },
+    {
+      "title": "honeybee",
+      "canonicalUrl": "https://music.apple.com/us/song/honeybee/1889992116",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1889992116",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "honeybee 25 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:43"
+    },
+    {
+      "title": "drop dead",
+      "canonicalUrl": "https://music.apple.com/us/song/drop-dead/1889992113",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1889992113",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "drop dead 26 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:44"
+    },
+    {
+      "title": "Elizabeth Taylor",
+      "canonicalUrl": "https://music.apple.com/us/song/elizabeth-taylor/1833328842",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1833328842",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "27",
+        "explicit": false
+      },
+      "evidenceText": "Elizabeth Taylor 27 Taylor Swift The Life of a Showgirl PREVIEW 3:28"
+    },
+    {
+      "title": "Stuck with U",
+      "canonicalUrl": "https://music.apple.com/us/song/stuck-with-u/1511562950",
+      "creator": "Ariana Grande, Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ee/ec/56eeecfb-a5f3-ced0-fa69-4eda0e474aec/20UMGIM34924.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1511562950",
+      "attributes": {
+        "album": "Stuck with U - Single",
+        "duration": "3:48",
+        "durationIso": "PT3M48S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "Stuck with U 28 Ariana Grande, Justin Bieber Stuck with U - Single PREVIEW 3:48"
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia/1833328840",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1833328840",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "29",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia 29 Taylor Swift The Life of a Showgirl PREVIEW 3:46"
+    },
+    {
+      "title": "One Of The Girls",
+      "canonicalUrl": "https://music.apple.com/us/song/one-of-the-girls/1693891139",
+      "creator": "The Weeknd, JENNIE, Lily Rose Depp",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1693891139",
+      "attributes": {
+        "album": "The Idol Episode 4 (Music from the HBO Original Series) - Single",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "30",
+        "explicit": false
+      },
+      "evidenceText": "One Of The Girls 30 The Weeknd, JENNIE, Lily Rose Depp The Idol Episode 4 (Music from the HBO Original Series) - Single PREVIEW 4:04"
+    },
+    {
+      "title": "Stay with me",
+      "canonicalUrl": "https://music.apple.com/us/song/stay-with-me/6806392264",
+      "creator": "Thol Sophiti",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/eb/d7/abebd772-c765-937d-50e0-ac319b843d35/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6806392264",
+      "attributes": {
+        "album": "Stay with me - Single",
+        "duration": "3:58",
+        "durationIso": "PT3M58S",
+        "chartPosition": "31",
+        "explicit": false
+      },
+      "evidenceText": "Stay with me 31 Thol Sophiti Stay with me - Single PREVIEW 3:58"
+    },
+    {
+      "title": "FALLEN ANGEL",
+      "canonicalUrl": "https://music.apple.com/us/song/fallen-angel/6804046959",
+      "creator": "JENNIE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/b0/ed/27b0edf5-ec5e-fb16-0193-298a679e7a50/196874698273.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6804046959",
+      "attributes": {
+        "album": "Fallen Angel - EP",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "32",
+        "explicit": false
+      },
+      "evidenceText": "FALLEN ANGEL 32 JENNIE Fallen Angel - EP PREVIEW 3:19"
+    },
+    {
+      "title": "7 rings",
+      "canonicalUrl": "https://music.apple.com/us/song/7-rings/1450330685",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/06/d3/e406d3d8-2507-e585-c919-60bc5446985c/19UMGIM03689.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1450330685",
+      "attributes": {
+        "album": "thank u, next",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "33",
+        "explicit": true
+      },
+      "evidenceText": "7 rings 33 Ariana Grande thank u, next PREVIEW 2:58"
+    },
+    {
+      "title": "Lost",
+      "canonicalUrl": "https://music.apple.com/us/song/lost/1744879184",
+      "creator": "Jady",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/f4/99/a5f4996f-4645-1b4e-30a7-b570dfd61435/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1744879184",
+      "attributes": {
+        "album": "Lost - Single",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "Lost 34 Jady Lost - Single PREVIEW 3:12"
+    },
+    {
+      "title": "Wi$h Li$t",
+      "canonicalUrl": "https://music.apple.com/us/song/wi%24h-li%24t/1833328851",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1833328851",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "35",
+        "explicit": true
+      },
+      "evidenceText": "Wi$h Li$t 35 Taylor Swift The Life of a Showgirl PREVIEW 3:27"
+    },
+    {
+      "title": "petal",
+      "canonicalUrl": "https://music.apple.com/us/song/petal/6763656878",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6763656878",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "36",
+        "explicit": true
+      },
+      "evidenceText": "petal 36 Ariana Grande petal PREVIEW 3:04"
+    },
+    {
+      "title": "thank u, next",
+      "canonicalUrl": "https://music.apple.com/us/song/thank-u-next/1450330686",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/06/d3/e406d3d8-2507-e585-c919-60bc5446985c/19UMGIM03689.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1450330686",
+      "attributes": {
+        "album": "thank u, next",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "37",
+        "explicit": true
+      },
+      "evidenceText": "thank u, next 37 Ariana Grande thank u, next PREVIEW 3:27"
+    },
+    {
+      "title": "Father Figure",
+      "canonicalUrl": "https://music.apple.com/us/song/father-figure/1833328847",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1833328847",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "38",
+        "explicit": true
+      },
+      "evidenceText": "Father Figure 38 Taylor Swift The Life of a Showgirl PREVIEW 3:32"
+    },
+    {
+      "title": "ស្តាយ​ក្រោយ​",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%9F-%E1%9E%8F-%E1%9E%99-%E1%9E%80-%E1%9E%9A-%E1%9E%99/6794180449",
+      "creator": "Tena",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/42/62/30426238-42bd-538b-6ee9-16d9bc6d2405/859742893292_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6794180449",
+      "attributes": {
+        "album": "ស្តាយ​ក្រោយ​ - Single",
+        "duration": "3:56",
+        "durationIso": "PT3M56S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "ស្តាយ​ក្រោយ​ 39 Tena ស្តាយ​ក្រោយ​ - Single PREVIEW 3:56"
+    },
+    {
+      "title": "Lover",
+      "canonicalUrl": "https://music.apple.com/us/song/lover/1468058173",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1468058173",
+      "attributes": {
+        "album": "Lover",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "40",
+        "explicit": false
+      },
+      "evidenceText": "Lover 40 Taylor Swift Lover PREVIEW 3:41"
+    },
+    {
+      "title": "MISERY (feat. M-Fatt)",
+      "canonicalUrl": "https://music.apple.com/us/song/misery-feat-m-fatt/1647633505",
+      "creator": "Mann Doss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8e/36/2a/8e362a0c-a3a6-3d63-b8ef-ad7a4c6e6746/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1647633505",
+      "attributes": {
+        "album": "MISERY (feat. M-Fatt) - Single",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "MISERY (feat. M-Fatt) 41 Mann Doss MISERY (feat. M-Fatt) - Single PREVIEW 3:13"
+    },
+    {
+      "title": "Star",
+      "canonicalUrl": "https://music.apple.com/us/song/star/1584463233",
+      "creator": "Tena",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/eb/00/1ceb0058-2487-4a30-07dc-a9fb7860608c/859750147714_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1584463233",
+      "attributes": {
+        "album": "Star - Single",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "42",
+        "explicit": true
+      },
+      "evidenceText": "Star 42 Tena Star - Single PREVIEW 3:41"
+    },
+    {
+      "title": "deja vu",
+      "canonicalUrl": "https://music.apple.com/us/song/deja-vu/1560735548",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1560735548",
+      "attributes": {
+        "album": "SOUR",
+        "duration": "3:35",
+        "durationIso": "PT3M35S",
+        "chartPosition": "43",
+        "explicit": true
+      },
+      "evidenceText": "deja vu 43 Olivia Rodrigo SOUR PREVIEW 3:35"
+    },
+    {
+      "title": "BIRDS OF A FEATHER",
+      "canonicalUrl": "https://music.apple.com/us/song/birds-of-a-feather/1739659142",
+      "creator": "Billie Eilish",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1739659142",
+      "attributes": {
+        "album": "HIT ME HARD AND SOFT",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "BIRDS OF A FEATHER 44 Billie Eilish HIT ME HARD AND SOFT PREVIEW 3:30"
+    },
+    {
+      "title": "Cruel Summer",
+      "canonicalUrl": "https://music.apple.com/us/song/cruel-summer/1468058171",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1468058171",
+      "attributes": {
+        "album": "Lover",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "45",
+        "explicit": false
+      },
+      "evidenceText": "Cruel Summer 45 Taylor Swift Lover PREVIEW 2:58"
+    },
+    {
+      "title": "Risk It All",
+      "canonicalUrl": "https://music.apple.com/us/song/risk-it-all/1866732797",
+      "creator": "Bruno Mars",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1866732797",
+      "attributes": {
+        "album": "The Romantic",
+        "duration": "3:24",
+        "durationIso": "PT3M24S",
+        "chartPosition": "46",
+        "explicit": false
+      },
+      "evidenceText": "Risk It All 46 Bruno Mars The Romantic PREVIEW 3:24"
+    },
+    {
+      "title": "So Easy (To Fall In Love)",
+      "canonicalUrl": "https://music.apple.com/us/song/so-easy-to-fall-in-love/1817609507",
+      "creator": "Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1817609507",
+      "attributes": {
+        "album": "The Art of Loving",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "47",
+        "explicit": false
+      },
+      "evidenceText": "So Easy (To Fall In Love) 47 Olivia Dean The Art of Loving PREVIEW 2:49"
+    },
+    {
+      "title": "Talking Body",
+      "canonicalUrl": "https://music.apple.com/us/song/talking-body/1770261748",
+      "creator": "Tove Lo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/b4/d7/3fb4d79d-d02c-6faf-9d42-a3f2001c37ae/24UM1IM00247.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1770261748",
+      "attributes": {
+        "album": "Queen Of The Clouds: X",
+        "duration": "3:58",
+        "durationIso": "PT3M58S",
+        "chartPosition": "48",
+        "explicit": true
+      },
+      "evidenceText": "Talking Body 48 Tove Lo Queen Of The Clouds: X PREVIEW 3:58"
+    },
+    {
+      "title": "សេរីភាពបង",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%9F-%E1%9E%9A-%E1%9E%97-%E1%9E%96%E1%9E%94%E1%9E%84/1814289450",
+      "creator": "Pich Solikah",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/6a/20/806a2014-e484-d866-3664-16f57fe37194/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1814289450",
+      "attributes": {
+        "album": "សេរីភាពបង - Single",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "សេរីភាពបង 49 Pich Solikah សេរីភាពបង - Single PREVIEW 3:37"
+    },
+    {
+      "title": "Doch May (feat. VannDa)",
+      "canonicalUrl": "https://music.apple.com/us/song/doch-may-feat-vannda/1800354932",
+      "creator": "Mesa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/a6/2e/caa62e5d-6ff9-712c-c6fd-b08c2c45805c/197338014486_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1800354932",
+      "attributes": {
+        "album": "Doch May (feat. VannDa) - Single",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "50",
+        "explicit": true
+      },
+      "evidenceText": "Doch May (feat. VannDa) 50 Mesa Doch May (feat. VannDa) - Single PREVIEW 3:53"
+    },
+    {
+      "title": "អូនទៅណាបាន?",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%A2-%E1%9E%93%E1%9E%91-%E1%9E%8E-%E1%9E%94-%E1%9E%93/6814720303",
+      "creator": "Pich Solikah",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/d8/f5/27d8f586-ef1f-86e8-4926-7dace2697892/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6814720303",
+      "attributes": {
+        "album": "អូនទៅណាបាន? - Single",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "51",
+        "explicit": false
+      },
+      "evidenceText": "អូនទៅណាបាន? 51 Pich Solikah អូនទៅណាបាន? - Single PREVIEW 3:41"
+    },
+    {
+      "title": "Snooze",
+      "canonicalUrl": "https://music.apple.com/us/song/snooze/1657869492",
+      "creator": "SZA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1657869492",
+      "attributes": {
+        "album": "SOS",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "52",
+        "explicit": true
+      },
+      "evidenceText": "Snooze 52 SZA SOS PREVIEW 3:21"
+    },
+    {
+      "title": "Starboy (feat. Daft Punk)",
+      "canonicalUrl": "https://music.apple.com/us/song/starboy-feat-daft-punk/1440871420",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1440871420",
+      "attributes": {
+        "album": "Starboy",
+        "duration": "3:50",
+        "durationIso": "PT3M50S",
+        "chartPosition": "53",
+        "explicit": true
+      },
+      "evidenceText": "Starboy (feat. Daft Punk) 53 The Weeknd Starboy PREVIEW 3:50"
+    },
+    {
+      "title": "ព្រហ្មលិខិត",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%96-%E1%9E%9A%E1%9E%A0-%E1%9E%98%E1%9E%9B-%E1%9E%81-%E1%9E%8F/6790172495",
+      "creator": "ឱក សុគន្ធកញ្ញា",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/7b/80/5d7b80d8-22e0-15f2-5117-a7fa7507835f/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6790172495",
+      "attributes": {
+        "album": "ព្រហ្មលិខិត - Single",
+        "duration": "4:21",
+        "durationIso": "PT4M21S",
+        "chartPosition": "54",
+        "explicit": false
+      },
+      "evidenceText": "ព្រហ្មលិខិត 54 ឱក សុគន្ធកញ្ញា ព្រហ្មលិខិត - Single PREVIEW 4:21"
+    },
+    {
+      "title": "positions",
+      "canonicalUrl": "https://music.apple.com/us/song/positions/1537477069",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/c0/ce/e5c0ce05-4281-dd8e-6a93-86de7cf45621/20UMGIM94964.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1537477069",
+      "attributes": {
+        "album": "Positions",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "55",
+        "explicit": true
+      },
+      "evidenceText": "positions 55 Ariana Grande Positions PREVIEW 2:52"
+    },
+    {
+      "title": "Wish (feat. KZ Tan)",
+      "canonicalUrl": "https://music.apple.com/us/song/wish-feat-kz-tan/1617524137",
+      "creator": "Suly Pheng",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1b/24/04/1b2404d0-f3e2-3120-6f8c-a2c7d0e6c59e/859761288062_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1617524137",
+      "attributes": {
+        "album": "Wish - Single (feat. KZ Tan) - Single",
+        "duration": "5:21",
+        "durationIso": "PT5M21S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "Wish (feat. KZ Tan) 56 Suly Pheng Wish - Single (feat. KZ Tan) - Single PREVIEW 5:21"
+    },
+    {
+      "title": "Can I ?",
+      "canonicalUrl": "https://music.apple.com/us/song/can-i/1788275238",
+      "creator": "GMENGZ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/e9/d5/a5e9d557-ea7b-e12c-b511-c7f251afbbef/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1788275238",
+      "attributes": {
+        "album": "Can I ? - Single",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "Can I ? 57 GMENGZ Can I ? - Single PREVIEW 3:06"
+    },
+    {
+      "title": "WILDFLOWER",
+      "canonicalUrl": "https://music.apple.com/us/song/wildflower/1739659144",
+      "creator": "Billie Eilish",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1739659144",
+      "attributes": {
+        "album": "HIT ME HARD AND SOFT",
+        "duration": "4:21",
+        "durationIso": "PT4M21S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "WILDFLOWER 58 Billie Eilish HIT ME HARD AND SOFT PREVIEW 4:21"
+    },
+    {
+      "title": "HERO 2 VILLAIN",
+      "canonicalUrl": "https://music.apple.com/us/song/hero-2-villain/6798461742",
+      "creator": "VannDa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/f5/16/02f51691-387d-5be6-e9c0-d0087db206e6/199316724554_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6798461742",
+      "attributes": {
+        "album": "DO YOU - Single",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "59",
+        "explicit": false
+      },
+      "evidenceText": "HERO 2 VILLAIN 59 VannDa DO YOU - Single PREVIEW 3:18"
+    },
+    {
+      "title": "TIKI TIKI",
+      "canonicalUrl": "https://music.apple.com/us/song/tiki-tiki/6799273944",
+      "creator": "SUZANA, VannDa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/7f/a1/737fa1a8-026b-eae9-ca56-c8661df34f64/199316728538_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6799273944",
+      "attributes": {
+        "album": "TIKI TIKI - Single",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "60",
+        "explicit": true
+      },
+      "evidenceText": "TIKI TIKI 60 SUZANA, VannDa TIKI TIKI - Single PREVIEW 3:02"
+    },
+    {
+      "title": "New Rules",
+      "canonicalUrl": "https://music.apple.com/us/song/new-rules/1228739609",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1228739609",
+      "attributes": {
+        "album": "Dua Lipa (Deluxe)",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "61",
+        "explicit": false
+      },
+      "evidenceText": "New Rules 61 Dua Lipa Dua Lipa (Deluxe) PREVIEW 3:29"
+    },
+    {
+      "title": "Dancing In The Flames",
+      "canonicalUrl": "https://music.apple.com/us/song/dancing-in-the-flames/1768635695",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/ae/7c/26ae7c91-3ea9-a3d4-444b-93fb563b3d48/24UM1IM01029.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1768635695",
+      "attributes": {
+        "album": "Dancing In The Flames - EP",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "62",
+        "explicit": false
+      },
+      "evidenceText": "Dancing In The Flames 62 The Weeknd Dancing In The Flames - EP PREVIEW 3:40"
+    },
+    {
+      "title": "we can't be friends (wait for your love)",
+      "canonicalUrl": "https://music.apple.com/us/song/we-cant-be-friends-wait-for-your-love/1725878242",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1725878242",
+      "attributes": {
+        "album": "eternal sunshine",
+        "duration": "3:48",
+        "durationIso": "PT3M48S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "we can't be friends (wait for your love) 63 Ariana Grande eternal sunshine PREVIEW 3:48"
+    },
+    {
+      "title": "រសជាតិស្រឡាញ់បង",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%9A%E1%9E%9F%E1%9E%87-%E1%9E%8F-%E1%9E%9F-%E1%9E%9A%E1%9E%A1-%E1%9E%89-%E1%9E%94%E1%9E%84/6814356367",
+      "creator": "ឱក សុគន្ធកញ្ញា",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/bb/a7/96bba7e8-a41e-776d-1439-b9a4c5b88c1d/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6814356367",
+      "attributes": {
+        "album": "រសជាតិស្រឡាញ់បង - Single",
+        "duration": "4:01",
+        "durationIso": "PT4M1S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "រសជាតិស្រឡាញ់បង 64 ឱក សុគន្ធកញ្ញា រសជាតិស្រឡាញ់បង - Single PREVIEW 4:01"
+    },
+    {
+      "title": "Love Me Harder",
+      "canonicalUrl": "https://music.apple.com/us/song/love-me-harder/1440852992",
+      "creator": "Ariana Grande, The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a5/39/86/a5398609-ad90-50d3-57ad-0f87a4df5ac4/14UMGIM28138.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1440852992",
+      "attributes": {
+        "album": "My Everything (Bonus Tracks Edition)",
+        "duration": "3:56",
+        "durationIso": "PT3M56S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "Love Me Harder 65 Ariana Grande, The Weeknd My Everything (Bonus Tracks Edition) PREVIEW 3:56"
+    },
+    {
+      "title": "Ruin The Friendship",
+      "canonicalUrl": "https://music.apple.com/us/song/ruin-the-friendship/1833328849",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1833328849",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "Ruin The Friendship 66 Taylor Swift The Life of a Showgirl PREVIEW 3:40"
+    },
+    {
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "canonicalUrl": "https://music.apple.com/us/song/beauty-and-a-beat-feat-nicki-minaj/1440650961",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1440650961",
+      "attributes": {
+        "album": "Believe (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "Beauty and a Beat (feat. Nicki Minaj) 67 Justin Bieber Believe (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-life-of-a-showgirl-feat-sabrina-carpenter/1833329007",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1833329007",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "4:01",
+        "durationIso": "PT4M1S",
+        "chartPosition": "68",
+        "explicit": true
+      },
+      "evidenceText": "The Life of a Showgirl (feat. Sabrina Carpenter) 68 Taylor Swift The Life of a Showgirl PREVIEW 4:01"
+    },
+    {
+      "title": "Espresso",
+      "canonicalUrl": "https://music.apple.com/us/song/espresso/1740212434",
+      "creator": "Sabrina Carpenter",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1740212434",
+      "attributes": {
+        "album": "Espresso - Single",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "69",
+        "explicit": true
+      },
+      "evidenceText": "Espresso 69 Sabrina Carpenter Espresso - Single PREVIEW 2:55"
+    },
+    {
+      "title": "Open Wound (feat. Pich Solikah)",
+      "canonicalUrl": "https://music.apple.com/us/song/open-wound-feat-pich-solikah/1708865042",
+      "creator": "Suly Pheng",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a4/d9/8c/a4d98ce0-fc2b-faa7-c8cb-96283e7d29e3/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1708865042",
+      "attributes": {
+        "album": "Open Wound (feat. Pich Solikah) - Single",
+        "duration": "4:38",
+        "durationIso": "PT4M38S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "Open Wound (feat. Pich Solikah) 70 Suly Pheng Open Wound (feat. Pich Solikah) - Single PREVIEW 4:38"
+    },
+    {
+      "title": "After Hours",
+      "canonicalUrl": "https://music.apple.com/us/song/after-hours/1499378615",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1499378615",
+      "attributes": {
+        "album": "After Hours",
+        "duration": "6:01",
+        "durationIso": "PT6M1S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "After Hours 71 The Weeknd After Hours PREVIEW 6:01"
+    },
+    {
+      "title": "She's the One",
+      "canonicalUrl": "https://music.apple.com/us/song/shes-the-one/1735587375",
+      "creator": "La Cima Cartel, All3rgy, YCN Rakhie",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/28/8b/99288bad-6c48-f7aa-63cb-6fedd9a761f6/198342287248_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1735587375",
+      "attributes": {
+        "album": "She's the One - Single",
+        "duration": "4:22",
+        "durationIso": "PT4M22S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "She's the One 72 La Cima Cartel, All3rgy, YCN Rakhie She's the One - Single PREVIEW 4:22"
+    },
+    {
+      "title": "What Do You Mean?",
+      "canonicalUrl": "https://music.apple.com/us/song/what-do-you-mean/1440829606",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/11/84/751184b0-77df-1eff-bb20-dac03247425d/15UMGIM59808.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1440829606",
+      "attributes": {
+        "album": "Purpose (Deluxe)",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "What Do You Mean? 73 Justin Bieber Purpose (Deluxe) PREVIEW 3:25"
+    },
+    {
+      "title": "មួយទៅមួយ (feat. Ruthko)",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%98-%E1%9E%99%E1%9E%91-%E1%9E%98-%E1%9E%99-feat-ruthko/1784802534",
+      "creator": "Tep Piseth",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/dc/09/5cdc092e-bbc2-6c1a-347e-e5464c6f2062/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1784802534",
+      "attributes": {
+        "album": "មួយទៅមួយ (feat. Ruthko) - Single",
+        "duration": "3:54",
+        "durationIso": "PT3M54S",
+        "chartPosition": "74",
+        "explicit": true
+      },
+      "evidenceText": "មួយទៅមួយ (feat. Ruthko) 74 Tep Piseth មួយទៅមួយ (feat. Ruthko) - Single PREVIEW 3:54"
+    },
+    {
+      "title": "Pure",
+      "canonicalUrl": "https://music.apple.com/us/song/pure/6769552686",
+      "creator": "SIENNA SPIRO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6769552686",
+      "attributes": {
+        "album": "Visitor (Deluxe)",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Pure 75 SIENNA SPIRO Visitor (Deluxe) PREVIEW 3:39"
+    },
+    {
+      "title": "Love Taste",
+      "canonicalUrl": "https://music.apple.com/us/song/love-taste/1756344167",
+      "creator": "Tep Piseth",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/f4/e5/97f4e53c-6b09-5028-8556-20b9304220ad/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1756344167",
+      "attributes": {
+        "album": "Love Taste - Single",
+        "duration": "4:12",
+        "durationIso": "PT4M12S",
+        "chartPosition": "76",
+        "explicit": true
+      },
+      "evidenceText": "Love Taste 76 Tep Piseth Love Taste - Single PREVIEW 4:12"
+    },
+    {
+      "title": "new trick",
+      "canonicalUrl": "https://music.apple.com/us/song/new-trick/6812894907",
+      "creator": "ROSÉ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/06/3f/48063f55-8c24-92e6-2bbe-ffb3a638420b/075679555984.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6812894907",
+      "attributes": {
+        "album": "new trick - Single",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "new trick 77 ROSÉ new trick - Single PREVIEW 3:02"
+    },
+    {
+      "title": "Kohkong Heal",
+      "canonicalUrl": "https://music.apple.com/us/song/kohkong-heal/1887739113",
+      "creator": "Meezy24k",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/f3/8c/aaf38c45-1bdc-0761-3299-28ad32746b94/859734772338_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1887739113",
+      "attributes": {
+        "album": "Kohkong Heal - Single",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "78",
+        "explicit": true
+      },
+      "evidenceText": "Kohkong Heal 78 Meezy24k Kohkong Heal - Single PREVIEW 3:30"
+    },
+    {
+      "title": "Fortnight (feat. Post Malone)",
+      "canonicalUrl": "https://music.apple.com/us/song/fortnight-feat-post-malone/1742057775",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1742057775",
+      "attributes": {
+        "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "duration": "3:48",
+        "durationIso": "PT3M48S",
+        "chartPosition": "79",
+        "explicit": false
+      },
+      "evidenceText": "Fortnight (feat. Post Malone) 79 Taylor Swift THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY PREVIEW 3:48"
+    },
+    {
+      "title": "bittersweet",
+      "canonicalUrl": "https://music.apple.com/us/song/bittersweet/1844464069",
+      "creator": "Madison Beer",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/66/29/f266291b-75c0-2521-c8f1-c81a97d4cdc7/196873663302.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1844464069",
+      "attributes": {
+        "album": "bittersweet - Single",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "80",
+        "explicit": false
+      },
+      "evidenceText": "bittersweet 80 Madison Beer bittersweet - Single PREVIEW 3:22"
+    },
+    {
+      "title": "Eldest Daughter",
+      "canonicalUrl": "https://music.apple.com/us/song/eldest-daughter/1833328848",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1833328848",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "81",
+        "explicit": true
+      },
+      "evidenceText": "Eldest Daughter 81 Taylor Swift The Life of a Showgirl PREVIEW 4:06"
+    },
+    {
+      "title": "Timeless",
+      "canonicalUrl": "https://music.apple.com/us/song/timeless/1770380890",
+      "creator": "The Weeknd, Playboi Carti",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1770380890",
+      "attributes": {
+        "album": "Timeless - Single",
+        "duration": "4:16",
+        "durationIso": "PT4M16S",
+        "chartPosition": "82",
+        "explicit": true
+      },
+      "evidenceText": "Timeless 82 The Weeknd, Playboi Carti Timeless - Single PREVIEW 4:16"
+    },
+    {
+      "title": "The Hills",
+      "canonicalUrl": "https://music.apple.com/us/song/the-hills/1440826383",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/cd/1a/40cd1a65-7948-eb96-74c6-1c4b3497456c/15UMGIM36513.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1440826383",
+      "attributes": {
+        "album": "Beauty Behind the Madness",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "83",
+        "explicit": true
+      },
+      "evidenceText": "The Hills 83 The Weeknd Beauty Behind the Madness PREVIEW 4:02"
+    },
+    {
+      "title": "HEAVEN",
+      "canonicalUrl": "https://music.apple.com/us/song/heaven/6804046964",
+      "creator": "JENNIE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/b0/ed/27b0edf5-ec5e-fb16-0193-298a679e7a50/196874698273.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6804046964",
+      "attributes": {
+        "album": "Fallen Angel - EP",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "84",
+        "explicit": true
+      },
+      "evidenceText": "HEAVEN 84 JENNIE Fallen Angel - EP PREVIEW 3:06"
+    },
+    {
+      "title": "APT.",
+      "canonicalUrl": "https://music.apple.com/us/song/apt/1773452221",
+      "creator": "ROSÉ, Bruno Mars",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1773452221",
+      "attributes": {
+        "album": "APT. - Single",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "85",
+        "explicit": false
+      },
+      "evidenceText": "APT. 85 ROSÉ, Bruno Mars APT. - Single PREVIEW 2:49"
+    },
+    {
+      "title": "drivers license",
+      "canonicalUrl": "https://music.apple.com/us/song/drivers-license/1545051686",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/19/d6/f019d61e-6bd3-d936-1214-22b732083ef0/20UM1IM14285.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1545051686",
+      "attributes": {
+        "album": "drivers license - Single",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "86",
+        "explicit": true
+      },
+      "evidenceText": "drivers license 86 Olivia Rodrigo drivers license - Single PREVIEW 4:02"
+    },
+    {
+      "title": "មេឃបើកថ្ងៃ (feat. Vannda)",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%98-%E1%9E%83%E1%9E%94-%E1%9E%80%E1%9E%90-%E1%9E%84-feat-vannda/1727115109",
+      "creator": "KWAN",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/32/99/903299e4-5c29-230c-4c66-bb4a4943e34a/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1727115109",
+      "attributes": {
+        "album": "Sonmalai",
+        "duration": "3:48",
+        "durationIso": "PT3M48S",
+        "chartPosition": "87",
+        "explicit": true
+      },
+      "evidenceText": "មេឃបើកថ្ងៃ (feat. Vannda) 87 KWAN Sonmalai PREVIEW 3:48"
+    },
+    {
+      "title": "បងក្រ",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%94%E1%9E%84%E1%9E%80-%E1%9E%9A/1824467090",
+      "creator": "Tena, YCN Rakhie",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/d9/d4/95d9d4f6-c555-2af6-148f-afe287a2e7a0/859710957308_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1824467090",
+      "attributes": {
+        "album": "បងក្រ - Single",
+        "duration": "4:59",
+        "durationIso": "PT4M59S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "បងក្រ 88 Tena, YCN Rakhie បងក្រ - Single PREVIEW 4:59"
+    },
+    {
+      "title": "OUN V2 (feat. Yuuhai)",
+      "canonicalUrl": "https://music.apple.com/us/song/oun-v2-feat-yuuhai/1733809703",
+      "creator": "Jady",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/bf/de/59bfde23-9c70-ece2-a5a3-4f2f80450456/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1733809703",
+      "attributes": {
+        "album": "OUN V2 (feat. Yuuhai) - Single",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "OUN V2 (feat. Yuuhai) 89 Jady OUN V2 (feat. Yuuhai) - Single PREVIEW 3:11"
+    },
+    {
+      "title": "Die With A Smile",
+      "canonicalUrl": "https://music.apple.com/us/song/die-with-a-smile/1762656732",
+      "creator": "Lady Gaga, Bruno Mars",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1762656732",
+      "attributes": {
+        "album": "Die With A Smile - Single",
+        "duration": "4:11",
+        "durationIso": "PT4M11S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "Die With A Smile 90 Lady Gaga, Bruno Mars Die With A Smile - Single PREVIEW 4:11"
+    },
+    {
+      "title": "她 (《早春晴朗》电视剧栾念人物曲&片头曲)",
+      "canonicalUrl": "https://music.apple.com/us/song/%E5%A5%B9-%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97-%E7%94%B5%E8%A7%86%E5%89%A7%E6%A0%BE%E5%BF%B5%E4%BA%BA%E7%89%A9%E6%9B%B2-%E7%89%87%E5%A4%B4%E6%9B%B2/6807333688",
+      "creator": "Liu Yu Ning",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/7b/87/3c7b877a-25d4-5a6c-6b50-7e9187251e10/4896043209014.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6807333688",
+      "attributes": {
+        "album": "早春晴朗 影视原声带",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "她 (《早春晴朗》电视剧栾念人物曲&片头曲) 91 Liu Yu Ning 早春晴朗 影视原声带 PREVIEW 3:41"
+    },
+    {
+      "title": "ថែការចងចាំ",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%90-%E1%9E%80-%E1%9E%9A%E1%9E%85%E1%9E%84%E1%9E%85/1759423672",
+      "creator": "Pich Solikah",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/1d/01/381d0143-35f8-2eaa-7c4e-5084abf64766/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1759423672",
+      "attributes": {
+        "album": "ថែការចងចាំ - Single",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "ថែការចងចាំ 92 Pich Solikah ថែការចងចាំ - Single PREVIEW 3:43"
+    },
+    {
+      "title": "like JENNIE",
+      "canonicalUrl": "https://music.apple.com/us/song/like-jennie/1795979745",
+      "creator": "JENNIE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/13/67/ec13677e-f7b4-acc2-b59b-ea8533b1a374/196872890983.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1795979745",
+      "attributes": {
+        "album": "Ruby",
+        "duration": "2:03",
+        "durationIso": "PT2M3S",
+        "chartPosition": "93",
+        "explicit": true
+      },
+      "evidenceText": "like JENNIE 93 JENNIE Ruby PREVIEW 2:03"
+    },
+    {
+      "title": "Wood",
+      "canonicalUrl": "https://music.apple.com/us/song/wood/1833329002",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1833329002",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "2:30",
+        "durationIso": "PT2M30S",
+        "chartPosition": "94",
+        "explicit": true
+      },
+      "evidenceText": "Wood 94 Taylor Swift The Life of a Showgirl PREVIEW 2:30"
+    },
+    {
+      "title": "ocean eyes",
+      "canonicalUrl": "https://music.apple.com/us/song/ocean-eyes/1440899467",
+      "creator": "Billie Eilish",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1440899467",
+      "attributes": {
+        "album": "dont smile at me",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "95",
+        "explicit": false
+      },
+      "evidenceText": "ocean eyes 95 Billie Eilish dont smile at me PREVIEW 3:20"
+    },
+    {
+      "title": "រាល់សូរតំណក់ទឹកភ្លៀង/When the rain drop",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%9A-%E1%9E%9B-%E1%9E%9F-%E1%9E%9A%E1%9E%8F-%E1%9E%8E%E1%9E%80-%E1%9E%91-%E1%9E%80%E1%9E%97-%E1%9E%9B-%E1%9E%84-when-the-rain-drop/1703393668",
+      "creator": "Mann Doss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/20/53/a4/2053a4a4-c25f-3d45-5d2b-6d4d9d126cc1/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1703393668",
+      "attributes": {
+        "album": "រាល់សូរតំណក់ទឹកភ្លៀង/When the rain drop - Single",
+        "duration": "3:51",
+        "durationIso": "PT3M51S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "រាល់សូរតំណក់ទឹកភ្លៀង/When the rain drop 96 Mann Doss រាល់សូរតំណក់ទឹកភ្លៀង/When the rain drop - Single PREVIEW 3:51"
+    },
+    {
+      "title": "Wicked Games",
+      "canonicalUrl": "https://music.apple.com/us/song/wicked-games/1714908987",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/d5/13/66d513dd-3cb0-b86b-4d11-1fbab2e6a639/12UMGIM54989.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1714908987",
+      "attributes": {
+        "album": "Trilogy",
+        "duration": "5:25",
+        "durationIso": "PT5M25S",
+        "chartPosition": "97",
+        "explicit": true
+      },
+      "evidenceText": "Wicked Games 97 The Weeknd Trilogy PREVIEW 5:25"
+    },
+    {
+      "title": "Cinderella (feat. Ty Dolla $ign)",
+      "canonicalUrl": "https://music.apple.com/us/song/cinderella-feat-ty-dolla-%24ign/1137966332",
+      "creator": "Mac Miller",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/cc/4d/33cc4d85-e92a-b171-1b72-4dc882ce2359/093624918844.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1137966332",
+      "attributes": {
+        "album": "The Divine Feminine",
+        "duration": "8:00",
+        "durationIso": "PT8M",
+        "chartPosition": "98",
+        "explicit": true
+      },
+      "evidenceText": "Cinderella (feat. Ty Dolla $ign) 98 Mac Miller The Divine Feminine PREVIEW 8:00"
+    },
+    {
+      "title": "Jumping Machine (跳楼机)",
+      "canonicalUrl": "https://music.apple.com/us/song/jumping-machine-%E8%B7%B3%E6%A5%BC%E6%9C%BA/1790602218",
+      "creator": "LBI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/86/27/5c8627d2-719a-07ca-1713-17ad694fc141/196872814286.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "1790602218",
+      "attributes": {
+        "album": "Jumping Machine (跳楼机) - EP",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "99",
+        "explicit": false
+      },
+      "evidenceText": "Jumping Machine (跳楼机) 99 LBI Jumping Machine (跳楼机) - EP PREVIEW 3:21"
+    },
+    {
+      "title": "មួយលានរាត្រី (One Million Nights) (feat. NPN)",
+      "canonicalUrl": "https://music.apple.com/us/song/%E1%9E%98-%E1%9E%99%E1%9E%9B-%E1%9E%93%E1%9E%9A-%E1%9E%8F-%E1%9E%9A-one-million-nights-feat-npn/6815363988",
+      "creator": "Monetrey Ek",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/fd/3f/4cfd3f87-2da1-482c-3e78-c165c9350a58/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-cambodia/pl.9d9ee12c7734402ab5ab0dc81911822c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Cambodia",
+      "externalId": "6815363988",
+      "attributes": {
+        "album": "មួយលានរាត្រី (One Million Nights) (feat. NPN) - Single",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "100",
+        "explicit": false
+      },
+      "evidenceText": "មួយលានរាត្រី (One Million Nights) (feat. NPN) 100 Monetrey Ek មួយលានរាត្រី (One Million Nights) (feat. NPN) - Single PREVIEW 3:08"
+    }
+  ]
+}

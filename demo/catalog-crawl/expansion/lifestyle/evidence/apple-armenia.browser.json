@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+  "collection": "Top 100: Armenia",
+  "fetchedAt": "2026-09-27T03:40:17.120Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "ANHETANAM",
+      "canonicalUrl": "https://music.apple.com/us/song/anhetanam/6815261839",
+      "creator": "Brunette",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/61/dd/e661ddab-229a-d09f-d160-75ceb63b8c8b/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6815261839",
+      "attributes": {
+        "album": "ANHETANAM - Single",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "ANHETANAM 1 Brunette ANHETANAM - Single PREVIEW 3:02"
+    },
+    {
+      "title": "Была, не была",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B1%D1%8B%D0%BB%D0%B0-%D0%BD%D0%B5-%D0%B1%D1%8B%D0%BB%D0%B0/6803095967",
+      "creator": "Jakone, Kiliana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/13/7d/26137da4-5826-bf7a-8e5a-501a6d93c321/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6803095967",
+      "attributes": {
+        "album": "Была, не была - Single",
+        "duration": "2:47",
+        "durationIso": "PT2M47S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Была, не была 2 Jakone, Kiliana Была, не была - Single PREVIEW 2:47"
+    },
+    {
+      "title": "Gangur Varser",
+      "canonicalUrl": "https://music.apple.com/us/song/gangur-varser/6799602353",
+      "creator": "Sirusho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/ff/4d/3aff4d91-02a2-b02f-8535-a640462767f6/859743784032_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6799602353",
+      "attributes": {
+        "album": "Gangur Varser - Single",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Gangur Varser 3 Sirusho Gangur Varser - Single PREVIEW 3:32"
+    },
+    {
+      "title": "спектакль",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B0%D0%BA%D0%BB%D1%8C/6800005388",
+      "creator": "By Индия",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/b8/a8/ceb8a8d8-63c4-c85f-eb05-b257f9afa3c4/4660275302573.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6800005388",
+      "attributes": {
+        "album": "спектакль - Single",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "спектакль 4 By Индия спектакль - Single PREVIEW 2:58"
+    },
+    {
+      "title": "Шадэ",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%88%D0%B0%D0%B4%D1%8D/6766270384",
+      "creator": "By Индия, Xcho, МОТ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/f0/0f/86f00fb7-4f89-c1ef-1fac-ffcfdf4028a0/3618111050998.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6766270384",
+      "attributes": {
+        "album": "Шадэ - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "Шадэ 5 By Индия, Xcho, МОТ Шадэ - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Лампочки",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BB%D0%B0%D0%BC%D0%BF%D0%BE%D1%87%D0%BA%D0%B8/1575451599",
+      "creator": "ARTIK & ASTI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/47/f6/3447f604-2abc-391f-e1f4-ed6d57005a7f/190296541223.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1575451599",
+      "attributes": {
+        "album": "Миллениум Х",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "Лампочки 6 ARTIK & ASTI Миллениум Х PREVIEW 3:15"
+    },
+    {
+      "title": "Если я буду танцевать",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B5%D1%81%D0%BB%D0%B8-%D1%8F-%D0%B1%D1%83%D0%B4%D1%83-%D1%82%D0%B0%D0%BD%D1%86%D0%B5%D0%B2%D0%B0%D1%82%D1%8C/6791142755",
+      "creator": "Basta, Moya Mishel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/a5/55/1ca55550-388e-1e77-103c-abf2809b2bf8/cover.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6791142755",
+      "attributes": {
+        "album": "Если я буду танцевать - Single",
+        "duration": "2:59",
+        "durationIso": "PT2M59S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "Если я буду танцевать 7 Basta, Moya Mishel Если я буду танцевать - Single PREVIEW 2:59"
+    },
+    {
+      "title": "Loser",
+      "canonicalUrl": "https://music.apple.com/us/song/loser/1836226731",
+      "creator": "Tame Impala",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1836226731",
+      "attributes": {
+        "album": "Deadbeat",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "8",
+        "explicit": true
+      },
+      "evidenceText": "Loser 8 Tame Impala Deadbeat PREVIEW 3:43"
+    },
+    {
+      "title": "Tar Indz Heru (feat. Gharib)",
+      "canonicalUrl": "https://music.apple.com/us/song/tar-indz-heru-feat-gharib/6783803173",
+      "creator": "D'Litte",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/be/40/86be400f-d96d-e5aa-4155-5b52b1095c33/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6783803173",
+      "attributes": {
+        "album": "Rehab",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "9",
+        "explicit": false
+      },
+      "evidenceText": "Tar Indz Heru (feat. Gharib) 9 D'Litte Rehab PREVIEW 3:20"
+    },
+    {
+      "title": "Кинолента",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BA%D0%B8%D0%BD%D0%BE%D0%BB%D0%B5%D0%BD%D1%82%D0%B0/6796240908",
+      "creator": "Basta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/89/16/29891644-5e13-b33a-e77f-49e94c76318d/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6796240908",
+      "attributes": {
+        "album": "Баста 3",
+        "duration": "4:23",
+        "durationIso": "PT4M23S",
+        "chartPosition": "10",
+        "explicit": false
+      },
+      "evidenceText": "Кинолента 10 Basta Баста 3 PREVIEW 4:23"
+    },
+    {
+      "title": "Тень",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%82%D0%B5%D0%BD%D1%8C/6813519778",
+      "creator": "Xcho, Kristina Si",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/f6/30/b8f63075-b8f8-0367-c43f-7213dc9b74e4/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6813519778",
+      "attributes": {
+        "album": "LTM",
+        "duration": "2:13",
+        "durationIso": "PT2M13S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "Тень 11 Xcho, Kristina Si LTM PREVIEW 2:13"
+    },
+    {
+      "title": "Как же (feat. Kiliana)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BA%D0%B0%D0%BA-%D0%B6%D0%B5-feat-kiliana/1758120890",
+      "creator": "MACAN",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/47/98/9147988a-4ae9-d1e6-893e-261111df8328/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1758120890",
+      "attributes": {
+        "album": "I AM",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "Как же (feat. Kiliana) 12 MACAN I AM PREVIEW 2:33"
+    },
+    {
+      "title": "Purosangue",
+      "canonicalUrl": "https://music.apple.com/us/song/purosangue/1891389043",
+      "creator": "Jakone, MACAN",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/2b/9c/fc2b9cc4-7601-0c7b-52d6-91c03b237a92/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1891389043",
+      "attributes": {
+        "album": "Purosangue",
+        "duration": "2:16",
+        "durationIso": "PT2M16S",
+        "chartPosition": "13",
+        "explicit": true
+      },
+      "evidenceText": "Purosangue 13 Jakone, MACAN Purosangue PREVIEW 2:16"
+    },
+    {
+      "title": "Мутный тип",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BC%D1%83%D1%82%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BF/6766689060",
+      "creator": "Jakone, Kiliana, Вектор А",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/fe/c6/70fec650-e051-59a4-ad77-bad050d7f6b8/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6766689060",
+      "attributes": {
+        "album": "Мутный тип - Single",
+        "duration": "2:06",
+        "durationIso": "PT2M6S",
+        "chartPosition": "14",
+        "explicit": true
+      },
+      "evidenceText": "Мутный тип 14 Jakone, Kiliana, Вектор А Мутный тип - Single PREVIEW 2:06"
+    },
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "15",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 15 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Дай знать",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B4%D0%B0%D0%B9-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C/6812711534",
+      "creator": "NAVAI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/8e/f0/1b8ef021-ed08-ec66-d02f-82ef019f8c4d/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6812711534",
+      "attributes": {
+        "album": "Фриковая драма",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "Дай знать 16 NAVAI Фриковая драма PREVIEW 3:13"
+    },
+    {
+      "title": "Mamba",
+      "canonicalUrl": "https://music.apple.com/us/song/mamba/6778783764",
+      "creator": "Matador",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/02/df/2b02df63-1557-b10d-e2b3-50f956f7b9b0/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6778783764",
+      "attributes": {
+        "album": "Mamba - Single",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "Mamba 17 Matador Mamba - Single PREVIEW 3:41"
+    },
+    {
+      "title": "Больше, чем ближе",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5-%D1%87%D0%B5%D0%BC-%D0%B1%D0%BB%D0%B8%D0%B6%D0%B5/1876201032",
+      "creator": "NAVAI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/1a/69/851a6999-04ec-7e6d-d415-630b9cda1762/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1876201032",
+      "attributes": {
+        "album": "Больше, чем ближе - Single",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "Больше, чем ближе 18 NAVAI Больше, чем ближе - Single PREVIEW 3:36"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "19",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 19 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "Take Me There",
+      "canonicalUrl": "https://music.apple.com/us/song/take-me-there/6786993744",
+      "creator": "DA TI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/3e/fe/f73efe5f-6422-da7d-fe93-cf4461a8c712/054391212542.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6786993744",
+      "attributes": {
+        "album": "Take Me There - Single",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "20",
+        "explicit": false
+      },
+      "evidenceText": "Take Me There 20 DA TI Take Me There - Single PREVIEW 3:22"
+    },
+    {
+      "title": "Training Season",
+      "canonicalUrl": "https://music.apple.com/us/song/training-season/1727526894",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/89/15/828915ea-d716-61c4-3de7-ef00c1f800fb/5054197853630.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1727526894",
+      "attributes": {
+        "album": "Training Season - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "Training Season 21 Dua Lipa Training Season - Single PREVIEW 3:29"
+    },
+    {
+      "title": "Не понимаю",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BD%D0%B5-%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E/6813519777",
+      "creator": "Xcho, ANDRO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/f6/30/b8f63075-b8f8-0367-c43f-7213dc9b74e4/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6813519777",
+      "attributes": {
+        "album": "LTM",
+        "duration": "2:00",
+        "durationIso": "PT2M",
+        "chartPosition": "22",
+        "explicit": false
+      },
+      "evidenceText": "Не понимаю 22 Xcho, ANDRO LTM PREVIEW 2:00"
+    },
+    {
+      "title": "Буду всегда с тобой",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B1%D1%83%D0%B4%D1%83-%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9/6800014097",
+      "creator": "Basta, AMCHI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/16/5e/bf165e66-4bac-b2b7-395b-b97c606bc5ab/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6800014097",
+      "attributes": {
+        "album": "Буду всегда с тобой - Single",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "Буду всегда с тобой 23 Basta, AMCHI Буду всегда с тобой - Single PREVIEW 2:58"
+    },
+    {
+      "title": "I Got Love (feat. Рем Дигга)",
+      "canonicalUrl": "https://music.apple.com/us/song/i-got-love-feat-%D1%80%D0%B5%D0%BC-%D0%B4%D0%B8%D0%B3%D0%B3%D0%B0/1604435517",
+      "creator": "Miyagi & Эндшпиль",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/f3/dd/98f3dd8f-b5b4-d6a1-849c-795130748b81/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1604435517",
+      "attributes": {
+        "album": "I Got Love (feat. Рем Дигга) - Single",
+        "duration": "4:36",
+        "durationIso": "PT4M36S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "I Got Love (feat. Рем Дигга) 24 Miyagi & Эндшпиль I Got Love (feat. Рем Дигга) - Single PREVIEW 4:36"
+    },
+    {
+      "title": "Формальные отношения",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/1889563753",
+      "creator": "A.V.G, D'Litte",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/5d/c5/295dc557-ca33-9aca-2a47-53a9c31c4cea/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1889563753",
+      "attributes": {
+        "album": "Формальные отношения - Single",
+        "duration": "2:56",
+        "durationIso": "PT2M56S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "Формальные отношения 25 A.V.G, D'Litte Формальные отношения - Single PREVIEW 2:56"
+    },
+    {
+      "title": "Amary Hajeli a",
+      "canonicalUrl": "https://music.apple.com/us/song/amary-hajeli-a/6783803180",
+      "creator": "D'Litte",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/be/40/86be400f-d96d-e5aa-4155-5b52b1095c33/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6783803180",
+      "attributes": {
+        "album": "Rehab",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "Amary Hajeli a 26 D'Litte Rehab PREVIEW 3:29"
+    },
+    {
+      "title": "Жиганская",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B6%D0%B8%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F/1848001063",
+      "creator": "Jakone, Kiliana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/f2/f5/ebf2f50d-1e86-3d19-f855-6a01ec763c8c/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1848001063",
+      "attributes": {
+        "album": "Жиганская - Single",
+        "duration": "2:08",
+        "durationIso": "PT2M8S",
+        "chartPosition": "27",
+        "explicit": false
+      },
+      "evidenceText": "Жиганская 27 Jakone, Kiliana Жиганская - Single PREVIEW 2:08"
+    },
+    {
+      "title": "Jamaican (Bam Bam)",
+      "canonicalUrl": "https://music.apple.com/us/song/jamaican-bam-bam/1883679876",
+      "creator": "HUGEL, SOLTO (FR)",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1883679876",
+      "attributes": {
+        "album": "Jamaican (Bam Bam) - Single",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "Jamaican (Bam Bam) 28 HUGEL, SOLTO (FR) Jamaican (Bam Bam) - Single PREVIEW 2:36"
+    },
+    {
+      "title": "Depi Ver",
+      "canonicalUrl": "https://music.apple.com/us/song/depi-ver/1858549733",
+      "creator": "D'Litte",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/52/cf/9752cfe2-1a97-782c-3282-7dcf95d80d25/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1858549733",
+      "attributes": {
+        "album": "Depi Ver - Single",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "29",
+        "explicit": false
+      },
+      "evidenceText": "Depi Ver 29 D'Litte Depi Ver - Single PREVIEW 3:12"
+    },
+    {
+      "title": "Почему",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83/6810300448",
+      "creator": "Goro, D'Litte",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/41/d0/4241d0d3-a00e-8adc-ccdd-af2560133dfa/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6810300448",
+      "attributes": {
+        "album": "Почему - Single",
+        "duration": "2:27",
+        "durationIso": "PT2M27S",
+        "chartPosition": "30",
+        "explicit": false
+      },
+      "evidenceText": "Почему 30 Goro, D'Litte Почему - Single PREVIEW 2:27"
+    },
+    {
+      "title": "Chimanayir (feat. Goga)",
+      "canonicalUrl": "https://music.apple.com/us/song/chimanayir-feat-goga/1514055891",
+      "creator": "Misho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/0f/59/390f594d-e43d-531f-5d17-8751bc4e1055/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1514055891",
+      "attributes": {
+        "album": "I'm Lezun",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "31",
+        "explicit": true
+      },
+      "evidenceText": "Chimanayir (feat. Goga) 31 Misho I'm Lezun PREVIEW 3:32"
+    },
+    {
+      "title": "Моя Вселенная (feat. Тати)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BC%D0%BE%D1%8F-%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-feat-%D1%82%D0%B0%D1%82%D0%B8/6801163513",
+      "creator": "Basta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/77/8c/b9778cfc-d904-1597-066e-fde88775a0a1/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6801163513",
+      "attributes": {
+        "album": "Баста 4",
+        "duration": "3:31",
+        "durationIso": "PT3M31S",
+        "chartPosition": "32",
+        "explicit": false
+      },
+      "evidenceText": "Моя Вселенная (feat. Тати) 32 Basta Баста 4 PREVIEW 3:31"
+    },
+    {
+      "title": "5 SOVORUM ES",
+      "canonicalUrl": "https://music.apple.com/us/song/5-sovorum-es/1848227569",
+      "creator": "Brunette",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/65/18/48651846-a9b6-206e-6d43-b9ac90a65d62/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1848227569",
+      "attributes": {
+        "album": "LOVE REVERSED",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "5 SOVORUM ES 33 Brunette LOVE REVERSED PREVIEW 3:39"
+    },
+    {
+      "title": "Типичный я",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%82%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D1%8F/1842846692",
+      "creator": "Jakone, D'Litte",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/19/19/831919a2-e556-48cf-0175-8ae607974463/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1842846692",
+      "attributes": {
+        "album": "Типичный я - Single",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "Типичный я 34 Jakone, D'Litte Типичный я - Single PREVIEW 2:42"
+    },
+    {
+      "title": "ты в моих мыслях навсегда",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%82%D1%8B-%D0%B2-%D0%BC%D0%BE%D0%B8%D1%85-%D0%BC%D1%8B%D1%81%D0%BB%D1%8F%D1%85-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0/1862201387",
+      "creator": "урал гайсин, снялцепи",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/fa/e5/4dfae551-1c1d-7185-c7fa-45bd97282aa0/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1862201387",
+      "attributes": {
+        "album": "ты в моих мыслях навсегда - Single",
+        "duration": "1:57",
+        "durationIso": "PT1M57S",
+        "chartPosition": "35",
+        "explicit": false
+      },
+      "evidenceText": "ты в моих мыслях навсегда 35 урал гайсин, снялцепи ты в моих мыслях навсегда - Single PREVIEW 1:57"
+    },
+    {
+      "title": "Bad Times (Extended Version)",
+      "canonicalUrl": "https://music.apple.com/us/song/bad-times-extended-version/1890913669",
+      "creator": "Imael Angel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/7f/08037f7d-6173-9348-991d-5966f0686539/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1890913669",
+      "attributes": {
+        "album": "Bad Times (Extended Version) - Single",
+        "duration": "6:40",
+        "durationIso": "PT6M40S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "Bad Times (Extended Version) 36 Imael Angel Bad Times (Extended Version) - Single PREVIEW 6:40"
+    },
+    {
+      "title": "Птичка",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BF%D1%82%D0%B8%D1%87%D0%BA%D0%B0/1567242188",
+      "creator": "HammAli & Navai",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/66/57/e0665781-47da-1c74-7a99-22b6cd6fee4f/190296669637.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1567242188",
+      "attributes": {
+        "album": "Птичка - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "Птичка 37 HammAli & Navai Птичка - Single PREVIEW 3:10"
+    },
+    {
+      "title": "неболей",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BD%D0%B5%D0%B1%D0%BE%D0%BB%D0%B5%D0%B9/1525792085",
+      "creator": "Basta, Zivert",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/e3/fe/33e3fe9e-3caf-7bce-1739-8f72441718f4/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1525792085",
+      "attributes": {
+        "album": "неболей - Single",
+        "duration": "5:34",
+        "durationIso": "PT5M34S",
+        "chartPosition": "38",
+        "explicit": false
+      },
+      "evidenceText": "неболей 38 Basta, Zivert неболей - Single PREVIEW 5:34"
+    },
+    {
+      "title": "Но ты без ума",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BD%D0%BE-%D1%82%D1%8B-%D0%B1%D0%B5%D0%B7-%D1%83%D0%BC%D0%B0/6813519776",
+      "creator": "Xcho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/f6/30/b8f63075-b8f8-0367-c43f-7213dc9b74e4/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6813519776",
+      "attributes": {
+        "album": "LTM",
+        "duration": "2:26",
+        "durationIso": "PT2M26S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "Но ты без ума 39 Xcho LTM PREVIEW 2:26"
+    },
+    {
+      "title": "2 IM TAN BAKUM",
+      "canonicalUrl": "https://music.apple.com/us/song/2-im-tan-bakum/1848227572",
+      "creator": "Brunette",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/65/18/48651846-a9b6-206e-6d43-b9ac90a65d62/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1848227572",
+      "attributes": {
+        "album": "LOVE REVERSED",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "40",
+        "explicit": false
+      },
+      "evidenceText": "2 IM TAN BAKUM 40 Brunette LOVE REVERSED PREVIEW 2:37"
+    },
+    {
+      "title": "Асфальт",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B0%D1%81%D1%84%D0%B0%D0%BB%D1%8C%D1%82/1752856088",
+      "creator": "Jakone, Kiliana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/09/91/34099111-b60a-0e8f-103c-bca48e7b7fbe/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1752856088",
+      "attributes": {
+        "album": "Асфальт - Single",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "Асфальт 41 Jakone, Kiliana Асфальт - Single PREVIEW 2:50"
+    },
+    {
+      "title": "Сансара (feat. Диана Арбенина, Александр Ф. Скляр, Сергей Бобунец, SUNSAY, Скриптонит & АНТ)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%81%D0%B0%D0%BD%D1%81%D0%B0%D1%80%D0%B0-feat-%D0%B4%D0%B8%D0%B0%D0%BD%D0%B0-%D0%B0%D1%80%D0%B1%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%84-%D1%81%D0%BA%D0%BB%D1%8F%D1%80-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9/6778730185",
+      "creator": "Basta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/c2/4c/22c24c22-5e2f-cbe6-8d6a-bc17941f5db1/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6778730185",
+      "attributes": {
+        "album": "Сансара (feat. Диана Арбенина, Александр Ф. Скляр, Сергей Бобунец, SUNSAY, Скриптонит & АНТ) - Single",
+        "duration": "6:02",
+        "durationIso": "PT6M2S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "Сансара (feat. Диана Арбенина, Александр Ф. Скляр, Сергей Бобунец, SUNSAY, Скриптонит & АНТ) 42 Basta Сансара (feat. Диана Арбенина, Александр Ф. Скляр, Сергей Бобунец, SUNSAY, Скриптонит & АНТ) - Single PREVIEW 6:02"
+    },
+    {
+      "title": "Moskva lyubit...",
+      "canonicalUrl": "https://music.apple.com/us/song/moskva-lyubit/1492679589",
+      "creator": "Skryptonite",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3d/48/13/3d4813da-8601-6a6e-067c-0f398ed30c79/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1492679589",
+      "attributes": {
+        "album": "2004",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "43",
+        "explicit": true
+      },
+      "evidenceText": "Moskva lyubit... 43 Skryptonite 2004 PREVIEW 3:25"
+    },
+    {
+      "title": "Lovesong",
+      "canonicalUrl": "https://music.apple.com/us/song/lovesong/1544491996",
+      "creator": "Adele",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/ca/25/ebca2596-cd1e-b295-91a3-771c868d0a79/191404113868.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1544491996",
+      "attributes": {
+        "album": "21",
+        "duration": "5:16",
+        "durationIso": "PT5M16S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "Lovesong 44 Adele 21 PREVIEW 5:16"
+    },
+    {
+      "title": "Raindance",
+      "canonicalUrl": "https://music.apple.com/us/song/raindance/1847992612",
+      "creator": "Dave, Tems",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/49/24/9949241c-e52c-3018-eae8-c686013a7474/25UM1IM68216.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1847992612",
+      "attributes": {
+        "album": "The Boy Who Played the Harp",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "45",
+        "explicit": false
+      },
+      "evidenceText": "Raindance 45 Dave, Tems The Boy Who Played the Harp PREVIEW 3:39"
+    },
+    {
+      "title": "Shape of My Heart",
+      "canonicalUrl": "https://music.apple.com/us/song/shape-of-my-heart/1415203739",
+      "creator": "Sting",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/ac/f4/59acf4db-0ea8-a8e5-5607-01e931bb2d58/06UMGIM49867.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1415203739",
+      "attributes": {
+        "album": "Ten Summoner's Tales",
+        "duration": "4:39",
+        "durationIso": "PT4M39S",
+        "chartPosition": "46",
+        "explicit": false
+      },
+      "evidenceText": "Shape of My Heart 46 Sting Ten Summoner's Tales PREVIEW 4:39"
+    },
+    {
+      "title": "По весне",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BF%D0%BE-%D0%B2%D0%B5%D1%81%D0%BD%D0%B5/1679982493",
+      "creator": "Jakone, SCIRENA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/80/1a/48801a2e-899a-6f51-d625-0920c471b58f/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1679982493",
+      "attributes": {
+        "album": "По весне - Single",
+        "duration": "2:29",
+        "durationIso": "PT2M29S",
+        "chartPosition": "47",
+        "explicit": true
+      },
+      "evidenceText": "По весне 47 Jakone, SCIRENA По весне - Single PREVIEW 2:29"
+    },
+    {
+      "title": "Verji togh",
+      "canonicalUrl": "https://music.apple.com/us/song/verji-togh/1815536510",
+      "creator": "Misho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/ba/ea/e4baeac0-297f-7c5d-250f-2bd7ab5b2b1d/199350652110.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1815536510",
+      "attributes": {
+        "album": "Verji togh - Single",
+        "duration": "3:58",
+        "durationIso": "PT3M58S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Verji togh 48 Misho Verji togh - Single PREVIEW 3:58"
+    },
+    {
+      "title": "Movin' To The Sun",
+      "canonicalUrl": "https://music.apple.com/us/song/movin-to-the-sun/6769070199",
+      "creator": "HUGEL, Imael Angel, Ultra Naté",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6769070199",
+      "attributes": {
+        "album": "Movin' To The Sun - Single",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "Movin' To The Sun 49 HUGEL, Imael Angel, Ultra Naté Movin' To The Sun - Single PREVIEW 2:22"
+    },
+    {
+      "title": "Приду",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BF%D1%80%D0%B8%D0%B4%D1%83/6813519779",
+      "creator": "Xcho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/f6/30/b8f63075-b8f8-0367-c43f-7213dc9b74e4/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6813519779",
+      "attributes": {
+        "album": "LTM",
+        "duration": "2:24",
+        "durationIso": "PT2M24S",
+        "chartPosition": "50",
+        "explicit": false
+      },
+      "evidenceText": "Приду 50 Xcho LTM PREVIEW 2:24"
+    },
+    {
+      "title": "Can't Tell Me Nothing",
+      "canonicalUrl": "https://music.apple.com/us/song/cant-tell-me-nothing/1451903287",
+      "creator": "Kanye West",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/db/2c/2fdb2c9d-171c-c6dc-57ee-4bae2b4bb11a/07UMGIM12671.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1451903287",
+      "attributes": {
+        "album": "Graduation",
+        "duration": "4:31",
+        "durationIso": "PT4M31S",
+        "chartPosition": "51",
+        "explicit": true
+      },
+      "evidenceText": "Can't Tell Me Nothing 51 Kanye West Graduation PREVIEW 4:31"
+    },
+    {
+      "title": "Город дорог",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3/1777205290",
+      "creator": "MONA, MACAN",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3e/98/5c3e98bc-c1f4-bf6d-2beb-374a7f996f9e/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1777205290",
+      "attributes": {
+        "album": "Дневник памяти",
+        "duration": "2:32",
+        "durationIso": "PT2M32S",
+        "chartPosition": "52",
+        "explicit": false
+      },
+      "evidenceText": "Город дорог 52 MONA, MACAN Дневник памяти PREVIEW 2:32"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 53 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Dai Dai",
+      "canonicalUrl": "https://music.apple.com/us/song/dai-dai/6768469976",
+      "creator": "Shakira, Burna Boy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6768469976",
+      "attributes": {
+        "album": "Dai Dai - Single",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "54",
+        "explicit": false
+      },
+      "evidenceText": "Dai Dai 54 Shakira, Burna Boy Dai Dai - Single PREVIEW 3:43"
+    },
+    {
+      "title": "TAQ HAC",
+      "canonicalUrl": "https://music.apple.com/us/song/taq-hac/1883132946",
+      "creator": "GALIFE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/00/71/3800713b-1873-c975-80e8-dacf740162dc/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1883132946",
+      "attributes": {
+        "album": "TAQ HAC - Single",
+        "duration": "2:15",
+        "durationIso": "PT2M15S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "TAQ HAC 55 GALIFE TAQ HAC - Single PREVIEW 2:15"
+    },
+    {
+      "title": "BAD TIMES",
+      "canonicalUrl": "https://music.apple.com/us/song/bad-times/1894224409",
+      "creator": "Imael Angel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1894224409",
+      "attributes": {
+        "album": "BAD TIMES - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "BAD TIMES 56 Imael Angel BAD TIMES - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Заново",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B7%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE/1758119186",
+      "creator": "MACAN",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/47/98/9147988a-4ae9-d1e6-893e-261111df8328/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1758119186",
+      "attributes": {
+        "album": "I AM",
+        "duration": "2:00",
+        "durationIso": "PT2M",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "Заново 57 MACAN I AM PREVIEW 2:00"
+    },
+    {
+      "title": "WILDFLOWER",
+      "canonicalUrl": "https://music.apple.com/us/song/wildflower/1739659144",
+      "creator": "Billie Eilish",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1739659144",
+      "attributes": {
+        "album": "HIT ME HARD AND SOFT",
+        "duration": "4:21",
+        "durationIso": "PT4M21S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "WILDFLOWER 58 Billie Eilish HIT ME HARD AND SOFT PREVIEW 4:21"
+    },
+    {
+      "title": "Ttvacin",
+      "canonicalUrl": "https://music.apple.com/us/song/ttvacin/1868736231",
+      "creator": "D'Litte",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/98/d57398cd-5daa-01b4-d6b3-0f5f24e4bee9/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1868736231",
+      "attributes": {
+        "album": "Ttvacin - Single",
+        "duration": "3:05",
+        "durationIso": "PT3M5S",
+        "chartPosition": "59",
+        "explicit": false
+      },
+      "evidenceText": "Ttvacin 59 D'Litte Ttvacin - Single PREVIEW 3:05"
+    },
+    {
+      "title": "Billie Jean",
+      "canonicalUrl": "https://music.apple.com/us/song/billie-jean/269573364",
+      "creator": "Michael Jackson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "269573364",
+      "attributes": {
+        "album": "Thriller",
+        "duration": "4:53",
+        "durationIso": "PT4M53S",
+        "chartPosition": "60",
+        "explicit": false
+      },
+      "evidenceText": "Billie Jean 60 Michael Jackson Thriller PREVIEW 4:53"
+    },
+    {
+      "title": "Ты так мне необходим",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%82%D1%8B-%D1%82%D0%B0%D0%BA-%D0%BC%D0%BD%D0%B5-%D0%BD%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC/1728270210",
+      "creator": "MONA, Basta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/57/83/10/57831088-ecaa-7cec-5e0e-d576011fd54a/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1728270210",
+      "attributes": {
+        "album": "Ты так мне необходим - Single",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "61",
+        "explicit": false
+      },
+      "evidenceText": "Ты так мне необходим 61 MONA, Basta Ты так мне необходим - Single PREVIEW 2:42"
+    },
+    {
+      "title": "Люби меня (feat. Sимптом)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BB%D1%8E%D0%B1%D0%B8-%D0%BC%D0%B5%D0%BD%D1%8F-feat-s%D0%B8%D0%BC%D0%BF%D1%82%D0%BE%D0%BC/1770509338",
+      "creator": "Miyagi & Эндшпиль",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/14/f1/d814f137-a16b-73d0-ef2a-5d722cfe387c/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1770509338",
+      "attributes": {
+        "album": "Hajime, Pt. 2 - EP",
+        "duration": "5:18",
+        "durationIso": "PT5M18S",
+        "chartPosition": "62",
+        "explicit": true
+      },
+      "evidenceText": "Люби меня (feat. Sимптом) 62 Miyagi & Эндшпиль Hajime, Pt. 2 - EP PREVIEW 5:18"
+    },
+    {
+      "title": "Flashing Lights (feat. Dwele)",
+      "canonicalUrl": "https://music.apple.com/us/song/flashing-lights-feat-dwele/1451903882",
+      "creator": "Kanye West",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/db/2c/2fdb2c9d-171c-c6dc-57ee-4bae2b4bb11a/07UMGIM12671.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1451903882",
+      "attributes": {
+        "album": "Graduation",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "63",
+        "explicit": true
+      },
+      "evidenceText": "Flashing Lights (feat. Dwele) 63 Kanye West Graduation PREVIEW 3:57"
+    },
+    {
+      "title": "Whatever Happens",
+      "canonicalUrl": "https://music.apple.com/us/song/whatever-happens/215740514",
+      "creator": "Michael Jackson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/dc/02/ef/dc02eff2-027c-a468-7d7b-aa9404e74f1a/mzi.mgytcnob.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "215740514",
+      "attributes": {
+        "album": "Invincible",
+        "duration": "4:56",
+        "durationIso": "PT4M56S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "Whatever Happens 64 Michael Jackson Invincible PREVIEW 4:56"
+    },
+    {
+      "title": "Моя игра (feat. Guf)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BC%D0%BE%D1%8F-%D0%B8%D0%B3%D1%80%D0%B0-feat-guf/1885484475",
+      "creator": "Basta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/0b/c4/eb0bc40b-df48-3dde-7757-49643b02ce29/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1885484475",
+      "attributes": {
+        "album": "Баста 2",
+        "duration": "5:34",
+        "durationIso": "PT5M34S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "Моя игра (feat. Guf) 65 Basta Баста 2 PREVIEW 5:34"
+    },
+    {
+      "title": "Медина",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BC%D0%B5%D0%B4%D0%B8%D0%BD%D0%B0/1355737377",
+      "creator": "Jah Khalib",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/8b/5f/3d8b5f38-d3fb-6c11-6dd8-b7f4d05ceeb8/contsched.cchzdzyc.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1355737377",
+      "attributes": {
+        "album": "E.G.O.",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "Медина 66 Jah Khalib E.G.O. PREVIEW 3:42"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 67 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "В конце концов",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B2-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5-%D0%BA%D0%BE%D0%BD%D1%86%D0%BE%D0%B2/6812711536",
+      "creator": "NAVAI, MONA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/8e/f0/1b8ef021-ed08-ec66-d02f-82ef019f8c4d/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6812711536",
+      "attributes": {
+        "album": "Фриковая драма",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "В конце концов 68 NAVAI, MONA Фриковая драма PREVIEW 3:22"
+    },
+    {
+      "title": "Arevin Mot",
+      "canonicalUrl": "https://music.apple.com/us/song/arevin-mot/6784188682",
+      "creator": "Kami Friends, Brunette",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/90/26/119026c2-aebb-b893-15ef-356db9943e54/859772867317.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6784188682",
+      "attributes": {
+        "album": "Arevin Mot - Single",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "69",
+        "explicit": false
+      },
+      "evidenceText": "Arevin Mot 69 Kami Friends, Brunette Arevin Mot - Single PREVIEW 3:08"
+    },
+    {
+      "title": "ЗНАК",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B7%D0%BD%D0%B0%D0%BA/6793556682",
+      "creator": "Toxi$, Dora",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/c3/dc/1ac3dc86-3154-9b9b-f26b-d82ae4093d68/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6793556682",
+      "attributes": {
+        "album": "ЗНАК - Single",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "ЗНАК 70 Toxi$, Dora ЗНАК - Single PREVIEW 3:36"
+    },
+    {
+      "title": "На своём вайбе (feat. Гуф)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BD%D0%B0-%D1%81%D0%B2%D0%BE%D1%91%D0%BC-%D0%B2%D0%B0%D0%B9%D0%B1%D0%B5-feat-%D0%B3%D1%83%D1%84/1525916353",
+      "creator": "Jah Khalib",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b6/d6/e5/b6d6e583-0ac2-d3b9-76b8-844738084d94/190295165932.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1525916353",
+      "attributes": {
+        "album": "Баха и Дмитрий Карантино",
+        "duration": "2:59",
+        "durationIso": "PT2M59S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "На своём вайбе (feat. Гуф) 71 Jah Khalib Баха и Дмитрий Карантино PREVIEW 2:59"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 72 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Моментами",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8/6813519782",
+      "creator": "Xcho, Пабло, Mr Lambo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/f6/30/b8f63075-b8f8-0367-c43f-7213dc9b74e4/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6813519782",
+      "attributes": {
+        "album": "LTM",
+        "duration": "2:51",
+        "durationIso": "PT2M51S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "Моментами 73 Xcho, Пабло, Mr Lambo LTM PREVIEW 2:51"
+    },
+    {
+      "title": "Smoke Break",
+      "canonicalUrl": "https://music.apple.com/us/song/smoke-break/1629888456",
+      "creator": "Brunette",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e0/93/dc/e093dc1b-225c-45fd-fcee-7e69d05918ee/859762973516_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1629888456",
+      "attributes": {
+        "album": "Smoke Break - Single",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "74",
+        "explicit": true
+      },
+      "evidenceText": "Smoke Break 74 Brunette Smoke Break - Single PREVIEW 2:57"
+    },
+    {
+      "title": "Ain't In LA",
+      "canonicalUrl": "https://music.apple.com/us/song/aint-in-la/6792884101",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6792884101",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "75",
+        "explicit": true
+      },
+      "evidenceText": "Ain't In LA 75 ADÉLA PRIMA PREVIEW 3:04"
+    },
+    {
+      "title": "Греет песок",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B3%D1%80%D0%B5%D0%B5%D1%82-%D0%BF%D0%B5%D1%81%D0%BE%D0%BA/6813519781",
+      "creator": "Xcho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/f6/30/b8f63075-b8f8-0367-c43f-7213dc9b74e4/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6813519781",
+      "attributes": {
+        "album": "LTM",
+        "duration": "1:56",
+        "durationIso": "PT1M56S",
+        "chartPosition": "76",
+        "explicit": false
+      },
+      "evidenceText": "Греет песок 76 Xcho LTM PREVIEW 1:56"
+    },
+    {
+      "title": "Где ты теперь и с кем",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B3%D0%B4%D0%B5-%D1%82%D1%8B-%D1%82%D0%B5%D0%BF%D0%B5%D1%80%D1%8C-%D0%B8-%D1%81-%D0%BA%D0%B5%D0%BC/1683202537",
+      "creator": "Basta, HammAli & Navai",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/da/58/92da58f9-7e98-9166-4b4d-957c37ae3bd1/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1683202537",
+      "attributes": {
+        "album": "Где ты теперь и с кем - Single",
+        "duration": "5:06",
+        "durationIso": "PT5M6S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "Где ты теперь и с кем 77 Basta, HammAli & Navai Где ты теперь и с кем - Single PREVIEW 5:06"
+    },
+    {
+      "title": "Tsar",
+      "canonicalUrl": "https://music.apple.com/us/song/tsar/1509544906",
+      "creator": "Misho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b7/48/02/b74802c7-f17c-2320-97a8-54a93ed25399/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1509544906",
+      "attributes": {
+        "album": "Xchchvats Jur",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "78",
+        "explicit": false
+      },
+      "evidenceText": "Tsar 78 Misho Xchchvats Jur PREVIEW 3:15"
+    },
+    {
+      "title": "Blinding Lights",
+      "canonicalUrl": "https://music.apple.com/us/song/blinding-lights/1488408568",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1488408568",
+      "attributes": {
+        "album": "Blinding Lights - Single",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "79",
+        "explicit": false
+      },
+      "evidenceText": "Blinding Lights 79 The Weeknd Blinding Lights - Single PREVIEW 3:21"
+    },
+    {
+      "title": "Chicago",
+      "canonicalUrl": "https://music.apple.com/us/song/chicago/850697800",
+      "creator": "Michael Jackson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/15/cc/8315ccdd-5a8d-8344-fa15-72e4cb64145e/886444533171.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "850697800",
+      "attributes": {
+        "album": "XSCAPE (Deluxe)",
+        "duration": "4:05",
+        "durationIso": "PT4M5S",
+        "chartPosition": "80",
+        "explicit": false
+      },
+      "evidenceText": "Chicago 80 Michael Jackson XSCAPE (Deluxe) PREVIEW 4:05"
+    },
+    {
+      "title": "Training Season (Live from the Royal Albert Hall)",
+      "canonicalUrl": "https://music.apple.com/us/song/training-season-live-from-the-royal-albert-hall/1779948717",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/c1/57/0ec1575f-5153-ac4b-d578-c5fa3a90bfe1/5021732511676.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1779948717",
+      "attributes": {
+        "album": "Dua Lipa - Live from the Royal Albert Hall",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "81",
+        "explicit": false
+      },
+      "evidenceText": "Training Season (Live from the Royal Albert Hall) 81 Dua Lipa Dua Lipa - Live from the Royal Albert Hall PREVIEW 3:40"
+    },
+    {
+      "title": "На заре",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BD%D0%B0-%D0%B7%D0%B0%D1%80%D0%B5/6784265769",
+      "creator": "Basta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/27/7a/42277ae9-43e3-5091-b48b-d371c1f010ea/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6784265769",
+      "attributes": {
+        "album": "На заре - Single",
+        "duration": "5:06",
+        "durationIso": "PT5M6S",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "На заре 82 Basta На заре - Single PREVIEW 5:06"
+    },
+    {
+      "title": "Джаз",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B4%D0%B6%D0%B0%D0%B7/6813519783",
+      "creator": "Xcho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/f6/30/b8f63075-b8f8-0367-c43f-7213dc9b74e4/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6813519783",
+      "attributes": {
+        "album": "LTM",
+        "duration": "2:14",
+        "durationIso": "PT2M14S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "Джаз 83 Xcho LTM PREVIEW 2:14"
+    },
+    {
+      "title": "Возле дома твоего (feat. Макс Лоренс & Сацура)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B2%D0%BE%D0%B7%D0%BB%D0%B5-%D0%B4%D0%BE%D0%BC%D0%B0-%D1%82%D0%B2%D0%BE%D0%B5%D0%B3%D0%BE-feat-%D0%BC%D0%B0%D0%BA%D1%81-%D0%BB%D0%BE%D1%80%D0%B5%D0%BD%D1%81-%D1%81%D0%B0%D1%86%D1%83%D1%80%D0%B0/1841889712",
+      "creator": "Серёга",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/0c/9a/270c9a03-f7d7-2bcc-8d39-556878ca98e6/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1841889712",
+      "attributes": {
+        "album": "Возле дома твоего (feat. Макс Лоренс & Сацура) - Single",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "Возле дома твоего (feat. Макс Лоренс & Сацура) 84 Серёга Возле дома твоего (feat. Макс Лоренс & Сацура) - Single PREVIEW 3:33"
+    },
+    {
+      "title": "Alors on danse",
+      "canonicalUrl": "https://music.apple.com/us/song/alors-on-danse/1444872841",
+      "creator": "Stromae",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a8/69/90/a869906a-dd48-b772-785b-871459b36df2/10UMGIM03438.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1444872841",
+      "attributes": {
+        "album": "Alors on danse - Single",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "85",
+        "explicit": false
+      },
+      "evidenceText": "Alors on danse 85 Stromae Alors on danse - Single PREVIEW 3:27"
+    },
+    {
+      "title": "In Love (feat. KADI)",
+      "canonicalUrl": "https://music.apple.com/us/song/in-love-feat-kadi/1415765810",
+      "creator": "Miyagi & Эндшпиль",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/5a/30/265a3082-f059-0a7a-d6f1-1c4cd5c6ab00/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1415765810",
+      "attributes": {
+        "album": "In Love (feat. Kadi) - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "86",
+        "explicit": true
+      },
+      "evidenceText": "In Love (feat. KADI) 86 Miyagi & Эндшпиль In Love (feat. Kadi) - Single PREVIEW 3:15"
+    },
+    {
+      "title": "В сигаретном дыму",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B2-%D1%81%D0%B8%D0%B3%D0%B0%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%BC-%D0%B4%D1%8B%D0%BC%D1%83/1893417723",
+      "creator": "Basta, Guf",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/d4/ef/58d4efaa-ae02-03c0-1dd6-41dfc7a6075c/cover.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1893417723",
+      "attributes": {
+        "album": "Баста/Гуф 2026",
+        "duration": "4:29",
+        "durationIso": "PT4M29S",
+        "chartPosition": "87",
+        "explicit": true
+      },
+      "evidenceText": "В сигаретном дыму 87 Basta, Guf Баста/Гуф 2026 PREVIEW 4:29"
+    },
+    {
+      "title": "Ты мой сон",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%82%D1%8B-%D0%BC%D0%BE%D0%B9-%D1%81%D0%BE%D0%BD/1676959137",
+      "creator": "A.V.G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fa/4a/4e/fa4a4ed1-f407-9b9d-725d-a014185e1c02/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1676959137",
+      "attributes": {
+        "album": "Ты мой сон - Single",
+        "duration": "2:54",
+        "durationIso": "PT2M54S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "Ты мой сон 88 A.V.G Ты мой сон - Single PREVIEW 2:54"
+    },
+    {
+      "title": "Kancnen Orer",
+      "canonicalUrl": "https://music.apple.com/us/song/kancnen-orer/1610600626",
+      "creator": "Reincarnation",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c3/3a/9a/c33a9aa6-1d6b-88e0-45de-5b0f8adef098/859760020533_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1610600626",
+      "attributes": {
+        "album": "H2o",
+        "duration": "4:45",
+        "durationIso": "PT4M45S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "Kancnen Orer 89 Reincarnation H2o PREVIEW 4:45"
+    },
+    {
+      "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+      "canonicalUrl": "https://music.apple.com/us/song/beni-al-ta-ki-seni-g%C3%B6rene-kadar-beni-al-afro-house-remix/6772928175",
+      "creator": "Ankara Echoes",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/3c/a9/b73ca9b6-24f0-91ee-cd96-d967a18531f9/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6772928175",
+      "attributes": {
+        "album": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix] - Single",
+        "duration": "4:12",
+        "durationIso": "PT4M12S",
+        "chartPosition": "90",
+        "explicit": true
+      },
+      "evidenceText": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix] 90 Ankara Echoes Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix] - Single PREVIEW 4:12"
+    },
+    {
+      "title": "Do I Wanna Know?",
+      "canonicalUrl": "https://music.apple.com/us/song/do-i-wanna-know/663097965",
+      "creator": "Arctic Monkeys",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/9c/b5/699cb5d6-115c-ff73-9d26-e57ea4350d72/887828031795.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "663097965",
+      "attributes": {
+        "album": "AM",
+        "duration": "4:32",
+        "durationIso": "PT4M32S",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "Do I Wanna Know? 91 Arctic Monkeys AM PREVIEW 4:32"
+    },
+    {
+      "title": "DAO (feat. HLOY & даена)",
+      "canonicalUrl": "https://music.apple.com/us/song/dao-feat-hloy-%D0%B4%D0%B0%D0%B5%D0%BD%D0%B0/1787173282",
+      "creator": "Miyagi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/57/53/ce5753fa-b5a0-2673-a3c4-7902ef76b9c8/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1787173282",
+      "attributes": {
+        "album": "DAO (feat. HLOY & даена) - Single",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "DAO (feat. HLOY & даена) 92 Miyagi DAO (feat. HLOY & даена) - Single PREVIEW 3:42"
+    },
+    {
+      "title": "Спой",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%81%D0%BF%D0%BE%D0%B9/1727165647",
+      "creator": "A.V.G, MACAN",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/e4/2f/76e42f3e-2744-16a1-6cfd-8ca54a672f12/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1727165647",
+      "attributes": {
+        "album": "Спой - Single",
+        "duration": "2:25",
+        "durationIso": "PT2M25S",
+        "chartPosition": "93",
+        "explicit": false
+      },
+      "evidenceText": "Спой 93 A.V.G, MACAN Спой - Single PREVIEW 2:25"
+    },
+    {
+      "title": "NUEVAYoL",
+      "canonicalUrl": "https://music.apple.com/us/song/nuevayol/1787022572",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1787022572",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "94",
+        "explicit": false
+      },
+      "evidenceText": "NUEVAYoL 94 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 3:03"
+    },
+    {
+      "title": "Самый пьяный округ в мире",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%81%D0%B0%D0%BC%D1%8B%D0%B9-%D0%BF%D1%8C%D1%8F%D0%BD%D1%8B%D0%B9-%D0%BE%D0%BA%D1%80%D1%83%D0%B3-%D0%B2-%D0%BC%D0%B8%D1%80%D0%B5/1696922206",
+      "creator": "MACAN",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/67/cc/b867cc9d-41c1-f3d2-f852-5a76eba322d9/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1696922206",
+      "attributes": {
+        "album": "Самый пьяный округ в мире - Single",
+        "duration": "2:06",
+        "durationIso": "PT2M6S",
+        "chartPosition": "95",
+        "explicit": false
+      },
+      "evidenceText": "Самый пьяный округ в мире 95 MACAN Самый пьяный округ в мире - Single PREVIEW 2:06"
+    },
+    {
+      "title": "Ревнивая",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B2%D0%B0%D1%8F/1885492801",
+      "creator": "Xcho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/ea/97/40ea9763-6150-9201-fc6d-5b30bccc15fe/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1885492801",
+      "attributes": {
+        "album": "Ревнивая - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "Ревнивая 96 Xcho Ревнивая - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Not Like Us",
+      "canonicalUrl": "https://music.apple.com/us/song/not-like-us/1744776167",
+      "creator": "Kendrick Lamar",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1744776167",
+      "attributes": {
+        "album": "Not Like Us - Single",
+        "duration": "4:34",
+        "durationIso": "PT4M34S",
+        "chartPosition": "97",
+        "explicit": true
+      },
+      "evidenceText": "Not Like Us 97 Kendrick Lamar Not Like Us - Single PREVIEW 4:34"
+    },
+    {
+      "title": "Мутно",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BC%D1%83%D1%82%D0%BD%D0%BE/6813519780",
+      "creator": "Xcho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/f6/30/b8f63075-b8f8-0367-c43f-7213dc9b74e4/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "6813519780",
+      "attributes": {
+        "album": "LTM",
+        "duration": "2:10",
+        "durationIso": "PT2M10S",
+        "chartPosition": "98",
+        "explicit": false
+      },
+      "evidenceText": "Мутно 98 Xcho LTM PREVIEW 2:10"
+    },
+    {
+      "title": "No Ordinary Love",
+      "canonicalUrl": "https://music.apple.com/us/song/no-ordinary-love/158796562",
+      "creator": "Sade",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/c8/d7/18c8d7bc-8491-09e6-df0d-6e0a83ead680/mzi.wsikzifg.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "158796562",
+      "attributes": {
+        "album": "Love Deluxe",
+        "duration": "7:20",
+        "durationIso": "PT7M20S",
+        "chartPosition": "99",
+        "explicit": false
+      },
+      "evidenceText": "No Ordinary Love 99 Sade Love Deluxe PREVIEW 7:20"
+    },
+    {
+      "title": "Untouchable (feat. Рем Дигга)",
+      "canonicalUrl": "https://music.apple.com/us/song/untouchable-feat-%D1%80%D0%B5%D0%BC-%D0%B4%D0%B8%D0%B3%D0%B3%D0%B0/1441953198",
+      "creator": "Miyagi & Эндшпиль",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/88/95/49/88954974-3153-bddc-2666-10fa14499123/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-armenia/pl.42abb2144d594137a8fb4d37a9f35b42",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Armenia",
+      "externalId": "1441953198",
+      "attributes": {
+        "album": "Untouchable (feat. Рем Дигга) - Single",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "100",
+        "explicit": false
+      },
+      "evidenceText": "Untouchable (feat. Рем Дигга) 100 Miyagi & Эндшпиль Untouchable (feat. Рем Дигга) - Single PREVIEW 3:33"
+    }
+  ]
+}

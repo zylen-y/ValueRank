@@ -25,29 +25,44 @@ export function catalogUnit(item: CatalogItem): PersonalUnit {
   return { id: `catalog-${item.id}`, entityId: item.id, version: item.version, domain: `catalog-${item.kind}`, modality: 'text', kind: item.kind, title: item.title, body: metadata(item).slice(0, 1400), sourceIds: [`catalog-source-${item.id}`], evidence: [], concepts: [], limitations: ['Ranking uses observed titles, creators, categories and numerical metadata. Audio, video and image pixels have not been encoded.', 'Prices, popularity and availability are snapshots, not live guarantees.'], effortMinutes: 0, features: catalogFeatures(item), prior: 0, createdAt: item.observedAt, ...(item.imageUrl ? { imageUrl: item.imageUrl } : {}), imageSourceUrl: item.url, rights: 'Media belongs to its original owner. Source link and remote preview only.' };
 }
 export function createCatalogService(store: CatalogStore, personal: PersonalService) {
+  // Cache only immutable metadata revisions. Scores always use the current model,
+  // so a comparison or undo takes effect on the very next page request.
+  const unitCache = new Map<string, PersonalUnit>();
+  function cachedUnit(item: CatalogItem) {
+    const cached = unitCache.get(item.id);
+    if (cached?.version === item.version) return cached;
+    const unit = catalogUnit(item);
+    if (!unitCache.has(item.id) && unitCache.size >= 8192) unitCache.delete(unitCache.keys().next().value!);
+    unitCache.set(item.id, unit);
+    return unit;
+  }
   const getCollection = (id: string) => {
-    const collection = store.summary().collections.find(c => c.id === id);
+    const collection = store.collectionSummary(id);
     if (!collection) throw new PersonalError('Catalog collection not found.', 404);
     return collection;
   };
   function page(id: string, options: { query?: string; sort?: 'personal' | 'source' | 'recent'; offset?: number; limit?: number } = {}): CatalogPage {
     const collection = getCollection(id); const records = store.items(id, options.query);
     const offset = Math.max(0, Math.floor(options.offset ?? 0)); const limit = Math.max(1, Math.min(60, Math.floor(options.limit ?? 24)));
-    const ranked = new Map(personal.rank(records.map(catalogUnit)).map(unit => [unit.id, unit]));
-    const models = personal.snapshot().models;
+    const models = personal.getModels();
     const model = models.find(m => m.domain === `catalog-${collection.kind}` && m.schemaId === CATALOG_SCHEMA);
-    const result = records.map(record => { const score = ranked.get(`catalog-${record.id}`)!; return { ...record, score: score.score, modelVersion: score.modelVersion, rank: 0 }; });
     const sort = options.sort ?? 'personal';
-    result.sort((a, b) => sort === 'recent' ? b.lastSeenAt.localeCompare(a.lastSeenAt) || a.sourceRank - b.sourceRank : sort === 'source' || !model ? a.sourceRank - b.sourceRank : b.score - a.score || a.sourceRank - b.sourceRank);
-    result.forEach((item, i) => { item.rank = i + 1; });
-    return { collection, items: result.slice(offset, offset + limit), total: result.length, offset, limit, modelVersion: model?.version ?? 0, trainingCount: model?.trainingCount ?? 0, rankingBasis: model?.trainingCount ? 'Your explicit comparisons · metadata features · same-category model' : 'Original collection order · no personal choices learned yet' };
+    // All cold-start catalog units have prior=0 and no concepts: their exact
+    // score is 50. Encoding thousands of unused feature vectors is unnecessary.
+    const rankAll = model && sort === 'personal';
+    const ranked = new Map(rankAll ? personal.rank(records.map(cachedUnit)).map(unit => [unit.id, unit]) : []);
+    records.sort((a, b) => sort === 'recent' ? b.lastSeenAt.localeCompare(a.lastSeenAt) || a.sourceRank - b.sourceRank : !rankAll ? a.sourceRank - b.sourceRank : ranked.get(`catalog-${b.id}`)!.score - ranked.get(`catalog-${a.id}`)!.score || a.sourceRank - b.sourceRank);
+    const visible = records.slice(offset, offset + limit);
+    if (model && !rankAll) for (const unit of personal.rank(visible.map(cachedUnit))) ranked.set(unit.id, unit);
+    const result = visible.map((record, index) => ({ ...record, score: ranked.get(`catalog-${record.id}`)?.score ?? 50, modelVersion: model?.version ?? 0, rank: offset + index + 1 }));
+    return { collection, items: result, total: records.length, offset, limit, modelVersion: model?.version ?? 0, trainingCount: model?.trainingCount ?? 0, rankingBasis: model?.trainingCount ? 'Your explicit comparisons · metadata features · same-category model' : 'Original collection order · no personal choices learned yet' };
   }
   function practice(collectionId: string, requested?: string[]) {
     const collection = getCollection(collectionId); const all = store.items(collectionId);
     if (requested && (new Set(requested).size !== requested.length || requested.some(id => !all.some(item => item.id === id)))) throw new PersonalError('Choose distinct items from this collection.');
     const selected = requested?.length ? all.filter(item => requested.includes(item.id)) : all;
     if (selected.length < 2) throw new PersonalError('At least two catalog items are required.');
-    const records = selected.slice(0, 200); const units = records.map(catalogUnit);
+    const records = selected.slice(0, 200); const units = records.map(cachedUnit);
     // A stable window preserves an outstanding pair across reloads; another selection gets a separate dataset.
     const signature = createHash('sha256').update(records.map(i => `${i.id}@${i.version}`).join('|')).digest('hex').slice(0, 16);
     const datasetId = `catalog-${collectionId}-${signature}`;

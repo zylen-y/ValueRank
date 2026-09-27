@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+  "collection": "Top 100: USA",
+  "fetchedAt": "2026-09-27T03:39:29.509Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 1 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 2 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 3 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 4 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Choosin' Texas",
+      "canonicalUrl": "https://music.apple.com/us/song/choosin-texas/1844932150",
+      "creator": "Ella Langley",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1844932150",
+      "attributes": {
+        "album": "Choosin' Texas - Single",
+        "duration": "3:52",
+        "durationIso": "PT3M52S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "Choosin' Texas 5 Ella Langley Choosin' Texas - Single PREVIEW 3:52"
+    },
+    {
+      "title": "BbY WOW",
+      "canonicalUrl": "https://music.apple.com/us/song/bby-wow/6796864754",
+      "creator": "KAROL G, Judeline, rusowsky",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6796864754",
+      "attributes": {
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "BbY WOW 6 KAROL G, Judeline, rusowsky NO ME ARREPIENTO DE SENTIR TANTO PREVIEW 3:45"
+    },
+    {
+      "title": "Last Thing You Need",
+      "canonicalUrl": "https://music.apple.com/us/song/last-thing-you-need/6812477290",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6812477290",
+      "attributes": {
+        "album": "Grand Theft Auto VI: The Album",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "Last Thing You Need 7 Morgan Wallen Grand Theft Auto VI: The Album PREVIEW 3:16"
+    },
+    {
+      "title": "Janice STFU",
+      "canonicalUrl": "https://music.apple.com/us/song/janice-stfu/6769568596",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6769568596",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "8",
+        "explicit": true
+      },
+      "evidenceText": "Janice STFU 8 Drake ICEMAN PREVIEW 3:57"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "9",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 9 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "Been By Now",
+      "canonicalUrl": "https://music.apple.com/us/song/been-by-now/6792676860",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6792676860",
+      "attributes": {
+        "album": "Been By Now - Single",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "10",
+        "explicit": false
+      },
+      "evidenceText": "Been By Now 10 Morgan Wallen Been By Now - Single PREVIEW 3:33"
+    },
+    {
+      "title": "I Can't Love You Anymore",
+      "canonicalUrl": "https://music.apple.com/us/song/i-cant-love-you-anymore/6763091996",
+      "creator": "Ella Langley, Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6763091996",
+      "attributes": {
+        "album": "I Can't Love You Anymore - Single",
+        "duration": "3:48",
+        "durationIso": "PT3M48S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "I Can't Love You Anymore 11 Ella Langley, Morgan Wallen I Can't Love You Anymore - Single PREVIEW 3:48"
+    },
+    {
+      "title": "Dead Fresh",
+      "canonicalUrl": "https://music.apple.com/us/song/dead-fresh/6790569133",
+      "creator": "Lil Baby",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6790569133",
+      "attributes": {
+        "album": "Dead Fresh - Single",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "12",
+        "explicit": true
+      },
+      "evidenceText": "Dead Fresh 12 Lil Baby Dead Fresh - Single PREVIEW 2:37"
+    },
+    {
+      "title": "Be Her",
+      "canonicalUrl": "https://music.apple.com/us/song/be-her/1869436845",
+      "creator": "Ella Langley",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1869436845",
+      "attributes": {
+        "album": "Dandelion",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "13",
+        "explicit": false
+      },
+      "evidenceText": "Be Her 13 Ella Langley Dandelion PREVIEW 3:37"
+    },
+    {
+      "title": "Opalite",
+      "canonicalUrl": "https://music.apple.com/us/song/opalite/1833328845",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1833328845",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "Opalite 14 Taylor Swift The Life of a Showgirl PREVIEW 3:55"
+    },
+    {
+      "title": "Freestyle",
+      "canonicalUrl": "https://music.apple.com/us/song/freestyle/1440929293",
+      "creator": "Lil Baby",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1440929293",
+      "attributes": {
+        "album": "Too Hard",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "15",
+        "explicit": true
+      },
+      "evidenceText": "Freestyle 15 Lil Baby Too Hard PREVIEW 2:42"
+    },
+    {
+      "title": "In A Minute",
+      "canonicalUrl": "https://music.apple.com/us/song/in-a-minute/1648587330",
+      "creator": "Lil Baby",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1648587330",
+      "attributes": {
+        "album": "It's Only Me",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "16",
+        "explicit": true
+      },
+      "evidenceText": "In A Minute 16 Lil Baby It's Only Me PREVIEW 3:20"
+    },
+    {
+      "title": "So Good (feat. Kendrick Lamar)",
+      "canonicalUrl": "https://music.apple.com/us/song/so-good-feat-kendrick-lamar/6810716062",
+      "creator": "Jhené Aiko",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/51/9f/5f519f49-44c1-6aeb-f289-5b14c677abb1/26UM1IM17017.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6810716062",
+      "attributes": {
+        "album": "Westside Whimsy",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "17",
+        "explicit": true
+      },
+      "evidenceText": "So Good (feat. Kendrick Lamar) 17 Jhené Aiko Westside Whimsy PREVIEW 3:57"
+    },
+    {
+      "title": "The Fate of Ophelia (Track by Track)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia-track-by-track/1843998667",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/74/44/3a74440e-a1c2-c2bc-22c4-c71bd4584ed1/25UM1IM53942.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1843998667",
+      "attributes": {
+        "album": "The Life of a Showgirl (Track by Track Version)",
+        "duration": "0:41",
+        "durationIso": "PT41S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia (Track by Track) 18 Taylor Swift The Life of a Showgirl (Track by Track Version) PREVIEW 0:41"
+    },
+    {
+      "title": "WAIT FOR U (feat. Drake & Tems)",
+      "canonicalUrl": "https://music.apple.com/us/song/wait-for-u-feat-drake-tems/1621119447",
+      "creator": "Future",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1621119447",
+      "attributes": {
+        "album": "I NEVER LIKED YOU",
+        "duration": "3:09",
+        "durationIso": "PT3M9S",
+        "chartPosition": "19",
+        "explicit": true
+      },
+      "evidenceText": "WAIT FOR U (feat. Drake & Tems) 19 Future I NEVER LIKED YOU PREVIEW 3:09"
+    },
+    {
+      "title": "Best I Ever Had",
+      "canonicalUrl": "https://music.apple.com/us/song/best-i-ever-had/1452017954",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/b0/35/7eb0353b-8f25-32dd-5f5e-71d9ed700247/00602577524004.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1452017954",
+      "attributes": {
+        "album": "So Far Gone",
+        "duration": "4:17",
+        "durationIso": "PT4M17S",
+        "chartPosition": "20",
+        "explicit": true
+      },
+      "evidenceText": "Best I Ever Had 20 Drake So Far Gone PREVIEW 4:17"
+    },
+    {
+      "title": "stupid song",
+      "canonicalUrl": "https://music.apple.com/us/song/stupid-song/1889992115",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1889992115",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "stupid song 21 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:29"
+    },
+    {
+      "title": "I'm The Problem",
+      "canonicalUrl": "https://music.apple.com/us/song/im-the-problem/1802103970",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1802103970",
+      "attributes": {
+        "album": "I’m The Problem",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "22",
+        "explicit": false
+      },
+      "evidenceText": "I'm The Problem 22 Morgan Wallen I’m The Problem PREVIEW 2:57"
+    },
+    {
+      "title": "Elizabeth Taylor",
+      "canonicalUrl": "https://music.apple.com/us/song/elizabeth-taylor/1833328842",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1833328842",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "Elizabeth Taylor 23 Taylor Swift The Life of a Showgirl PREVIEW 3:28"
+    },
+    {
+      "title": "Don't We",
+      "canonicalUrl": "https://music.apple.com/us/song/dont-we/1802104400",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1802104400",
+      "attributes": {
+        "album": "I’m The Problem",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "Don't We 24 Morgan Wallen I’m The Problem PREVIEW 3:11"
+    },
+    {
+      "title": "Dope Girl",
+      "canonicalUrl": "https://music.apple.com/us/song/dope-girl/6807069451",
+      "creator": "Rod Wave",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/13/75/441375a6-a91b-05ec-7b61-b7d17a892469/196874739525.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6807069451",
+      "attributes": {
+        "album": "Don't Look Down",
+        "duration": "2:12",
+        "durationIso": "PT2M12S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "Dope Girl 25 Rod Wave Don't Look Down PREVIEW 2:12"
+    },
+    {
+      "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "canonicalUrl": "https://music.apple.com/us/song/like-me-feat-42-dugg-lil-baby/1621803969",
+      "creator": "Future",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1621803969",
+      "attributes": {
+        "album": "I NEVER LIKED YOU",
+        "duration": "2:12",
+        "durationIso": "PT2M12S",
+        "chartPosition": "26",
+        "explicit": true
+      },
+      "evidenceText": "LIKE ME (feat. 42 Dugg & Lil Baby) 26 Future I NEVER LIKED YOU PREVIEW 2:12"
+    },
+    {
+      "title": "Wicked Games",
+      "canonicalUrl": "https://music.apple.com/us/song/wicked-games/1714908987",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/d5/13/66d513dd-3cb0-b86b-4d11-1fbab2e6a639/12UMGIM54989.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1714908987",
+      "attributes": {
+        "album": "Trilogy",
+        "duration": "5:25",
+        "durationIso": "PT5M25S",
+        "chartPosition": "27",
+        "explicit": true
+      },
+      "evidenceText": "Wicked Games 27 The Weeknd Trilogy PREVIEW 5:25"
+    },
+    {
+      "title": "the cure",
+      "canonicalUrl": "https://music.apple.com/us/song/the-cure/1889992123",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1889992123",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "28",
+        "explicit": true
+      },
+      "evidenceText": "the cure 28 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 4:57"
+    },
+    {
+      "title": "March Madness",
+      "canonicalUrl": "https://music.apple.com/us/song/march-madness/1506297772",
+      "creator": "Future",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f4/5c/bc/f45cbc87-8e29-b069-39d8-71db2fc0d1e3/886448381211.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1506297772",
+      "attributes": {
+        "album": "56 Nights",
+        "duration": "4:03",
+        "durationIso": "PT4M3S",
+        "chartPosition": "29",
+        "explicit": true
+      },
+      "evidenceText": "March Madness 29 Future 56 Nights PREVIEW 4:03"
+    },
+    {
+      "title": "WTF GOIN",
+      "canonicalUrl": "https://music.apple.com/us/song/wtf-goin/6779378648",
+      "creator": "Belly Gang Kushington, 21 Savage",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/d5/7b/14d57b74-7680-e414-2424-f03f1173da3a/820233646390.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6779378648",
+      "attributes": {
+        "album": "WTF GOIN - Single",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "30",
+        "explicit": true
+      },
+      "evidenceText": "WTF GOIN 30 Belly Gang Kushington, 21 Savage WTF GOIN - Single PREVIEW 3:04"
+    },
+    {
+      "title": "Father Figure",
+      "canonicalUrl": "https://music.apple.com/us/song/father-figure/1833328847",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1833328847",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "31",
+        "explicit": true
+      },
+      "evidenceText": "Father Figure 31 Taylor Swift The Life of a Showgirl PREVIEW 3:32"
+    },
+    {
+      "title": "Frozen",
+      "canonicalUrl": "https://music.apple.com/us/song/frozen/1621207921",
+      "creator": "Lil Baby",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/5c/d2/4c5cd2e1-2244-2527-3ea3-2003ee734428/22UMGIM45519.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1621207921",
+      "attributes": {
+        "album": "Frozen - Single",
+        "duration": "2:59",
+        "durationIso": "PT2M59S",
+        "chartPosition": "32",
+        "explicit": true
+      },
+      "evidenceText": "Frozen 32 Lil Baby Frozen - Single PREVIEW 2:59"
+    },
+    {
+      "title": "Wants and Needs (feat. Lil Baby)",
+      "canonicalUrl": "https://music.apple.com/us/song/wants-and-needs-feat-lil-baby/1556670532",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/2a/34/632a3488-d104-3ff1-dc02-4ed86f58ed05/21UMGIM18577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1556670532",
+      "attributes": {
+        "album": "Scary Hours 2",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "33",
+        "explicit": true
+      },
+      "evidenceText": "Wants and Needs (feat. Lil Baby) 33 Drake Scary Hours 2 PREVIEW 3:12"
+    },
+    {
+      "title": "I’m Spent",
+      "canonicalUrl": "https://music.apple.com/us/song/im-spent/6769551476",
+      "creator": "Drake, Loe Shimmy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3b/89/c43b8964-a24e-b396-bd65-e5b45cabe039/26UMGIM63616.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6769551476",
+      "attributes": {
+        "album": "HABIBTI",
+        "duration": "2:24",
+        "durationIso": "PT2M24S",
+        "chartPosition": "34",
+        "explicit": true
+      },
+      "evidenceText": "I’m Spent 34 Drake, Loe Shimmy HABIBTI PREVIEW 2:24"
+    },
+    {
+      "title": "Last Night",
+      "canonicalUrl": "https://music.apple.com/us/song/last-night/1818424212",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/eb/b3/82ebb3c6-2bd4-31fd-0eb9-57667f3590e1/00602455239419_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1818424212",
+      "attributes": {
+        "album": "One Thing At A Time",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "35",
+        "explicit": true
+      },
+      "evidenceText": "Last Night 35 Morgan Wallen One Thing At A Time PREVIEW 2:43"
+    },
+    {
+      "title": "I'M DAT N***A",
+      "canonicalUrl": "https://music.apple.com/us/song/im-dat-n-a/1621119426",
+      "creator": "Future",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1621119426",
+      "attributes": {
+        "album": "I NEVER LIKED YOU",
+        "duration": "4:31",
+        "durationIso": "PT4M31S",
+        "chartPosition": "36",
+        "explicit": true
+      },
+      "evidenceText": "I'M DAT N***A 36 Future I NEVER LIKED YOU PREVIEW 4:31"
+    },
+    {
+      "title": "Sum 2 Prove",
+      "canonicalUrl": "https://music.apple.com/us/song/sum-2-prove/1534816484",
+      "creator": "Lil Baby",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/70/97/3a/70973a36-b897-e20e-4698-c05d4f5ee24f/20UMGIM30253.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1534816484",
+      "attributes": {
+        "album": "My Turn (Deluxe)",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "37",
+        "explicit": true
+      },
+      "evidenceText": "Sum 2 Prove 37 Lil Baby My Turn (Deluxe) PREVIEW 3:25"
+    },
+    {
+      "title": "Boston",
+      "canonicalUrl": "https://music.apple.com/us/song/boston/1884403093",
+      "creator": "STELLA LEFTY",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1884403093",
+      "attributes": {
+        "album": "Boston - Single",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "38",
+        "explicit": false
+      },
+      "evidenceText": "Boston 38 STELLA LEFTY Boston - Single PREVIEW 2:50"
+    },
+    {
+      "title": "Just In Case",
+      "canonicalUrl": "https://music.apple.com/us/song/just-in-case/1802103977",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1802103977",
+      "attributes": {
+        "album": "I’m The Problem",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "Just In Case 39 Morgan Wallen I’m The Problem PREVIEW 2:46"
+    },
+    {
+      "title": "Marvins Room",
+      "canonicalUrl": "https://music.apple.com/us/song/marvins-room/1440642743",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/fb/d3/74fbd365-bd52-23b4-604b-7f164407b0a9/00602527899107.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1440642743",
+      "attributes": {
+        "album": "Take Care (Deluxe Version)",
+        "duration": "5:47",
+        "durationIso": "PT5M47S",
+        "chartPosition": "40",
+        "explicit": true
+      },
+      "evidenceText": "Marvins Room 40 Drake Take Care (Deluxe Version) PREVIEW 5:47"
+    },
+    {
+      "title": "Knife Talk (feat. 21 Savage & Project Pat)",
+      "canonicalUrl": "https://music.apple.com/us/song/knife-talk-feat-21-savage-project-pat/1584281787",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1584281787",
+      "attributes": {
+        "album": "Certified Lover Boy",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "41",
+        "explicit": true
+      },
+      "evidenceText": "Knife Talk (feat. 21 Savage & Project Pat) 41 Drake Certified Lover Boy PREVIEW 4:02"
+    },
+    {
+      "title": "Kacey Talk",
+      "canonicalUrl": "https://music.apple.com/us/song/kacey-talk/1530123009",
+      "creator": "YoungBoy Never Broke Again",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/13/d6/e3/13d6e3ac-7a38-c6c3-6566-e027f3735426/075679802378.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1530123009",
+      "attributes": {
+        "album": "Top",
+        "duration": "2:31",
+        "durationIso": "PT2M31S",
+        "chartPosition": "42",
+        "explicit": true
+      },
+      "evidenceText": "Kacey Talk 42 YoungBoy Never Broke Again Top PREVIEW 2:31"
+    },
+    {
+      "title": "weren't for the wind",
+      "canonicalUrl": "https://music.apple.com/us/song/werent-for-the-wind/1770160814",
+      "creator": "Ella Langley",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/f1/65/eff16551-2b83-202a-f923-a655a57c61b8/196872452563.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1770160814",
+      "attributes": {
+        "album": "still hungover",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "43",
+        "explicit": false
+      },
+      "evidenceText": "weren't for the wind 43 Ella Langley still hungover PREVIEW 3:13"
+    },
+    {
+      "title": "Stick Talk",
+      "canonicalUrl": "https://music.apple.com/us/song/stick-talk/1017055092",
+      "creator": "Future",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/46/ab/0a46ab3a-2415-0659-2cc2-f3f173144bd5/886445328530.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1017055092",
+      "attributes": {
+        "album": "DS2 (Deluxe)",
+        "duration": "2:51",
+        "durationIso": "PT2M51S",
+        "chartPosition": "44",
+        "explicit": true
+      },
+      "evidenceText": "Stick Talk 44 Future DS2 (Deluxe) PREVIEW 2:51"
+    },
+    {
+      "title": "Right On",
+      "canonicalUrl": "https://music.apple.com/us/song/right-on/1618153473",
+      "creator": "Lil Baby",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/6d/ce/566dceeb-e2ea-24ff-f601-1c18497b87f8/22UMGIM37903.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1618153473",
+      "attributes": {
+        "album": "Right On - Single",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "45",
+        "explicit": true
+      },
+      "evidenceText": "Right On 45 Lil Baby Right On - Single PREVIEW 3:33"
+    },
+    {
+      "title": "Man I Need",
+      "canonicalUrl": "https://music.apple.com/us/song/man-i-need/1817609509",
+      "creator": "Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1817609509",
+      "attributes": {
+        "album": "The Art of Loving",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "46",
+        "explicit": false
+      },
+      "evidenceText": "Man I Need 46 Olivia Dean The Art of Loving PREVIEW 3:04"
+    },
+    {
+      "title": "Power Trip (feat. Miguel)",
+      "canonicalUrl": "https://music.apple.com/us/song/power-trip-feat-miguel/1529510489",
+      "creator": "J. Cole",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4f/c3/f3/4fc3f366-1148-74fe-2e88-ee37d4e633dd/20UMGIM65999.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1529510489",
+      "attributes": {
+        "album": "Born Sinner (Deluxe Version)",
+        "duration": "4:01",
+        "durationIso": "PT4M1S",
+        "chartPosition": "47",
+        "explicit": true
+      },
+      "evidenceText": "Power Trip (feat. Miguel) 47 J. Cole Born Sinner (Deluxe Version) PREVIEW 4:01"
+    },
+    {
+      "title": "Broken Window Serenade",
+      "canonicalUrl": "https://music.apple.com/us/song/broken-window-serenade/1813021660",
+      "creator": "Whiskey Myers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/cf/22/d0cf226c-607d-d97c-61d4-26eabde51f1d/886443002371_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1813021660",
+      "attributes": {
+        "album": "Firewater",
+        "duration": "5:46",
+        "durationIso": "PT5M46S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Broken Window Serenade 48 Whiskey Myers Firewater PREVIEW 5:46"
+    },
+    {
+      "title": "Thinkin’ Bout Me",
+      "canonicalUrl": "https://music.apple.com/us/song/thinkin-bout-me/1818425528",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/eb/b3/82ebb3c6-2bd4-31fd-0eb9-57667f3590e1/00602455239419_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1818425528",
+      "attributes": {
+        "album": "One Thing At A Time",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "Thinkin’ Bout Me 49 Morgan Wallen One Thing At A Time PREVIEW 2:57"
+    },
+    {
+      "title": "Cinderella (feat. Ty Dolla $ign)",
+      "canonicalUrl": "https://music.apple.com/us/song/cinderella-feat-ty-dolla-%24ign/1137966332",
+      "creator": "Mac Miller",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/cc/4d/33cc4d85-e92a-b171-1b72-4dc882ce2359/093624918844.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1137966332",
+      "attributes": {
+        "album": "The Divine Feminine",
+        "duration": "8:00",
+        "durationIso": "PT8M",
+        "chartPosition": "50",
+        "explicit": true
+      },
+      "evidenceText": "Cinderella (feat. Ty Dolla $ign) 50 Mac Miller The Divine Feminine PREVIEW 8:00"
+    },
+    {
+      "title": "Shabang",
+      "canonicalUrl": "https://music.apple.com/us/song/shabang/6769568598",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6769568598",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "51",
+        "explicit": true
+      },
+      "evidenceText": "Shabang 51 Drake ICEMAN PREVIEW 3:08"
+    },
+    {
+      "title": "Money In The Grave (feat. Rick Ross)",
+      "canonicalUrl": "https://music.apple.com/us/song/money-in-the-grave-feat-rick-ross/1468618077",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/31/bf/5b31bf6d-0a7f-ad73-426f-72948846bef2/19UMGIM54644.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1468618077",
+      "attributes": {
+        "album": "The Best In The World Pack - Single",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "52",
+        "explicit": true
+      },
+      "evidenceText": "Money In The Grave (feat. Rick Ross) 52 Drake The Best In The World Pack - Single PREVIEW 3:25"
+    },
+    {
+      "title": "What I Want",
+      "canonicalUrl": "https://music.apple.com/us/song/what-i-want/1802103975",
+      "creator": "Morgan Wallen, Tate McRae",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1802103975",
+      "attributes": {
+        "album": "I’m The Problem",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "What I Want 53 Morgan Wallen, Tate McRae I’m The Problem PREVIEW 3:04"
+    },
+    {
+      "title": "Wasted On You",
+      "canonicalUrl": "https://music.apple.com/us/song/wasted-on-you/1818469738",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/05/ab/6805abb2-10d1-35cb-aa84-71386b285b7d/00602435514642_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1818469738",
+      "attributes": {
+        "album": "Dangerous: The Double Album",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "54",
+        "explicit": false
+      },
+      "evidenceText": "Wasted On You 54 Morgan Wallen Dangerous: The Double Album PREVIEW 2:58"
+    },
+    {
+      "title": "Cowgirls (feat. ERNEST)",
+      "canonicalUrl": "https://music.apple.com/us/song/cowgirls-feat-ernest/1818426110",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/eb/b3/82ebb3c6-2bd4-31fd-0eb9-57667f3590e1/00602455239419_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1818426110",
+      "attributes": {
+        "album": "One Thing At A Time",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "Cowgirls (feat. ERNEST) 55 Morgan Wallen One Thing At A Time PREVIEW 3:01"
+    },
+    {
+      "title": "Girls Need Love",
+      "canonicalUrl": "https://music.apple.com/us/song/girls-need-love/1438765134",
+      "creator": "Summer Walker",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/1e/1a/7c1e1a21-013c-f31d-dc2c-c8118439641d/18UMGIM66021.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1438765134",
+      "attributes": {
+        "album": "Last Day of Summer",
+        "duration": "2:20",
+        "durationIso": "PT2M20S",
+        "chartPosition": "56",
+        "explicit": true
+      },
+      "evidenceText": "Girls Need Love 56 Summer Walker Last Day of Summer PREVIEW 2:20"
+    },
+    {
+      "title": "Snooze",
+      "canonicalUrl": "https://music.apple.com/us/song/snooze/1657869492",
+      "creator": "SZA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1657869492",
+      "attributes": {
+        "album": "SOS",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "57",
+        "explicit": true
+      },
+      "evidenceText": "Snooze 57 SZA SOS PREVIEW 3:21"
+    },
+    {
+      "title": "Now Who",
+      "canonicalUrl": "https://music.apple.com/us/song/now-who/1713814120",
+      "creator": "YoungBoy Never Broke Again",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/9c/fb/609cfb91-2510-434f-54fd-e0bc3402c3f9/23UM1IM33447.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1713814120",
+      "attributes": {
+        "album": "Decided 2",
+        "duration": "3:05",
+        "durationIso": "PT3M5S",
+        "chartPosition": "58",
+        "explicit": true
+      },
+      "evidenceText": "Now Who 58 YoungBoy Never Broke Again Decided 2 PREVIEW 3:05"
+    },
+    {
+      "title": "Low Down",
+      "canonicalUrl": "https://music.apple.com/us/song/low-down/1534816500",
+      "creator": "Lil Baby",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/70/97/3a/70973a36-b897-e20e-4698-c05d4f5ee24f/20UMGIM30253.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1534816500",
+      "attributes": {
+        "album": "My Turn (Deluxe)",
+        "duration": "2:24",
+        "durationIso": "PT2M24S",
+        "chartPosition": "59",
+        "explicit": true
+      },
+      "evidenceText": "Low Down 59 Lil Baby My Turn (Deluxe) PREVIEW 2:24"
+    },
+    {
+      "title": "Tennessee Whiskey",
+      "canonicalUrl": "https://music.apple.com/us/song/tennessee-whiskey/1440827492",
+      "creator": "Chris Stapleton",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/4b/60/e24b6016-8278-bb18-cf5d-d44bf68371da/00602547223838.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1440827492",
+      "attributes": {
+        "album": "Traveller",
+        "duration": "4:53",
+        "durationIso": "PT4M53S",
+        "chartPosition": "60",
+        "explicit": false
+      },
+      "evidenceText": "Tennessee Whiskey 60 Chris Stapleton Traveller PREVIEW 4:53"
+    },
+    {
+      "title": "He Belongs",
+      "canonicalUrl": "https://music.apple.com/us/song/he-belongs/6810716027",
+      "creator": "Jhené Aiko",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/51/9f/5f519f49-44c1-6aeb-f289-5b14c677abb1/26UM1IM17017.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6810716027",
+      "attributes": {
+        "album": "Westside Whimsy",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "61",
+        "explicit": true
+      },
+      "evidenceText": "He Belongs 61 Jhené Aiko Westside Whimsy PREVIEW 3:21"
+    },
+    {
+      "title": "I Had Some Help (feat. Morgan Wallen)",
+      "canonicalUrl": "https://music.apple.com/us/song/i-had-some-help-feat-morgan-wallen/1744439049",
+      "creator": "Post Malone",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1744439049",
+      "attributes": {
+        "album": "I Had Some Help (feat. Morgan Wallen) - Single",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "62",
+        "explicit": true
+      },
+      "evidenceText": "I Had Some Help (feat. Morgan Wallen) 62 Post Malone I Had Some Help (feat. Morgan Wallen) - Single PREVIEW 2:58"
+    },
+    {
+      "title": "God's Plan",
+      "canonicalUrl": "https://music.apple.com/us/song/gods-plan/1418213269",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1f/37/43/1f374304-2e04-2be3-53ea-41dd6f0b6fb8/00602567892410.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1418213269",
+      "attributes": {
+        "album": "Scorpion",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "63",
+        "explicit": true
+      },
+      "evidenceText": "God's Plan 63 Drake Scorpion PREVIEW 3:18"
+    },
+    {
+      "title": "Mr. Brightside",
+      "canonicalUrl": "https://music.apple.com/us/song/mr-brightside/1526194192",
+      "creator": "The Killers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1526194192",
+      "attributes": {
+        "album": "Hot Fuss",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "Mr. Brightside 64 The Killers Hot Fuss PREVIEW 3:42"
+    },
+    {
+      "title": "Yonaguni",
+      "canonicalUrl": "https://music.apple.com/us/song/yonaguni/1570323056",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1570323056",
+      "attributes": {
+        "album": "Yonaguni - Single",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "65",
+        "explicit": true
+      },
+      "evidenceText": "Yonaguni 65 Bad Bunny Yonaguni - Single PREVIEW 3:26"
+    },
+    {
+      "title": "Jaded",
+      "canonicalUrl": "https://music.apple.com/us/song/jaded/6798042825",
+      "creator": "Koe Wetzel, Ella Langley",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/09/7e/c1097e38-0d2e-d389-2be7-0762979bb43a/ticket.easjqfbg.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6798042825",
+      "attributes": {
+        "album": "Jaded - Single",
+        "duration": "3:05",
+        "durationIso": "PT3M5S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "Jaded 66 Koe Wetzel, Ella Langley Jaded - Single PREVIEW 3:05"
+    },
+    {
+      "title": "Actually Romantic",
+      "canonicalUrl": "https://music.apple.com/us/song/actually-romantic/1833328850",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1833328850",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "67",
+        "explicit": true
+      },
+      "evidenceText": "Actually Romantic 67 Taylor Swift The Life of a Showgirl PREVIEW 2:43"
+    },
+    {
+      "title": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-life-of-a-showgirl-feat-sabrina-carpenter/1833329007",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1833329007",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "4:01",
+        "durationIso": "PT4M1S",
+        "chartPosition": "68",
+        "explicit": true
+      },
+      "evidenceText": "The Life of a Showgirl (feat. Sabrina Carpenter) 68 Taylor Swift The Life of a Showgirl PREVIEW 4:01"
+    },
+    {
+      "title": "MISS MY DAWG",
+      "canonicalUrl": "https://music.apple.com/us/song/miss-my-dawg/6813244854",
+      "creator": "Yeat, Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/9e/e2/959ee283-8ef9-30d5-1422-595e08bc7517/26UM1IM20013.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6813244854",
+      "attributes": {
+        "album": "COCOON",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "69",
+        "explicit": true
+      },
+      "evidenceText": "MISS MY DAWG 69 Yeat, Drake COCOON PREVIEW 3:08"
+    },
+    {
+      "title": "Wi$h Li$t",
+      "canonicalUrl": "https://music.apple.com/us/song/wi%24h-li%24t/1833328851",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1833328851",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "70",
+        "explicit": true
+      },
+      "evidenceText": "Wi$h Li$t 70 Taylor Swift The Life of a Showgirl PREVIEW 3:27"
+    },
+    {
+      "title": "How It Feels",
+      "canonicalUrl": "https://music.apple.com/us/song/how-it-feels/1569712108",
+      "creator": "Lil Baby, Lil Durk",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/51/3f/9a513f0d-452a-a4de-aa54-3d629a94d2c3/21UMGIM47174.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1569712108",
+      "attributes": {
+        "album": "The Voice of the Heroes",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "71",
+        "explicit": true
+      },
+      "evidenceText": "How It Feels 71 Lil Baby, Lil Durk The Voice of the Heroes PREVIEW 2:46"
+    },
+    {
+      "title": "Ruin The Friendship",
+      "canonicalUrl": "https://music.apple.com/us/song/ruin-the-friendship/1833328849",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1833328849",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "Ruin The Friendship 72 Taylor Swift The Life of a Showgirl PREVIEW 3:40"
+    },
+    {
+      "title": "Don't",
+      "canonicalUrl": "https://music.apple.com/us/song/dont/1031354882",
+      "creator": "Bryson Tiller",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/26/4a/f9/264af9b7-813d-4b08-2822-de8b26c0e188/886445447811.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1031354882",
+      "attributes": {
+        "album": "T R A P S O U L",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "73",
+        "explicit": true
+      },
+      "evidenceText": "Don't 73 Bryson Tiller T R A P S O U L PREVIEW 3:18"
+    },
+    {
+      "title": "Vette Motors",
+      "canonicalUrl": "https://music.apple.com/us/song/vette-motors/1617171238",
+      "creator": "YoungBoy Never Broke Again",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/54/ec/4d54eccd-8e71-4217-cb81-445adc77136b/075679750006.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1617171238",
+      "attributes": {
+        "album": "The Last Slimeto",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "74",
+        "explicit": true
+      },
+      "evidenceText": "Vette Motors 74 YoungBoy Never Broke Again The Last Slimeto PREVIEW 2:53"
+    },
+    {
+      "title": "Take Me Back (Leave Me There)",
+      "canonicalUrl": "https://music.apple.com/us/song/take-me-back-leave-me-there/1892466278",
+      "creator": "Cody Johnson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/d9/7a/e2d97a87-6ec6-99de-9a1f-31b86ce6e7c4/093624826613.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1892466278",
+      "attributes": {
+        "album": "Banks Of The Trinity",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Take Me Back (Leave Me There) 75 Cody Johnson Banks Of The Trinity PREVIEW 2:58"
+    },
+    {
+      "title": "E85",
+      "canonicalUrl": "https://music.apple.com/us/song/e85/1871258330",
+      "creator": "Don Toliver",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/e5/c6/e8e5c690-a958-622e-eb62-0dce6059300e/075679599360.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1871258330",
+      "attributes": {
+        "album": "OCTANE",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "76",
+        "explicit": true
+      },
+      "evidenceText": "E85 76 Don Toliver OCTANE PREVIEW 2:33"
+    },
+    {
+      "title": "30 For 30 (with Kendrick Lamar)",
+      "canonicalUrl": "https://music.apple.com/us/song/30-for-30-with-kendrick-lamar/1786643047",
+      "creator": "SZA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/bd/88/97bd8804-7d3e-e6c8-0532-ff22877b931c/196871766890.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1786643047",
+      "attributes": {
+        "album": "SOS Deluxe: LANA",
+        "duration": "4:38",
+        "durationIso": "PT4M38S",
+        "chartPosition": "77",
+        "explicit": true
+      },
+      "evidenceText": "30 For 30 (with Kendrick Lamar) 77 SZA SOS Deluxe: LANA PREVIEW 4:38"
+    },
+    {
+      "title": "Broken Clocks",
+      "canonicalUrl": "https://music.apple.com/us/song/broken-clocks/1239976610",
+      "creator": "SZA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/28/8f/20288f6f-fbf2-fb0f-6732-e7d334e1ff50/886446548432.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1239976610",
+      "attributes": {
+        "album": "Ctrl",
+        "duration": "3:51",
+        "durationIso": "PT3M51S",
+        "chartPosition": "78",
+        "explicit": true
+      },
+      "evidenceText": "Broken Clocks 78 SZA Ctrl PREVIEW 3:51"
+    },
+    {
+      "title": "Ghost",
+      "canonicalUrl": "https://music.apple.com/us/song/ghost/6810715940",
+      "creator": "Jhené Aiko",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/51/9f/5f519f49-44c1-6aeb-f289-5b14c677abb1/26UM1IM17017.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6810715940",
+      "attributes": {
+        "album": "Westside Whimsy",
+        "duration": "2:03",
+        "durationIso": "PT2M3S",
+        "chartPosition": "79",
+        "explicit": false
+      },
+      "evidenceText": "Ghost 79 Jhené Aiko Westside Whimsy PREVIEW 2:03"
+    },
+    {
+      "title": "Passionfruit",
+      "canonicalUrl": "https://music.apple.com/us/song/passionfruit/1440891494",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/71/97/d0/7197d021-de0f-9548-3f31-40b8294d3242/17UMGIM85032.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1440891494",
+      "attributes": {
+        "album": "More Life",
+        "duration": "4:58",
+        "durationIso": "PT4M58S",
+        "chartPosition": "80",
+        "explicit": true
+      },
+      "evidenceText": "Passionfruit 80 Drake More Life PREVIEW 4:58"
+    },
+    {
+      "title": "Eldest Daughter",
+      "canonicalUrl": "https://music.apple.com/us/song/eldest-daughter/1833328848",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1833328848",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "81",
+        "explicit": true
+      },
+      "evidenceText": "Eldest Daughter 81 Taylor Swift The Life of a Showgirl PREVIEW 4:06"
+    },
+    {
+      "title": "Like That",
+      "canonicalUrl": "https://music.apple.com/us/song/like-that/1737150439",
+      "creator": "Future, Metro Boomin, Kendrick Lamar",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1737150439",
+      "attributes": {
+        "album": "WE DON'T TRUST YOU",
+        "duration": "4:27",
+        "durationIso": "PT4M27S",
+        "chartPosition": "82",
+        "explicit": true
+      },
+      "evidenceText": "Like That 82 Future, Metro Boomin, Kendrick Lamar WE DON'T TRUST YOU PREVIEW 4:27"
+    },
+    {
+      "title": "Not Like Us",
+      "canonicalUrl": "https://music.apple.com/us/song/not-like-us/1744776167",
+      "creator": "Kendrick Lamar",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1744776167",
+      "attributes": {
+        "album": "Not Like Us - Single",
+        "duration": "4:34",
+        "durationIso": "PT4M34S",
+        "chartPosition": "83",
+        "explicit": true
+      },
+      "evidenceText": "Not Like Us 83 Kendrick Lamar Not Like Us - Single PREVIEW 4:34"
+    },
+    {
+      "title": "hate that i made you love me",
+      "canonicalUrl": "https://music.apple.com/us/song/hate-that-i-made-you-love-me/6763656876",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6763656876",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "hate that i made you love me 84 Ariana Grande petal PREVIEW 3:17"
+    },
+    {
+      "title": "No Flockin",
+      "canonicalUrl": "https://music.apple.com/us/song/no-flockin/1056384020",
+      "creator": "Kodak Black",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/dc/47/69/dc476925-5b83-ac3a-51fc-72a41aaa6a1d/mzm.rhdremds.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1056384020",
+      "attributes": {
+        "album": "No Flockin - Single",
+        "duration": "2:45",
+        "durationIso": "PT2M45S",
+        "chartPosition": "85",
+        "explicit": true
+      },
+      "evidenceText": "No Flockin 85 Kodak Black No Flockin - Single PREVIEW 2:45"
+    },
+    {
+      "title": "Ain't In LA",
+      "canonicalUrl": "https://music.apple.com/us/song/aint-in-la/6792884101",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6792884101",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "86",
+        "explicit": true
+      },
+      "evidenceText": "Ain't In LA 86 ADÉLA PRIMA PREVIEW 3:04"
+    },
+    {
+      "title": "Controlla",
+      "canonicalUrl": "https://music.apple.com/us/song/controlla/1440841382",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1440841382",
+      "attributes": {
+        "album": "Views",
+        "duration": "4:05",
+        "durationIso": "PT4M5S",
+        "chartPosition": "87",
+        "explicit": true
+      },
+      "evidenceText": "Controlla 87 Drake Views PREVIEW 4:05"
+    },
+    {
+      "title": "You Proof",
+      "canonicalUrl": "https://music.apple.com/us/song/you-proof/1818407111",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/66/c4/b766c457-2500-e2d6-895e-59b45e95d009/00602445957033_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1818407111",
+      "attributes": {
+        "album": "You Proof - Single",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "You Proof 88 Morgan Wallen You Proof - Single PREVIEW 2:37"
+    },
+    {
+      "title": "Ran To Atlanta",
+      "canonicalUrl": "https://music.apple.com/us/song/ran-to-atlanta/6769568597",
+      "creator": "Drake, Future, Molly Santana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6769568597",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "4:07",
+        "durationIso": "PT4M7S",
+        "chartPosition": "89",
+        "explicit": true
+      },
+      "evidenceText": "Ran To Atlanta 89 Drake, Future, Molly Santana ICEMAN PREVIEW 4:07"
+    },
+    {
+      "title": "Great Expectation",
+      "canonicalUrl": "https://music.apple.com/us/song/great-expectation/6769552411",
+      "creator": "SIENNA SPIRO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6769552411",
+      "attributes": {
+        "album": "Visitor (Deluxe)",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "Great Expectation 90 SIENNA SPIRO Visitor (Deluxe) PREVIEW 2:53"
+    },
+    {
+      "title": "Orbiter",
+      "canonicalUrl": "https://music.apple.com/us/song/orbiter/6762757958",
+      "creator": "Noah Kahan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/aa/69/f9aa6992-40ca-a756-85ca-b27c48f7c720/26UMGIM02802.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "6762757958",
+      "attributes": {
+        "album": "The Great Divide: The Last Of The Bugs",
+        "duration": "4:46",
+        "durationIso": "PT4M46S",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "Orbiter 91 Noah Kahan The Great Divide: The Last Of The Bugs PREVIEW 4:46"
+    },
+    {
+      "title": "A Couple Minutes",
+      "canonicalUrl": "https://music.apple.com/us/song/a-couple-minutes/1817609514",
+      "creator": "Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1817609514",
+      "attributes": {
+        "album": "The Art of Loving",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "A Couple Minutes 92 Olivia Dean The Art of Loving PREVIEW 3:32"
+    },
+    {
+      "title": "Something in the Orange",
+      "canonicalUrl": "https://music.apple.com/us/song/something-in-the-orange/1620419734",
+      "creator": "Zach Bryan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d6/cd/d8/d6cdd86f-db67-ffc8-cd5e-26c4559686c3/054391903860.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1620419734",
+      "attributes": {
+        "album": "Something in the Orange - Single",
+        "duration": "3:48",
+        "durationIso": "PT3M48S",
+        "chartPosition": "93",
+        "explicit": false
+      },
+      "evidenceText": "Something in the Orange 93 Zach Bryan Something in the Orange - Single PREVIEW 3:48"
+    },
+    {
+      "title": "Neon Moon",
+      "canonicalUrl": "https://music.apple.com/us/song/neon-moon/258643362",
+      "creator": "Brooks & Dunn",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a4/db/c5/a4dbc5c7-bc69-931a-0e46-c6e11e86e003/078221885225.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "258643362",
+      "attributes": {
+        "album": "The Greatest Hits Collection",
+        "duration": "4:21",
+        "durationIso": "PT4M21S",
+        "chartPosition": "94",
+        "explicit": false
+      },
+      "evidenceText": "Neon Moon 94 Brooks & Dunn The Greatest Hits Collection PREVIEW 4:21"
+    },
+    {
+      "title": "Wood",
+      "canonicalUrl": "https://music.apple.com/us/song/wood/1833329002",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1833329002",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "2:30",
+        "durationIso": "PT2M30S",
+        "chartPosition": "95",
+        "explicit": true
+      },
+      "evidenceText": "Wood 95 Taylor Swift The Life of a Showgirl PREVIEW 2:30"
+    },
+    {
+      "title": "Fast Car",
+      "canonicalUrl": "https://music.apple.com/us/song/fast-car/1666738585",
+      "creator": "Luke Combs",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1666738585",
+      "attributes": {
+        "album": "Gettin' Old",
+        "duration": "4:25",
+        "durationIso": "PT4M25S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "Fast Car 96 Luke Combs Gettin' Old PREVIEW 4:25"
+    },
+    {
+      "title": "Poetic Justice (feat. Drake)",
+      "canonicalUrl": "https://music.apple.com/us/song/poetic-justice-feat-drake/1440818972",
+      "creator": "Kendrick Lamar",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/5b/c0/ca5bc0b3-d81d-cc6c-0d19-54b9eedb6dbd/12UMGIM52990.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1440818972",
+      "attributes": {
+        "album": "good kid, m.A.A.d city (Deluxe Version)",
+        "duration": "5:00",
+        "durationIso": "PT5M",
+        "chartPosition": "97",
+        "explicit": true
+      },
+      "evidenceText": "Poetic Justice (feat. Drake) 97 Kendrick Lamar good kid, m.A.A.d city (Deluxe Version) PREVIEW 5:00"
+    },
+    {
+      "title": "Where the Wild Things Are",
+      "canonicalUrl": "https://music.apple.com/us/song/where-the-wild-things-are/1666738581",
+      "creator": "Luke Combs",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1666738581",
+      "attributes": {
+        "album": "Gettin' Old",
+        "duration": "3:59",
+        "durationIso": "PT3M59S",
+        "chartPosition": "98",
+        "explicit": false
+      },
+      "evidenceText": "Where the Wild Things Are 98 Luke Combs Gettin' Old PREVIEW 3:59"
+    },
+    {
+      "title": "712PM",
+      "canonicalUrl": "https://music.apple.com/us/song/712pm/1621803883",
+      "creator": "Future",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1621803883",
+      "attributes": {
+        "album": "I NEVER LIKED YOU",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "99",
+        "explicit": true
+      },
+      "evidenceText": "712PM 99 Future I NEVER LIKED YOU PREVIEW 2:53"
+    },
+    {
+      "title": "Body",
+      "canonicalUrl": "https://music.apple.com/us/song/body/1481606158",
+      "creator": "Summer Walker",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/d3/62/9dd362c9-0b8c-a7df-6054-1b4bb76af946/19UMGIM85343.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: USA",
+      "externalId": "1481606158",
+      "attributes": {
+        "album": "Over It",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "100",
+        "explicit": true
+      },
+      "evidenceText": "Body 100 Summer Walker Over It PREVIEW 3:13"
+    }
+  ]
+}

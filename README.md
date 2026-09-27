@@ -25,13 +25,15 @@ uploaded images, and private evaluation records are ignored by Git.
 
 ## Four connected experiences
 
-**Library.** Browse **2,416 real browser-collected items in 18 collections**: music,
-YouTube videos, fashion, beauty products, classic books and papers. Compare similar
-items, give feedback, and see the collection reordered by your learned category
-model. Every item carries its source URL, collection page and observation time.
-The library and its local metadata ranker work without API keys. Instagram and
-Pinterest remain visibly uncollected behind login; OLIVE YOUNG data is from its
-Global storefront (USD). See [coverage, evidence and limits](docs/prototype/CATALOG.md).
+**Library.** Browse **27,060 real browser-collected items in 211 collections**:
+music, YouTube videos, fashion, beauty, classic books, papers, Netflix movies,
+series, animation, Instagram accounts, Pinterest references, and source-labeled
+performer photographs. Compare similar items,
+give feedback, and see the collection reordered by your learned category model.
+Every item carries its source URL, collection page and observation time. The library
+and its local metadata ranker work without API keys. OLIVE YOUNG observations come
+from its Global storefront (USD); Netflix pages are public catalog snapshots and
+do not guarantee regional playback. See [coverage, evidence and limits](docs/prototype/CATALOG.md).
 
 **Search.** Enter a real query, answer optional clarification questions, and explore
 original source results, independently readable information cards, or a generated

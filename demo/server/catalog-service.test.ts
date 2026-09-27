@@ -45,6 +45,37 @@ describe('catalog preference-learning integration', () => {
     expect(personal.snapshot().models[0].weights.every(value => value === 0)).toBe(true);
   });
 
+  it('re-encodes changed catalog revisions after the learned page has been cached', () => {
+    const { catalog, service, personal } = setup();
+    const { pair } = service.practice('books-a');
+    personal.answer({ exposureId: pair.exposure.id, choice: 'a' });
+    service.page('books-a');
+    const update = fixture();
+    update.items[0] = { ...update.items[0], title: 'A completely different programming systems handbook', attributes: { year: 2026, price: 140 }, observedAt: '2026-09-28T00:00:00.000Z' };
+    catalog.ingest(update);
+    const expected = new Map(personal.rank(catalog.items('books-a').map(catalogUnit)).map(unit => [unit.entityId, unit.score]));
+    const actual = service.page('books-a');
+    expect(actual.items.find(item => item.externalId === '0')?.version).toBe(2);
+    for (const item of actual.items) expect(item.score).toBe(expected.get(item.id));
+  });
+
+  it('keeps current model scores and absolute positions when source or recent pages are paginated', () => {
+    const { catalog, service, personal } = setup();
+    const { pair } = service.practice('books-a');
+    personal.answer({ exposureId: pair.exposure.id, choice: 'b' });
+    const expected = new Map(service.page('books-a').items.map(item => [item.id, item.score]));
+    const source = service.page('books-a', { sort: 'source', offset: 2, limit: 1 });
+    expect(source.items).toHaveLength(1);
+    expect(source.items[0]).toMatchObject({ externalId: '2', rank: 3, modelVersion: 1 });
+    expect(source.items[0].score).toBe(expected.get(source.items[0].id));
+    const update = fixture(); update.items = [{ ...update.items[3], observedAt: '2026-09-28T00:00:00.000Z' }];
+    catalog.ingest(update);
+    const recent = service.page('books-a', { sort: 'recent', limit: 1 });
+    expect(recent.items[0]).toMatchObject({ externalId: '3', rank: 1, modelVersion: 1 });
+    expect(recent.items[0].score).toBe(expected.get(recent.items[0].id));
+    expect(recent.total).toBe(4);
+  });
+
   it('treats already browsable items as learning-only, locks outstanding pairs and hides precommitted predictions', () => {
     const { service, personal } = setup(); const first = service.practice('books-a');
     expect(first.dataset.itemRefs.every(item => item.partition === 'train')).toBe(true);

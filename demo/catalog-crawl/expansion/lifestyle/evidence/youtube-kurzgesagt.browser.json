@@ -1,0 +1,4091 @@
+{
+  "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+  "collection": "Kurzgesagt – In a Nutshell · Videos",
+  "fetchedAt": "2026-09-27T03:43:08.262Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "We Imagine Godlike Civilizations the Wrong Way",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QW_jlUn4gA8",
+      "externalId": "QW_jlUn4gA8",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/QW_jlUn4gA8/hq720_custom_2.jpg?sqp=CJCg4tUG-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBERAGE0nTpQ__AicefWDkCsLnyhw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "14:12",
+        "metadata": "5.6M 4d ago"
+      },
+      "evidenceText": "14:12 We Imagine Godlike Civilizations the Wrong Way 5.6M 4d ago"
+    },
+    {
+      "title": "This Woman Cured Her Cancer with an Insane Method",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0NY2gAftzJE",
+      "externalId": "0NY2gAftzJE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/0NY2gAftzJE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD85qNo0LkCRiSUpZhg9boS7daRGA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "15:14",
+        "metadata": "20M 11d ago"
+      },
+      "evidenceText": "15:14 This Woman Cured Her Cancer with an Insane Method 20M 11d ago"
+    },
+    {
+      "title": "Why Humanity Will Never Leave The Solar System",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Cyl3X88KEgg",
+      "externalId": "Cyl3X88KEgg",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/Cyl3X88KEgg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCOftzwlyEDdm6Ts98Hm9oQbudGVA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "14:08",
+        "metadata": "9.9M 1mo ago"
+      },
+      "evidenceText": "14:08 Why Humanity Will Never Leave The Solar System 9.9M 1mo ago"
+    },
+    {
+      "title": "How Are Memories Stored Inside Your Brain?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PqtggjVAi8M",
+      "externalId": "PqtggjVAi8M",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "13:56",
+        "metadata": "3M 3mo ago"
+      },
+      "evidenceText": "13:56 How Are Memories Stored Inside Your Brain? 3M 3mo ago"
+    },
+    {
+      "title": "Why Earth Sucks Compared to the Planet Hestia",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8qQW4LTWgtc",
+      "externalId": "8qQW4LTWgtc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "14:53",
+        "metadata": "6.8M 4mo ago"
+      },
+      "evidenceText": "14:53 Why Earth Sucks Compared to the Planet Hestia 6.8M 4mo ago"
+    },
+    {
+      "title": "The Uncomfortable Truth About Ozempic (Updated Version)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TYhNHX372ek",
+      "externalId": "TYhNHX372ek",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "15:53",
+        "metadata": "6.4M 4mo ago"
+      },
+      "evidenceText": "15:53 The Uncomfortable Truth About Ozempic (Updated Version) 6.4M 4mo ago"
+    },
+    {
+      "title": "GERMANY IS OVER",
+      "canonicalUrl": "https://www.youtube.com/watch?v=n-gYFcVx-8Y",
+      "externalId": "n-gYFcVx-8Y",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "14:05",
+        "metadata": "5M 4mo ago"
+      },
+      "evidenceText": "14:05 GERMANY IS OVER 5M 4mo ago"
+    },
+    {
+      "title": "Our Minds Are Weirder than You Think",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dl0-TveDDGA",
+      "externalId": "dl0-TveDDGA",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:22",
+        "metadata": "2.7M 5mo ago"
+      },
+      "evidenceText": "12:22 Our Minds Are Weirder than You Think 2.7M 5mo ago"
+    },
+    {
+      "title": "The Most Insane Megaproject You Never Heard About",
+      "canonicalUrl": "https://www.youtube.com/watch?v=h3DCdWyb0cc",
+      "externalId": "h3DCdWyb0cc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "13:06",
+        "metadata": "3.5M 5mo ago"
+      },
+      "evidenceText": "13:06 The Most Insane Megaproject You Never Heard About 3.5M 5mo ago"
+    },
+    {
+      "title": "This Is the Scariest Place in The Universe",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yDAAlojz8NU",
+      "externalId": "yDAAlojz8NU",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/yDAAlojz8NU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBIq6H331tLNBj0CbhPlt20GwhcEA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:14",
+        "metadata": "8.2M 6mo ago"
+      },
+      "evidenceText": "9:14 This Is the Scariest Place in The Universe 8.2M 6mo ago"
+    },
+    {
+      "title": "We Made A New Channel!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=D0WQK7cMJn8",
+      "externalId": "D0WQK7cMJn8",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/D0WQK7cMJn8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAbi3JDK1-1LrAaayLaaPQSOmb4kw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "3:03",
+        "metadata": "2.2M 8mo ago"
+      },
+      "evidenceText": "3:03 We Made A New Channel! 2.2M 8mo ago"
+    },
+    {
+      "title": "Why Are There No Holes Around Trees?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pHJIhxZEoxg",
+      "externalId": "pHJIhxZEoxg",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/pHJIhxZEoxg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCyd00T3NbEMVtiSLBQ3DUQzDzg4g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:21",
+        "metadata": "4.9M 8mo ago"
+      },
+      "evidenceText": "11:21 Why Are There No Holes Around Trees? 4.9M 8mo ago"
+    },
+    {
+      "title": "We Made A New Journal",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UnrtLi7YIY4",
+      "externalId": "UnrtLi7YIY4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/UnrtLi7YIY4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDM6pFY1mC-x6K6PstEvfN5Td6iuQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "1:17",
+        "metadata": "327K 8mo ago"
+      },
+      "evidenceText": "1:17 We Made A New Journal 327K 8mo ago"
+    },
+    {
+      "title": "Tattoo Removal Is Insane",
+      "canonicalUrl": "https://www.youtube.com/watch?v=H4KMQuyxH_Y",
+      "externalId": "H4KMQuyxH_Y",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/H4KMQuyxH_Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA-ftfC40K_gaDRcCe8GSKaNKVf6A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:54",
+        "metadata": "4.3M 9mo ago"
+      },
+      "evidenceText": "12:54 Tattoo Removal Is Insane 4.3M 9mo ago"
+    },
+    {
+      "title": "All Of Human History In One Hour",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KNwMiydCYA4",
+      "externalId": "KNwMiydCYA4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/KNwMiydCYA4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC3uRSiF4cXC7RYPZd-8T2RIt_Lhg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "1:03:23",
+        "metadata": "3.7M 9mo ago"
+      },
+      "evidenceText": "1:03:23 All Of Human History In One Hour 3.7M 9mo ago"
+    },
+    {
+      "title": "Astronomy Is In Crisis...And It's Incredibly Exciting",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zozEm4f_dlw",
+      "externalId": "zozEm4f_dlw",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/zozEm4f_dlw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5i0YRsd7NDg9O0e3Optm1thxBGQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:28",
+        "metadata": "5.3M 9mo ago"
+      },
+      "evidenceText": "11:28 Astronomy Is In Crisis...And It's Incredibly Exciting 5.3M 9mo ago"
+    },
+    {
+      "title": "Trees Are So Weird",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZSch_NgZpQs",
+      "externalId": "ZSch_NgZpQs",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/ZSch_NgZpQs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzHX-fSjYWEQYR_ldOO1VK7YmjCw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:27",
+        "metadata": "6.6M 10mo ago"
+      },
+      "evidenceText": "11:27 Trees Are So Weird 6.6M 10mo ago"
+    },
+    {
+      "title": "The Fat Problem",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sOsqXKr4l30",
+      "externalId": "sOsqXKr4l30",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/sOsqXKr4l30/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtCZRntBPSHENZRbS5lA7TCFgrow",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:36",
+        "metadata": "4.6M 10mo ago"
+      },
+      "evidenceText": "11:36 The Fat Problem 4.6M 10mo ago"
+    },
+    {
+      "title": "You're More Stressed Than Ever - Let's Change That",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Mo1A45ShcMo",
+      "externalId": "Mo1A45ShcMo",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/Mo1A45ShcMo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBR7wNooQ51iGw_mguuVaIajtQoaQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:58",
+        "metadata": "5.5M 10mo ago"
+      },
+      "evidenceText": "11:58 You're More Stressed Than Ever - Let's Change That 5.5M 10mo ago"
+    },
+    {
+      "title": "You Need To Quit Weed.",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Brm71uCWr-I",
+      "externalId": "Brm71uCWr-I",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/Brm71uCWr-I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCxoXEAXfQhbC3DYjksh6td7oEEjw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:42",
+        "metadata": "4.4M 10mo ago"
+      },
+      "evidenceText": "12:42 You Need To Quit Weed. 4.4M 10mo ago"
+    },
+    {
+      "title": "AI Slop Is Destroying The Internet",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_zfN9wnPvU0",
+      "externalId": "_zfN9wnPvU0",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/_zfN9wnPvU0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB5U42xM-0rlAwe2sPNzC4iCI4MQA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:52",
+        "metadata": "11M 11mo ago"
+      },
+      "evidenceText": "9:52 AI Slop Is Destroying The Internet 11M 11mo ago"
+    },
+    {
+      "title": "We Found a Loophole to Survive the End of the Universe",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VMm-U2pHrXE",
+      "externalId": "VMm-U2pHrXE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:42",
+        "metadata": "4.3M 11mo ago"
+      },
+      "evidenceText": "12:42 We Found a Loophole to Survive the End of the Universe 4.3M 11mo ago"
+    },
+    {
+      "title": "Pregnancy is Insane",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Zpq1GbPqhy4",
+      "externalId": "Zpq1GbPqhy4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "13:16",
+        "metadata": "3.5M 1y ago"
+      },
+      "evidenceText": "13:16 Pregnancy is Insane 3.5M 1y ago"
+    },
+    {
+      "title": "Can Humanity Stop A Planet-Killing Asteroid?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dKm7T13X7n4",
+      "externalId": "dKm7T13X7n4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:44",
+        "metadata": "9M 1y ago"
+      },
+      "evidenceText": "12:44 Can Humanity Stop A Planet-Killing Asteroid? 9M 1y ago"
+    },
+    {
+      "title": "This Game Took Us Two Years To Make",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XunabxHzMuM",
+      "externalId": "XunabxHzMuM",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/XunabxHzMuM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDD8ON4Vodu_5jQOtJxjBG5aHco8Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "1:09",
+        "metadata": "703K 1y ago"
+      },
+      "evidenceText": "1:09 This Game Took Us Two Years To Make 703K 1y ago"
+    },
+    {
+      "title": "The Dumbest Animal Alive",
+      "canonicalUrl": "https://www.youtube.com/watch?v=gtDKKJq9u30",
+      "externalId": "gtDKKJq9u30",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/gtDKKJq9u30/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCwIieo-B8HPhWcrXEnNbgHCJ8USw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:05",
+        "metadata": "5.1M 1y ago"
+      },
+      "evidenceText": "11:05 The Dumbest Animal Alive 5.1M 1y ago"
+    },
+    {
+      "title": "The Drug To Master Reality",
+      "canonicalUrl": "https://www.youtube.com/watch?v=u4LUix-BU0s",
+      "externalId": "u4LUix-BU0s",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/u4LUix-BU0s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBUv_uMSJVibXeyyzrAsL2SK0gWDw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:19",
+        "metadata": "4.7M 1y ago"
+      },
+      "evidenceText": "11:19 The Drug To Master Reality 4.7M 1y ago"
+    },
+    {
+      "title": "Alcohol is AMAZING",
+      "canonicalUrl": "https://www.youtube.com/watch?v=aOwmt39L2IQ",
+      "externalId": "aOwmt39L2IQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/aOwmt39L2IQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAkZRxyESLO0u2NuuwL-buO9gxXQg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "14:12",
+        "metadata": "6.5M 1y ago"
+      },
+      "evidenceText": "14:12 Alcohol is AMAZING 6.5M 1y ago"
+    },
+    {
+      "title": "Let's Kill You a Billion Times to Make You Immortal",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7wK4peez9zE",
+      "externalId": "7wK4peez9zE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/7wK4peez9zE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB3kWoYTXwQZNP0Y-sTMSkGsqeOgg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:50",
+        "metadata": "4.8M 1y ago"
+      },
+      "evidenceText": "11:50 Let's Kill You a Billion Times to Make You Immortal 4.8M 1y ago"
+    },
+    {
+      "title": "When Your Body Attacks Itself – Autoimmune",
+      "canonicalUrl": "https://www.youtube.com/watch?v=efOW5NUTYB8",
+      "externalId": "efOW5NUTYB8",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/efOW5NUTYB8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBN09JN8r34q0QJHMUfdyCXv6YuBQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:55",
+        "metadata": "3.5M 1y ago"
+      },
+      "evidenceText": "10:55 When Your Body Attacks Itself – Autoimmune 3.5M 1y ago"
+    },
+    {
+      "title": "How Nuclear Flies Protect You from Flesh-Eating Parasites",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zxq60I5RSW8",
+      "externalId": "zxq60I5RSW8",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/zxq60I5RSW8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkyK4G9P_HSpOV8-_pVDhVAayKbw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:20",
+        "metadata": "6.4M 1y ago"
+      },
+      "evidenceText": "11:20 How Nuclear Flies Protect You from Flesh-Eating Parasites 6.4M 1y ago"
+    },
+    {
+      "title": "Why Does Fentanyl Feel So Good?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=m6KnVTYtSc0",
+      "externalId": "m6KnVTYtSc0",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/m6KnVTYtSc0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCglHohDniksVms2TIfXm5MChqiiQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "14:58",
+        "metadata": "10M 1y ago"
+      },
+      "evidenceText": "14:58 Why Does Fentanyl Feel So Good? 10M 1y ago"
+    },
+    {
+      "title": "What If It Rains Bananas For A Single Day? (Spoiler: It's Bad)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tRXy-b6_lBc",
+      "externalId": "tRXy-b6_lBc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/tRXy-b6_lBc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDE2hmxygq0tmMTkPJidnxAY9YCDw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:16",
+        "metadata": "5.5M 1y ago"
+      },
+      "evidenceText": "11:16 What If It Rains Bananas For A Single Day? (Spoiler: It's Bad) 5.5M 1y ago"
+    },
+    {
+      "title": "Your Time Machine Broke - At The Worst Time In History",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NYNBAxDfgrY",
+      "externalId": "NYNBAxDfgrY",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:53",
+        "metadata": "6M 1y ago"
+      },
+      "evidenceText": "12:53 Your Time Machine Broke - At The Worst Time In History 6M 1y ago"
+    },
+    {
+      "title": "SOUTH KOREA IS OVER",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Ufmu1WD2TSk",
+      "externalId": "Ufmu1WD2TSk",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "14:47",
+        "metadata": "15M 1y ago"
+      },
+      "evidenceText": "14:47 SOUTH KOREA IS OVER 15M 1y ago"
+    },
+    {
+      "title": "Why Your Brain Blinds You For 2 Hours Every Day",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wo_e0EvEZn8",
+      "externalId": "wo_e0EvEZn8",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:34",
+        "metadata": "8.2M 1y ago"
+      },
+      "evidenceText": "12:34 Why Your Brain Blinds You For 2 Hours Every Day 8.2M 1y ago"
+    },
+    {
+      "title": "If You Eat Meat You Should Know This",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5sVfTPaxRwk",
+      "externalId": "5sVfTPaxRwk",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "15:30",
+        "metadata": "6.2M 1y ago"
+      },
+      "evidenceText": "15:30 If You Eat Meat You Should Know This 6.2M 1y ago"
+    },
+    {
+      "title": "What Actual Aliens Might Look Like",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dCiMUWw1BBc",
+      "externalId": "dCiMUWw1BBc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "15:53",
+        "metadata": "11M 1y ago"
+      },
+      "evidenceText": "15:53 What Actual Aliens Might Look Like 11M 1y ago"
+    },
+    {
+      "title": "The Real Reason Why You Have Allergies",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9zCH37330f8",
+      "externalId": "9zCH37330f8",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:30",
+        "metadata": "8.7M 1y ago"
+      },
+      "evidenceText": "12:30 The Real Reason Why You Have Allergies 8.7M 1y ago"
+    },
+    {
+      "title": "Is The World Getting More Violent?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=reSfF60-2S4",
+      "externalId": "reSfF60-2S4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/reSfF60-2S4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCBRg5r6ROA4gnr_oC0vPlR9jsNyA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:57",
+        "metadata": "4.6M 1y ago"
+      },
+      "evidenceText": "12:57 Is The World Getting More Violent? 4.6M 1y ago"
+    },
+    {
+      "title": "Black Hole's Evil Twin - Gravastars Explained",
+      "canonicalUrl": "https://www.youtube.com/watch?v=BmUZ2wp1lM8",
+      "externalId": "BmUZ2wp1lM8",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/BmUZ2wp1lM8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbqdiEwJ87QwJiDkj4oNUTVtFhGg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "13:31",
+        "metadata": "9.9M 1y ago"
+      },
+      "evidenceText": "13:31 Black Hole's Evil Twin - Gravastars Explained 9.9M 1y ago"
+    },
+    {
+      "title": "Vaping Is Too Good To Be True",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cHEOsKddURQ",
+      "externalId": "cHEOsKddURQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/cHEOsKddURQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAdetncml5Z1LT76_yulQizyiv2ng",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "13:54",
+        "metadata": "9M 1y ago"
+      },
+      "evidenceText": "13:54 Vaping Is Too Good To Be True 9M 1y ago"
+    },
+    {
+      "title": "We Have To Talk About Weed",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qBRaI0ZeAf8",
+      "externalId": "qBRaI0ZeAf8",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/qBRaI0ZeAf8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbLpNCKW473ZCSEc_zX21emlYaBA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "14:42",
+        "metadata": "12M 1y ago"
+      },
+      "evidenceText": "14:42 We Have To Talk About Weed 12M 1y ago"
+    },
+    {
+      "title": "The Most Insane Weapon You Never Heard About",
+      "canonicalUrl": "https://www.youtube.com/watch?v=E55uSCO5D2w",
+      "externalId": "E55uSCO5D2w",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/E55uSCO5D2w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAkvpInFNDSXYbRK4V7JJNGHKxyyA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "13:56",
+        "metadata": "14M 1y ago"
+      },
+      "evidenceText": "13:56 The Most Insane Weapon You Never Heard About 14M 1y ago"
+    },
+    {
+      "title": "We Fell For The Oldest Lie On The Internet",
+      "canonicalUrl": "https://www.youtube.com/watch?v=bgo7rm5Maqg",
+      "externalId": "bgo7rm5Maqg",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/bgo7rm5Maqg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCUizgn8EAJE0S4fWYwRGsqTAjjHg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "13:08",
+        "metadata": "9.1M 1y ago"
+      },
+      "evidenceText": "13:08 We Fell For The Oldest Lie On The Internet 9.1M 1y ago"
+    },
+    {
+      "title": "Tired of Doomscrolling?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=c1nYtX-NUsc",
+      "externalId": "c1nYtX-NUsc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/c1nYtX-NUsc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBKVB8Ss9JuFiUQq_-l-5D7cNco3Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:14",
+        "metadata": "6.6M 1y ago"
+      },
+      "evidenceText": "9:14 Tired of Doomscrolling? 6.6M 1y ago"
+    },
+    {
+      "title": "There Is Life Hiding Inside Earth",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VD6xJq8NguY",
+      "externalId": "VD6xJq8NguY",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/VD6xJq8NguY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTACF1jhVrf0NrDIAr8v05W-BNnQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:28",
+        "metadata": "8.7M 1y ago"
+      },
+      "evidenceText": "11:28 There Is Life Hiding Inside Earth 8.7M 1y ago"
+    },
+    {
+      "title": "This Video Might Save 58 Lives Next Week",
+      "canonicalUrl": "https://www.youtube.com/watch?v=oTx-GSF3cts",
+      "externalId": "oTx-GSF3cts",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/oTx-GSF3cts/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAcvfJ4Nj_Qc4qeCSw5fRZaGwwAng",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "13:39",
+        "metadata": "5.5M 2y ago"
+      },
+      "evidenceText": "13:39 This Video Might Save 58 Lives Next Week 5.5M 2y ago"
+    },
+    {
+      "title": "Why Scientists Are Puzzled By This Virus",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SbvAaDN1bpE",
+      "externalId": "SbvAaDN1bpE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/SbvAaDN1bpE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAiDDxzOUiUZLv0ANR0IziLymYpIg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:44",
+        "metadata": "5.5M 2y ago"
+      },
+      "evidenceText": "10:44 Why Scientists Are Puzzled By This Virus 5.5M 2y ago"
+    },
+    {
+      "title": "We Need to Rethink Exercise (Updated Version)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vSSkDos2hzo",
+      "externalId": "vSSkDos2hzo",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/vSSkDos2hzo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDq8q_oBf2gZaIErwVsIMcYpYiNjw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "13:08",
+        "metadata": "5.8M 2y ago"
+      },
+      "evidenceText": "13:08 We Need to Rethink Exercise (Updated Version) 5.8M 2y ago"
+    },
+    {
+      "title": "We Traveled Back in Time. Now Physicists Are Angry.",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dBxxi5XAm3U",
+      "externalId": "dBxxi5XAm3U",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/dBxxi5XAm3U/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAfXK-5Zk-y83U4UluZ7tX4bF6EvQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:20",
+        "metadata": "9.5M 2y ago"
+      },
+      "evidenceText": "11:20 We Traveled Back in Time. Now Physicists Are Angry. 9.5M 2y ago"
+    },
+    {
+      "title": "Fever Feels Horrible, but is Actually Awesome!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cRZOUcpiOxY",
+      "externalId": "cRZOUcpiOxY",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:08",
+        "metadata": "11M 2y ago"
+      },
+      "evidenceText": "11:08 Fever Feels Horrible, but is Actually Awesome! 11M 2y ago"
+    },
+    {
+      "title": "A.I. ‐ Humanity's Final Invention?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fa8k8IQ1_X0",
+      "externalId": "fa8k8IQ1_X0",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "16:43",
+        "metadata": "12M 2y ago"
+      },
+      "evidenceText": "16:43 A.I. ‐ Humanity's Final Invention? 12M 2y ago"
+    },
+    {
+      "title": "This Disease is Deadlier Than The Plague",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GFLb5h2O2Ww",
+      "externalId": "GFLb5h2O2Ww",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:53",
+        "metadata": "10M 2y ago"
+      },
+      "evidenceText": "10:53 This Disease is Deadlier Than The Plague 10M 2y ago"
+    },
+    {
+      "title": "Do You Have a Free Will?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UebSfjmQNvs",
+      "externalId": "UebSfjmQNvs",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/UebSfjmQNvs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCFsNVCxlyzxF4L3MY9Ih3S8HoqOg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:18",
+        "metadata": "6.5M 2y ago"
+      },
+      "evidenceText": "12:18 Do You Have a Free Will? 6.5M 2y ago"
+    },
+    {
+      "title": "We Are Making a VIDEO GAME",
+      "canonicalUrl": "https://www.youtube.com/watch?v=3DFE8gZe9bA",
+      "externalId": "3DFE8gZe9bA",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/3DFE8gZe9bA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAkg2wF_Vw0gLop2qBOwgNnnyDGsA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "1:01",
+        "metadata": "1.9M 2y ago"
+      },
+      "evidenceText": "1:01 We Are Making a VIDEO GAME 1.9M 2y ago"
+    },
+    {
+      "title": "Your Hidden Superpower",
+      "canonicalUrl": "https://www.youtube.com/watch?v=itBBsQRv0EU",
+      "externalId": "itBBsQRv0EU",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/itBBsQRv0EU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkAhojCLScz_sF1QlR6dggCnLmkg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "1:47",
+        "metadata": "1.3M 2y ago"
+      },
+      "evidenceText": "1:47 Your Hidden Superpower 1.3M 2y ago"
+    },
+    {
+      "title": "This Black Hole Could be Bigger Than The Universe",
+      "canonicalUrl": "https://www.youtube.com/watch?v=71eUes30gwc",
+      "externalId": "71eUes30gwc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/71eUes30gwc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJ94W0V7vRVYW-mkojML_BzVBjKQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:44",
+        "metadata": "9.3M 2y ago"
+      },
+      "evidenceText": "11:44 This Black Hole Could be Bigger Than The Universe 9.3M 2y ago"
+    },
+    {
+      "title": "Smoking is Awesome",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_rBPwu2uS-w",
+      "externalId": "_rBPwu2uS-w",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/_rBPwu2uS-w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCMnx3RjxpIh6L3PdifMCLZ7AWMHw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:45",
+        "metadata": "12M 2y ago"
+      },
+      "evidenceText": "11:45 Smoking is Awesome 12M 2y ago"
+    },
+    {
+      "title": "What Makes Kurzgesagt So Special?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=OvKr6loCciE",
+      "externalId": "OvKr6loCciE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/OvKr6loCciE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDpXeEV6nbnkLuklvPIrYa-ITYLGw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "2:10",
+        "metadata": "1.1M 2y ago"
+      },
+      "evidenceText": "2:10 What Makes Kurzgesagt So Special? 1.1M 2y ago"
+    },
+    {
+      "title": "There Are Thousands of Alien Empires in The Milky Way",
+      "canonicalUrl": "https://www.youtube.com/watch?v=L_JQOH1tEEA",
+      "externalId": "L_JQOH1tEEA",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/L_JQOH1tEEA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAGPnB9eHGiRwDH1jec5yh0fEKzXg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "13:59",
+        "metadata": "9.1M 2y ago"
+      },
+      "evidenceText": "13:59 There Are Thousands of Alien Empires in The Milky Way 9.1M 2y ago"
+    },
+    {
+      "title": "How The Dinosaurs Actually Died",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pjoQdz0nxf4",
+      "externalId": "pjoQdz0nxf4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/pjoQdz0nxf4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDhF9QI1YbpPwaPEDosb45u8tDruw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:40",
+        "metadata": "8.8M 2y ago"
+      },
+      "evidenceText": "11:40 How The Dinosaurs Actually Died 8.8M 2y ago"
+    },
+    {
+      "title": "The Paradox of an Infinite Universe",
+      "canonicalUrl": "https://www.youtube.com/watch?v=isdLel273rQ",
+      "externalId": "isdLel273rQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/isdLel273rQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBf2pwodUek2Gxjplxmt1wbKse1Nw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:21",
+        "metadata": "12M 2y ago"
+      },
+      "evidenceText": "11:21 The Paradox of an Infinite Universe 12M 2y ago"
+    },
+    {
+      "title": "What Happens AFTER Nuclear War?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LrIRuqr_Ozg",
+      "externalId": "LrIRuqr_Ozg",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:11",
+        "metadata": "13M 2y ago"
+      },
+      "evidenceText": "11:11 What Happens AFTER Nuclear War? 13M 2y ago"
+    },
+    {
+      "title": "Did The Future Already Happen? - The Paradox of Time",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wwSzpaTHyS8",
+      "externalId": "wwSzpaTHyS8",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:35",
+        "metadata": "15M 2y ago"
+      },
+      "evidenceText": "12:35 Did The Future Already Happen? - The Paradox of Time 15M 2y ago"
+    },
+    {
+      "title": "You Are The Center of The Universe (Literally)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Z_1Q0XB4X0Y",
+      "externalId": "Z_1Q0XB4X0Y",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:31",
+        "metadata": "8.9M 2y ago"
+      },
+      "evidenceText": "12:31 You Are The Center of The Universe (Literally) 8.9M 2y ago"
+    },
+    {
+      "title": "Your Tattoo is INSIDE Your Immune System. Literally",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nGggU-Cxhv0",
+      "externalId": "nGggU-Cxhv0",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:09",
+        "metadata": "16M 2y ago"
+      },
+      "evidenceText": "9:09 Your Tattoo is INSIDE Your Immune System. Literally 16M 2y ago"
+    },
+    {
+      "title": "How To Destroy The Universe",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HR2C_7G_yRQ",
+      "externalId": "HR2C_7G_yRQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:03",
+        "metadata": "10M 2y ago"
+      },
+      "evidenceText": "10:03 How To Destroy The Universe 10M 2y ago"
+    },
+    {
+      "title": "The Moment kurzgesagt Changed Forever",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yDMZJ7LgrGY",
+      "externalId": "yDMZJ7LgrGY",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "2:09",
+        "metadata": "1.9M 2y ago"
+      },
+      "evidenceText": "2:09 The Moment kurzgesagt Changed Forever 1.9M 2y ago"
+    },
+    {
+      "title": "The Internet is Worse Than Ever – Now What?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fuFlMtZmvY0",
+      "externalId": "fuFlMtZmvY0",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/fuFlMtZmvY0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBqhYeauUWt3BqktIoT1W7752zdIA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:32",
+        "metadata": "9M 2y ago"
+      },
+      "evidenceText": "11:32 The Internet is Worse Than Ever – Now What? 9M 2y ago"
+    },
+    {
+      "title": "The Last Thing To Ever Happen In The Universe",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FgnjdW-x7mQ",
+      "externalId": "FgnjdW-x7mQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/FgnjdW-x7mQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBdyWYrzMmT-L9Kst0ez7wLiPsvPQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:05",
+        "metadata": "9.7M 2y ago"
+      },
+      "evidenceText": "11:05 The Last Thing To Ever Happen In The Universe 9.7M 2y ago"
+    },
+    {
+      "title": "How to Win an Interstellar War",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tybKnGZRwcU",
+      "externalId": "tybKnGZRwcU",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/tybKnGZRwcU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD3p1q3NTsWwSmJRIJ4RFoL3l9iuQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:05",
+        "metadata": "13M 2y ago"
+      },
+      "evidenceText": "11:05 How to Win an Interstellar War 13M 2y ago"
+    },
+    {
+      "title": "4.5 Billion Years in 1 Hour",
+      "canonicalUrl": "https://www.youtube.com/watch?v=S7TUe5w6RHo",
+      "externalId": "S7TUe5w6RHo",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/S7TUe5w6RHo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCeuQBOKj2eH7qs_Jjilckon9ZGzA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "1:03:31",
+        "metadata": "17M 2y ago"
+      },
+      "evidenceText": "1:03:31 4.5 Billion Years in 1 Hour 17M 2y ago"
+    },
+    {
+      "title": "Ancient Life as Old as the Universe",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JOiGEI9pQBs",
+      "externalId": "JOiGEI9pQBs",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/JOiGEI9pQBs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC0pRBXk6zrItQj0nIJTnWhm5Pd2A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:35",
+        "metadata": "8.4M 2y ago"
+      },
+      "evidenceText": "9:35 Ancient Life as Old as the Universe 8.4M 2y ago"
+    },
+    {
+      "title": "Why Humans Are Vanishing",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LBudghsdByQ",
+      "externalId": "LBudghsdByQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/LBudghsdByQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA9z1PuvbUtI4hoJCI4-XMPcYwLpQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "13:07",
+        "metadata": "13M 2y ago"
+      },
+      "evidenceText": "13:07 Why Humans Are Vanishing 13M 2y ago"
+    },
+    {
+      "title": "Are You A Dream Of The Universe?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4Stzj2_Rlo4",
+      "externalId": "4Stzj2_Rlo4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/4Stzj2_Rlo4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC6E8wSsYB2kMkELRtxFnoTogKzOQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:16",
+        "metadata": "8.4M 3y ago"
+      },
+      "evidenceText": "10:16 Are You A Dream Of The Universe? 8.4M 3y ago"
+    },
+    {
+      "title": "How A Nuclear War Will Start - Minute by Minute",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wmP3MBjsx20",
+      "externalId": "wmP3MBjsx20",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/wmP3MBjsx20/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBSaD7TSYQgas0mhW2ZjMxzId1kFg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:54",
+        "metadata": "10M 3y ago"
+      },
+      "evidenceText": "8:54 How A Nuclear War Will Start - Minute by Minute 10M 3y ago"
+    },
+    {
+      "title": "What Happens If You Destroy A Black Hole?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cFslUSyfZPc",
+      "externalId": "cFslUSyfZPc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/cFslUSyfZPc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDArTZt-k91zIj81BhQr8Ac1MISbQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:53",
+        "metadata": "14M 3y ago"
+      },
+      "evidenceText": "10:53 What Happens If You Destroy A Black Hole? 14M 3y ago"
+    },
+    {
+      "title": "The (Second) Deadliest Virus",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Kr57ax0OWMk",
+      "externalId": "Kr57ax0OWMk",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/Kr57ax0OWMk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTOP0kagDEdeV-8lD1sjOiTiYz-A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:09",
+        "metadata": "7.1M 3y ago"
+      },
+      "evidenceText": "11:09 The (Second) Deadliest Virus 7.1M 3y ago"
+    },
+    {
+      "title": "The Most Dangerous Weapon Is Not Nuclear",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9FppammO1zk",
+      "externalId": "9FppammO1zk",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/9FppammO1zk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD4lCbQL1RB9_cRgVgXaQlFFkMZXw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:05",
+        "metadata": "6.6M 3y ago"
+      },
+      "evidenceText": "11:05 The Most Dangerous Weapon Is Not Nuclear 6.6M 3y ago"
+    },
+    {
+      "title": "The Reason Why Cancer is so Hard to Beat",
+      "canonicalUrl": "https://www.youtube.com/watch?v=uoJwt9l-XhQ",
+      "externalId": "uoJwt9l-XhQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/uoJwt9l-XhQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAViDcO0uVbJdjIB2RSU49o7FRe6g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:25",
+        "metadata": "9.6M 3y ago"
+      },
+      "evidenceText": "10:25 The Reason Why Cancer is so Hard to Beat 9.6M 3y ago"
+    },
+    {
+      "title": "The Black Hole That Kills Galaxies - Quasars",
+      "canonicalUrl": "https://www.youtube.com/watch?v=V4Z8EdiJxgk",
+      "externalId": "V4Z8EdiJxgk",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:50",
+        "metadata": "11M 3y ago"
+      },
+      "evidenceText": "10:50 The Black Hole That Kills Galaxies - Quasars 11M 3y ago"
+    },
+    {
+      "title": "Your Body Killed Cancer 5 Minutes Ago",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zFhYJRqz_xk",
+      "externalId": "zFhYJRqz_xk",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:14",
+        "metadata": "10M 3y ago"
+      },
+      "evidenceText": "9:14 Your Body Killed Cancer 5 Minutes Ago 10M 3y ago"
+    },
+    {
+      "title": "Why Aliens Might Already Be On Their Way To Us",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GDSf2h9_39I",
+      "externalId": "GDSf2h9_39I",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:58",
+        "metadata": "9.6M 3y ago"
+      },
+      "evidenceText": "10:58 Why Aliens Might Already Be On Their Way To Us 9.6M 3y ago"
+    },
+    {
+      "title": "How We Make Money on YouTube with 20M Subs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1x-i9z617z4",
+      "externalId": "1x-i9z617z4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/1x-i9z617z4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAAJiqWCjbrUix9lyuXnRZDBRUHmg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:58",
+        "metadata": "5.6M 3y ago"
+      },
+      "evidenceText": "9:58 How We Make Money on YouTube with 20M Subs 5.6M 3y ago"
+    },
+    {
+      "title": "What Actually Happens When You Are Sick?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=M-K7mxdN62M",
+      "externalId": "M-K7mxdN62M",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/M-K7mxdN62M/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB3tqCgIbV--aJOYl0dxzKmmd3dXA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:12",
+        "metadata": "7.8M 3y ago"
+      },
+      "evidenceText": "11:12 What Actually Happens When You Are Sick? 7.8M 3y ago"
+    },
+    {
+      "title": "The Most Complex Language in the World",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TYPFenJQciw",
+      "externalId": "TYPFenJQciw",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/TYPFenJQciw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB_qXXhuoiYow0uQUXyKQz0v3c2EA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:55",
+        "metadata": "6.7M 3y ago"
+      },
+      "evidenceText": "11:55 The Most Complex Language in the World 6.7M 3y ago"
+    },
+    {
+      "title": "Black Hole Star – The Star That Shouldn't Exist",
+      "canonicalUrl": "https://www.youtube.com/watch?v=aeWyp2vXxqA",
+      "externalId": "aeWyp2vXxqA",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/aeWyp2vXxqA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCaEasxiUGBF9IPwU5f-r77d8HJsg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:57",
+        "metadata": "15M 3y ago"
+      },
+      "evidenceText": "9:57 Black Hole Star – The Star That Shouldn't Exist 15M 3y ago"
+    },
+    {
+      "title": "How to Terraform Mars - WITH LASERS",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HpcTJW4ur54",
+      "externalId": "HpcTJW4ur54",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/HpcTJW4ur54/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA2479iRov2yvr2bVAbPMAvExQuCA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:17",
+        "metadata": "11M 3y ago"
+      },
+      "evidenceText": "11:17 How to Terraform Mars - WITH LASERS 11M 3y ago"
+    },
+    {
+      "title": "The Horror of the Slaver Ant",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Qsbe1pD8ocE",
+      "externalId": "Qsbe1pD8ocE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/Qsbe1pD8ocE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBFnJt3fCnQdwcs83RjOh-LQNTOSQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:59",
+        "metadata": "10M 3y ago"
+      },
+      "evidenceText": "8:59 The Horror of the Slaver Ant 10M 3y ago"
+    },
+    {
+      "title": "The Most Extreme Explosion in the Universe",
+      "canonicalUrl": "https://www.youtube.com/watch?v=q4DF3j4saCE",
+      "externalId": "q4DF3j4saCE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/q4DF3j4saCE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5C2kRrQK-Osjf74-xZmVYVkfmVg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:29",
+        "metadata": "11M 3y ago"
+      },
+      "evidenceText": "9:29 The Most Extreme Explosion in the Universe 11M 3y ago"
+    },
+    {
+      "title": "Why Don't We Shoot Nuclear Waste Into Space?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Us2Z-WC9rao",
+      "externalId": "Us2Z-WC9rao",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/Us2Z-WC9rao/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCeDsYZU0tEnO_14ytA-taxboh8ZQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:35",
+        "metadata": "14M 3y ago"
+      },
+      "evidenceText": "10:35 Why Don't We Shoot Nuclear Waste Into Space? 14M 3y ago"
+    },
+    {
+      "title": "The Biggest Eruptions That Changed Earth Forever",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fXb02MQ78yQ",
+      "externalId": "fXb02MQ78yQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/fXb02MQ78yQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAzgZhr9Pai9EzHfC6f9SuvwpKSkg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:59",
+        "metadata": "12M 3y ago"
+      },
+      "evidenceText": "9:59 The Biggest Eruptions That Changed Earth Forever 12M 3y ago"
+    },
+    {
+      "title": "Let’s Travel to The Most Extreme Place in The Universe",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FfWtIaDtfYk",
+      "externalId": "FfWtIaDtfYk",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:34",
+        "metadata": "13M 3y ago"
+      },
+      "evidenceText": "11:34 Let’s Travel to The Most Extreme Place in The Universe 13M 3y ago"
+    },
+    {
+      "title": "How To Make Friends",
+      "canonicalUrl": "https://www.youtube.com/watch?v=I9hJ_Rux9y0",
+      "externalId": "I9hJ_Rux9y0",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:09",
+        "metadata": "7.7M 4y ago"
+      },
+      "evidenceText": "12:09 How To Make Friends 7.7M 4y ago"
+    },
+    {
+      "title": "Is Civilization on the Brink of Collapse?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=W93XyXHI8Nw",
+      "externalId": "W93XyXHI8Nw",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:55",
+        "metadata": "11M 4y ago"
+      },
+      "evidenceText": "9:55 Is Civilization on the Brink of Collapse? 11M 4y ago"
+    },
+    {
+      "title": "The Deadliest Virus on Earth",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4u5I8GYB79Y",
+      "externalId": "4u5I8GYB79Y",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:00",
+        "metadata": "16M 4y ago"
+      },
+      "evidenceText": "9:00 The Deadliest Virus on Earth 16M 4y ago"
+    },
+    {
+      "title": "The Last Human – A Glimpse Into The Far Future",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LEENEFaVUzU",
+      "externalId": "LEENEFaVUzU",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:31",
+        "metadata": "15M 4y ago"
+      },
+      "evidenceText": "12:31 The Last Human – A Glimpse Into The Far Future 15M 4y ago"
+    },
+    {
+      "title": "Change Your Life – One Tiny Step at a Time",
+      "canonicalUrl": "https://www.youtube.com/watch?v=75d_29QWELk",
+      "externalId": "75d_29QWELk",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:31",
+        "metadata": "15M 4y ago"
+      },
+      "evidenceText": "11:31 Change Your Life – One Tiny Step at a Time 15M 4y ago"
+    },
+    {
+      "title": "You Are Not Where You Think You Are",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Pj-h6MEgE7I",
+      "externalId": "Pj-h6MEgE7I",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/Pj-h6MEgE7I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBDExzsZwgWyGCcIUd44OCXE7lNog",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:46",
+        "metadata": "10M 4y ago"
+      },
+      "evidenceText": "7:46 You Are Not Where You Think You Are 10M 4y ago"
+    },
+    {
+      "title": "The Most Horrible Parasite: Brain Eating Amoeba",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7OPg-ksxZ4Y",
+      "externalId": "7OPg-ksxZ4Y",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/7OPg-ksxZ4Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAhuaALpOsRNk6998ib5m_TZHn6aA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:40",
+        "metadata": "14M 4y ago"
+      },
+      "evidenceText": "10:40 The Most Horrible Parasite: Brain Eating Amoeba 14M 4y ago"
+    },
+    {
+      "title": "We WILL Fix Climate Change!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LxgMdjyw8uw",
+      "externalId": "LxgMdjyw8uw",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/LxgMdjyw8uw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAy_k_tUGWIpv4sIvt3POHszzbdwQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "14:11",
+        "metadata": "12M 4y ago"
+      },
+      "evidenceText": "14:11 We WILL Fix Climate Change! 12M 4y ago"
+    },
+    {
+      "title": "Are There Lost Alien Civilizations in Our Past?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KRvv0QdruMQ",
+      "externalId": "KRvv0QdruMQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/KRvv0QdruMQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGk_yCOljsrNzOGpQHwepIHSGnSQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:29",
+        "metadata": "14M 4y ago"
+      },
+      "evidenceText": "10:29 Are There Lost Alien Civilizations in Our Past? 14M 4y ago"
+    },
+    {
+      "title": "What Happens if the Moon Crashes into Earth?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lheapd7bgLA",
+      "externalId": "lheapd7bgLA",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/lheapd7bgLA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCpCi01IlB3KnPZIFFcx_o3ihh9dA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:28",
+        "metadata": "22M 4y ago"
+      },
+      "evidenceText": "10:28 What Happens if the Moon Crashes into Earth? 22M 4y ago"
+    },
+    {
+      "title": "Why We Should NOT Look For Aliens - The Dark Forest",
+      "canonicalUrl": "https://www.youtube.com/watch?v=xAUJYP8tnRE",
+      "externalId": "xAUJYP8tnRE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/xAUJYP8tnRE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAKJANgW71u-gouiUu_zOHCVnOP9Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:31",
+        "metadata": "17M 4y ago"
+      },
+      "evidenceText": "10:31 Why We Should NOT Look For Aliens - The Dark Forest 17M 4y ago"
+    },
+    {
+      "title": "...And We'll Do it Again",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XFqn3uy238E",
+      "externalId": "XFqn3uy238E",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/XFqn3uy238E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDOT21aqHXVwj9Nm_7rTuIzJZf7Pg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:47",
+        "metadata": "13M 4y ago"
+      },
+      "evidenceText": "8:47 ...And We'll Do it Again 13M 4y ago"
+    },
+    {
+      "title": "Is Meat Really that Bad?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=F1Hq8eVOMHs",
+      "externalId": "F1Hq8eVOMHs",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/F1Hq8eVOMHs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBOnQ0Kz9XSFF2EVjLM70J2eaFTLw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:14",
+        "metadata": "9.1M 4y ago"
+      },
+      "evidenceText": "10:14 Is Meat Really that Bad? 9.1M 4y ago"
+    },
+    {
+      "title": "You Are Immune Against Every Disease",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LmpuerlbJu0",
+      "externalId": "LmpuerlbJu0",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/LmpuerlbJu0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD7ZQtCpOiSm0Cr5RJOjZxeVuTXRA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:46",
+        "metadata": "19M 4y ago"
+      },
+      "evidenceText": "11:46 You Are Immune Against Every Disease 19M 4y ago"
+    },
+    {
+      "title": "What Dinosaurs ACTUALLY Looked Like?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=xaQJbozY_Is",
+      "externalId": "xaQJbozY_Is",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/xaQJbozY_Is/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDirJhhykFwaK-d9Xs-WCkydUpidg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:53",
+        "metadata": "14M 4y ago"
+      },
+      "evidenceText": "9:53 What Dinosaurs ACTUALLY Looked Like? 14M 4y ago"
+    },
+    {
+      "title": "Two Chapters From Our New Book – Exclusive Preview!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0FRVx_c9T0c",
+      "externalId": "0FRVx_c9T0c",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/0FRVx_c9T0c/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA7w6rzum9kLGvEZRn3OgJzjqyNKA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "25:56",
+        "metadata": "2M 4y ago"
+      },
+      "evidenceText": "25:56 Two Chapters From Our New Book – Exclusive Preview! 2M 4y ago"
+    },
+    {
+      "title": "Can YOU Fix Climate Change?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yiw6_JakZFc",
+      "externalId": "yiw6_JakZFc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/yiw6_JakZFc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAicqsnYvdp8s52tndhLbEwr90UKQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "15:50",
+        "metadata": "14M 5y ago"
+      },
+      "evidenceText": "15:50 Can YOU Fix Climate Change? 14M 5y ago"
+    },
+    {
+      "title": "This Virus Shouldn't Exist (But it Does)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1-NxodiGPCU",
+      "externalId": "1-NxodiGPCU",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:34",
+        "metadata": "23M 5y ago"
+      },
+      "evidenceText": "9:34 This Virus Shouldn't Exist (But it Does) 23M 5y ago"
+    },
+    {
+      "title": "How The Immune System ACTUALLY Works – IMMUNE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lXfEK8G8CUI",
+      "externalId": "lXfEK8G8CUI",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:48",
+        "metadata": "26M 5y ago"
+      },
+      "evidenceText": "10:48 How The Immune System ACTUALLY Works – IMMUNE 26M 5y ago"
+    },
+    {
+      "title": "The Largest Black Hole in the Universe - Size Comparison",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0FH9cgRhQ-k",
+      "externalId": "0FH9cgRhQ-k",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "13:44",
+        "metadata": "32M 5y ago"
+      },
+      "evidenceText": "13:44 The Largest Black Hole in the Universe - Size Comparison 32M 5y ago"
+    },
+    {
+      "title": "How To Terraform Venus (Quickly)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=G-WO-z-QuWI",
+      "externalId": "G-WO-z-QuWI",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/G-WO-z-QuWI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNRlmOfaHndjpFur4hlTm95Fb4SQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:42",
+        "metadata": "22M 5y ago"
+      },
+      "evidenceText": "12:42 How To Terraform Venus (Quickly) 22M 5y ago"
+    },
+    {
+      "title": "The Day the Dinosaurs Died – Minute by Minute",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dFCbJmgeHmA",
+      "externalId": "dFCbJmgeHmA",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/dFCbJmgeHmA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAYLjLSbXSjRqOS5NWlwONH-_P74A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:02",
+        "metadata": "23M 5y ago"
+      },
+      "evidenceText": "12:02 The Day the Dinosaurs Died – Minute by Minute 23M 5y ago"
+    },
+    {
+      "title": "When This Number Hits 5200 - You Will be Dead",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JXeJANDKwDc",
+      "externalId": "JXeJANDKwDc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/JXeJANDKwDc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDx0Tydjp_KTEOcmKQutmRkFl72Ig",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:36",
+        "metadata": "12M 5y ago"
+      },
+      "evidenceText": "9:36 When This Number Hits 5200 - You Will be Dead 12M 5y ago"
+    },
+    {
+      "title": "TRUE Limits Of Humanity – The Final Border We Will Never Cross",
+      "canonicalUrl": "https://www.youtube.com/watch?v=uzkD5SeuwzM",
+      "externalId": "uzkD5SeuwzM",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/uzkD5SeuwzM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBFApBpS9dSYW0IswcQt4sIFN2jDw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:41",
+        "metadata": "23M 5y ago"
+      },
+      "evidenceText": "11:41 TRUE Limits Of Humanity – The Final Border We Will Never Cross 23M 5y ago"
+    },
+    {
+      "title": "What If You Fall into a Black Hole?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QqsLTNkzvaY",
+      "externalId": "QqsLTNkzvaY",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/QqsLTNkzvaY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcAQl7t3ipHjznduLO0_PjxnHxlg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "12:15",
+        "metadata": "19M 5y ago"
+      },
+      "evidenceText": "12:15 What If You Fall into a Black Hole? 19M 5y ago"
+    },
+    {
+      "title": "Do we Need Nuclear Energy to Stop Climate Change?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=EhAemz1v7dQ",
+      "externalId": "EhAemz1v7dQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/EhAemz1v7dQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAK5a2TPb_ybH28TaTu1ndrD-JPgg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:03",
+        "metadata": "9.8M 5y ago"
+      },
+      "evidenceText": "9:03 Do we Need Nuclear Energy to Stop Climate Change? 9.8M 5y ago"
+    },
+    {
+      "title": "What if the World turned to Gold? - The Gold Apocalypse",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VB_GWz25B3Q",
+      "externalId": "VB_GWz25B3Q",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/VB_GWz25B3Q/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC-5tUSPucIJYCe98yKeNbkb8Z3sg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:17",
+        "metadata": "15M 5y ago"
+      },
+      "evidenceText": "9:17 What if the World turned to Gold? - The Gold Apocalypse 15M 5y ago"
+    },
+    {
+      "title": "Worst Nuclear Accidents in History",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Jzfpyo-q-RM",
+      "externalId": "Jzfpyo-q-RM",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/Jzfpyo-q-RM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDqmhA-ziylU9nQnxZbcYsNorXdeg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:13",
+        "metadata": "10M 5y ago"
+      },
+      "evidenceText": "9:13 Worst Nuclear Accidents in History 10M 5y ago"
+    },
+    {
+      "title": "What if We Nuke the Moon?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qEfPBt9dU60",
+      "externalId": "qEfPBt9dU60",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/qEfPBt9dU60/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAulM30ZF4SkH8WtuMv4WlYJeuQZw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:14",
+        "metadata": "20M 5y ago"
+      },
+      "evidenceText": "7:14 What if We Nuke the Moon? 20M 5y ago"
+    },
+    {
+      "title": "Can You Upload Your Mind & Live Forever?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4b33NTAuF5E",
+      "externalId": "4b33NTAuF5E",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "14:34",
+        "metadata": "13M 5y ago"
+      },
+      "evidenceText": "14:34 Can You Upload Your Mind & Live Forever? 13M 5y ago"
+    },
+    {
+      "title": "What If Earth got Kicked Out of the Solar System? Rogue Earth",
+      "canonicalUrl": "https://www.youtube.com/watch?v=gLZJlf5rHVs",
+      "externalId": "gLZJlf5rHVs",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:00",
+        "metadata": "20M 5y ago"
+      },
+      "evidenceText": "10:00 What If Earth got Kicked Out of the Solar System? Rogue Earth 20M 5y ago"
+    },
+    {
+      "title": "How Large Can a Bacteria get? Life & Size 3",
+      "canonicalUrl": "https://www.youtube.com/watch?v=E1KkQrFEl2I",
+      "externalId": "E1KkQrFEl2I",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:41",
+        "metadata": "10M 5y ago"
+      },
+      "evidenceText": "10:41 How Large Can a Bacteria get? Life & Size 3 10M 5y ago"
+    },
+    {
+      "title": "Geoengineering: A Horrible Idea We Might Have to Do",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dSu5sXmsur4",
+      "externalId": "dSu5sXmsur4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:18",
+        "metadata": "11M 5y ago"
+      },
+      "evidenceText": "9:18 Geoengineering: A Horrible Idea We Might Have to Do 11M 5y ago"
+    },
+    {
+      "title": "When Time Became History - The Human Era",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CWu29PRCUvQ",
+      "externalId": "CWu29PRCUvQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:23",
+        "metadata": "10M 5y ago"
+      },
+      "evidenceText": "11:23 When Time Became History - The Human Era 10M 5y ago"
+    },
+    {
+      "title": "Is It Too Late To Stop Climate Change? Well, it's Complicated.",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wbR-5mHI6bo",
+      "externalId": "wbR-5mHI6bo",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:07",
+        "metadata": "7.1M 5y ago"
+      },
+      "evidenceText": "10:07 Is It Too Late To Stop Climate Change? Well, it's Complicated. 7.1M 5y ago"
+    },
+    {
+      "title": "The Largest Star in the Universe – Size Comparison",
+      "canonicalUrl": "https://www.youtube.com/watch?v=3mnSDifDSxQ",
+      "externalId": "3mnSDifDSxQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/3mnSDifDSxQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAQBRZ81Zk0YScq6XUck3hsT9mYHw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:59",
+        "metadata": "35M 6y ago"
+      },
+      "evidenceText": "11:59 The Largest Star in the Universe – Size Comparison 35M 6y ago"
+    },
+    {
+      "title": "These Ants Use Their Babies As Glue Guns",
+      "canonicalUrl": "https://www.youtube.com/watch?v=B3QTAgHlwEg",
+      "externalId": "B3QTAgHlwEg",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/B3QTAgHlwEg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA6WGMUZY2Cx1My9Ii4rk8D683eiw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:43",
+        "metadata": "12M 6y ago"
+      },
+      "evidenceText": "7:43 These Ants Use Their Babies As Glue Guns 12M 6y ago"
+    },
+    {
+      "title": "Unlimited Resources From Space – Asteroid Mining",
+      "canonicalUrl": "https://www.youtube.com/watch?v=y8XvQNt26KI",
+      "externalId": "y8XvQNt26KI",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/y8XvQNt26KI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtQWPKar4UreeXBGEECity__uiHQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:33",
+        "metadata": "11M 6y ago"
+      },
+      "evidenceText": "6:33 Unlimited Resources From Space – Asteroid Mining 11M 6y ago"
+    },
+    {
+      "title": "What Do Alien Civilizations Look Like? The Kardashev Scale",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rhFK5_Nx9xY",
+      "externalId": "rhFK5_Nx9xY",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/rhFK5_Nx9xY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLoZG6wlniNP_7tOR2IqbNUkummg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:41",
+        "metadata": "21M 6y ago"
+      },
+      "evidenceText": "11:41 What Do Alien Civilizations Look Like? The Kardashev Scale 21M 6y ago"
+    },
+    {
+      "title": "What Is Intelligence? Where Does it Begin?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ck4RGeoHFko",
+      "externalId": "ck4RGeoHFko",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/ck4RGeoHFko/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBBspoEAFri8B7TJptHWDXGFMGplg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:45",
+        "metadata": "11M 6y ago"
+      },
+      "evidenceText": "9:45 What Is Intelligence? Where Does it Begin? 11M 6y ago"
+    },
+    {
+      "title": "Who Is Responsible For Climate Change? – Who Needs To Fix It?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ipVxxxqwBQw",
+      "externalId": "ipVxxxqwBQw",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/ipVxxxqwBQw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDVORSId93j9FVe3EAGfIAUXxi09w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:36",
+        "metadata": "11M 6y ago"
+      },
+      "evidenceText": "10:36 Who Is Responsible For Climate Change? – Who Needs To Fix It? 11M 6y ago"
+    },
+    {
+      "title": "Could Solar Storms Destroy Civilization? Solar Flares & Coronal Mass Ejections",
+      "canonicalUrl": "https://www.youtube.com/watch?v=oHHSSJDJ4oo",
+      "externalId": "oHHSSJDJ4oo",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/oHHSSJDJ4oo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD2XSidhlgz3hJ2whDRUINK_oaOGA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:23",
+        "metadata": "15M 6y ago"
+      },
+      "evidenceText": "8:23 Could Solar Storms Destroy Civilization? Solar Flares & Coronal Mass Ejections 15M 6y ago"
+    },
+    {
+      "title": "The Past We Can Never Return To – The Anthropocene Reviewed",
+      "canonicalUrl": "https://www.youtube.com/watch?v=YbgnlkJPga4",
+      "externalId": "YbgnlkJPga4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/YbgnlkJPga4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCg-oerPbEUD1IPpInkWhPrbFz9cw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:30",
+        "metadata": "8.9M 6y ago"
+      },
+      "evidenceText": "8:30 The Past We Can Never Return To – The Anthropocene Reviewed 8.9M 6y ago"
+    },
+    {
+      "title": "Why Are You Alive – Life, Energy & ATP",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QImCld9YubE",
+      "externalId": "QImCld9YubE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/QImCld9YubE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB0Po7LaF2pPtcMOAR9Itv5CVRvbQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:16",
+        "metadata": "12M 6y ago"
+      },
+      "evidenceText": "10:16 Why Are You Alive – Life, Energy & ATP 12M 6y ago"
+    },
+    {
+      "title": "The Coronavirus Explained & What You Should Do",
+      "canonicalUrl": "https://www.youtube.com/watch?v=BtN-goy9VOY",
+      "externalId": "BtN-goy9VOY",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/BtN-goy9VOY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCxGqNWxOSPD3jWyw4dNv7CRTnE_w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:35",
+        "metadata": "89M 6y ago"
+      },
+      "evidenceText": "8:35 The Coronavirus Explained & What You Should Do 89M 6y ago"
+    },
+    {
+      "title": "Why Blue Whales Don't Get Cancer - Peto's Paradox",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1AElONvi9WQ",
+      "externalId": "1AElONvi9WQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/1AElONvi9WQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB2mbysnVnC6EoGXEWUU3JFVI0Tdw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:07",
+        "metadata": "27M 6y ago"
+      },
+      "evidenceText": "7:07 Why Blue Whales Don't Get Cancer - Peto's Paradox 27M 6y ago"
+    },
+    {
+      "title": "How to Make a Kurzgesagt Video in 1200 Hours",
+      "canonicalUrl": "https://www.youtube.com/watch?v=uFk0mgljtns",
+      "externalId": "uFk0mgljtns",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/uFk0mgljtns/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCe4KdhLzv1Pk9efqLjMbzWOBW3Pw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:48",
+        "metadata": "9M 6y ago"
+      },
+      "evidenceText": "6:48 How to Make a Kurzgesagt Video in 1200 Hours 9M 6y ago"
+    },
+    {
+      "title": "Milk. White Poison or Healthy Drink?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=oakWgLqCwUc",
+      "externalId": "oakWgLqCwUc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:15",
+        "metadata": "23M 6y ago"
+      },
+      "evidenceText": "9:15 Milk. White Poison or Healthy Drink? 23M 6y ago"
+    },
+    {
+      "title": "How to Move the Sun: Stellar Engines",
+      "canonicalUrl": "https://www.youtube.com/watch?v=v3y8AIEX_dU",
+      "externalId": "v3y8AIEX_dU",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:39",
+        "metadata": "19M 6y ago"
+      },
+      "evidenceText": "8:39 How to Move the Sun: Stellar Engines 19M 6y ago"
+    },
+    {
+      "title": "Overpopulation & Africa",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NMo3nZHVrZ4",
+      "externalId": "NMo3nZHVrZ4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:43",
+        "metadata": "10M 6y ago"
+      },
+      "evidenceText": "7:43 Overpopulation & Africa 10M 6y ago"
+    },
+    {
+      "title": "An Antidote to Dissatisfaction",
+      "canonicalUrl": "https://www.youtube.com/watch?v=WPPPFqsECz0",
+      "externalId": "WPPPFqsECz0",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/WPPPFqsECz0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB1jTFxWdYThDwYiA7we_H_CyQX9Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:01",
+        "metadata": "16M 6y ago"
+      },
+      "evidenceText": "10:01 An Antidote to Dissatisfaction 16M 6y ago"
+    },
+    {
+      "title": "1,000km Cable to the Stars - The Skyhook",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dqwpQarrDwk",
+      "externalId": "dqwpQarrDwk",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/dqwpQarrDwk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDzKSPjlokApLvYuHV-AG9OlSpHeA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:00",
+        "metadata": "12M 6y ago"
+      },
+      "evidenceText": "7:00 1,000km Cable to the Stars - The Skyhook 12M 6y ago"
+    },
+    {
+      "title": "Neutron Stars – The Most Extreme Things that are not Black Holes",
+      "canonicalUrl": "https://www.youtube.com/watch?v=udFxKZRyQt4",
+      "externalId": "udFxKZRyQt4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/udFxKZRyQt4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA2uTxRNWUp25WVyXD6qospLZMIRQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:26",
+        "metadata": "23M 6y ago"
+      },
+      "evidenceText": "7:26 Neutron Stars – The Most Extreme Things that are not Black Holes 23M 6y ago"
+    },
+    {
+      "title": "What if We Nuke a City?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5iPH-br_eJQ",
+      "externalId": "5iPH-br_eJQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/5iPH-br_eJQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBYXabie7C5fQdEPw9M4RilTzlGtw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:56",
+        "metadata": "29M 6y ago"
+      },
+      "evidenceText": "8:56 What if We Nuke a City? 29M 6y ago"
+    },
+    {
+      "title": "The Billion Ant Mega Colony and the Biggest War on Earth",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cqECNYmM23A",
+      "externalId": "cqECNYmM23A",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/cqECNYmM23A/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD62SF2AabHR_64AWPPBg6ZUoxUoQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:12",
+        "metadata": "22M 6y ago"
+      },
+      "evidenceText": "8:12 The Billion Ant Mega Colony and the Biggest War on Earth 22M 6y ago"
+    },
+    {
+      "title": "What’s Hiding at the Most Solitary Place on Earth? The Deep Sea",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PaErPyEnDvk",
+      "externalId": "PaErPyEnDvk",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/PaErPyEnDvk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA4Wml0lDY4z1m3Reli1bFu84j2SA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "11:20",
+        "metadata": "25M 7y ago"
+      },
+      "evidenceText": "11:20 What’s Hiding at the Most Solitary Place on Earth? The Deep Sea 25M 7y ago"
+    },
+    {
+      "title": "The Egg - A Short Story",
+      "canonicalUrl": "https://www.youtube.com/watch?v=h6fcK_fRYaI",
+      "externalId": "h6fcK_fRYaI",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/h6fcK_fRYaI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDGhH_Jw7METAobD9hVUirpysIx8Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:06",
+        "metadata": "36M 7y ago"
+      },
+      "evidenceText": "8:06 The Egg - A Short Story 36M 7y ago"
+    },
+    {
+      "title": "The World War of the Ants – The Army Ant",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7_e0CA_nhaE",
+      "externalId": "7_e0CA_nhaE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/7_e0CA_nhaE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBhAjrfQykWG_2zpFQoeMIE7_tsaQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:15",
+        "metadata": "28M 7y ago"
+      },
+      "evidenceText": "7:15 The World War of the Ants – The Army Ant 28M 7y ago"
+    },
+    {
+      "title": "Tiny Bombs in your Blood - The Complement System",
+      "canonicalUrl": "https://www.youtube.com/watch?v=BSypUV6QUNw",
+      "externalId": "BSypUV6QUNw",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/BSypUV6QUNw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBUjbmdDxvGlDusM2bINHZhX9luVA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:35",
+        "metadata": "12M 7y ago"
+      },
+      "evidenceText": "7:35 Tiny Bombs in your Blood - The Complement System 12M 7y ago"
+    },
+    {
+      "title": "Could Your Phone Hurt You? Electromagnetic Pollution",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FfgT6zx4k3Q",
+      "externalId": "FfgT6zx4k3Q",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:36",
+        "metadata": "8.1M 7y ago"
+      },
+      "evidenceText": "7:36 Could Your Phone Hurt You? Electromagnetic Pollution 8.1M 7y ago"
+    },
+    {
+      "title": "Is Meat Bad for You? Is Meat Unhealthy?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ouAccsTzlGU",
+      "externalId": "ouAccsTzlGU",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:44",
+        "metadata": "14M 7y ago"
+      },
+      "evidenceText": "8:44 Is Meat Bad for You? Is Meat Unhealthy? 14M 7y ago"
+    },
+    {
+      "title": "Is the EU Democratic? Does Your Vote Matter?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=h4Uu5eyN6VU",
+      "externalId": "h4Uu5eyN6VU",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:55",
+        "metadata": "5.6M 7y ago"
+      },
+      "evidenceText": "7:55 Is the EU Democratic? Does Your Vote Matter? 5.6M 7y ago"
+    },
+    {
+      "title": "The Side Effects of Vaccines - How High is the Risk?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zBkVCpbNnkU",
+      "externalId": "zBkVCpbNnkU",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:56",
+        "metadata": "17M 7y ago"
+      },
+      "evidenceText": "10:56 The Side Effects of Vaccines - How High is the Risk? 17M 7y ago"
+    },
+    {
+      "title": "The Most Dangerous Stuff in the Universe - Strange Stars Explained",
+      "canonicalUrl": "https://www.youtube.com/watch?v=p_8yK2kmxoo",
+      "externalId": "p_8yK2kmxoo",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:10",
+        "metadata": "24M 7y ago"
+      },
+      "evidenceText": "7:10 The Most Dangerous Stuff in the Universe - Strange Stars Explained 24M 7y ago"
+    },
+    {
+      "title": "What If We Detonated All Nuclear Bombs at Once?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JyECrGp-Sw8",
+      "externalId": "JyECrGp-Sw8",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:06",
+        "metadata": "32M 7y ago"
+      },
+      "evidenceText": "7:06 What If We Detonated All Nuclear Bombs at Once? 32M 7y ago"
+    },
+    {
+      "title": "The Origin of Consciousness – How Unaware Things Became Aware",
+      "canonicalUrl": "https://www.youtube.com/watch?v=H6u0VBqNBQ8",
+      "externalId": "H6u0VBqNBQ8",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/H6u0VBqNBQ8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCP6aHVyHo4V1jQsMa0kBqFteRgAg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:41",
+        "metadata": "18M 7y ago"
+      },
+      "evidenceText": "9:41 The Origin of Consciousness – How Unaware Things Became Aware 18M 7y ago"
+    },
+    {
+      "title": "Can You Trust Kurzgesagt Videos?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JtUAAXe_0VI",
+      "externalId": "JtUAAXe_0VI",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/JtUAAXe_0VI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_d_bErZGNxRGLmXDW0nz3uSMxRQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:10",
+        "metadata": "7M 7y ago"
+      },
+      "evidenceText": "6:10 Can You Trust Kurzgesagt Videos? 7M 7y ago"
+    },
+    {
+      "title": "Loneliness",
+      "canonicalUrl": "https://www.youtube.com/watch?v=n3Xv_g3g-mA",
+      "externalId": "n3Xv_g3g-mA",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/n3Xv_g3g-mA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCABC5xMIl8j-q9WgJcn0yRN616uQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "13:07",
+        "metadata": "28M 7y ago"
+      },
+      "evidenceText": "13:07 Loneliness 28M 7y ago"
+    },
+    {
+      "title": "Building a Marsbase is a Horrible Idea: Let’s do it!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=uqKGREZs6-w",
+      "externalId": "uqKGREZs6-w",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/uqKGREZs6-w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLApnDqBTl30hc8sM5z9P_6Trqnoig",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:56",
+        "metadata": "21M 7y ago"
+      },
+      "evidenceText": "7:56 Building a Marsbase is a Horrible Idea: Let’s do it! 21M 7y ago"
+    },
+    {
+      "title": "Is Organic Really Better? Healthy Food or Trendy Scam?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8PmM6SUn7Es",
+      "externalId": "8PmM6SUn7Es",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/8PmM6SUn7Es/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBzeDjpzeJeGh2H3p4TfPkwPW6liQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:20",
+        "metadata": "12M 7y ago"
+      },
+      "evidenceText": "8:20 Is Organic Really Better? Healthy Food or Trendy Scam? 12M 7y ago"
+    },
+    {
+      "title": "Aliens under the Ice – Life on Rogue Planets",
+      "canonicalUrl": "https://www.youtube.com/watch?v=M7CkdB5z9PY",
+      "externalId": "M7CkdB5z9PY",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/M7CkdB5z9PY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDOxoWdh1dWhKpA_Wizt1L8NFmyyg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:15",
+        "metadata": "14M 7y ago"
+      },
+      "evidenceText": "7:15 Aliens under the Ice – Life on Rogue Planets 14M 7y ago"
+    },
+    {
+      "title": "How to Build a Dyson Sphere - The Ultimate Megastructure",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pP44EPBMb8A",
+      "externalId": "pP44EPBMb8A",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/pP44EPBMb8A/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD4eEZvQmgUW6WqcbOCs13f7D6tIg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:49",
+        "metadata": "24M 7y ago"
+      },
+      "evidenceText": "7:49 How to Build a Dyson Sphere - The Ultimate Megastructure 24M 7y ago"
+    },
+    {
+      "title": "End of Space – Creating a Prison for Humanity",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yS1ibDImAYU",
+      "externalId": "yS1ibDImAYU",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/yS1ibDImAYU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD1VcLZkzDV75Wg4GvyMKKX-UdDJA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:35",
+        "metadata": "14M 7y ago"
+      },
+      "evidenceText": "7:35 End of Space – Creating a Prison for Humanity 14M 7y ago"
+    },
+    {
+      "title": "Why Beautiful Things Make us Happy – Beauty Explained",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-O5kNPlUV7w",
+      "externalId": "-O5kNPlUV7w",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/-O5kNPlUV7w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdxdKO60V30kr6IBvy3CJ2ZVCkhQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:37",
+        "metadata": "11M 7y ago"
+      },
+      "evidenceText": "7:37 Why Beautiful Things Make us Happy – Beauty Explained 11M 7y ago"
+    },
+    {
+      "title": "Why Meat is the Best Worst Thing in the World 🍔",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NxvQPzrg2Wg",
+      "externalId": "NxvQPzrg2Wg",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/NxvQPzrg2Wg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCiCKbvB_fL66aQ3dO26PxtxmdbSw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:45",
+        "metadata": "13M 7y ago"
+      },
+      "evidenceText": "7:45 Why Meat is the Best Worst Thing in the World 🍔 13M 7y ago"
+    },
+    {
+      "title": "How We Could Build a Moon Base TODAY – Space Colonization 1",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NtQkz0aRDe8",
+      "externalId": "NtQkz0aRDe8",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/NtQkz0aRDe8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAJDqcxg8_oC52remy0FR91_SvUVA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:58",
+        "metadata": "17M 8y ago"
+      },
+      "evidenceText": "8:58 How We Could Build a Moon Base TODAY – Space Colonization 1 17M 8y ago"
+    },
+    {
+      "title": "Wormholes Explained – Breaking Spacetime",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9P6rdqiybaw",
+      "externalId": "9P6rdqiybaw",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/9P6rdqiybaw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC7ZB2BrXyXJKc3A5uOjObg2wV-sQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:09",
+        "metadata": "25M 8y ago"
+      },
+      "evidenceText": "8:09 Wormholes Explained – Breaking Spacetime 25M 8y ago"
+    },
+    {
+      "title": "What If You Detonated a Nuclear Bomb In The Marianas Trench? (Science not Fantasy)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9tbxDgcv74c",
+      "externalId": "9tbxDgcv74c",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:03",
+        "metadata": "36M 8y ago"
+      },
+      "evidenceText": "6:03 What If You Detonated a Nuclear Bomb In The Marianas Trench? (Science not Fantasy) 36M 8y ago"
+    },
+    {
+      "title": "Plastic Pollution: How Humans are Turning the World into Plastic",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RS7IzU2VJIQ",
+      "externalId": "RS7IzU2VJIQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:02",
+        "metadata": "10M 8y ago"
+      },
+      "evidenceText": "9:02 Plastic Pollution: How Humans are Turning the World into Plastic 10M 8y ago"
+    },
+    {
+      "title": "3 Arguments Why Marijuana Should Stay Illegal Reviewed",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kP15q815Saw",
+      "externalId": "kP15q815Saw",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:40",
+        "metadata": "16M 8y ago"
+      },
+      "evidenceText": "9:40 3 Arguments Why Marijuana Should Stay Illegal Reviewed 16M 8y ago"
+    },
+    {
+      "title": "The Deadliest Being on Planet Earth – The Bacteriophage",
+      "canonicalUrl": "https://www.youtube.com/watch?v=YI3tsmFsrOg",
+      "externalId": "YI3tsmFsrOg",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/YI3tsmFsrOg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBCAtGM4bh2MIpK5_sA9oKkV4v7pA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:09",
+        "metadata": "35M 8y ago"
+      },
+      "evidenceText": "7:09 The Deadliest Being on Planet Earth – The Bacteriophage 35M 8y ago"
+    },
+    {
+      "title": "The Black Hole Bomb and Black Hole Civilizations",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ulCdoCfw-bY",
+      "externalId": "ulCdoCfw-bY",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/ulCdoCfw-bY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDHChDTPfIP49EOfQWKH-d61Xondg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:08",
+        "metadata": "29M 8y ago"
+      },
+      "evidenceText": "8:08 The Black Hole Bomb and Black Hole Civilizations 29M 8y ago"
+    },
+    {
+      "title": "Time: The History & Future of Everything – Remastered",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5TbUxGZtwGI",
+      "externalId": "5TbUxGZtwGI",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/5TbUxGZtwGI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBaSi_ZNTBZvrkExgnywBR1q5nd8A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:35",
+        "metadata": "10M 8y ago"
+      },
+      "evidenceText": "7:35 Time: The History & Future of Everything – Remastered 10M 8y ago"
+    },
+    {
+      "title": "A Selfish Argument for Making the World a Better Place – Egoistic Altruism",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rvskMHn0sqQ",
+      "externalId": "rvskMHn0sqQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/rvskMHn0sqQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAknkpbArNeufQfr251buurabNk2g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:15",
+        "metadata": "11M 8y ago"
+      },
+      "evidenceText": "7:15 A Selfish Argument for Making the World a Better Place – Egoistic Altruism 11M 8y ago"
+    },
+    {
+      "title": "String Theory Explained – What is The True Nature of Reality?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Da-2h2B4faU",
+      "externalId": "Da-2h2B4faU",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/Da-2h2B4faU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCZCzmovIpCdz4ZymHXex3-D1jdhw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:00",
+        "metadata": "26M 8y ago"
+      },
+      "evidenceText": "8:00 String Theory Explained – What is The True Nature of Reality? 26M 8y ago"
+    },
+    {
+      "title": "Homeopathy Explained – Gentle Healing or Reckless Fraud?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8HslUzw35mc",
+      "externalId": "8HslUzw35mc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/8HslUzw35mc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBHJm95YAi2bURGKuTVAnXx40KH3w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:32",
+        "metadata": "12M 8y ago"
+      },
+      "evidenceText": "8:32 Homeopathy Explained – Gentle Healing or Reckless Fraud? 12M 8y ago"
+    },
+    {
+      "title": "Why Alien Life Would be our Doom - The Great Filter",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UjtOGPJ0URM",
+      "externalId": "UjtOGPJ0URM",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/UjtOGPJ0URM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCDe6jrla5BbMrKrRuxGkfVH7VRpA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:18",
+        "metadata": "27M 8y ago"
+      },
+      "evidenceText": "8:18 Why Alien Life Would be our Doom - The Great Filter 27M 8y ago"
+    },
+    {
+      "title": "How to Make an Elephant Explode – The Size of Life 2",
+      "canonicalUrl": "https://www.youtube.com/watch?v=MUWUHf-rzks",
+      "externalId": "MUWUHf-rzks",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/MUWUHf-rzks/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBnn0HdF_FXzYERyPzKhu7dRhQsVg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:55",
+        "metadata": "9.1M 8y ago"
+      },
+      "evidenceText": "6:55 How to Make an Elephant Explode – The Size of Life 2 9.1M 8y ago"
+    },
+    {
+      "title": "Universal Basic Income Explained – Free Money for Everybody? UBI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kl39KHS07Xc",
+      "externalId": "kl39KHS07Xc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/kl39KHS07Xc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCC78c8CjvnmCR0wkgrEImd-ahcVQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:06",
+        "metadata": "10M 8y ago"
+      },
+      "evidenceText": "10:06 Universal Basic Income Explained – Free Money for Everybody? UBI 10M 8y ago"
+    },
+    {
+      "title": "Emergence – How Stupid Things Become Smart Together",
+      "canonicalUrl": "https://www.youtube.com/watch?v=16W7c0mb-rE",
+      "externalId": "16W7c0mb-rE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:31",
+        "metadata": "9M 8y ago"
+      },
+      "evidenceText": "7:31 Emergence – How Stupid Things Become Smart Together 9M 8y ago"
+    },
+    {
+      "title": "How to Cure Aging – During Your Lifetime?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=MjdpR-TY6QU",
+      "externalId": "MjdpR-TY6QU",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:21",
+        "metadata": "8M 8y ago"
+      },
+      "evidenceText": "7:21 How to Cure Aging – During Your Lifetime? 8M 8y ago"
+    },
+    {
+      "title": "Why Age? Should We End Aging Forever?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GoJsr4IwCm4",
+      "externalId": "GoJsr4IwCm4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:48",
+        "metadata": "8.9M 8y ago"
+      },
+      "evidenceText": "6:48 Why Age? Should We End Aging Forever? 8.9M 8y ago"
+    },
+    {
+      "title": "How Bacteria Rule Over Your Body – The Microbiome",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VzPD009qTN4",
+      "externalId": "VzPD009qTN4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:38",
+        "metadata": "10M 8y ago"
+      },
+      "evidenceText": "7:38 How Bacteria Rule Over Your Body – The Microbiome 10M 8y ago"
+    },
+    {
+      "title": "Is Reality Real? The Simulation Argument",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tlTKTTt47WE",
+      "externalId": "tlTKTTt47WE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "8:46",
+        "metadata": "21M 9y ago"
+      },
+      "evidenceText": "8:46 Is Reality Real? The Simulation Argument 21M 9y ago"
+    },
+    {
+      "title": "What Happens If We Bring the Sun to Earth?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=J0ldO87Pprc",
+      "externalId": "J0ldO87Pprc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:29",
+        "metadata": "12M 9y ago"
+      },
+      "evidenceText": "7:29 What Happens If We Bring the Sun to Earth? 12M 9y ago"
+    },
+    {
+      "title": "Why Black Holes Could Delete The Universe – The Information Paradox",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yWO-cvGETRQ",
+      "externalId": "yWO-cvGETRQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/yWO-cvGETRQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDG3XwtJ3aQ8kqfIeHl-zA3qrTB2A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:13",
+        "metadata": "32M 9y ago"
+      },
+      "evidenceText": "10:13 Why Black Holes Could Delete The Universe – The Information Paradox 32M 9y ago"
+    },
+    {
+      "title": "What Happens If We Throw an Elephant From a Skyscraper? Life & Size 1",
+      "canonicalUrl": "https://www.youtube.com/watch?v=f7KSfjv4Oq0",
+      "externalId": "f7KSfjv4Oq0",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/f7KSfjv4Oq0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAD1rjHJaycvXUKbmXTM39yR2VsqA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:40",
+        "metadata": "18M 9y ago"
+      },
+      "evidenceText": "6:40 What Happens If We Throw an Elephant From a Skyscraper? Life & Size 1 18M 9y ago"
+    },
+    {
+      "title": "Optimistic Nihilism",
+      "canonicalUrl": "https://www.youtube.com/watch?v=MBRqu0YOH14",
+      "externalId": "MBRqu0YOH14",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/MBRqu0YOH14/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAT0Xs_6VSj1Xoz79ubWr4vAAglOg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:26",
+        "metadata": "18M 9y ago"
+      },
+      "evidenceText": "7:26 Optimistic Nihilism 18M 9y ago"
+    },
+    {
+      "title": "The Rise of the Machines – Why Automation is Different this Time",
+      "canonicalUrl": "https://www.youtube.com/watch?v=WSKi8HfcxEk",
+      "externalId": "WSKi8HfcxEk",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/WSKi8HfcxEk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBZvKJq8edwqFEW68Zkm-u6j-nlsw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "10:57",
+        "metadata": "15M 9y ago"
+      },
+      "evidenceText": "10:57 The Rise of the Machines – Why Automation is Different this Time 15M 9y ago"
+    },
+    {
+      "title": "The Last Light Before Eternal Darkness – White Dwarfs & Black Dwarfs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qsN1LglrX9s",
+      "externalId": "qsN1LglrX9s",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/qsN1LglrX9s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB3_kq2N4tid8G9tiAh0HjCUMBijA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:29",
+        "metadata": "15M 9y ago"
+      },
+      "evidenceText": "6:29 The Last Light Before Eternal Darkness – White Dwarfs & Black Dwarfs 15M 9y ago"
+    },
+    {
+      "title": "Is the European Union Worth It Or Should We End It?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XxutY7ss1v4",
+      "externalId": "XxutY7ss1v4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/XxutY7ss1v4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBfVG08C9GZRwwA-jUVBJMAVwnyPg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:42",
+        "metadata": "8M 9y ago"
+      },
+      "evidenceText": "7:42 Is the European Union Worth It Or Should We End It? 8M 9y ago"
+    },
+    {
+      "title": "Are GMOs Good or Bad? Genetic Engineering & Our Food",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7TmcXYp8xu4",
+      "externalId": "7TmcXYp8xu4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/7TmcXYp8xu4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCDxhloSkktJ726BGAP23SYrYynRA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:03",
+        "metadata": "14M 9y ago"
+      },
+      "evidenceText": "9:03 Are GMOs Good or Bad? Genetic Engineering & Our Food 14M 9y ago"
+    },
+    {
+      "title": "Do Robots Deserve Rights? What if Machines Become Conscious?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DHyUYg8X31c",
+      "externalId": "DHyUYg8X31c",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/DHyUYg8X31c/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDzzvEgHgm-31TPT8xVm2Q2Uv5cew",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:35",
+        "metadata": "8M 9y ago"
+      },
+      "evidenceText": "6:35 Do Robots Deserve Rights? What if Machines Become Conscious? 8M 9y ago"
+    },
+    {
+      "title": "Why Earth Is A Prison and How To Escape It",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RVMZxH1TIIQ",
+      "externalId": "RVMZxH1TIIQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/RVMZxH1TIIQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAdHQUKx--43Ekmn74y-upiEJPT_A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:57",
+        "metadata": "12M 9y ago"
+      },
+      "evidenceText": "6:57 Why Earth Is A Prison and How To Escape It 12M 9y ago"
+    },
+    {
+      "title": "Overpopulation – The Human Explosion Explained",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QsBT5EQt348",
+      "externalId": "QsBT5EQt348",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/QsBT5EQt348/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDf_6Ba7hlvnFZXHkSX2uy9tnsEEA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:40",
+        "metadata": "13M 9y ago"
+      },
+      "evidenceText": "6:40 Overpopulation – The Human Explosion Explained 13M 9y ago"
+    },
+    {
+      "title": "A New History for Humanity – The Human Era",
+      "canonicalUrl": "https://www.youtube.com/watch?v=czgOWmtGVGs",
+      "externalId": "czgOWmtGVGs",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/czgOWmtGVGs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDEddYWEaAv4k5RibCi9nwW5m7zeQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:09",
+        "metadata": "10M 9y ago"
+      },
+      "evidenceText": "7:09 A New History for Humanity – The Human Era 10M 9y ago"
+    },
+    {
+      "title": "The Most Gruesome Parasites – Neglected Tropical Diseases – NTDs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qNWWrDBRBqk",
+      "externalId": "qNWWrDBRBqk",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/qNWWrDBRBqk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLALNBksxFV_3SDGke1cIgoh6f07Mw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "5:43",
+        "metadata": "13M 9y ago"
+      },
+      "evidenceText": "5:43 The Most Gruesome Parasites – Neglected Tropical Diseases – NTDs 13M 9y ago"
+    },
+    {
+      "title": "Fusion Power Explained – Future or Failure",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mZsaaturR6E",
+      "externalId": "mZsaaturR6E",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:16",
+        "metadata": "15M 9y ago"
+      },
+      "evidenceText": "6:16 Fusion Power Explained – Future or Failure 15M 9y ago"
+    },
+    {
+      "title": "The Most Efficient Way to Destroy the Universe – False Vacuum",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ijFm6DxNVyI",
+      "externalId": "ijFm6DxNVyI",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "5:59",
+        "metadata": "16M 9y ago"
+      },
+      "evidenceText": "5:59 The Most Efficient Way to Destroy the Universe – False Vacuum 16M 9y ago"
+    },
+    {
+      "title": "Genetic Engineering and Diseases – Gene Drive & Malaria",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TnzcwTyr6cE",
+      "externalId": "TnzcwTyr6cE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:04",
+        "metadata": "9.9M 10y ago"
+      },
+      "evidenceText": "7:04 Genetic Engineering and Diseases – Gene Drive & Malaria 9.9M 10y ago"
+    },
+    {
+      "title": "Genetic Engineering Will Change Everything Forever – CRISPR",
+      "canonicalUrl": "https://www.youtube.com/watch?v=jAhjPd4uNFY",
+      "externalId": "jAhjPd4uNFY",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/jAhjPd4uNFY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDSfQjQWjoy7-9p4uhFROGUDRNTpA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "16:04",
+        "metadata": "30M 10y ago"
+      },
+      "evidenceText": "16:04 Genetic Engineering Will Change Everything Forever – CRISPR 30M 10y ago"
+    },
+    {
+      "title": "Death From Space — Gamma-Ray Bursts Explained",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RLykC1VN7NY",
+      "externalId": "RLykC1VN7NY",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/RLykC1VN7NY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCWLlytXHdbkGGyrSo5bJg9CK4DdQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:10",
+        "metadata": "15M 10y ago"
+      },
+      "evidenceText": "6:10 Death From Space — Gamma-Ray Bursts Explained 15M 10y ago"
+    },
+    {
+      "title": "What Happened Before History? Human Origins",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dGiQaabX3_o",
+      "externalId": "dGiQaabX3_o",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/dGiQaabX3_o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCK5JrYlHjMrx8HZ86kaSVnsmDsQQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "9:39",
+        "metadata": "24M 10y ago"
+      },
+      "evidenceText": "9:39 What Happened Before History? Human Origins 24M 10y ago"
+    },
+    {
+      "title": "What Are You?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JQVmkDUkZT4",
+      "externalId": "JQVmkDUkZT4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/JQVmkDUkZT4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA-tO8WI_zzM_ozhCHJ10JPcBLJ9Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:28",
+        "metadata": "16M 10y ago"
+      },
+      "evidenceText": "6:28 What Are You? 16M 10y ago"
+    },
+    {
+      "title": "How Far Can We Go? Limits of Humanity (Old Version – Watch the New One)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZL4yYHdDSWs",
+      "externalId": "ZL4yYHdDSWs",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/ZL4yYHdDSWs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBowZDuolZ-MDJCANtCl83BxE_Cyg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:16",
+        "metadata": "18M 10y ago"
+      },
+      "evidenceText": "7:16 How Far Can We Go? Limits of Humanity (Old Version – Watch the New One) 18M 10y ago"
+    },
+    {
+      "title": "Safe and Sorry – Terrorism & Mass Surveillance",
+      "canonicalUrl": "https://www.youtube.com/watch?v=V9_PjdU3Mpo",
+      "externalId": "V9_PjdU3Mpo",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/V9_PjdU3Mpo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD79Lx15KSMgttcOBlwGhwEgM080w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:14",
+        "metadata": "4.7M 10y ago"
+      },
+      "evidenceText": "6:14 Safe and Sorry – Terrorism & Mass Surveillance 4.7M 10y ago"
+    },
+    {
+      "title": "Space Elevator – Science Fiction or the Future of Mankind?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qPQQwqGWktE",
+      "externalId": "qPQQwqGWktE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/qPQQwqGWktE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAd2LRr6uLPu2dHikFIM5mf1zerNQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "5:26",
+        "metadata": "8.5M 10y ago"
+      },
+      "evidenceText": "5:26 Space Elevator – Science Fiction or the Future of Mankind? 8.5M 10y ago"
+    },
+    {
+      "title": "The Antibiotic Apocalypse Explained",
+      "canonicalUrl": "https://www.youtube.com/watch?v=xZbcwi7SfZE",
+      "externalId": "xZbcwi7SfZE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/xZbcwi7SfZE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA0KNJzOzt7q7wHnsb_Skp_8VUgsg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "5:58",
+        "metadata": "8.7M 10y ago"
+      },
+      "evidenceText": "5:58 The Antibiotic Apocalypse Explained 8.7M 10y ago"
+    },
+    {
+      "title": "Why The War on Drugs Is a Huge Failure",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wJUXLqNHCaI",
+      "externalId": "wJUXLqNHCaI",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "imageUrl": "https://i.ytimg.com/vi/wJUXLqNHCaI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDIQONtoa-7R-odJBSXZONPzMAuOw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:26",
+        "metadata": "11M 10y ago"
+      },
+      "evidenceText": "6:26 Why The War on Drugs Is a Huge Failure 11M 10y ago"
+    },
+    {
+      "title": "The Last Star in the Universe – Red Dwarfs Explained",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LS-VPyLaJFM",
+      "externalId": "LS-VPyLaJFM",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "5:51",
+        "metadata": "13M 10y ago"
+      },
+      "evidenceText": "5:51 The Last Star in the Universe – Red Dwarfs Explained 13M 10y ago"
+    },
+    {
+      "title": "What Is Something?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=X9otDixAtFw",
+      "externalId": "X9otDixAtFw",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "5:34",
+        "metadata": "7.8M 10y ago"
+      },
+      "evidenceText": "5:34 What Is Something? 7.8M 10y ago"
+    },
+    {
+      "title": "Black Holes Explained – From Birth to Death",
+      "canonicalUrl": "https://www.youtube.com/watch?v=e-P5IFTqB98",
+      "externalId": "e-P5IFTqB98",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "5:56",
+        "metadata": "29M 10y ago"
+      },
+      "evidenceText": "5:56 Black Holes Explained – From Birth to Death 29M 10y ago"
+    },
+    {
+      "title": "Quantum Computers Explained – Limits of Human Technology",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JhHMJCUmq28",
+      "externalId": "JhHMJCUmq28",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:17",
+        "metadata": "19M 10y ago"
+      },
+      "evidenceText": "7:17 Quantum Computers Explained – Limits of Human Technology 19M 10y ago"
+    },
+    {
+      "title": "How Facebook is Stealing Billions of Views",
+      "canonicalUrl": "https://www.youtube.com/watch?v=t7tA3NNKF0Q",
+      "externalId": "t7tA3NNKF0Q",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "5:02",
+        "metadata": "10M 10y ago"
+      },
+      "evidenceText": "5:02 How Facebook is Stealing Billions of Views 10M 10y ago"
+    },
+    {
+      "title": "What Is Light?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IXxZRZxafEQ",
+      "externalId": "IXxZRZxafEQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "4:39",
+        "metadata": "9.9M 10y ago"
+      },
+      "evidenceText": "4:39 What Is Light? 9.9M 10y ago"
+    },
+    {
+      "title": "What is Dark Matter and Dark Energy?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QAa2O_8wBUQ",
+      "externalId": "QAa2O_8wBUQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:21",
+        "metadata": "12M 11y ago"
+      },
+      "evidenceText": "6:21 What is Dark Matter and Dark Energy? 12M 11y ago"
+    },
+    {
+      "title": "What if there was a black hole in your pocket?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8nHBGFKLHZQ",
+      "externalId": "8nHBGFKLHZQ",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "3:38",
+        "metadata": "16M 11y ago"
+      },
+      "evidenceText": "3:38 What if there was a black hole in your pocket? 16M 11y ago"
+    },
+    {
+      "title": "The Death Of Bees Explained – Parasites, Poison and Humans",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GqA42M4RtxE",
+      "externalId": "GqA42M4RtxE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:12",
+        "metadata": "15M 11y ago"
+      },
+      "evidenceText": "6:12 The Death Of Bees Explained – Parasites, Poison and Humans 15M 11y ago"
+    },
+    {
+      "title": "The Fermi Paradox II — Solutions and Ideas – Where Are All The Aliens?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1fQkVqno-uI",
+      "externalId": "1fQkVqno-uI",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:17",
+        "metadata": "17M 11y ago"
+      },
+      "evidenceText": "6:17 The Fermi Paradox II — Solutions and Ideas – Where Are All The Aliens? 17M 11y ago"
+    },
+    {
+      "title": "The Fermi Paradox — Where Are All The Aliens? (1/2)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sNhhvQGsMEc",
+      "externalId": "sNhhvQGsMEc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:21",
+        "metadata": "35M 11y ago"
+      },
+      "evidenceText": "6:21 The Fermi Paradox — Where Are All The Aliens? (1/2) 35M 11y ago"
+    },
+    {
+      "title": "3 Reasons Why Nuclear Energy Is Terrible! 2/3",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HEYbgyL5n1g",
+      "externalId": "HEYbgyL5n1g",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "3:36",
+        "metadata": "4.9M 11y ago"
+      },
+      "evidenceText": "3:36 3 Reasons Why Nuclear Energy Is Terrible! 2/3 4.9M 11y ago"
+    },
+    {
+      "title": "3 Reasons Why Nuclear Energy Is Awesome! 3/3",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pVbLlnmxIbY",
+      "externalId": "pVbLlnmxIbY",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "3:47",
+        "metadata": "4.8M 11y ago"
+      },
+      "evidenceText": "3:47 3 Reasons Why Nuclear Energy Is Awesome! 3/3 4.8M 11y ago"
+    },
+    {
+      "title": "Nuclear Energy Explained: How does it work? 1/3",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rcOFV4y5z8c",
+      "externalId": "rcOFV4y5z8c",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "4:44",
+        "metadata": "8.1M 11y ago"
+      },
+      "evidenceText": "4:44 Nuclear Energy Explained: How does it work? 1/3 8.1M 11y ago"
+    },
+    {
+      "title": "Banking Explained – Money and Credit",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fTTGALaRZoc",
+      "externalId": "fTTGALaRZoc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:10",
+        "metadata": "10M 11y ago"
+      },
+      "evidenceText": "6:10 Banking Explained – Money and Credit 10M 11y ago"
+    },
+    {
+      "title": "Measles Explained — Vaccinate or Not?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=y0opgc1WoS4",
+      "externalId": "y0opgc1WoS4",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "5:34",
+        "metadata": "10M 11y ago"
+      },
+      "evidenceText": "5:34 Measles Explained — Vaccinate or Not? 10M 11y ago"
+    },
+    {
+      "title": "How Small Is An Atom? Spoiler: Very Small.",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_lNF3_30lUE",
+      "externalId": "_lNF3_30lUE",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "4:58",
+        "metadata": "10M 11y ago"
+      },
+      "evidenceText": "4:58 How Small Is An Atom? Spoiler: Very Small. 10M 11y ago"
+    },
+    {
+      "title": "The Ultimate Conspiracy Debunker",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Hug0rfFC_L8",
+      "externalId": "Hug0rfFC_L8",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "2:03",
+        "metadata": "8.3M 11y ago"
+      },
+      "evidenceText": "2:03 The Ultimate Conspiracy Debunker 8.3M 11y ago"
+    },
+    {
+      "title": "What Is Life? Is Death Real?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QOCaacO8wus",
+      "externalId": "QOCaacO8wus",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "5:57",
+        "metadata": "14M 11y ago"
+      },
+      "evidenceText": "5:57 What Is Life? Is Death Real? 14M 11y ago"
+    },
+    {
+      "title": "The Ebola Virus Explained — How Your Body Fights For Survival",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sRv19gkZ4E0",
+      "externalId": "sRv19gkZ4E0",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "5:31",
+        "metadata": "14M 11y ago"
+      },
+      "evidenceText": "5:31 The Ebola Virus Explained — How Your Body Fights For Survival 14M 11y ago"
+    },
+    {
+      "title": "Is War Over? — A Paradox Explained",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NbuUW9i-mHs",
+      "externalId": "NbuUW9i-mHs",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "5:46",
+        "metadata": "12M 11y ago"
+      },
+      "evidenceText": "5:46 Is War Over? — A Paradox Explained 12M 11y ago"
+    },
+    {
+      "title": "Atoms As Big As Mountains — Neutron Stars Explained",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZW3aV7U-aik",
+      "externalId": "ZW3aV7U-aik",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "5:11",
+        "metadata": "8.2M 12y ago"
+      },
+      "evidenceText": "5:11 Atoms As Big As Mountains — Neutron Stars Explained 8.2M 12y ago"
+    },
+    {
+      "title": "Everything You Need to Know About Planet Earth",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JGXi_9A__Vc",
+      "externalId": "JGXi_9A__Vc",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:22",
+        "metadata": "14M 12y ago"
+      },
+      "evidenceText": "7:22 Everything You Need to Know About Planet Earth 14M 12y ago"
+    },
+    {
+      "title": "The Immune System Explained I – Bacteria Infection",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zQGOcOUBi6s",
+      "externalId": "zQGOcOUBi6s",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "7:49",
+        "metadata": "54M 12y ago"
+      },
+      "evidenceText": "7:49 The Immune System Explained I – Bacteria Infection 54M 12y ago"
+    },
+    {
+      "title": "Iraq Explained -- ISIS, Syria and War",
+      "canonicalUrl": "https://www.youtube.com/watch?v=AQPlREDW-Ro",
+      "externalId": "AQPlREDW-Ro",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "4:36",
+        "metadata": "8.1M 12y ago"
+      },
+      "evidenceText": "4:36 Iraq Explained -- ISIS, Syria and War 8.1M 12y ago"
+    },
+    {
+      "title": "Are You Alone? (In The Universe)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PKMQzkIiB0Y",
+      "externalId": "PKMQzkIiB0Y",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "6:44",
+        "metadata": "5.4M 12y ago"
+      },
+      "evidenceText": "6:44 Are You Alone? (In The Universe) 5.4M 12y ago"
+    },
+    {
+      "title": "How to catch a Dwarf Planet -- Triton MM#3",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cR9uphgMZ8U",
+      "externalId": "cR9uphgMZ8U",
+      "creator": "Kurzgesagt – In a Nutshell",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@kurzgesagt/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Kurzgesagt – In a Nutshell · Videos",
+      "attributes": {
+        "duration": "2:07",
+        "metadata": "4.3M 12y ago"
+      },
+      "evidenceText": "2:07 How to catch a Dwarf Planet -- Triton MM#3 4.3M 12y ago"
+    }
+  ],
+  "topic": "Science animation",
+  "captures": [
+    {
+      "step": 0,
+      "visible": 30,
+      "unique": 30,
+      "observedAt": "2026-09-27T03:42:40.009Z"
+    },
+    {
+      "step": 1,
+      "visible": 30,
+      "unique": 30,
+      "observedAt": "2026-09-27T03:42:42.221Z"
+    },
+    {
+      "step": 2,
+      "visible": 60,
+      "unique": 60,
+      "observedAt": "2026-09-27T03:42:44.358Z"
+    },
+    {
+      "step": 3,
+      "visible": 60,
+      "unique": 60,
+      "observedAt": "2026-09-27T03:42:46.323Z"
+    },
+    {
+      "step": 4,
+      "visible": 90,
+      "unique": 90,
+      "observedAt": "2026-09-27T03:42:48.261Z"
+    },
+    {
+      "step": 5,
+      "visible": 90,
+      "unique": 90,
+      "observedAt": "2026-09-27T03:42:50.209Z"
+    },
+    {
+      "step": 6,
+      "visible": 120,
+      "unique": 120,
+      "observedAt": "2026-09-27T03:42:52.158Z"
+    },
+    {
+      "step": 7,
+      "visible": 120,
+      "unique": 120,
+      "observedAt": "2026-09-27T03:42:54.134Z"
+    },
+    {
+      "step": 8,
+      "visible": 150,
+      "unique": 150,
+      "observedAt": "2026-09-27T03:42:56.154Z"
+    },
+    {
+      "step": 9,
+      "visible": 150,
+      "unique": 150,
+      "observedAt": "2026-09-27T03:42:58.114Z"
+    },
+    {
+      "step": 10,
+      "visible": 180,
+      "unique": 180,
+      "observedAt": "2026-09-27T03:43:00.135Z"
+    },
+    {
+      "step": 11,
+      "visible": 180,
+      "unique": 180,
+      "observedAt": "2026-09-27T03:43:02.156Z"
+    },
+    {
+      "step": 12,
+      "visible": 210,
+      "unique": 210,
+      "observedAt": "2026-09-27T03:43:04.218Z"
+    },
+    {
+      "step": 13,
+      "visible": 210,
+      "unique": 210,
+      "observedAt": "2026-09-27T03:43:06.301Z"
+    },
+    {
+      "step": 14,
+      "visible": 240,
+      "unique": 240,
+      "observedAt": "2026-09-27T03:43:08.262Z"
+    }
+  ]
+}

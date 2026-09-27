@@ -54,7 +54,9 @@ update the Vite proxy too if changing it in development.
 
 ## Library, personal search, Arena, and Memory
 
-Library is the default entry, with 2,416 real browser-collected items in 18 collections.
+Library is the default entry, with 27,060 real browser-collected items in 211 collections
+across 12 populated kinds, including Instagram accounts, Pinterest references,
+Netflix movie/series/animation cards and source-labeled performer photographs.
 The bundled snapshots automatically populate `.data/catalog.sqlite` on startup.
 Browse, compare, undo and rerank with the local metadata model without API calls.
 `VALUERANK_CATALOG_DB_PATH` selects a different database and
@@ -66,6 +68,10 @@ Use `npm run catalog:import` to reimport bundled captures (idempotently),
 `npm run catalog:stats` for counts, and
 `npm run catalog:export -- /path/catalog.json` for a portable metadata snapshot.
 The UI also exposes source records; `GET /api/catalog/export` downloads the catalog.
+To validate every bundled batch, deduplication, exact replay and Netflix title
+uniqueness without touching the live catalog or preferences, run
+`node --import tsx catalog-crawl/expansion/audit.mjs`. The audit uses a temporary
+SQLite database and writes `docs/prototype/catalog-expansion-verification.json`.
 See [actual collection coverage, reproduction and learning limits](../docs/prototype/CATALOG.md).
 
 Search remains available in the navigation. Gateway's Exa tool uses the existing Gateway key; no

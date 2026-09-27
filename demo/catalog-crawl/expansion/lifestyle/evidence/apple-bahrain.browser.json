@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+  "collection": "Top 100: Bahrain",
+  "fetchedAt": "2026-09-27T03:40:30.262Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 1 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 2 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 3 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 4 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "5",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 5 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "Garee2a Awy - A COLORS SHOW",
+      "canonicalUrl": "https://music.apple.com/us/song/garee2a-awy-a-colors-show/6783339191",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/16/d8/1716d894-4de6-0494-3568-5d36af85304e/840054915345.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6783339191",
+      "attributes": {
+        "album": "Garee2a Awy - A COLORS SHOW - Single",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "Garee2a Awy - A COLORS SHOW 6 TUL8TE Garee2a Awy - A COLORS SHOW - Single PREVIEW 2:38"
+    },
+    {
+      "title": "Kelma",
+      "canonicalUrl": "https://music.apple.com/us/song/kelma/1833232274",
+      "creator": "Ramy Sabry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/86/6b/d6866b86-9c68-5488-ea5b-b406ce47ebfb/689860602922_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1833232274",
+      "attributes": {
+        "album": "Ghammadt Einy",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "Kelma 7 Ramy Sabry Ghammadt Einy PREVIEW 4:10"
+    },
+    {
+      "title": "Janice STFU",
+      "canonicalUrl": "https://music.apple.com/us/song/janice-stfu/6769568596",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6769568596",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "8",
+        "explicit": true
+      },
+      "evidenceText": "Janice STFU 8 Drake ICEMAN PREVIEW 3:57"
+    },
+    {
+      "title": "Ain't In LA",
+      "canonicalUrl": "https://music.apple.com/us/song/aint-in-la/6792884101",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6792884101",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "9",
+        "explicit": true
+      },
+      "evidenceText": "Ain't In LA 9 ADÉLA PRIMA PREVIEW 3:04"
+    },
+    {
+      "title": "Men Gheir Kalam",
+      "canonicalUrl": "https://music.apple.com/us/song/men-gheir-kalam/6797576801",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/2f/73/2d2f739c-eb8c-fd9e-c67a-f7704d3fb66e/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6797576801",
+      "attributes": {
+        "album": "Sadeek El Bernameg",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "10",
+        "explicit": false
+      },
+      "evidenceText": "Men Gheir Kalam 10 TUL8TE Sadeek El Bernameg PREVIEW 3:37"
+    },
+    {
+      "title": "Secondhand (feat. Rema)",
+      "canonicalUrl": "https://music.apple.com/us/song/secondhand-feat-rema/1871258333",
+      "creator": "Don Toliver",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/e5/c6/e8e5c690-a958-622e-eb62-0dce6059300e/075679599360.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1871258333",
+      "attributes": {
+        "album": "OCTANE",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "11",
+        "explicit": true
+      },
+      "evidenceText": "Secondhand (feat. Rema) 11 Don Toliver OCTANE PREVIEW 3:46"
+    },
+    {
+      "title": "Nano",
+      "canonicalUrl": "https://music.apple.com/us/song/nano/6771043152",
+      "creator": "TUL8TE, Saint Levant",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/e4/8f/e9e48fb1-33f2-487f-3eca-433ba3e8b0ca/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6771043152",
+      "attributes": {
+        "album": "Nano - Single",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "Nano 12 TUL8TE, Saint Levant Nano - Single PREVIEW 3:36"
+    },
+    {
+      "title": "Heseeny",
+      "canonicalUrl": "https://music.apple.com/us/song/heseeny/1828448343",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/fd/a2/4bfda2f7-d1ca-f702-7be3-8e46b514005c/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1828448343",
+      "attributes": {
+        "album": "Narein",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "13",
+        "explicit": false
+      },
+      "evidenceText": "Heseeny 13 TUL8TE Narein PREVIEW 3:33"
+    },
+    {
+      "title": "Into You",
+      "canonicalUrl": "https://music.apple.com/us/song/into-you/1568020292",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6e/40/14/6e401443-8c15-2f21-4d2c-effe972c3838/16UMGIM30042.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1568020292",
+      "attributes": {
+        "album": "Dangerous Woman (Bonus Tracks Edition)",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "Into You 14 Ariana Grande Dangerous Woman (Bonus Tracks Edition) PREVIEW 4:04"
+    },
+    {
+      "title": "stupid song",
+      "canonicalUrl": "https://music.apple.com/us/song/stupid-song/1889992115",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1889992115",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "15",
+        "explicit": false
+      },
+      "evidenceText": "stupid song 15 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:29"
+    },
+    {
+      "title": "Loser",
+      "canonicalUrl": "https://music.apple.com/us/song/loser/1836226731",
+      "creator": "Tame Impala",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1836226731",
+      "attributes": {
+        "album": "Deadbeat",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "16",
+        "explicit": true
+      },
+      "evidenceText": "Loser 16 Tame Impala Deadbeat PREVIEW 3:43"
+    },
+    {
+      "title": "Dai Dai",
+      "canonicalUrl": "https://music.apple.com/us/song/dai-dai/6768469976",
+      "creator": "Shakira, Burna Boy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6768469976",
+      "attributes": {
+        "album": "Dai Dai - Single",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "Dai Dai 17 Shakira, Burna Boy Dai Dai - Single PREVIEW 3:43"
+    },
+    {
+      "title": "Raindance",
+      "canonicalUrl": "https://music.apple.com/us/song/raindance/1847992612",
+      "creator": "Dave, Tems",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/49/24/9949241c-e52c-3018-eae8-c686013a7474/25UM1IM68216.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1847992612",
+      "attributes": {
+        "album": "The Boy Who Played the Harp",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "Raindance 18 Dave, Tems The Boy Who Played the Harp PREVIEW 3:39"
+    },
+    {
+      "title": "the cure",
+      "canonicalUrl": "https://music.apple.com/us/song/the-cure/1889992123",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1889992123",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "19",
+        "explicit": true
+      },
+      "evidenceText": "the cure 19 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 4:57"
+    },
+    {
+      "title": "hate that i made you love me",
+      "canonicalUrl": "https://music.apple.com/us/song/hate-that-i-made-you-love-me/6763656876",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6763656876",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "20",
+        "explicit": false
+      },
+      "evidenceText": "hate that i made you love me 20 Ariana Grande petal PREVIEW 3:17"
+    },
+    {
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "canonicalUrl": "https://music.apple.com/us/song/beauty-and-a-beat-feat-nicki-minaj/1440650961",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1440650961",
+      "attributes": {
+        "album": "Believe (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "Beauty and a Beat (feat. Nicki Minaj) 21 Justin Bieber Believe (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "Ya Helou",
+      "canonicalUrl": "https://music.apple.com/us/song/ya-helou/1825674152",
+      "creator": "Adam",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/9f/d8/609fd870-9dcb-ef95-1f09-780c42bd1a92/5283024045980_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1825674152",
+      "attributes": {
+        "album": "Ya Helou - Single",
+        "duration": "3:05",
+        "durationIso": "PT3M5S",
+        "chartPosition": "22",
+        "explicit": false
+      },
+      "evidenceText": "Ya Helou 22 Adam Ya Helou - Single PREVIEW 3:05"
+    },
+    {
+      "title": "Passionfruit",
+      "canonicalUrl": "https://music.apple.com/us/song/passionfruit/1440891494",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/71/97/d0/7197d021-de0f-9548-3f31-40b8294d3242/17UMGIM85032.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1440891494",
+      "attributes": {
+        "album": "More Life",
+        "duration": "4:58",
+        "durationIso": "PT4M58S",
+        "chartPosition": "23",
+        "explicit": true
+      },
+      "evidenceText": "Passionfruit 23 Drake More Life PREVIEW 4:58"
+    },
+    {
+      "title": "Garee2a Awy",
+      "canonicalUrl": "https://music.apple.com/us/song/garee2a-awy/6797577057",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/2f/73/2d2f739c-eb8c-fd9e-c67a-f7704d3fb66e/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6797577057",
+      "attributes": {
+        "album": "Sadeek El Bernameg",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "Garee2a Awy 24 TUL8TE Sadeek El Bernameg PREVIEW 2:39"
+    },
+    {
+      "title": "The Color Violet",
+      "canonicalUrl": "https://music.apple.com/us/song/the-color-violet/1599010268",
+      "creator": "Tory Lanez",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/c8/eb/16c8eb6d-fe23-fa03-5e43-9827972763d3/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1599010268",
+      "attributes": {
+        "album": "Alone At Prom",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "The Color Violet 25 Tory Lanez Alone At Prom PREVIEW 3:46"
+    },
+    {
+      "title": "Dancing In The Flames",
+      "canonicalUrl": "https://music.apple.com/us/song/dancing-in-the-flames/1768635695",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/ae/7c/26ae7c91-3ea9-a3d4-444b-93fb563b3d48/24UM1IM01029.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1768635695",
+      "attributes": {
+        "album": "Dancing In The Flames - EP",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "Dancing In The Flames 26 The Weeknd Dancing In The Flames - EP PREVIEW 3:40"
+    },
+    {
+      "title": "Jamaican (Bam Bam)",
+      "canonicalUrl": "https://music.apple.com/us/song/jamaican-bam-bam/1883679876",
+      "creator": "HUGEL, SOLTO (FR)",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1883679876",
+      "attributes": {
+        "album": "Jamaican (Bam Bam) - Single",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "27",
+        "explicit": false
+      },
+      "evidenceText": "Jamaican (Bam Bam) 27 HUGEL, SOLTO (FR) Jamaican (Bam Bam) - Single PREVIEW 2:36"
+    },
+    {
+      "title": "Wala Ash Wala Kan",
+      "canonicalUrl": "https://music.apple.com/us/song/wala-ash-wala-kan/6797577235",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/2f/73/2d2f739c-eb8c-fd9e-c67a-f7704d3fb66e/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6797577235",
+      "attributes": {
+        "album": "Sadeek El Bernameg",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "Wala Ash Wala Kan 28 TUL8TE Sadeek El Bernameg PREVIEW 3:04"
+    },
+    {
+      "title": "petal",
+      "canonicalUrl": "https://music.apple.com/us/song/petal/6763656878",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6763656878",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "29",
+        "explicit": true
+      },
+      "evidenceText": "petal 29 Ariana Grande petal PREVIEW 3:04"
+    },
+    {
+      "title": "Hold On, We're Going Home (feat. Majid Jordan)",
+      "canonicalUrl": "https://music.apple.com/us/song/hold-on-were-going-home-feat-majid-jordan/1440829630",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1440829630",
+      "attributes": {
+        "album": "Nothing Was the Same (Deluxe)",
+        "duration": "3:51",
+        "durationIso": "PT3M51S",
+        "chartPosition": "30",
+        "explicit": false
+      },
+      "evidenceText": "Hold On, We're Going Home (feat. Majid Jordan) 30 Drake Nothing Was the Same (Deluxe) PREVIEW 3:51"
+    },
+    {
+      "title": "Fair Trade (feat. Travis Scott)",
+      "canonicalUrl": "https://music.apple.com/us/song/fair-trade-feat-travis-scott/1584281493",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1584281493",
+      "attributes": {
+        "album": "Certified Lover Boy",
+        "duration": "4:51",
+        "durationIso": "PT4M51S",
+        "chartPosition": "31",
+        "explicit": true
+      },
+      "evidenceText": "Fair Trade (feat. Travis Scott) 31 Drake Certified Lover Boy PREVIEW 4:51"
+    },
+    {
+      "title": "The One That Got Away",
+      "canonicalUrl": "https://music.apple.com/us/song/the-one-that-got-away/1013032949",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/97/31/759731eb-b429-dfe3-c41f-34435998d102/13UABIM57845.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1013032949",
+      "attributes": {
+        "album": "Teenage Dream (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "32",
+        "explicit": false
+      },
+      "evidenceText": "The One That Got Away 32 Katy Perry Teenage Dream (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "Cinderella (feat. Ty Dolla $ign)",
+      "canonicalUrl": "https://music.apple.com/us/song/cinderella-feat-ty-dolla-%24ign/1137966332",
+      "creator": "Mac Miller",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/cc/4d/33cc4d85-e92a-b171-1b72-4dc882ce2359/093624918844.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1137966332",
+      "attributes": {
+        "album": "The Divine Feminine",
+        "duration": "8:00",
+        "durationIso": "PT8M",
+        "chartPosition": "33",
+        "explicit": true
+      },
+      "evidenceText": "Cinderella (feat. Ty Dolla $ign) 33 Mac Miller The Divine Feminine PREVIEW 8:00"
+    },
+    {
+      "title": "Self Aware",
+      "canonicalUrl": "https://music.apple.com/us/song/self-aware/1877803360",
+      "creator": "Temper City",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/63/6e/ba636e4b-5c9a-e89c-87d3-1a9ab7773644/1084252.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1877803360",
+      "attributes": {
+        "album": "Self Aware - Single",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "Self Aware 34 Temper City Self Aware - Single PREVIEW 3:00"
+    },
+    {
+      "title": "Training Season",
+      "canonicalUrl": "https://music.apple.com/us/song/training-season/1727526894",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/89/15/828915ea-d716-61c4-3de7-ef00c1f800fb/5054197853630.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1727526894",
+      "attributes": {
+        "album": "Training Season - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "35",
+        "explicit": false
+      },
+      "evidenceText": "Training Season 35 Dua Lipa Training Season - Single PREVIEW 3:29"
+    },
+    {
+      "title": "Movin' To The Sun",
+      "canonicalUrl": "https://music.apple.com/us/song/movin-to-the-sun/6769070199",
+      "creator": "HUGEL, Imael Angel, Ultra Naté",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6769070199",
+      "attributes": {
+        "album": "Movin' To The Sun - Single",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "Movin' To The Sun 36 HUGEL, Imael Angel, Ultra Naté Movin' To The Sun - Single PREVIEW 2:22"
+    },
+    {
+      "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+      "canonicalUrl": "https://music.apple.com/us/song/beni-al-ta-ki-seni-g%C3%B6rene-kadar-beni-al-afro-house-remix/6772928175",
+      "creator": "Ankara Echoes",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/3c/a9/b73ca9b6-24f0-91ee-cd96-d967a18531f9/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6772928175",
+      "attributes": {
+        "album": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix] - Single",
+        "duration": "4:12",
+        "durationIso": "PT4M12S",
+        "chartPosition": "37",
+        "explicit": true
+      },
+      "evidenceText": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix] 37 Ankara Echoes Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix] - Single PREVIEW 4:12"
+    },
+    {
+      "title": "Blinding Lights",
+      "canonicalUrl": "https://music.apple.com/us/song/blinding-lights/1488408568",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1488408568",
+      "attributes": {
+        "album": "Blinding Lights - Single",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "38",
+        "explicit": false
+      },
+      "evidenceText": "Blinding Lights 38 The Weeknd Blinding Lights - Single PREVIEW 3:21"
+    },
+    {
+      "title": "7 rings",
+      "canonicalUrl": "https://music.apple.com/us/song/7-rings/1450330685",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/06/d3/e406d3d8-2507-e585-c919-60bc5446985c/19UMGIM03689.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1450330685",
+      "attributes": {
+        "album": "thank u, next",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "39",
+        "explicit": true
+      },
+      "evidenceText": "7 rings 39 Ariana Grande thank u, next PREVIEW 2:58"
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia/1833328840",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1833328840",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "40",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia 40 Taylor Swift The Life of a Showgirl PREVIEW 3:46"
+    },
+    {
+      "title": "BbY WOW",
+      "canonicalUrl": "https://music.apple.com/us/song/bby-wow/6796864754",
+      "creator": "KAROL G, Judeline, rusowsky",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6796864754",
+      "attributes": {
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "BbY WOW 41 KAROL G, Judeline, rusowsky NO ME ARREPIENTO DE SENTIR TANTO PREVIEW 3:45"
+    },
+    {
+      "title": "Stop The Wedding!",
+      "canonicalUrl": "https://music.apple.com/us/song/stop-the-wedding/6795697687",
+      "creator": "Ashe",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6795697687",
+      "attributes": {
+        "album": "Stop The Wedding! - Single",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "Stop The Wedding! 42 Ashe Stop The Wedding! - Single PREVIEW 3:18"
+    },
+    {
+      "title": "Timeless",
+      "canonicalUrl": "https://music.apple.com/us/song/timeless/1770380890",
+      "creator": "The Weeknd, Playboi Carti",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1770380890",
+      "attributes": {
+        "album": "Timeless - Single",
+        "duration": "4:16",
+        "durationIso": "PT4M16S",
+        "chartPosition": "43",
+        "explicit": true
+      },
+      "evidenceText": "Timeless 43 The Weeknd, Playboi Carti Timeless - Single PREVIEW 4:16"
+    },
+    {
+      "title": "After Hours",
+      "canonicalUrl": "https://music.apple.com/us/song/after-hours/1499378615",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1499378615",
+      "attributes": {
+        "album": "After Hours",
+        "duration": "6:01",
+        "durationIso": "PT6M1S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "After Hours 44 The Weeknd After Hours PREVIEW 6:01"
+    },
+    {
+      "title": "Surah Mulk",
+      "canonicalUrl": "https://music.apple.com/us/song/surah-mulk/1730226796",
+      "creator": "Mufti Menk",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/76/9f/0e769f13-06e2-142f-eddf-e5ff8be8e4ce/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1730226796",
+      "attributes": {
+        "album": "Surah Mulk - Single",
+        "duration": "9:25",
+        "durationIso": "PT9M25S",
+        "chartPosition": "45",
+        "explicit": false
+      },
+      "evidenceText": "Surah Mulk 45 Mufti Menk Surah Mulk - Single PREVIEW 9:25"
+    },
+    {
+      "title": "Sweater Weather",
+      "canonicalUrl": "https://music.apple.com/us/song/sweater-weather/635016640",
+      "creator": "The Neighbourhood",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "635016640",
+      "attributes": {
+        "album": "I Love You.",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "46",
+        "explicit": false
+      },
+      "evidenceText": "Sweater Weather 46 The Neighbourhood I Love You. PREVIEW 4:00"
+    },
+    {
+      "title": "WILDFLOWER",
+      "canonicalUrl": "https://music.apple.com/us/song/wildflower/1739659144",
+      "creator": "Billie Eilish",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1739659144",
+      "attributes": {
+        "album": "HIT ME HARD AND SOFT",
+        "duration": "4:21",
+        "durationIso": "PT4M21S",
+        "chartPosition": "47",
+        "explicit": false
+      },
+      "evidenceText": "WILDFLOWER 47 Billie Eilish HIT ME HARD AND SOFT PREVIEW 4:21"
+    },
+    {
+      "title": "Bad Times (Extended Version)",
+      "canonicalUrl": "https://music.apple.com/us/song/bad-times-extended-version/1890913669",
+      "creator": "Imael Angel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/7f/08037f7d-6173-9348-991d-5966f0686539/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1890913669",
+      "attributes": {
+        "album": "Bad Times (Extended Version) - Single",
+        "duration": "6:40",
+        "durationIso": "PT6M40S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Bad Times (Extended Version) 48 Imael Angel Bad Times (Extended Version) - Single PREVIEW 6:40"
+    },
+    {
+      "title": "Diet Mountain Dew",
+      "canonicalUrl": "https://music.apple.com/us/song/diet-mountain-dew/1442452473",
+      "creator": "Lana Del Rey",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/df/dd/c5dfdd9c-24f2-de01-246c-fcc5e028f705/12UMGIM53864.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1442452473",
+      "attributes": {
+        "album": "Born to Die – Paradise Edition (Special Version)",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "Diet Mountain Dew 49 Lana Del Rey Born to Die – Paradise Edition (Special Version) PREVIEW 3:42"
+    },
+    {
+      "title": "Awedt Qalby",
+      "canonicalUrl": "https://music.apple.com/us/song/awedt-qalby/6810338905",
+      "creator": "Abdul Majeed Abdullah",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/da/e9/9fdae9be-880e-d88f-902b-95a2b63a115d/6281130236505.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6810338905",
+      "attributes": {
+        "album": "Abdul Majeed Abdullah 2026",
+        "duration": "4:35",
+        "durationIso": "PT4M35S",
+        "chartPosition": "50",
+        "explicit": false
+      },
+      "evidenceText": "Awedt Qalby 50 Abdul Majeed Abdullah Abdul Majeed Abdullah 2026 PREVIEW 4:35"
+    },
+    {
+      "title": "God's Plan",
+      "canonicalUrl": "https://music.apple.com/us/song/gods-plan/1418213269",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1f/37/43/1f374304-2e04-2be3-53ea-41dd6f0b6fb8/00602567892410.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1418213269",
+      "attributes": {
+        "album": "Scorpion",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "51",
+        "explicit": true
+      },
+      "evidenceText": "God's Plan 51 Drake Scorpion PREVIEW 3:18"
+    },
+    {
+      "title": "Road Trips",
+      "canonicalUrl": "https://music.apple.com/us/song/road-trips/6769557053",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/c0/e6/25c0e60b-5e99-58b2-6a52-821602141cce/26UMGIM63615.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6769557053",
+      "attributes": {
+        "album": "MAID OF HONOUR",
+        "duration": "4:03",
+        "durationIso": "PT4M3S",
+        "chartPosition": "52",
+        "explicit": true
+      },
+      "evidenceText": "Road Trips 52 Drake MAID OF HONOUR PREVIEW 4:03"
+    },
+    {
+      "title": "Midnight Sun",
+      "canonicalUrl": "https://music.apple.com/us/song/midnight-sun/1817499251",
+      "creator": "Zara Larsson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1d/2d/fb1d2d1c-0f79-53ad-ab9b-ac20918b5856/196873177199.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1817499251",
+      "attributes": {
+        "album": "Midnight Sun",
+        "duration": "3:09",
+        "durationIso": "PT3M9S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "Midnight Sun 53 Zara Larsson Midnight Sun PREVIEW 3:09"
+    },
+    {
+      "title": "Tamly Maak",
+      "canonicalUrl": "https://music.apple.com/us/song/tamly-maak/880940097",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/31/4d/d4/314dd42d-3246-e7a3-107a-3d521fa9a7e2/dj.iiicnpub.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "880940097",
+      "attributes": {
+        "album": "Tamally Maak",
+        "duration": "4:29",
+        "durationIso": "PT4M29S",
+        "chartPosition": "54",
+        "explicit": false
+      },
+      "evidenceText": "Tamly Maak 54 Amr Diab Tamally Maak PREVIEW 4:29"
+    },
+    {
+      "title": "Billie Jean",
+      "canonicalUrl": "https://music.apple.com/us/song/billie-jean/269573364",
+      "creator": "Michael Jackson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "269573364",
+      "attributes": {
+        "album": "Thriller",
+        "duration": "4:53",
+        "durationIso": "PT4M53S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "Billie Jean 55 Michael Jackson Thriller PREVIEW 4:53"
+    },
+    {
+      "title": "Earrings",
+      "canonicalUrl": "https://music.apple.com/us/song/earrings/1738257931",
+      "creator": "Malcolm Todd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/06/1f/d0061f04-bcae-f9a1-8126-830c04fa32db/196871971188.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1738257931",
+      "attributes": {
+        "album": "Sweet Boy",
+        "duration": "2:31",
+        "durationIso": "PT2M31S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "Earrings 56 Malcolm Todd Sweet Boy PREVIEW 2:31"
+    },
+    {
+      "title": "Awedak",
+      "canonicalUrl": "https://music.apple.com/us/song/awedak/1812062005",
+      "creator": "Ayed",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/b7/bc/feb7bcc3-7947-1a57-a40f-f1affaf0884c/889502801403.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1812062005",
+      "attributes": {
+        "album": "Thaman Alam",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "Awedak 57 Ayed Thaman Alam PREVIEW 4:06"
+    },
+    {
+      "title": "Elizabeth Taylor",
+      "canonicalUrl": "https://music.apple.com/us/song/elizabeth-taylor/1833328842",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1833328842",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "Elizabeth Taylor 58 Taylor Swift The Life of a Showgirl PREVIEW 3:28"
+    },
+    {
+      "title": "Dracula",
+      "canonicalUrl": "https://music.apple.com/us/song/dracula/1836226730",
+      "creator": "Tame Impala",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1836226730",
+      "attributes": {
+        "album": "Deadbeat",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "59",
+        "explicit": true
+      },
+      "evidenceText": "Dracula 59 Tame Impala Deadbeat PREVIEW 3:25"
+    },
+    {
+      "title": "Apocalypse",
+      "canonicalUrl": "https://music.apple.com/us/song/apocalypse/1217977755",
+      "creator": "Cigarettes After Sex",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1217977755",
+      "attributes": {
+        "album": "Cigarettes After Sex",
+        "duration": "4:50",
+        "durationIso": "PT4M50S",
+        "chartPosition": "60",
+        "explicit": false
+      },
+      "evidenceText": "Apocalypse 60 Cigarettes After Sex Cigarettes After Sex PREVIEW 4:50"
+    },
+    {
+      "title": "Stateside (with Zara Larsson)",
+      "canonicalUrl": "https://music.apple.com/us/song/stateside-with-zara-larsson/1843595808",
+      "creator": "PinkPantheress",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/d2/bb/b0d2bb76-41a2-1bb1-586c-107b63e4181d/5026854077819.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1843595808",
+      "attributes": {
+        "album": "Fancy Some More?",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "61",
+        "explicit": false
+      },
+      "evidenceText": "Stateside (with Zara Larsson) 61 PinkPantheress Fancy Some More? PREVIEW 3:04"
+    },
+    {
+      "title": "Don’t Matter To Me",
+      "canonicalUrl": "https://music.apple.com/us/song/dont-matter-to-me/1418213403",
+      "creator": "Drake, Michael Jackson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1f/37/43/1f374304-2e04-2be3-53ea-41dd6f0b6fb8/00602567892410.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1418213403",
+      "attributes": {
+        "album": "Scorpion",
+        "duration": "4:05",
+        "durationIso": "PT4M5S",
+        "chartPosition": "62",
+        "explicit": false
+      },
+      "evidenceText": "Don’t Matter To Me 62 Drake, Michael Jackson Scorpion PREVIEW 4:05"
+    },
+    {
+      "title": "Love Me Not",
+      "canonicalUrl": "https://music.apple.com/us/song/love-me-not/1743852427",
+      "creator": "Ravyn Lenae",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/8c/6c/078c6c94-d38d-0451-d57b-23e957b569f8/075679660893.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1743852427",
+      "attributes": {
+        "album": "Bird's Eye",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "Love Me Not 63 Ravyn Lenae Bird's Eye PREVIEW 3:33"
+    },
+    {
+      "title": "New Bestie",
+      "canonicalUrl": "https://music.apple.com/us/song/new-bestie/6769557062",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/c0/e6/25c0e60b-5e99-58b2-6a52-821602141cce/26UMGIM63615.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6769557062",
+      "attributes": {
+        "album": "MAID OF HONOUR",
+        "duration": "4:19",
+        "durationIso": "PT4M19S",
+        "chartPosition": "64",
+        "explicit": true
+      },
+      "evidenceText": "New Bestie 64 Drake MAID OF HONOUR PREVIEW 4:19"
+    },
+    {
+      "title": "Perfect",
+      "canonicalUrl": "https://music.apple.com/us/song/perfect/1193701400",
+      "creator": "Ed Sheeran",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1193701400",
+      "attributes": {
+        "album": "÷ (Deluxe)",
+        "duration": "4:23",
+        "durationIso": "PT4M23S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "Perfect 65 Ed Sheeran ÷ (Deluxe) PREVIEW 4:23"
+    },
+    {
+      "title": "Wonderwall (Remastered)",
+      "canonicalUrl": "https://music.apple.com/us/song/wonderwall-remastered/1821192766",
+      "creator": "Oasis",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/e3/0d/cee30d80-d3e7-66ae-de84-4b62d8bc3b4d/5051961151107.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1821192766",
+      "attributes": {
+        "album": "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "Wonderwall (Remastered) 66 Oasis (What's The Story) Morning Glory? (30th Anniversary Deluxe Edition) PREVIEW 4:18"
+    },
+    {
+      "title": "Cinnamon Girl",
+      "canonicalUrl": "https://music.apple.com/us/song/cinnamon-girl/1474669074",
+      "creator": "Lana Del Rey",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/5f/b9/c65fb9eb-da2f-89a9-b640-2fff1fc3a660/19UMGIM61350.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1474669074",
+      "attributes": {
+        "album": "Norman F*****g Rockwell!",
+        "duration": "5:00",
+        "durationIso": "PT5M",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "Cinnamon Girl 67 Lana Del Rey Norman F*****g Rockwell! PREVIEW 5:00"
+    },
+    {
+      "title": "Starboy (feat. Daft Punk)",
+      "canonicalUrl": "https://music.apple.com/us/song/starboy-feat-daft-punk/1676999857",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/d4/bd/0ed4bd74-cff6-4aab-dd94-947256c613fb/23UMGIM22526.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1676999857",
+      "attributes": {
+        "album": "Starboy (Deluxe)",
+        "duration": "3:50",
+        "durationIso": "PT3M50S",
+        "chartPosition": "68",
+        "explicit": true
+      },
+      "evidenceText": "Starboy (feat. Daft Punk) 68 The Weeknd Starboy (Deluxe) PREVIEW 3:50"
+    },
+    {
+      "title": "Opalite",
+      "canonicalUrl": "https://music.apple.com/us/song/opalite/1833328845",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1833328845",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "69",
+        "explicit": false
+      },
+      "evidenceText": "Opalite 69 Taylor Swift The Life of a Showgirl PREVIEW 3:55"
+    },
+    {
+      "title": "Narein",
+      "canonicalUrl": "https://music.apple.com/us/song/narein/1828447931",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/fd/a2/4bfda2f7-d1ca-f702-7be3-8e46b514005c/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1828447931",
+      "attributes": {
+        "album": "Narein",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "Narein 70 TUL8TE Narein PREVIEW 3:04"
+    },
+    {
+      "title": "Sebebi Yar",
+      "canonicalUrl": "https://music.apple.com/us/song/sebebi-yar/6773421035",
+      "creator": "BLOK3",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/9b/d0/a69bd0ba-76af-bedd-9857-a6e2cb3087e0/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6773421035",
+      "attributes": {
+        "album": "KAYIP PERSONA",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "Sebebi Yar 71 BLOK3 KAYIP PERSONA PREVIEW 3:06"
+    },
+    {
+      "title": "National Treasures",
+      "canonicalUrl": "https://music.apple.com/us/song/national-treasures/6769568603",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6769568603",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "72",
+        "explicit": true
+      },
+      "evidenceText": "National Treasures 72 Drake ICEMAN PREVIEW 3:20"
+    },
+    {
+      "title": "drop dead",
+      "canonicalUrl": "https://music.apple.com/us/song/drop-dead/1889992113",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1889992113",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "drop dead 73 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:44"
+    },
+    {
+      "title": "Mr. Brightside",
+      "canonicalUrl": "https://music.apple.com/us/song/mr-brightside/1526194192",
+      "creator": "The Killers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1526194192",
+      "attributes": {
+        "album": "Hot Fuss",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "74",
+        "explicit": false
+      },
+      "evidenceText": "Mr. Brightside 74 The Killers Hot Fuss PREVIEW 3:42"
+    },
+    {
+      "title": "Chicago",
+      "canonicalUrl": "https://music.apple.com/us/song/chicago/850697800",
+      "creator": "Michael Jackson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/15/cc/8315ccdd-5a8d-8344-fa15-72e4cb64145e/886444533171.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "850697800",
+      "attributes": {
+        "album": "XSCAPE (Deluxe)",
+        "duration": "4:05",
+        "durationIso": "PT4M5S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Chicago 75 Michael Jackson XSCAPE (Deluxe) PREVIEW 4:05"
+    },
+    {
+      "title": "Mn Mithlek",
+      "canonicalUrl": "https://music.apple.com/us/song/mn-mithlek/1435784510",
+      "creator": "Abdul Majeed Abdullah",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/17/73/21/17732130-c646-fa64-6837-140a6b7e720e/950792.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1435784510",
+      "attributes": {
+        "album": "Mn Mithlek - Single",
+        "duration": "6:00",
+        "durationIso": "PT6M",
+        "chartPosition": "76",
+        "explicit": false
+      },
+      "evidenceText": "Mn Mithlek 76 Abdul Majeed Abdullah Mn Mithlek - Single PREVIEW 6:00"
+    },
+    {
+      "title": "Video Games (Remastered)",
+      "canonicalUrl": "https://music.apple.com/us/song/video-games-remastered/1442452472",
+      "creator": "Lana Del Rey",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/df/dd/c5dfdd9c-24f2-de01-246c-fcc5e028f705/12UMGIM53864.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1442452472",
+      "attributes": {
+        "album": "Born to Die – Paradise Edition (Special Version)",
+        "duration": "4:41",
+        "durationIso": "PT4M41S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "Video Games (Remastered) 77 Lana Del Rey Born to Die – Paradise Edition (Special Version) PREVIEW 4:41"
+    },
+    {
+      "title": "Legendary Lovers",
+      "canonicalUrl": "https://music.apple.com/us/song/legendary-lovers/1440818912",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1440818912",
+      "attributes": {
+        "album": "PRISM (Deluxe Version)",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "78",
+        "explicit": false
+      },
+      "evidenceText": "Legendary Lovers 78 Katy Perry PRISM (Deluxe Version) PREVIEW 3:44"
+    },
+    {
+      "title": "DIE TRYING",
+      "canonicalUrl": "https://music.apple.com/us/song/die-trying/1796127376",
+      "creator": "PARTYNEXTDOOR, Drake, Yebba",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1796127376",
+      "attributes": {
+        "album": "$ome $exy $ongs 4 U",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "79",
+        "explicit": true
+      },
+      "evidenceText": "DIE TRYING 79 PARTYNEXTDOOR, Drake, Yebba $ome $exy $ongs 4 U PREVIEW 3:15"
+    },
+    {
+      "title": "Some of Your Love",
+      "canonicalUrl": "https://music.apple.com/us/song/some-of-your-love/6803231122",
+      "creator": "PARTYNEXTDOOR",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/bb/59/27bb5963-b73c-efc1-04c2-c89f43f7fba0/808391400276.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6803231122",
+      "attributes": {
+        "album": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "80",
+        "explicit": true
+      },
+      "evidenceText": "Some of Your Love 80 PARTYNEXTDOOR PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION] PREVIEW 2:39"
+    },
+    {
+      "title": "Great Expectation",
+      "canonicalUrl": "https://music.apple.com/us/song/great-expectation/6769552411",
+      "creator": "SIENNA SPIRO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6769552411",
+      "attributes": {
+        "album": "Visitor (Deluxe)",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "81",
+        "explicit": false
+      },
+      "evidenceText": "Great Expectation 81 SIENNA SPIRO Visitor (Deluxe) PREVIEW 2:53"
+    },
+    {
+      "title": "positions",
+      "canonicalUrl": "https://music.apple.com/us/song/positions/1537477069",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/c0/ce/e5c0ce05-4281-dd8e-6a93-86de7cf45621/20UMGIM94964.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1537477069",
+      "attributes": {
+        "album": "Positions",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "82",
+        "explicit": true
+      },
+      "evidenceText": "positions 82 Ariana Grande Positions PREVIEW 2:52"
+    },
+    {
+      "title": "Hootie Frutti",
+      "canonicalUrl": "https://music.apple.com/us/song/hootie-frutti/1891779777",
+      "creator": "KATSEYE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/28/92/e22892a7-fe88-72cf-ecba-691030dfcf7e/26UMGIM41151.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1891779777",
+      "attributes": {
+        "album": "WILD - EP",
+        "duration": "2:20",
+        "durationIso": "PT2M20S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "Hootie Frutti 83 KATSEYE WILD - EP PREVIEW 2:20"
+    },
+    {
+      "title": "Lovesong",
+      "canonicalUrl": "https://music.apple.com/us/song/lovesong/1544491996",
+      "creator": "Adele",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/ca/25/ebca2596-cd1e-b295-91a3-771c868d0a79/191404113868.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1544491996",
+      "attributes": {
+        "album": "21",
+        "duration": "5:16",
+        "durationIso": "PT5M16S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "Lovesong 84 Adele 21 PREVIEW 5:16"
+    },
+    {
+      "title": "I KNOW ?",
+      "canonicalUrl": "https://music.apple.com/us/song/i-know/1699712653",
+      "creator": "Travis Scott",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1699712653",
+      "attributes": {
+        "album": "UTOPIA",
+        "duration": "3:31",
+        "durationIso": "PT3M31S",
+        "chartPosition": "85",
+        "explicit": true
+      },
+      "evidenceText": "I KNOW ? 85 Travis Scott UTOPIA PREVIEW 3:31"
+    },
+    {
+      "title": "The Fate of Ophelia (Track by Track)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia-track-by-track/1843998667",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/74/44/3a74440e-a1c2-c2bc-22c4-c71bd4584ed1/25UM1IM53942.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1843998667",
+      "attributes": {
+        "album": "The Life of a Showgirl (Track by Track Version)",
+        "duration": "0:41",
+        "durationIso": "PT41S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia (Track by Track) 86 Taylor Swift The Life of a Showgirl (Track by Track Version) PREVIEW 0:41"
+    },
+    {
+      "title": "Just Keep Watching",
+      "canonicalUrl": "https://music.apple.com/us/song/just-keep-watching/1810796703",
+      "creator": "Tate McRae",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/91/da/a691dac7-4cb7-82f5-0eda-e37b96f63f55/075679610720.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1810796703",
+      "attributes": {
+        "album": "F1 The Album",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "87",
+        "explicit": false
+      },
+      "evidenceText": "Just Keep Watching 87 Tate McRae F1 The Album PREVIEW 2:22"
+    },
+    {
+      "title": "Jimmy Cooks (feat. 21 Savage)",
+      "canonicalUrl": "https://music.apple.com/us/song/jimmy-cooks-feat-21-savage/1630231297",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/84/2c/b4/842cb419-243c-b3f4-4da9-b6b980996062/22UMGIM67371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1630231297",
+      "attributes": {
+        "album": "Honestly, Nevermind",
+        "duration": "3:38",
+        "durationIso": "PT3M38S",
+        "chartPosition": "88",
+        "explicit": true
+      },
+      "evidenceText": "Jimmy Cooks (feat. 21 Savage) 88 Drake Honestly, Nevermind PREVIEW 3:38"
+    },
+    {
+      "title": "Softcore",
+      "canonicalUrl": "https://music.apple.com/us/song/softcore/1440532753",
+      "creator": "The Neighbourhood",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1440532753",
+      "attributes": {
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "Softcore 89 The Neighbourhood Hard To Imagine The Neighbourhood Ever Changing PREVIEW 3:26"
+    },
+    {
+      "title": "E85",
+      "canonicalUrl": "https://music.apple.com/us/song/e85/1871258330",
+      "creator": "Don Toliver",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/e5/c6/e8e5c690-a958-622e-eb62-0dce6059300e/075679599360.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1871258330",
+      "attributes": {
+        "album": "OCTANE",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "90",
+        "explicit": true
+      },
+      "evidenceText": "E85 90 Don Toliver OCTANE PREVIEW 2:33"
+    },
+    {
+      "title": "HIGHEST IN THE ROOM",
+      "canonicalUrl": "https://music.apple.com/us/song/highest-in-the-room/1481874619",
+      "creator": "Travis Scott",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1481874619",
+      "attributes": {
+        "album": "HIGHEST IN THE ROOM - Single",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "91",
+        "explicit": true
+      },
+      "evidenceText": "HIGHEST IN THE ROOM 91 Travis Scott HIGHEST IN THE ROOM - Single PREVIEW 2:55"
+    },
+    {
+      "title": "Espresso",
+      "canonicalUrl": "https://music.apple.com/us/song/espresso/1740212434",
+      "creator": "Sabrina Carpenter",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1740212434",
+      "attributes": {
+        "album": "Espresso - Single",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "92",
+        "explicit": true
+      },
+      "evidenceText": "Espresso 92 Sabrina Carpenter Espresso - Single PREVIEW 2:55"
+    },
+    {
+      "title": "Come and See Me",
+      "canonicalUrl": "https://music.apple.com/us/song/come-and-see-me/6803231117",
+      "creator": "PARTYNEXTDOOR, Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/bb/59/27bb5963-b73c-efc1-04c2-c89f43f7fba0/808391400276.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6803231117",
+      "attributes": {
+        "album": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "93",
+        "explicit": true
+      },
+      "evidenceText": "Come and See Me 93 PARTYNEXTDOOR, Drake PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION] PREVIEW 3:55"
+    },
+    {
+      "title": "Born to Die",
+      "canonicalUrl": "https://music.apple.com/us/song/born-to-die/1442452466",
+      "creator": "Lana Del Rey",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/df/dd/c5dfdd9c-24f2-de01-246c-fcc5e028f705/12UMGIM53864.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1442452466",
+      "attributes": {
+        "album": "Born to Die – Paradise Edition (Special Version)",
+        "duration": "4:46",
+        "durationIso": "PT4M46S",
+        "chartPosition": "94",
+        "explicit": false
+      },
+      "evidenceText": "Born to Die 94 Lana Del Rey Born to Die – Paradise Edition (Special Version) PREVIEW 4:46"
+    },
+    {
+      "title": "Hoe Phase",
+      "canonicalUrl": "https://music.apple.com/us/song/hoe-phase/6769556949",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/c0/e6/25c0e60b-5e99-58b2-6a52-821602141cce/26UMGIM63615.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "6769556949",
+      "attributes": {
+        "album": "MAID OF HONOUR",
+        "duration": "3:23",
+        "durationIso": "PT3M23S",
+        "chartPosition": "95",
+        "explicit": true
+      },
+      "evidenceText": "Hoe Phase 95 Drake MAID OF HONOUR PREVIEW 3:23"
+    },
+    {
+      "title": "Shape of You",
+      "canonicalUrl": "https://music.apple.com/us/song/shape-of-you/1193701392",
+      "creator": "Ed Sheeran",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1193701392",
+      "attributes": {
+        "album": "÷ (Deluxe)",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "Shape of You 96 Ed Sheeran ÷ (Deluxe) PREVIEW 3:53"
+    },
+    {
+      "title": "Surat Al Baqarah",
+      "canonicalUrl": "https://music.apple.com/us/song/surat-al-baqarah/913583659",
+      "creator": "Saad El Ghamidi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e8/40/a5/e840a577-746d-53e3-235b-4b01c876b192/195204.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "913583659",
+      "attributes": {
+        "album": "The Holy Quran",
+        "duration": "1:57:42",
+        "durationIso": "PT1H57M42S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "Surat Al Baqarah 97 Saad El Ghamidi The Holy Quran PREVIEW 1:57:42"
+    },
+    {
+      "title": "Trance",
+      "canonicalUrl": "https://music.apple.com/us/song/trance/1657271969",
+      "creator": "Metro Boomin, Travis Scott, Young Thug",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/72/3b/09723b88-9b18-e466-7ae0-05a17688bb52/22UM1IM35114.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1657271969",
+      "attributes": {
+        "album": "HEROES & VILLAINS",
+        "duration": "3:14",
+        "durationIso": "PT3M14S",
+        "chartPosition": "98",
+        "explicit": true
+      },
+      "evidenceText": "Trance 98 Metro Boomin, Travis Scott, Young Thug HEROES & VILLAINS PREVIEW 3:14"
+    },
+    {
+      "title": "Baby (feat. Ludacris)",
+      "canonicalUrl": "https://music.apple.com/us/song/baby-feat-ludacris/1440661545",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/0a/b4/b90ab45a-07b1-0bcc-331c-c496a21d07e4/10UMGIM01134.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1440661545",
+      "attributes": {
+        "album": "My World 2.0 (Bonus Track Version)",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "99",
+        "explicit": false
+      },
+      "evidenceText": "Baby (feat. Ludacris) 99 Justin Bieber My World 2.0 (Bonus Track Version) PREVIEW 3:34"
+    },
+    {
+      "title": "BIRDS OF A FEATHER",
+      "canonicalUrl": "https://music.apple.com/us/song/birds-of-a-feather/1739659142",
+      "creator": "Billie Eilish",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bahrain/pl.02a8276fa4ca40b19ac248fda4725fbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bahrain",
+      "externalId": "1739659142",
+      "attributes": {
+        "album": "HIT ME HARD AND SOFT",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "100",
+        "explicit": false
+      },
+      "evidenceText": "BIRDS OF A FEATHER 100 Billie Eilish HIT ME HARD AND SOFT PREVIEW 3:30"
+    }
+  ]
+}

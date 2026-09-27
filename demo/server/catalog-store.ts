@@ -5,7 +5,7 @@ import { resolve } from 'node:path';
 import { z } from 'zod';
 import { demoRoot } from './config.ts';
 import { validateUrl } from './extract.ts';
-import { CATALOG_KINDS, type CatalogBatch, type CatalogCollection, type CatalogInputItem, type CatalogItem, type CatalogSource, type CatalogSummary } from '../src/domain/catalog.ts';
+import { CATALOG_KINDS, type CatalogBatch, type CatalogCollection, type CatalogCollectionSummary, type CatalogInputItem, type CatalogItem, type CatalogSource, type CatalogSummary } from '../src/domain/catalog.ts';
 
 const id = z.string().regex(/^[a-zA-Z0-9][a-zA-Z0-9._:-]{0,159}$/);
 const publicUrl = z.string().max(4000).transform(value => { const url = validateUrl(value); url.hash = ''; return url.href; });
@@ -87,18 +87,22 @@ export function createCatalogStore(path = resolve(demoRoot, '.data/catalog.sqlit
     const needle = query.normalize('NFKC').toLowerCase().slice(0, 300);
     return db.prepare(`SELECT i.payload,m.position FROM catalog_memberships m JOIN catalog_items i ON i.id=m.item_id WHERE m.collection_id=? AND instr(i.search_text,?)>0 ORDER BY m.position,i.id`).all(collectionId, needle).map(row => ({ ...parse<CatalogItem>(row)!, sourceRank: Number(row.position) }));
   }
+  function describeCollection(c: CatalogCollection): CatalogCollectionSummary {
+    const count = Number((db.prepare('SELECT count(*) AS count FROM catalog_memberships WHERE collection_id=?').get(c.id) as {count:number}).count);
+    const previewImages = db.prepare("SELECT json_extract(i.payload,'$.imageUrl') AS image FROM catalog_memberships m JOIN catalog_items i ON i.id=m.item_id WHERE m.collection_id=? AND json_extract(i.payload,'$.imageUrl') IS NOT NULL ORDER BY m.position LIMIT 4").all(c.id).map(r=>String(r.image));
+    const sourceIds = db.prepare('SELECT DISTINCT i.source_id FROM catalog_memberships m JOIN catalog_items i ON i.id=m.item_id WHERE m.collection_id=?').all(c.id).map(r=>String(r.source_id));
+    return { ...c, count, previewImages, sourceIds };
+  }
+  function collectionSummary(collectionId: string): CatalogCollectionSummary | undefined {
+    const c = collection(collectionId);
+    return c ? describeCollection(c) : undefined;
+  }
   function summary(): CatalogSummary {
     const counts = db.prepare('SELECT kind,count(*) AS count FROM catalog_items GROUP BY kind').all() as { kind: CatalogItem['kind']; count: number }[];
     const sources = db.prepare('SELECT payload FROM catalog_sources ORDER BY id').all().map(row => { const source = parse<CatalogSource>(row)!; return { ...source, count: Number((db.prepare('SELECT count(*) AS count FROM catalog_items WHERE source_id=?').get(source.id) as { count: number }).count) }; });
-    const collections = db.prepare('SELECT payload FROM catalog_collections ORDER BY id').all().map(row => {
-      const c = parse<CatalogCollection>(row)!;
-      const count = Number((db.prepare('SELECT count(*) AS count FROM catalog_memberships WHERE collection_id=?').get(c.id) as {count:number}).count);
-      const previewImages = db.prepare("SELECT json_extract(i.payload,'$.imageUrl') AS image FROM catalog_memberships m JOIN catalog_items i ON i.id=m.item_id WHERE m.collection_id=? AND json_extract(i.payload,'$.imageUrl') IS NOT NULL ORDER BY m.position LIMIT 4").all(c.id).map(r=>String(r.image));
-      const sourceIds = db.prepare('SELECT DISTINCT i.source_id FROM catalog_memberships m JOIN catalog_items i ON i.id=m.item_id WHERE m.collection_id=?').all(c.id).map(r=>String(r.source_id));
-      return { ...c, count, previewImages, sourceIds };
-    });
+    const collections = db.prepare('SELECT payload FROM catalog_collections ORDER BY id').all().map(row => describeCollection(parse<CatalogCollection>(row)!));
     return { total: counts.reduce((sum, c) => sum + Number(c.count), 0), byKind: Object.fromEntries(counts.map(c => [c.kind, Number(c.count)])), sources, collections, lastCollectedAt: sources.map(s => s.checkedAt).sort().at(-1) ?? null, database: 'SQLite', runs: db.prepare('SELECT payload FROM catalog_runs ORDER BY imported_at DESC LIMIT 20').all().map(row => parse<CatalogSummary['runs'][number]>(row)!) };
   }
-  return { ingest, item, collection, items, summary, versions: (itemId: string) => db.prepare('SELECT payload FROM catalog_versions WHERE item_id=? ORDER BY version').all(itemId).map(row => parse<CatalogItem>(row)!), exportData: () => ({ format: 'valuerank-catalog-v1', exportedAt: new Date().toISOString(), ...summary(), items: db.prepare('SELECT payload FROM catalog_items ORDER BY id').all().map(row => parse<CatalogItem>(row)!) }), close: () => db.close() };
+  return { ingest, item, collection, collectionSummary, items, summary, versions: (itemId: string) => db.prepare('SELECT payload FROM catalog_versions WHERE item_id=? ORDER BY version').all(itemId).map(row => parse<CatalogItem>(row)!), exportData: () => ({ format: 'valuerank-catalog-v1', exportedAt: new Date().toISOString(), ...summary(), items: db.prepare('SELECT payload FROM catalog_items ORDER BY id').all().map(row => parse<CatalogItem>(row)!) }), close: () => db.close() };
 }
 export type CatalogStore = ReturnType<typeof createCatalogStore>;

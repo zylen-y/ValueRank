@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+  "collection": "Top 100: Ghana",
+  "fetchedAt": "2026-09-27T03:41:55.032Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Bra",
+      "canonicalUrl": "https://music.apple.com/us/song/bra/6804625231",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/52/64/59526449-8af9-b556-e248-927a964c72d5/766214704355.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6804625231",
+      "attributes": {
+        "album": "NO DAYS OFF",
+        "duration": "2:59",
+        "durationIso": "PT2M59S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "Bra 1 Kweku Smoke NO DAYS OFF PREVIEW 2:59"
+    },
+    {
+      "title": "Bombele",
+      "canonicalUrl": "https://music.apple.com/us/song/bombele/6804625234",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/52/64/59526449-8af9-b556-e248-927a964c72d5/766214704355.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6804625234",
+      "attributes": {
+        "album": "NO DAYS OFF",
+        "duration": "2:21",
+        "durationIso": "PT2M21S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Bombele 2 Kweku Smoke NO DAYS OFF PREVIEW 2:21"
+    },
+    {
+      "title": "Faith",
+      "canonicalUrl": "https://music.apple.com/us/song/faith/6805407251",
+      "creator": "Kweku Smoke, Lasmid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/ca/ac/5bcaac2e-2329-567b-0445-29efd7e03bee/766214704508.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6805407251",
+      "attributes": {
+        "album": "Faith - Single",
+        "duration": "2:26",
+        "durationIso": "PT2M26S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Faith 3 Kweku Smoke, Lasmid Faith - Single PREVIEW 2:26"
+    },
+    {
+      "title": "Survivor",
+      "canonicalUrl": "https://music.apple.com/us/song/survivor/6804624827",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/52/64/59526449-8af9-b556-e248-927a964c72d5/766214704355.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6804624827",
+      "attributes": {
+        "album": "NO DAYS OFF",
+        "duration": "2:44",
+        "durationIso": "PT2M44S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "Survivor 4 Kweku Smoke NO DAYS OFF PREVIEW 2:44"
+    },
+    {
+      "title": "Soul Healer",
+      "canonicalUrl": "https://music.apple.com/us/song/soul-healer/6804624822",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/52/64/59526449-8af9-b556-e248-927a964c72d5/766214704355.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6804624822",
+      "attributes": {
+        "album": "NO DAYS OFF",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "5",
+        "explicit": true
+      },
+      "evidenceText": "Soul Healer 5 Kweku Smoke NO DAYS OFF PREVIEW 2:38"
+    },
+    {
+      "title": "Halleluyah",
+      "canonicalUrl": "https://music.apple.com/us/song/halleluyah/6804624823",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/52/64/59526449-8af9-b556-e248-927a964c72d5/766214704355.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6804624823",
+      "attributes": {
+        "album": "NO DAYS OFF",
+        "duration": "2:23",
+        "durationIso": "PT2M23S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "Halleluyah 6 Kweku Smoke NO DAYS OFF PREVIEW 2:23"
+    },
+    {
+      "title": "Mmereniho",
+      "canonicalUrl": "https://music.apple.com/us/song/mmereniho/6804625232",
+      "creator": "Kweku Smoke, Dikoo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/52/64/59526449-8af9-b556-e248-927a964c72d5/766214704355.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6804625232",
+      "attributes": {
+        "album": "NO DAYS OFF",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "Mmereniho 7 Kweku Smoke, Dikoo NO DAYS OFF PREVIEW 2:55"
+    },
+    {
+      "title": "Power House",
+      "canonicalUrl": "https://music.apple.com/us/song/power-house/6804625233",
+      "creator": "Kweku Smoke, Kwesi Arthur",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/52/64/59526449-8af9-b556-e248-927a964c72d5/766214704355.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6804625233",
+      "attributes": {
+        "album": "NO DAYS OFF",
+        "duration": "2:30",
+        "durationIso": "PT2M30S",
+        "chartPosition": "8",
+        "explicit": true
+      },
+      "evidenceText": "Power House 8 Kweku Smoke, Kwesi Arthur NO DAYS OFF PREVIEW 2:30"
+    },
+    {
+      "title": "Okwantunii",
+      "canonicalUrl": "https://music.apple.com/us/song/okwantunii/6804624826",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/52/64/59526449-8af9-b556-e248-927a964c72d5/766214704355.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6804624826",
+      "attributes": {
+        "album": "NO DAYS OFF",
+        "duration": "2:26",
+        "durationIso": "PT2M26S",
+        "chartPosition": "9",
+        "explicit": false
+      },
+      "evidenceText": "Okwantunii 9 Kweku Smoke NO DAYS OFF PREVIEW 2:26"
+    },
+    {
+      "title": "Life Of A Hustler",
+      "canonicalUrl": "https://music.apple.com/us/song/life-of-a-hustler/6804625235",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/52/64/59526449-8af9-b556-e248-927a964c72d5/766214704355.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6804625235",
+      "attributes": {
+        "album": "NO DAYS OFF",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "10",
+        "explicit": true
+      },
+      "evidenceText": "Life Of A Hustler 10 Kweku Smoke NO DAYS OFF PREVIEW 2:36"
+    },
+    {
+      "title": "Expresso",
+      "canonicalUrl": "https://music.apple.com/us/song/expresso/6795689463",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/dc/7c/4bdc7c0a-1905-baf7-5efb-cae0b544f6a8/199316713701_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6795689463",
+      "attributes": {
+        "album": "SUN SHERIF - EP",
+        "duration": "2:09",
+        "durationIso": "PT2M9S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "Expresso 11 Black Sherif SUN SHERIF - EP PREVIEW 2:09"
+    },
+    {
+      "title": "Jolie",
+      "canonicalUrl": "https://music.apple.com/us/song/jolie/6795689467",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/dc/7c/4bdc7c0a-1905-baf7-5efb-cae0b544f6a8/199316713701_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6795689467",
+      "attributes": {
+        "album": "SUN SHERIF - EP",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "12",
+        "explicit": true
+      },
+      "evidenceText": "Jolie 12 Black Sherif SUN SHERIF - EP PREVIEW 2:48"
+    },
+    {
+      "title": "No Days Off",
+      "canonicalUrl": "https://music.apple.com/us/song/no-days-off/6804625237",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/52/64/59526449-8af9-b556-e248-927a964c72d5/766214704355.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6804625237",
+      "attributes": {
+        "album": "NO DAYS OFF",
+        "duration": "2:20",
+        "durationIso": "PT2M20S",
+        "chartPosition": "13",
+        "explicit": true
+      },
+      "evidenceText": "No Days Off 13 Kweku Smoke NO DAYS OFF PREVIEW 2:20"
+    },
+    {
+      "title": "Forever (feat. AratheJay)",
+      "canonicalUrl": "https://music.apple.com/us/song/forever-feat-arathejay/6795689465",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/dc/7c/4bdc7c0a-1905-baf7-5efb-cae0b544f6a8/199316713701_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6795689465",
+      "attributes": {
+        "album": "SUN SHERIF - EP",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "Forever (feat. AratheJay) 14 Black Sherif SUN SHERIF - EP PREVIEW 3:16"
+    },
+    {
+      "title": "Set it Straight",
+      "canonicalUrl": "https://music.apple.com/us/song/set-it-straight/6804625236",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/52/64/59526449-8af9-b556-e248-927a964c72d5/766214704355.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6804625236",
+      "attributes": {
+        "album": "NO DAYS OFF",
+        "duration": "2:29",
+        "durationIso": "PT2M29S",
+        "chartPosition": "15",
+        "explicit": true
+      },
+      "evidenceText": "Set it Straight 15 Kweku Smoke NO DAYS OFF PREVIEW 2:29"
+    },
+    {
+      "title": "Through The Pain",
+      "canonicalUrl": "https://music.apple.com/us/song/through-the-pain/6804625240",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/52/64/59526449-8af9-b556-e248-927a964c72d5/766214704355.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6804625240",
+      "attributes": {
+        "album": "NO DAYS OFF",
+        "duration": "2:20",
+        "durationIso": "PT2M20S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "Through The Pain 16 Kweku Smoke NO DAYS OFF PREVIEW 2:20"
+    },
+    {
+      "title": "Frontline",
+      "canonicalUrl": "https://music.apple.com/us/song/frontline/6795689477",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/dc/7c/4bdc7c0a-1905-baf7-5efb-cae0b544f6a8/199316713701_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6795689477",
+      "attributes": {
+        "album": "SUN SHERIF - EP",
+        "duration": "2:56",
+        "durationIso": "PT2M56S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "Frontline 17 Black Sherif SUN SHERIF - EP PREVIEW 2:56"
+    },
+    {
+      "title": "Run Around",
+      "canonicalUrl": "https://music.apple.com/us/song/run-around/6795689464",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/dc/7c/4bdc7c0a-1905-baf7-5efb-cae0b544f6a8/199316713701_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6795689464",
+      "attributes": {
+        "album": "SUN SHERIF - EP",
+        "duration": "2:11",
+        "durationIso": "PT2M11S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "Run Around 18 Black Sherif SUN SHERIF - EP PREVIEW 2:11"
+    },
+    {
+      "title": "B4 B4",
+      "canonicalUrl": "https://music.apple.com/us/song/b4-b4/6784221149",
+      "creator": "Davido, FOLA, Mayorkun",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/fb/21/a8fb21ed-2106-199e-75dc-f01099c29394/196874507544.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6784221149",
+      "attributes": {
+        "album": "Oriadé",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "19",
+        "explicit": false
+      },
+      "evidenceText": "B4 B4 19 Davido, FOLA, Mayorkun Oriadé PREVIEW 2:46"
+    },
+    {
+      "title": "Gen Z",
+      "canonicalUrl": "https://music.apple.com/us/song/gen-z/6769061868",
+      "creator": "Fameye",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/9c/c1/af9cc14f-0da1-509b-0878-396cc78c9162/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6769061868",
+      "attributes": {
+        "album": "Gen Z - Single",
+        "duration": "2:25",
+        "durationIso": "PT2M25S",
+        "chartPosition": "20",
+        "explicit": false
+      },
+      "evidenceText": "Gen Z 20 Fameye Gen Z - Single PREVIEW 2:25"
+    },
+    {
+      "title": "Love Again (feat. Full Blown)",
+      "canonicalUrl": "https://music.apple.com/us/song/love-again-feat-full-blown/6795689479",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/dc/7c/4bdc7c0a-1905-baf7-5efb-cae0b544f6a8/199316713701_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6795689479",
+      "attributes": {
+        "album": "SUN SHERIF - EP",
+        "duration": "2:35",
+        "durationIso": "PT2M35S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "Love Again (feat. Full Blown) 21 Black Sherif SUN SHERIF - EP PREVIEW 2:35"
+    },
+    {
+      "title": "FAMAME",
+      "canonicalUrl": "https://music.apple.com/us/song/famame/6798359145",
+      "creator": "AratheJay",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/95/9c/1f959cdd-8435-49a4-7b30-3d0908ce9fd1/823375337447_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6798359145",
+      "attributes": {
+        "album": "CHRISTO DISCO - EP",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "22",
+        "explicit": false
+      },
+      "evidenceText": "FAMAME 22 AratheJay CHRISTO DISCO - EP PREVIEW 2:46"
+    },
+    {
+      "title": "Forgiveness",
+      "canonicalUrl": "https://music.apple.com/us/song/forgiveness/1891869454",
+      "creator": "Asake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/e4/eb/31e4ebf4-97bd-c193-59c7-1b72ed7ab53a/ticket.wlorjbae.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1891869454",
+      "attributes": {
+        "album": "M$NEY",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "23",
+        "explicit": true
+      },
+      "evidenceText": "Forgiveness 23 Asake M$NEY PREVIEW 2:38"
+    },
+    {
+      "title": "Gratitude",
+      "canonicalUrl": "https://music.apple.com/us/song/gratitude/1891869198",
+      "creator": "Asake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/e4/eb/31e4ebf4-97bd-c193-59c7-1b72ed7ab53a/ticket.wlorjbae.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1891869198",
+      "attributes": {
+        "album": "M$NEY",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "Gratitude 24 Asake M$NEY PREVIEW 2:49"
+    },
+    {
+      "title": "Liquor Store",
+      "canonicalUrl": "https://music.apple.com/us/song/liquor-store/6802153377",
+      "creator": "Lasmid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/aa/b0/42aab058-b8a7-d163-6cba-c67803ad74dd/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6802153377",
+      "attributes": {
+        "album": "Liquor Store - Single",
+        "duration": "2:29",
+        "durationIso": "PT2M29S",
+        "chartPosition": "25",
+        "explicit": true
+      },
+      "evidenceText": "Liquor Store 25 Lasmid Liquor Store - Single PREVIEW 2:29"
+    },
+    {
+      "title": "Dont Come Too Close II",
+      "canonicalUrl": "https://music.apple.com/us/song/dont-come-too-close-ii/6789364998",
+      "creator": "Okese1, DarkoVibes, Sista Afia, Joey B",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/35/7a/d1357a14-bb27-53db-3e2c-9269b0648265/859742197307_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6789364998",
+      "attributes": {
+        "album": "Dont Come Too Close II - Single",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "26",
+        "explicit": true
+      },
+      "evidenceText": "Dont Come Too Close II 26 Okese1, DarkoVibes, Sista Afia, Joey B Dont Come Too Close II - Single PREVIEW 3:06"
+    },
+    {
+      "title": "WHY LOVE",
+      "canonicalUrl": "https://music.apple.com/us/song/why-love/1794619835",
+      "creator": "Asake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/65/07/186507c9-146c-473c-6eae-e4cf689c7357/197342969963_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1794619835",
+      "attributes": {
+        "album": "WHY LOVE - Single",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "27",
+        "explicit": true
+      },
+      "evidenceText": "WHY LOVE 27 Asake WHY LOVE - Single PREVIEW 3:30"
+    },
+    {
+      "title": "METICULOUS",
+      "canonicalUrl": "https://music.apple.com/us/song/meticulous/6798359148",
+      "creator": "AratheJay",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/95/9c/1f959cdd-8435-49a4-7b30-3d0908ce9fd1/823375337447_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6798359148",
+      "attributes": {
+        "album": "CHRISTO DISCO - EP",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "METICULOUS 28 AratheJay CHRISTO DISCO - EP PREVIEW 3:53"
+    },
+    {
+      "title": "Signature",
+      "canonicalUrl": "https://music.apple.com/us/song/signature/6763410125",
+      "creator": "KiDi, Lasmid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/82/c4/ab82c4fa-424b-67a2-2547-adb87fd7bd33/820233047104.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6763410125",
+      "attributes": {
+        "album": "Signature - Single",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "29",
+        "explicit": true
+      },
+      "evidenceText": "Signature 29 KiDi, Lasmid Signature - Single PREVIEW 2:42"
+    },
+    {
+      "title": "OTOTROBONSU",
+      "canonicalUrl": "https://music.apple.com/us/song/ototrobonsu/6765784509",
+      "creator": "O'Kenneth",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/ac/a0/d9aca0b8-f3c1-4e28-f329-647843d8c825/827425032924_VLkjhB7-copy-04d63770.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6765784509",
+      "attributes": {
+        "album": "CAME OF AGE",
+        "duration": "2:31",
+        "durationIso": "PT2M31S",
+        "chartPosition": "30",
+        "explicit": true
+      },
+      "evidenceText": "OTOTROBONSU 30 O'Kenneth CAME OF AGE PREVIEW 2:31"
+    },
+    {
+      "title": "Sober",
+      "canonicalUrl": "https://music.apple.com/us/song/sober/1845915766",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/74/36/6c7436fd-35fb-1f83-d408-703d9b13b5f5/766214688013.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1845915766",
+      "attributes": {
+        "album": "WALK WITH ME",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "31",
+        "explicit": true
+      },
+      "evidenceText": "Sober 31 Kweku Smoke WALK WITH ME PREVIEW 3:00"
+    },
+    {
+      "title": "Hold Tight",
+      "canonicalUrl": "https://music.apple.com/us/song/hold-tight/1817504826",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/1e/c5/a41ec5ec-cc25-b1a6-b2c8-43f9a68a1905/757572950423.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1817504826",
+      "attributes": {
+        "album": "PLAYMAN",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "32",
+        "explicit": false
+      },
+      "evidenceText": "Hold Tight 32 Kweku Smoke PLAYMAN PREVIEW 3:33"
+    },
+    {
+      "title": "SWAGGA",
+      "canonicalUrl": "https://music.apple.com/us/song/swagga/6772184403",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/d3/84/c6d384e6-ef16-fd9c-57de-58332def802b/199316628746_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6772184403",
+      "attributes": {
+        "album": "SWAGGA - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "33",
+        "explicit": true
+      },
+      "evidenceText": "SWAGGA 33 Black Sherif SWAGGA - Single PREVIEW 3:10"
+    },
+    {
+      "title": "Young Boy",
+      "canonicalUrl": "https://music.apple.com/us/song/young-boy/1817719299",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/17/72/16177275-88ac-f797-48a6-b57c8801a9ba/766214662181.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1817719299",
+      "attributes": {
+        "album": "Kweku Jesus",
+        "duration": "2:15",
+        "durationIso": "PT2M15S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "Young Boy 34 Kweku Smoke Kweku Jesus PREVIEW 2:15"
+    },
+    {
+      "title": "Sacrifice",
+      "canonicalUrl": "https://music.apple.com/us/song/sacrifice/1789008603",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/27/06/d2270603-b15f-3f05-c4e4-0f66a24dc18d/197342926201_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1789008603",
+      "attributes": {
+        "album": "IRON BOY",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "35",
+        "explicit": true
+      },
+      "evidenceText": "Sacrifice 35 Black Sherif IRON BOY PREVIEW 2:33"
+    },
+    {
+      "title": "SUMSUM",
+      "canonicalUrl": "https://music.apple.com/us/song/sumsum/6798359146",
+      "creator": "AratheJay",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/95/9c/1f959cdd-8435-49a4-7b30-3d0908ce9fd1/823375337447_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6798359146",
+      "attributes": {
+        "album": "CHRISTO DISCO - EP",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "SUMSUM 36 AratheJay CHRISTO DISCO - EP PREVIEW 2:36"
+    },
+    {
+      "title": "Top of the Morning",
+      "canonicalUrl": "https://music.apple.com/us/song/top-of-the-morning/1789008594",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/27/06/d2270603-b15f-3f05-c4e4-0f66a24dc18d/197342926201_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1789008594",
+      "attributes": {
+        "album": "IRON BOY",
+        "duration": "2:16",
+        "durationIso": "PT2M16S",
+        "chartPosition": "37",
+        "explicit": true
+      },
+      "evidenceText": "Top of the Morning 37 Black Sherif IRON BOY PREVIEW 2:16"
+    },
+    {
+      "title": "Jah Guide",
+      "canonicalUrl": "https://music.apple.com/us/song/jah-guide/1817719295",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/17/72/16177275-88ac-f797-48a6-b57c8801a9ba/766214662181.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1817719295",
+      "attributes": {
+        "album": "Kweku Jesus",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "38",
+        "explicit": false
+      },
+      "evidenceText": "Jah Guide 38 Kweku Smoke Kweku Jesus PREVIEW 3:04"
+    },
+    {
+      "title": "Chanel (feat. Asake)",
+      "canonicalUrl": "https://music.apple.com/us/song/chanel-feat-asake/6766887609",
+      "creator": "Blaqbonez",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/19/fc/0c19fcea-bd03-8ad3-6245-03a58ec40a00/8718521271213.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6766887609",
+      "attributes": {
+        "album": "Chanel (feat. Asake) - Single",
+        "duration": "2:30",
+        "durationIso": "PT2M30S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "Chanel (feat. Asake) 39 Blaqbonez Chanel (feat. Asake) - Single PREVIEW 2:30"
+    },
+    {
+      "title": "Yawa (Hosanna)",
+      "canonicalUrl": "https://music.apple.com/us/song/yawa-hosanna/1876964354",
+      "creator": "Kwesi Arthur",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/83/04/36830411-d153-4138-217a-8ccd67c44598/199976556083.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1876964354",
+      "attributes": {
+        "album": "Redemption Valley",
+        "duration": "2:45",
+        "durationIso": "PT2M45S",
+        "chartPosition": "40",
+        "explicit": true
+      },
+      "evidenceText": "Yawa (Hosanna) 40 Kwesi Arthur Redemption Valley PREVIEW 2:45"
+    },
+    {
+      "title": "BOSOMPIM",
+      "canonicalUrl": "https://music.apple.com/us/song/bosompim/6798359149",
+      "creator": "AratheJay",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/95/9c/1f959cdd-8435-49a4-7b30-3d0908ce9fd1/823375337447_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6798359149",
+      "attributes": {
+        "album": "CHRISTO DISCO - EP",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "BOSOMPIM 41 AratheJay CHRISTO DISCO - EP PREVIEW 2:36"
+    },
+    {
+      "title": "Jesus Christ 2 (feat. Black Sherif)",
+      "canonicalUrl": "https://music.apple.com/us/song/jesus-christ-2-feat-black-sherif/1763850899",
+      "creator": "AratheJay",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/9e/6a/3b9e6a6c-3237-a913-5894-fedea8355ea0/198846081762.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1763850899",
+      "attributes": {
+        "album": "Jesus Christ 2 (feat. Black Sherif) - Single",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "Jesus Christ 2 (feat. Black Sherif) 42 AratheJay Jesus Christ 2 (feat. Black Sherif) - Single PREVIEW 3:37"
+    },
+    {
+      "title": "Adu the Borga",
+      "canonicalUrl": "https://music.apple.com/us/song/adu-the-borga/1845915750",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/74/36/6c7436fd-35fb-1f83-d408-703d9b13b5f5/766214688013.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1845915750",
+      "attributes": {
+        "album": "WALK WITH ME",
+        "duration": "2:34",
+        "durationIso": "PT2M34S",
+        "chartPosition": "43",
+        "explicit": true
+      },
+      "evidenceText": "Adu the Borga 43 Kweku Smoke WALK WITH ME PREVIEW 2:34"
+    },
+    {
+      "title": "Wish I Had a Girlfriend",
+      "canonicalUrl": "https://music.apple.com/us/song/wish-i-had-a-girlfriend/1887364402",
+      "creator": "Reggie, Lasmid, Beeztrap Kotm",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/75/9c/7e759cd2-1234-f3d1-395e-33e223b056ed/859734710941_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1887364402",
+      "attributes": {
+        "album": "Wish I Had a Girlfriend - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "44",
+        "explicit": true
+      },
+      "evidenceText": "Wish I Had a Girlfriend 44 Reggie, Lasmid, Beeztrap Kotm Wish I Had a Girlfriend - Single PREVIEW 2:48"
+    },
+    {
+      "title": "ASOƆDEN",
+      "canonicalUrl": "https://music.apple.com/us/song/aso%C9%94den/6765784508",
+      "creator": "O'Kenneth",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/ac/a0/d9aca0b8-f3c1-4e28-f329-647843d8c825/827425032924_VLkjhB7-copy-04d63770.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6765784508",
+      "attributes": {
+        "album": "CAME OF AGE",
+        "duration": "2:10",
+        "durationIso": "PT2M10S",
+        "chartPosition": "45",
+        "explicit": false
+      },
+      "evidenceText": "ASOƆDEN 45 O'Kenneth CAME OF AGE PREVIEW 2:10"
+    },
+    {
+      "title": "EASY",
+      "canonicalUrl": "https://music.apple.com/us/song/easy/6765784109",
+      "creator": "O'Kenneth",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/ac/a0/d9aca0b8-f3c1-4e28-f329-647843d8c825/827425032924_VLkjhB7-copy-04d63770.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6765784109",
+      "attributes": {
+        "album": "CAME OF AGE",
+        "duration": "2:47",
+        "durationIso": "PT2M47S",
+        "chartPosition": "46",
+        "explicit": true
+      },
+      "evidenceText": "EASY 46 O'Kenneth CAME OF AGE PREVIEW 2:47"
+    },
+    {
+      "title": "Dem Dey",
+      "canonicalUrl": "https://music.apple.com/us/song/dem-dey/1815620839",
+      "creator": "Burna Boy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/a5/b6/25a5b6bf-c1ef-81de-4ddf-e5a8bfd1383d/075679623539.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1815620839",
+      "attributes": {
+        "album": "No Sign of Weakness",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "47",
+        "explicit": true
+      },
+      "evidenceText": "Dem Dey 47 Burna Boy No Sign of Weakness PREVIEW 3:12"
+    },
+    {
+      "title": "SLICK",
+      "canonicalUrl": "https://music.apple.com/us/song/slick/6786449714",
+      "creator": "Victony",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/f1/82/6af18201-eae7-5e00-7b52-d40215249ab6/820233914093.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6786449714",
+      "attributes": {
+        "album": "SLICK - Single",
+        "duration": "1:46",
+        "durationIso": "PT1M46S",
+        "chartPosition": "48",
+        "explicit": true
+      },
+      "evidenceText": "SLICK 48 Victony SLICK - Single PREVIEW 1:46"
+    },
+    {
+      "title": "PAIN III",
+      "canonicalUrl": "https://music.apple.com/us/song/pain-iii/6765784511",
+      "creator": "O'Kenneth",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/ac/a0/d9aca0b8-f3c1-4e28-f329-647843d8c825/827425032924_VLkjhB7-copy-04d63770.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6765784511",
+      "attributes": {
+        "album": "CAME OF AGE",
+        "duration": "2:47",
+        "durationIso": "PT2M47S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "PAIN III 49 O'Kenneth CAME OF AGE PREVIEW 2:47"
+    },
+    {
+      "title": "Soma Obi",
+      "canonicalUrl": "https://music.apple.com/us/song/soma-obi/1789008605",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/27/06/d2270603-b15f-3f05-c4e4-0f66a24dc18d/197342926201_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1789008605",
+      "attributes": {
+        "album": "IRON BOY",
+        "duration": "2:41",
+        "durationIso": "PT2M41S",
+        "chartPosition": "50",
+        "explicit": true
+      },
+      "evidenceText": "Soma Obi 50 Black Sherif IRON BOY PREVIEW 2:41"
+    },
+    {
+      "title": "Mmerepa",
+      "canonicalUrl": "https://music.apple.com/us/song/mmerepa/1817719301",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/17/72/16177275-88ac-f797-48a6-b57c8801a9ba/766214662181.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1817719301",
+      "attributes": {
+        "album": "Kweku Jesus",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "51",
+        "explicit": true
+      },
+      "evidenceText": "Mmerepa 51 Kweku Smoke Kweku Jesus PREVIEW 3:06"
+    },
+    {
+      "title": "So it Goes",
+      "canonicalUrl": "https://music.apple.com/us/song/so-it-goes/1789008408",
+      "creator": "Black Sherif, Fireboy DML",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/27/06/d2270603-b15f-3f05-c4e4-0f66a24dc18d/197342926201_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1789008408",
+      "attributes": {
+        "album": "IRON BOY",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "52",
+        "explicit": true
+      },
+      "evidenceText": "So it Goes 52 Black Sherif, Fireboy DML IRON BOY PREVIEW 3:43"
+    },
+    {
+      "title": "Hold On",
+      "canonicalUrl": "https://music.apple.com/us/song/hold-on/1845915746",
+      "creator": "Kweku Smoke, AratheJay",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/74/36/6c7436fd-35fb-1f83-d408-703d9b13b5f5/766214688013.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1845915746",
+      "attributes": {
+        "album": "WALK WITH ME",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "53",
+        "explicit": true
+      },
+      "evidenceText": "Hold On 53 Kweku Smoke, AratheJay WALK WITH ME PREVIEW 3:04"
+    },
+    {
+      "title": "PopStar",
+      "canonicalUrl": "https://music.apple.com/us/song/popstar/1883811446",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/78/a1/5a78a145-432c-9578-d3a9-6f8892127625/199316527261_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1883811446",
+      "attributes": {
+        "album": "PopStar - Single",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "54",
+        "explicit": false
+      },
+      "evidenceText": "PopStar 54 Black Sherif PopStar - Single PREVIEW 2:36"
+    },
+    {
+      "title": "MENTUMI NKA",
+      "canonicalUrl": "https://music.apple.com/us/song/mentumi-nka/6765784500",
+      "creator": "O'Kenneth",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/ac/a0/d9aca0b8-f3c1-4e28-f329-647843d8c825/827425032924_VLkjhB7-copy-04d63770.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6765784500",
+      "attributes": {
+        "album": "CAME OF AGE",
+        "duration": "2:23",
+        "durationIso": "PT2M23S",
+        "chartPosition": "55",
+        "explicit": true
+      },
+      "evidenceText": "MENTUMI NKA 55 O'Kenneth CAME OF AGE PREVIEW 2:23"
+    },
+    {
+      "title": "Biggest Nathaniel",
+      "canonicalUrl": "https://music.apple.com/us/song/biggest-nathaniel/6785721119",
+      "creator": "Lasmid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/ea/23/18ea230e-5be0-dd11-9da1-a4d1fd930a00/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6785721119",
+      "attributes": {
+        "album": "Biggest Nathaniel - Single",
+        "duration": "2:51",
+        "durationIso": "PT2M51S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "Biggest Nathaniel 56 Lasmid Biggest Nathaniel - Single PREVIEW 2:51"
+    },
+    {
+      "title": "ROVER",
+      "canonicalUrl": "https://music.apple.com/us/song/rover/6798359147",
+      "creator": "AratheJay, KOJO BLAK",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/95/9c/1f959cdd-8435-49a4-7b30-3d0908ce9fd1/823375337447_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6798359147",
+      "attributes": {
+        "album": "CHRISTO DISCO - EP",
+        "duration": "2:19",
+        "durationIso": "PT2M19S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "ROVER 57 AratheJay, KOJO BLAK CHRISTO DISCO - EP PREVIEW 2:19"
+    },
+    {
+      "title": "MCBH",
+      "canonicalUrl": "https://music.apple.com/us/song/mcbh/1891869441",
+      "creator": "Asake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/e4/eb/31e4ebf4-97bd-c193-59c7-1b72ed7ab53a/ticket.wlorjbae.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1891869441",
+      "attributes": {
+        "album": "M$NEY",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "MCBH 58 Asake M$NEY PREVIEW 2:50"
+    },
+    {
+      "title": "Nakupenda (feat. Al Xapo & Zlatan)",
+      "canonicalUrl": "https://music.apple.com/us/song/nakupenda-feat-al-xapo-zlatan/1855591057",
+      "creator": "TxC, Davido, Scotts Maphuma, Shoday",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/3e/61/023e614f-0edc-d42d-edd7-47a7c12abd52/199806530481.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1855591057",
+      "attributes": {
+        "album": "Nakupenda (feat. Al Xapo & Zlatan) - Single",
+        "duration": "5:33",
+        "durationIso": "PT5M33S",
+        "chartPosition": "59",
+        "explicit": true
+      },
+      "evidenceText": "Nakupenda (feat. Al Xapo & Zlatan) 59 TxC, Davido, Scotts Maphuma, Shoday Nakupenda (feat. Al Xapo & Zlatan) - Single PREVIEW 5:33"
+    },
+    {
+      "title": "BIG PERFORMER",
+      "canonicalUrl": "https://music.apple.com/us/song/big-performer/6802712557",
+      "creator": "Blaqbonez",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/c8/0d/f6c80db2-f919-6d5a-faa0-785fdda2eb14/1200214889845.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6802712557",
+      "attributes": {
+        "album": "BIG PERFORMER - Single",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "60",
+        "explicit": true
+      },
+      "evidenceText": "BIG PERFORMER 60 Blaqbonez BIG PERFORMER - Single PREVIEW 2:49"
+    },
+    {
+      "title": "Rebel Music",
+      "canonicalUrl": "https://music.apple.com/us/song/rebel-music/1789008614",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/27/06/d2270603-b15f-3f05-c4e4-0f66a24dc18d/197342926201_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1789008614",
+      "attributes": {
+        "album": "IRON BOY",
+        "duration": "2:41",
+        "durationIso": "PT2M41S",
+        "chartPosition": "61",
+        "explicit": true
+      },
+      "evidenceText": "Rebel Music 61 Black Sherif IRON BOY PREVIEW 2:41"
+    },
+    {
+      "title": "MONEY CONSTANT",
+      "canonicalUrl": "https://music.apple.com/us/song/money-constant/1848130579",
+      "creator": "DJ Maphorisa, DJ Tunez, Wizkid, Mavo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/36/e8/6236e8a3-c34e-fcb0-c3e7-0a41db66c6ad/196873749570.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1848130579",
+      "attributes": {
+        "album": "SOUTH GIDI - Single",
+        "duration": "6:15",
+        "durationIso": "PT6M15S",
+        "chartPosition": "62",
+        "explicit": false
+      },
+      "evidenceText": "MONEY CONSTANT 62 DJ Maphorisa, DJ Tunez, Wizkid, Mavo SOUTH GIDI - Single PREVIEW 6:15"
+    },
+    {
+      "title": "Darkest Style",
+      "canonicalUrl": "https://music.apple.com/us/song/darkest-style/1877573417",
+      "creator": "D Global, Lasmid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/23/8e/a5238ee3-f0e0-bb50-31a0-de75575535ca/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1877573417",
+      "attributes": {
+        "album": "Darkest Style - Single",
+        "duration": "2:18",
+        "durationIso": "PT2M18S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "Darkest Style 63 D Global, Lasmid Darkest Style - Single PREVIEW 2:18"
+    },
+    {
+      "title": "Turn on the Lights",
+      "canonicalUrl": "https://music.apple.com/us/song/turn-on-the-lights/1504132181",
+      "creator": "Kwesi Arthur",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/24/f0/06/24f006e6-7c7e-e823-9382-5fcc09b50f43/5060726322805.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1504132181",
+      "attributes": {
+        "album": "Turn on the Lights - Single",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "64",
+        "explicit": true
+      },
+      "evidenceText": "Turn on the Lights 64 Kwesi Arthur Turn on the Lights - Single PREVIEW 2:50"
+    },
+    {
+      "title": "GTA",
+      "canonicalUrl": "https://music.apple.com/us/song/gta/6781408107",
+      "creator": "Seyi Vibez",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/83/0f/77830fb9-049e-52df-63e9-729ed1146c39/199316657623_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6781408107",
+      "attributes": {
+        "album": "GTA - Single",
+        "duration": "2:35",
+        "durationIso": "PT2M35S",
+        "chartPosition": "65",
+        "explicit": true
+      },
+      "evidenceText": "GTA 65 Seyi Vibez GTA - Single PREVIEW 2:35"
+    },
+    {
+      "title": "Change Your Mind (feat. Shaboozey)",
+      "canonicalUrl": "https://music.apple.com/us/song/change-your-mind-feat-shaboozey/1828535622",
+      "creator": "Burna Boy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/a9/1b/e6a91b02-6df5-8232-1f75-0a81de8ea424/075679623560.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1828535622",
+      "attributes": {
+        "album": "No Sign of Weakness",
+        "duration": "2:28",
+        "durationIso": "PT2M28S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "Change Your Mind (feat. Shaboozey) 66 Burna Boy No Sign of Weakness PREVIEW 2:28"
+    },
+    {
+      "title": "Jailer (feat. Victony)",
+      "canonicalUrl": "https://music.apple.com/us/song/jailer-feat-victony/1826000774",
+      "creator": "Sarkodie",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/21/c7/4721c7b7-38d3-d416-7ab7-4d2c86e086dc/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1826000774",
+      "attributes": {
+        "album": "Jailer (feat. Victony) - Single",
+        "duration": "3:50",
+        "durationIso": "PT3M50S",
+        "chartPosition": "67",
+        "explicit": true
+      },
+      "evidenceText": "Jailer (feat. Victony) 67 Sarkodie Jailer (feat. Victony) - Single PREVIEW 3:50"
+    },
+    {
+      "title": "WORSHIP",
+      "canonicalUrl": "https://music.apple.com/us/song/worship/1882144650",
+      "creator": "Asake, DJ Snake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/ad/7f/f7ad7fcf-a976-2930-bc08-496f82a247b0/199316516678_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1882144650",
+      "attributes": {
+        "album": "WORSHIP - Single",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "WORSHIP 68 Asake, DJ Snake WORSHIP - Single PREVIEW 2:43"
+    },
+    {
+      "title": "Heaven Baby (feat. ZAYN)",
+      "canonicalUrl": "https://music.apple.com/us/song/heaven-baby-feat-zayn/6796539210",
+      "creator": "Ayra Starr",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/ac/4c/01ac4c06-014d-a251-7bb6-2c095cc17484/26UMGIM69208.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6796539210",
+      "attributes": {
+        "album": "Starrgirl",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "69",
+        "explicit": false
+      },
+      "evidenceText": "Heaven Baby (feat. ZAYN) 69 Ayra Starr Starrgirl PREVIEW 2:38"
+    },
+    {
+      "title": "Come Closer (feat. Drake)",
+      "canonicalUrl": "https://music.apple.com/us/song/come-closer-feat-drake/1245549980",
+      "creator": "Wizkid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a2/26/5c/a2265cf3-4a4b-872a-f516-511073542cec/886446425689.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1245549980",
+      "attributes": {
+        "album": "Sounds From the Other Side",
+        "duration": "3:31",
+        "durationIso": "PT3M31S",
+        "chartPosition": "70",
+        "explicit": true
+      },
+      "evidenceText": "Come Closer (feat. Drake) 70 Wizkid Sounds From the Other Side PREVIEW 3:31"
+    },
+    {
+      "title": "Agyekum",
+      "canonicalUrl": "https://music.apple.com/us/song/agyekum/1817719611",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/17/72/16177275-88ac-f797-48a6-b57c8801a9ba/766214662181.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1817719611",
+      "attributes": {
+        "album": "Kweku Jesus",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "Agyekum 71 Kweku Smoke Kweku Jesus PREVIEW 2:58"
+    },
+    {
+      "title": "15TH JULY",
+      "canonicalUrl": "https://music.apple.com/us/song/15th-july/6798359144",
+      "creator": "AratheJay",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/95/9c/1f959cdd-8435-49a4-7b30-3d0908ce9fd1/823375337447_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6798359144",
+      "attributes": {
+        "album": "CHRISTO DISCO - EP",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "15TH JULY 72 AratheJay CHRISTO DISCO - EP PREVIEW 2:52"
+    },
+    {
+      "title": "Soja",
+      "canonicalUrl": "https://music.apple.com/us/song/soja/1645609944",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/16/88/73168899-de60-6429-b70b-6de58aefe55e/194690942938_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1645609944",
+      "attributes": {
+        "album": "The Villain I Never Was",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "73",
+        "explicit": true
+      },
+      "evidenceText": "Soja 73 Black Sherif The Villain I Never Was PREVIEW 3:01"
+    },
+    {
+      "title": "Pain Killer (feat. Runtown)",
+      "canonicalUrl": "https://music.apple.com/us/song/pain-killer-feat-runtown/1837666193",
+      "creator": "Sarkodie",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/d9/14/90d914a9-e43c-3bd2-137f-1bd154fb49f4/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1837666193",
+      "attributes": {
+        "album": "Pain Killer (feat. Runtown) - Single",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "74",
+        "explicit": false
+      },
+      "evidenceText": "Pain Killer (feat. Runtown) 74 Sarkodie Pain Killer (feat. Runtown) - Single PREVIEW 3:39"
+    },
+    {
+      "title": "Ayoo",
+      "canonicalUrl": "https://music.apple.com/us/song/ayoo/1802306996",
+      "creator": "Shatta Wale",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/d3/af/9dd3af1c-77d1-e79d-495b-6701e8d1a1db/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1802306996",
+      "attributes": {
+        "album": "Ayoo - Single",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Ayoo 75 Shatta Wale Ayoo - Single PREVIEW 2:50"
+    },
+    {
+      "title": "Winning (feat. VIC MENSA)",
+      "canonicalUrl": "https://music.apple.com/us/song/winning-feat-vic-mensa/1615130224",
+      "creator": "Kwesi Arthur",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/4b/3d/0f4b3dd6-2627-e9a4-8f38-3abfac49a91e/dj.hsfzuygb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1615130224",
+      "attributes": {
+        "album": "Son Of Jacob",
+        "duration": "3:14",
+        "durationIso": "PT3M14S",
+        "chartPosition": "76",
+        "explicit": true
+      },
+      "evidenceText": "Winning (feat. VIC MENSA) 76 Kwesi Arthur Son Of Jacob PREVIEW 3:14"
+    },
+    {
+      "title": "Sa Me (feat. City Boy)",
+      "canonicalUrl": "https://music.apple.com/us/song/sa-me-feat-city-boy/1870985193",
+      "creator": "Reggie, O'Kenneth, Xlimkid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/82/cd/8982cd97-41ef-21ce-16aa-c61678d6a3bc/00197190750591_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1870985193",
+      "attributes": {
+        "album": "Sa Me (feat. City Boy) - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "77",
+        "explicit": true
+      },
+      "evidenceText": "Sa Me (feat. City Boy) 77 Reggie, O'Kenneth, Xlimkid Sa Me (feat. City Boy) - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Amapiano",
+      "canonicalUrl": "https://music.apple.com/us/song/amapiano/1688641993",
+      "creator": "Asake, Olamide",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1688641993",
+      "attributes": {
+        "album": "Work Of Art",
+        "duration": "2:45",
+        "durationIso": "PT2M45S",
+        "chartPosition": "78",
+        "explicit": true
+      },
+      "evidenceText": "Amapiano 78 Asake, Olamide Work Of Art PREVIEW 2:45"
+    },
+    {
+      "title": "Find A Way",
+      "canonicalUrl": "https://music.apple.com/us/song/find-a-way/6770665161",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/e3/df/8de3dfe8-b82d-843e-ee22-2f05623d1e49/199316616880_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6770665161",
+      "attributes": {
+        "album": "Find A Way - Single",
+        "duration": "2:34",
+        "durationIso": "PT2M34S",
+        "chartPosition": "79",
+        "explicit": true
+      },
+      "evidenceText": "Find A Way 79 Black Sherif Find A Way - Single PREVIEW 2:34"
+    },
+    {
+      "title": "UNAVAILABLE (feat. Musa Keys)",
+      "canonicalUrl": "https://music.apple.com/us/song/unavailable-feat-musa-keys/1675379749",
+      "creator": "Davido",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1675379749",
+      "attributes": {
+        "album": "Timeless",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "80",
+        "explicit": true
+      },
+      "evidenceText": "UNAVAILABLE (feat. Musa Keys) 80 Davido Timeless PREVIEW 2:49"
+    },
+    {
+      "title": "Kwaku the Traveller",
+      "canonicalUrl": "https://music.apple.com/us/song/kwaku-the-traveller/1611260776",
+      "creator": "Black Sherif",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/73/b9/e4/73b9e493-5bb1-7008-8fe4-ce13b8898fe5/194690771811_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1611260776",
+      "attributes": {
+        "album": "Kwaku the Traveller - Single",
+        "duration": "3:05",
+        "durationIso": "PT3M5S",
+        "chartPosition": "81",
+        "explicit": true
+      },
+      "evidenceText": "Kwaku the Traveller 81 Black Sherif Kwaku the Traveller - Single PREVIEW 3:05"
+    },
+    {
+      "title": "I Know Who I Be",
+      "canonicalUrl": "https://music.apple.com/us/song/i-know-who-i-be/6784221147",
+      "creator": "Davido, JAZZWRLD, GL_Ceejay",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/fb/21/a8fb21ed-2106-199e-75dc-f01099c29394/196874507544.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6784221147",
+      "attributes": {
+        "album": "Oriadé",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "I Know Who I Be 82 Davido, JAZZWRLD, GL_Ceejay Oriadé PREVIEW 3:53"
+    },
+    {
+      "title": "Big Bricks II (feat. Medikal & Lalid)",
+      "canonicalUrl": "https://music.apple.com/us/song/big-bricks-ii-feat-medikal-lalid/1880859049",
+      "creator": "Essumann",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/d9/58/a7d95810-aa0a-cfcd-3553-9e9a4dbffaa4/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1880859049",
+      "attributes": {
+        "album": "Big Bricks II (feat. Medikal & Lalid) - Single",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "83",
+        "explicit": true
+      },
+      "evidenceText": "Big Bricks II (feat. Medikal & Lalid) 83 Essumann Big Bricks II (feat. Medikal & Lalid) - Single PREVIEW 3:27"
+    },
+    {
+      "title": "Sisa",
+      "canonicalUrl": "https://music.apple.com/us/song/sisa/1497540032",
+      "creator": "King Promise",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/36/a1/e7/36a1e757-0040-ba13-f3c3-7772a7988df9/748926813143_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1497540032",
+      "attributes": {
+        "album": "Sisa - Single",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "Sisa 84 King Promise Sisa - Single PREVIEW 3:11"
+    },
+    {
+      "title": "Holy Ground (feat. Nicki Minaj)",
+      "canonicalUrl": "https://music.apple.com/us/song/holy-ground-feat-nicki-minaj/1534199534",
+      "creator": "Davido",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/ab/23/63ab2393-5151-4d11-a94d-3b5663180583/886448807254.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1534199534",
+      "attributes": {
+        "album": "A Better Time",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "85",
+        "explicit": true
+      },
+      "evidenceText": "Holy Ground (feat. Nicki Minaj) 85 Davido A Better Time PREVIEW 2:42"
+    },
+    {
+      "title": "Baba (feat. Zlatan)",
+      "canonicalUrl": "https://music.apple.com/us/song/baba-feat-zlatan/6771161133",
+      "creator": "Hotkid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/02/3a/8d023af0-915e-d949-c6db-290813d131e0/3321233.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6771161133",
+      "attributes": {
+        "album": "Baba (feat. Zlatan) - Single",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "Baba (feat. Zlatan) 86 Hotkid Baba (feat. Zlatan) - Single PREVIEW 2:42"
+    },
+    {
+      "title": "Put Am on God",
+      "canonicalUrl": "https://music.apple.com/us/song/put-am-on-god/1842155576",
+      "creator": "AratheJay",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/b0/bd/e2b0bde9-1130-75d6-2ee3-e080e7f8a64a/199538955651.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1842155576",
+      "attributes": {
+        "album": "The Odyssey",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "87",
+        "explicit": true
+      },
+      "evidenceText": "Put Am on God 87 AratheJay The Odyssey PREVIEW 2:39"
+    },
+    {
+      "title": "E No Easy",
+      "canonicalUrl": "https://music.apple.com/us/song/e-no-easy/6790849638",
+      "creator": "Sarkodie, DopeNation",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/8c/68/108c682e-054d-93e0-9eaa-4e624ef5ca13/5064021245364_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6790849638",
+      "attributes": {
+        "album": "E No Easy - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "88",
+        "explicit": true
+      },
+      "evidenceText": "E No Easy 88 Sarkodie, DopeNation E No Easy - Single PREVIEW 3:10"
+    },
+    {
+      "title": "BALENCIAGA",
+      "canonicalUrl": "https://music.apple.com/us/song/balenciaga/1837457571",
+      "creator": "O'Kenneth",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/96/14/07961490-ba37-1aa4-d1c5-8efd94cee395/199633348754-copy-29e51714.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1837457571",
+      "attributes": {
+        "album": "BALENCIAGA - Single",
+        "duration": "2:20",
+        "durationIso": "PT2M20S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "BALENCIAGA 89 O'Kenneth BALENCIAGA - Single PREVIEW 2:20"
+    },
+    {
+      "title": "Oh No",
+      "canonicalUrl": "https://music.apple.com/us/song/oh-no/6805176803",
+      "creator": "Rema",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/70/db/7a70dba9-1df6-e379-e6fa-19feda48d7a1/26UM1IM04727.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6805176803",
+      "attributes": {
+        "album": "Oh No - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "Oh No 90 Rema Oh No - Single PREVIEW 3:15"
+    },
+    {
+      "title": "BALENCIAGA II (feat. SAMA', Oseikrom Sikanii & Joey B)",
+      "canonicalUrl": "https://music.apple.com/us/song/balenciaga-ii-feat-sama-oseikrom-sikanii-joey-b/1857100154",
+      "creator": "O'Kenneth, Medikal",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/cc/bf/42ccbf34-83a4-8fc1-7b78-9683a5196652/199826643482-copy-a5efd092.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1857100154",
+      "attributes": {
+        "album": "BALENCIAGA II (feat. Oseikrom Sikanii, SAMA' & Joey B) - Single",
+        "duration": "5:01",
+        "durationIso": "PT5M1S",
+        "chartPosition": "91",
+        "explicit": true
+      },
+      "evidenceText": "BALENCIAGA II (feat. SAMA', Oseikrom Sikanii & Joey B) 91 O'Kenneth, Medikal BALENCIAGA II (feat. Oseikrom Sikanii, SAMA' & Joey B) - Single PREVIEW 5:01"
+    },
+    {
+      "title": "Wa",
+      "canonicalUrl": "https://music.apple.com/us/song/wa/1891869435",
+      "creator": "Asake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/e4/eb/31e4ebf4-97bd-c193-59c7-1b72ed7ab53a/ticket.wlorjbae.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1891869435",
+      "attributes": {
+        "album": "M$NEY",
+        "duration": "2:23",
+        "durationIso": "PT2M23S",
+        "chartPosition": "92",
+        "explicit": true
+      },
+      "evidenceText": "Wa 92 Asake M$NEY PREVIEW 2:23"
+    },
+    {
+      "title": "To Be A Man",
+      "canonicalUrl": "https://music.apple.com/us/song/to-be-a-man/1845915742",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/74/36/6c7436fd-35fb-1f83-d408-703d9b13b5f5/766214688013.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1845915742",
+      "attributes": {
+        "album": "WALK WITH ME",
+        "duration": "2:19",
+        "durationIso": "PT2M19S",
+        "chartPosition": "93",
+        "explicit": true
+      },
+      "evidenceText": "To Be A Man 93 Kweku Smoke WALK WITH ME PREVIEW 2:19"
+    },
+    {
+      "title": "YIMAYƐ",
+      "canonicalUrl": "https://music.apple.com/us/song/yimay%C9%9B/1828524405",
+      "creator": "O'Kenneth",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/08/0e/aa080e78-3f9d-838b-14a2-bf18e2400893/199479666258-copy-bf1cf52f.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1828524405",
+      "attributes": {
+        "album": "YIMAYƐ - Single",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "94",
+        "explicit": true
+      },
+      "evidenceText": "YIMAYƐ 94 O'Kenneth YIMAYƐ - Single PREVIEW 2:50"
+    },
+    {
+      "title": "Y3 Guy (feat. Olivetheboy)",
+      "canonicalUrl": "https://music.apple.com/us/song/y3-guy-feat-olivetheboy/6807483655",
+      "creator": "Ypee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/fb/5b/4bfb5b68-b300-e972-ab71-4aa904a762ee/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "6807483655",
+      "attributes": {
+        "album": "Y3 Guy (feat. Olivetheboy) - Single",
+        "duration": "2:25",
+        "durationIso": "PT2M25S",
+        "chartPosition": "95",
+        "explicit": false
+      },
+      "evidenceText": "Y3 Guy (feat. Olivetheboy) 95 Ypee Y3 Guy (feat. Olivetheboy) - Single PREVIEW 2:25"
+    },
+    {
+      "title": "I AM",
+      "canonicalUrl": "https://music.apple.com/us/song/i-am/1880890454",
+      "creator": "OMAH LAY",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/ba/a2/f5baa24e-d8bf-5fd0-96d6-6c9ce110f4d3/093624824176.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1880890454",
+      "attributes": {
+        "album": "CLARITY OF MIND",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "96",
+        "explicit": true
+      },
+      "evidenceText": "I AM 96 OMAH LAY CLARITY OF MIND PREVIEW 3:12"
+    },
+    {
+      "title": "Someday Soon",
+      "canonicalUrl": "https://music.apple.com/us/song/someday-soon/1845915291",
+      "creator": "Kweku Smoke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/74/36/6c7436fd-35fb-1f83-d408-703d9b13b5f5/766214688013.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1845915291",
+      "attributes": {
+        "album": "WALK WITH ME",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "97",
+        "explicit": true
+      },
+      "evidenceText": "Someday Soon 97 Kweku Smoke WALK WITH ME PREVIEW 3:41"
+    },
+    {
+      "title": "10 Toes (feat. Omah Lay)",
+      "canonicalUrl": "https://music.apple.com/us/song/10-toes-feat-omah-lay/1632645789",
+      "creator": "King Promise",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d8/b0/24/d8b024e3-4943-f1a8-a2df-c643515dc3a5/196589293107.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1632645789",
+      "attributes": {
+        "album": "10 Toes (feat. Omah Lay) - Single",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "98",
+        "explicit": false
+      },
+      "evidenceText": "10 Toes (feat. Omah Lay) 98 King Promise 10 Toes (feat. Omah Lay) - Single PREVIEW 2:57"
+    },
+    {
+      "title": "AMEN",
+      "canonicalUrl": "https://music.apple.com/us/song/amen/1746583884",
+      "creator": "Sarkodie, Beeztrap Kotm",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/a5/24/8da5248e-f6b5-7e20-dc17-9d7facaac940/5063483660845_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1746583884",
+      "attributes": {
+        "album": "The Championship - EP",
+        "duration": "3:23",
+        "durationIso": "PT3M23S",
+        "chartPosition": "99",
+        "explicit": true
+      },
+      "evidenceText": "AMEN 99 Sarkodie, Beeztrap Kotm The Championship - EP PREVIEW 3:23"
+    },
+    {
+      "title": "Gimme Dat (feat. Thomas the Great, Terrist Carter, CHICOGOD, Sparkle, Jay Bahd, Kawabanga & Reggie)",
+      "canonicalUrl": "https://music.apple.com/us/song/gimme-dat-feat-thomas-the-great-terrist-carter/1806860262",
+      "creator": "O'Kenneth",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/36/5b/94365b9b-1ecb-dc76-bb83-6779bc78370a/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-ghana/pl.78f1974e882d4952b26ebfb8e017c933",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Ghana",
+      "externalId": "1806860262",
+      "attributes": {
+        "album": "Until It’s All Said and Done",
+        "duration": "4:22",
+        "durationIso": "PT4M22S",
+        "chartPosition": "100",
+        "explicit": true
+      },
+      "evidenceText": "Gimme Dat (feat. Thomas the Great, Terrist Carter, CHICOGOD, Sparkle, Jay Bahd, Kawabanga & Reggie) 100 O'Kenneth Until It’s All Said and Done PREVIEW 4:22"
+    }
+  ]
+}

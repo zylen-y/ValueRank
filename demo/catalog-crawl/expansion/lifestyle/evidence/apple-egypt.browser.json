@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+  "collection": "Top 100: Egypt",
+  "fetchedAt": "2026-09-27T03:41:43.087Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Shoft Kalam",
+      "canonicalUrl": "https://music.apple.com/us/song/shoft-kalam/6793679161",
+      "creator": "Marwan Pablo, Lege-Cy, HatemBas",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/c4/31/01c43187-da8b-fc50-b68e-2e71cd1d7c85/885288123609.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6793679161",
+      "attributes": {
+        "album": "Shoft Kalam - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "Shoft Kalam 1 Marwan Pablo, Lege-Cy, HatemBas Shoft Kalam - Single PREVIEW 3:29"
+    },
+    {
+      "title": "عشان بحبك",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%B9%D8%B4%D8%A7%D9%86-%D8%A8%D8%AD%D8%A8%D9%83/6811945696",
+      "creator": "Amr Mostafa, Hamo El Morshedy, Wezza Montaser",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/09/1b/9f091b0a-2bad-4413-0ebf-4f6e7df65452/6221117233622.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6811945696",
+      "attributes": {
+        "album": "عشان بحبك - Single",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "عشان بحبك 2 Amr Mostafa, Hamo El Morshedy, Wezza Montaser عشان بحبك - Single PREVIEW 2:42"
+    },
+    {
+      "title": "لاعبت الكبار",
+      "canonicalUrl": "https://music.apple.com/us/song/%D9%84%D8%A7%D8%B9%D8%A8%D8%AA-%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B1/6809517923",
+      "creator": "Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/7f/24/8d7f245f-589b-2b70-a23e-4fc3c6a66d66/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6809517923",
+      "attributes": {
+        "album": "لاعبت الكبار - Single",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "لاعبت الكبار 3 Hamo El Morshedy لاعبت الكبار - Single PREVIEW 4:06"
+    },
+    {
+      "title": "اخوك جايبها م الصفر",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%A7%D8%AE%D9%88%D9%83-%D8%AC%D8%A7%D9%8A%D8%A8%D9%87%D8%A7-%D9%85-%D8%A7%D9%84%D8%B5%D9%81%D8%B1/6795519311",
+      "creator": "Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/19/10/f81910e9-0e0a-5d77-fda2-9b80571cf162/6221216981868_Artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6795519311",
+      "attributes": {
+        "album": "اخوك جايبها م الصفر - Single",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "اخوك جايبها م الصفر 4 Hamo El Morshedy اخوك جايبها م الصفر - Single PREVIEW 2:33"
+    },
+    {
+      "title": "Wala Ash Wala Kan",
+      "canonicalUrl": "https://music.apple.com/us/song/wala-ash-wala-kan/6797577235",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/2f/73/2d2f739c-eb8c-fd9e-c67a-f7704d3fb66e/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6797577235",
+      "attributes": {
+        "album": "Sadeek El Bernameg",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "Wala Ash Wala Kan 5 TUL8TE Sadeek El Bernameg PREVIEW 3:04"
+    },
+    {
+      "title": "Men Gheir Kalam",
+      "canonicalUrl": "https://music.apple.com/us/song/men-gheir-kalam/6797576801",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/2f/73/2d2f739c-eb8c-fd9e-c67a-f7704d3fb66e/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6797576801",
+      "attributes": {
+        "album": "Sadeek El Bernameg",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "Men Gheir Kalam 6 TUL8TE Sadeek El Bernameg PREVIEW 3:37"
+    },
+    {
+      "title": "Garee2a Awy - A COLORS SHOW",
+      "canonicalUrl": "https://music.apple.com/us/song/garee2a-awy-a-colors-show/6783339191",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/16/d8/1716d894-4de6-0494-3568-5d36af85304e/840054915345.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6783339191",
+      "attributes": {
+        "album": "Garee2a Awy - A COLORS SHOW - Single",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "Garee2a Awy - A COLORS SHOW 7 TUL8TE Garee2a Awy - A COLORS SHOW - Single PREVIEW 2:38"
+    },
+    {
+      "title": "اركب الدبابه",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%A7%D8%B1%D9%83%D8%A8-%D8%A7%D9%84%D8%AF%D8%A8%D8%A7%D8%A8%D9%87/6799391413",
+      "creator": "Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/d6/c1/f7d6c105-d70a-aa47-f9a4-2b273c579498/6221216993755_Artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6799391413",
+      "attributes": {
+        "album": "اركب الدبابه - Single",
+        "duration": "2:47",
+        "durationIso": "PT2M47S",
+        "chartPosition": "8",
+        "explicit": false
+      },
+      "evidenceText": "اركب الدبابه 8 Hamo El Morshedy اركب الدبابه - Single PREVIEW 2:47"
+    },
+    {
+      "title": "كوكب النسيان",
+      "canonicalUrl": "https://music.apple.com/us/song/%D9%83%D9%88%D9%83%D8%A8-%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%A7%D9%86/6799628008",
+      "creator": "Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/6d/d0/956dd0cb-9ec9-b311-85d7-7e7623270bec/6221216995742_Artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6799628008",
+      "attributes": {
+        "album": "كوكب النسيان - Single",
+        "duration": "2:59",
+        "durationIso": "PT2M59S",
+        "chartPosition": "9",
+        "explicit": false
+      },
+      "evidenceText": "كوكب النسيان 9 Hamo El Morshedy كوكب النسيان - Single PREVIEW 2:59"
+    },
+    {
+      "title": "Kelma",
+      "canonicalUrl": "https://music.apple.com/us/song/kelma/1833232274",
+      "creator": "Ramy Sabry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/86/6b/d6866b86-9c68-5488-ea5b-b406ce47ebfb/689860602922_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1833232274",
+      "attributes": {
+        "album": "Ghammadt Einy",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "10",
+        "explicit": false
+      },
+      "evidenceText": "Kelma 10 Ramy Sabry Ghammadt Einy PREVIEW 4:10"
+    },
+    {
+      "title": "HASESS BIK",
+      "canonicalUrl": "https://music.apple.com/us/song/hasess-bik/6813445326",
+      "creator": "Zaid Khaled, Nasser",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/c8/b1/0ac8b1a4-a758-66bd-5d81-814d257c8313/26UM1IM20600.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6813445326",
+      "attributes": {
+        "album": "HASESS BIK - Single",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "HASESS BIK 11 Zaid Khaled, Nasser HASESS BIK - Single PREVIEW 4:06"
+    },
+    {
+      "title": "Ana Fadel",
+      "canonicalUrl": "https://music.apple.com/us/song/ana-fadel/6796409276",
+      "creator": "Cairokee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a0/00/7fa00086-e72c-191b-6547-e8992f774a9a/885288056853.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6796409276",
+      "attributes": {
+        "album": "Supernova",
+        "duration": "4:41",
+        "durationIso": "PT4M41S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "Ana Fadel 12 Cairokee Supernova PREVIEW 4:41"
+    },
+    {
+      "title": "عيال جديدة لانج",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%B9%D9%8A%D8%A7%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%A7%D9%86%D8%AC/6781349378",
+      "creator": "Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/8f/72/4c8f72b1-5b27-6bf8-2ed3-6a5665e5bdb5/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6781349378",
+      "attributes": {
+        "album": "عيال جديدة لانج - Single",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "13",
+        "explicit": false
+      },
+      "evidenceText": "عيال جديدة لانج 13 Hamo El Morshedy عيال جديدة لانج - Single PREVIEW 3:16"
+    },
+    {
+      "title": "الولا حمو جه",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%A7%D9%84%D9%88%D9%84%D8%A7-%D8%AD%D9%85%D9%88-%D8%AC%D9%87/6771734686",
+      "creator": "Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/14/e3/2214e37b-dad6-707e-9495-aae762338d19/6221216940070_Artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6771734686",
+      "attributes": {
+        "album": "الولا حمو جه - Single",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "الولا حمو جه 14 Hamo El Morshedy الولا حمو جه - Single PREVIEW 3:42"
+    },
+    {
+      "title": "Nano",
+      "canonicalUrl": "https://music.apple.com/us/song/nano/6771043152",
+      "creator": "TUL8TE, Saint Levant",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/e4/8f/e9e48fb1-33f2-487f-3eca-433ba3e8b0ca/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6771043152",
+      "attributes": {
+        "album": "Nano - Single",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "15",
+        "explicit": false
+      },
+      "evidenceText": "Nano 15 TUL8TE, Saint Levant Nano - Single PREVIEW 3:36"
+    },
+    {
+      "title": "يا حبيبنا | ريدبُل مزيكا صالونات",
+      "canonicalUrl": "https://music.apple.com/us/song/%D9%8A%D8%A7-%D8%AD%D8%A8%D9%8A%D8%A8%D9%86%D8%A7-%D8%B1%D9%8A%D8%AF%D8%A8-%D9%84-%D9%85%D8%B2%D9%8A%D9%83%D8%A7-%D8%B5%D8%A7%D9%84%D9%88%D9%86%D8%A7%D8%AA/6803568785",
+      "creator": "Red Bull Sika, Hakim, Houda Bondok",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/ed/7e/b7ed7e10-b16d-4799-3232-458cd81bafbf/759009835259.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6803568785",
+      "attributes": {
+        "album": "يا حبيبنا | ريدبُل مزيكا صالونات - Single",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "يا حبيبنا | ريدبُل مزيكا صالونات 16 Red Bull Sika, Hakim, Houda Bondok يا حبيبنا | ريدبُل مزيكا صالونات - Single PREVIEW 3:41"
+    },
+    {
+      "title": "EL BADLA WEL FOSTAN",
+      "canonicalUrl": "https://music.apple.com/us/song/el-badla-wel-fostan/6786618014",
+      "creator": "abulhawa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/b3/31/c9b3319b-2686-9d1c-4fcd-9c629c8f3161/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6786618014",
+      "attributes": {
+        "album": "EL BADLA WEL FOSTAN - Single",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "EL BADLA WEL FOSTAN 17 abulhawa EL BADLA WEL FOSTAN - Single PREVIEW 2:55"
+    },
+    {
+      "title": "صباحك بيور",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%B5%D8%A8%D8%A7%D8%AD%D9%83-%D8%A8%D9%8A%D9%88%D8%B1/6778083559",
+      "creator": "Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/4c/91/8c4c9102-3277-8c95-16c3-505572ee35d9/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6778083559",
+      "attributes": {
+        "album": "صباحك بيور - Single",
+        "duration": "4:55",
+        "durationIso": "PT4M55S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "صباحك بيور 18 Hamo El Morshedy صباحك بيور - Single PREVIEW 4:55"
+    },
+    {
+      "title": "SUPREME",
+      "canonicalUrl": "https://music.apple.com/us/song/supreme/6815268303",
+      "creator": "Afroto, Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/23/d2/1523d2aa-ef0a-ed01-9008-7013c44558fc/619165335553.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6815268303",
+      "attributes": {
+        "album": "SUPREME",
+        "duration": "2:21",
+        "durationIso": "PT2M21S",
+        "chartPosition": "19",
+        "explicit": false
+      },
+      "evidenceText": "SUPREME 19 Afroto, Hamo El Morshedy SUPREME PREVIEW 2:21"
+    },
+    {
+      "title": "Nesena",
+      "canonicalUrl": "https://music.apple.com/us/song/nesena/6796409260",
+      "creator": "Cairokee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a0/00/7fa00086-e72c-191b-6547-e8992f774a9a/885288056853.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6796409260",
+      "attributes": {
+        "album": "Supernova",
+        "duration": "3:35",
+        "durationIso": "PT3M35S",
+        "chartPosition": "20",
+        "explicit": false
+      },
+      "evidenceText": "Nesena 20 Cairokee Supernova PREVIEW 3:35"
+    },
+    {
+      "title": "Mot Leh (feat. Sary Hany)",
+      "canonicalUrl": "https://music.apple.com/us/song/mot-leh-feat-sary-hany/6796409444",
+      "creator": "Cairokee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a0/00/7fa00086-e72c-191b-6547-e8992f774a9a/885288056853.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6796409444",
+      "attributes": {
+        "album": "Supernova",
+        "duration": "4:44",
+        "durationIso": "PT4M44S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "Mot Leh (feat. Sary Hany) 21 Cairokee Supernova PREVIEW 4:44"
+    },
+    {
+      "title": "Khalik Maaya",
+      "canonicalUrl": "https://music.apple.com/us/song/khalik-maaya/1599500196",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/fb/ef/7afbef8c-d54d-cc2d-d52a-4f03e413ed13/6281130203019.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1599500196",
+      "attributes": {
+        "album": "El Lilady",
+        "duration": "3:52",
+        "durationIso": "PT3M52S",
+        "chartPosition": "22",
+        "explicit": false
+      },
+      "evidenceText": "Khalik Maaya 22 Amr Diab El Lilady PREVIEW 3:52"
+    },
+    {
+      "title": "AMARA",
+      "canonicalUrl": "https://music.apple.com/us/song/amara/6815736795",
+      "creator": "Lege-Cy, POLYYY",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/ac/b2/b0acb2c3-9fbd-6a5f-fd27-a484295adb4b/6221217032781_Artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6815736795",
+      "attributes": {
+        "album": "AMARA - Single",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "AMARA 23 Lege-Cy, POLYYY AMARA - Single PREVIEW 4:02"
+    },
+    {
+      "title": "Wahdy",
+      "canonicalUrl": "https://music.apple.com/us/song/wahdy/6796409454",
+      "creator": "Cairokee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a0/00/7fa00086-e72c-191b-6547-e8992f774a9a/885288056853.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6796409454",
+      "attributes": {
+        "album": "Supernova",
+        "duration": "4:53",
+        "durationIso": "PT4M53S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "Wahdy 24 Cairokee Supernova PREVIEW 4:53"
+    },
+    {
+      "title": "3alam Kadaba (From The TV Series Ma Trah Lays Kama Ybdo)",
+      "canonicalUrl": "https://music.apple.com/us/song/3alam-kadaba-from-the-tv-series-ma-trah-lays-kama-ybdo/1834403065",
+      "creator": "Lege-Cy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/cd/c1/c6cdc191-22a6-6395-7a3d-e28865940c38/25UM1IM22988.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1834403065",
+      "attributes": {
+        "album": "3alam Kadaba (From The TV Series Ma Trah Lays Kama Ybdo) - Single",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "3alam Kadaba (From The TV Series Ma Trah Lays Kama Ybdo) 25 Lege-Cy 3alam Kadaba (From The TV Series Ma Trah Lays Kama Ybdo) - Single PREVIEW 3:00"
+    },
+    {
+      "title": "Seneen",
+      "canonicalUrl": "https://music.apple.com/us/song/seneen/1867566024",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/8c/38/b48c3805-c878-3c15-0220-d2018e83428b/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1867566024",
+      "attributes": {
+        "album": "Seneen - Single",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "Seneen 26 TUL8TE Seneen - Single PREVIEW 3:34"
+    },
+    {
+      "title": "Heseeny",
+      "canonicalUrl": "https://music.apple.com/us/song/heseeny/1828448343",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/fd/a2/4bfda2f7-d1ca-f702-7be3-8e46b514005c/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1828448343",
+      "attributes": {
+        "album": "Narein",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "27",
+        "explicit": false
+      },
+      "evidenceText": "Heseeny 27 TUL8TE Narein PREVIEW 3:33"
+    },
+    {
+      "title": "Getlak",
+      "canonicalUrl": "https://music.apple.com/us/song/getlak/6793040769",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/5b/fd/4b5bfdec-c374-afcc-ed93-26207f245082/196874624913.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6793040769",
+      "attributes": {
+        "album": "Habeitek",
+        "duration": "3:56",
+        "durationIso": "PT3M56S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "Getlak 28 Amr Diab Habeitek PREVIEW 3:56"
+    },
+    {
+      "title": "Enta Habeeby",
+      "canonicalUrl": "https://music.apple.com/us/song/enta-habeeby/6797576803",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/2f/73/2d2f739c-eb8c-fd9e-c67a-f7704d3fb66e/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6797576803",
+      "attributes": {
+        "album": "Sadeek El Bernameg",
+        "duration": "4:41",
+        "durationIso": "PT4M41S",
+        "chartPosition": "29",
+        "explicit": false
+      },
+      "evidenceText": "Enta Habeeby 29 TUL8TE Sadeek El Bernameg PREVIEW 4:41"
+    },
+    {
+      "title": "Lola El Banat",
+      "canonicalUrl": "https://music.apple.com/us/song/lola-el-banat/6793040764",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/5b/fd/4b5bfdec-c374-afcc-ed93-26207f245082/196874624913.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6793040764",
+      "attributes": {
+        "album": "Habeitek",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "30",
+        "explicit": false
+      },
+      "evidenceText": "Lola El Banat 30 Amr Diab Habeitek PREVIEW 3:32"
+    },
+    {
+      "title": "انا 5 استار على كوكبى",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%A7%D9%86%D8%A7-5-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D9%83%D9%88%D9%83%D8%A8%D9%89/1877135052",
+      "creator": "Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/3d/36/de3d36dc-50cd-6d16-9b71-61a5d5ba30ef/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1877135052",
+      "attributes": {
+        "album": "انا 5 استار على كوكبى - Single",
+        "duration": "4:38",
+        "durationIso": "PT4M38S",
+        "chartPosition": "31",
+        "explicit": false
+      },
+      "evidenceText": "انا 5 استار على كوكبى 31 Hamo El Morshedy انا 5 استار على كوكبى - Single PREVIEW 4:38"
+    },
+    {
+      "title": "Wlad ElHalal",
+      "canonicalUrl": "https://music.apple.com/us/song/wlad-elhalal/6792757021",
+      "creator": "Tamer Ashour",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1e/cd/a11ecd2f-ee9c-16f9-b38d-e760b43afc2a/619165335423.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6792757021",
+      "attributes": {
+        "album": "Merayt El Hob",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "32",
+        "explicit": false
+      },
+      "evidenceText": "Wlad ElHalal 32 Tamer Ashour Merayt El Hob PREVIEW 3:21"
+    },
+    {
+      "title": "Ha'ak Alaya",
+      "canonicalUrl": "https://music.apple.com/us/song/haak-alaya/6797577228",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/2f/73/2d2f739c-eb8c-fd9e-c67a-f7704d3fb66e/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6797577228",
+      "attributes": {
+        "album": "Sadeek El Bernameg",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "Ha'ak Alaya 33 TUL8TE Sadeek El Bernameg PREVIEW 3:08"
+    },
+    {
+      "title": "Tata Tata",
+      "canonicalUrl": "https://music.apple.com/us/song/tata-tata/6796409280",
+      "creator": "Cairokee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a0/00/7fa00086-e72c-191b-6547-e8992f774a9a/885288056853.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6796409280",
+      "attributes": {
+        "album": "Supernova",
+        "duration": "2:54",
+        "durationIso": "PT2M54S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "Tata Tata 34 Cairokee Supernova PREVIEW 2:54"
+    },
+    {
+      "title": "Narein",
+      "canonicalUrl": "https://music.apple.com/us/song/narein/1828447931",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/fd/a2/4bfda2f7-d1ca-f702-7be3-8e46b514005c/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1828447931",
+      "attributes": {
+        "album": "Narein",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "35",
+        "explicit": false
+      },
+      "evidenceText": "Narein 35 TUL8TE Narein PREVIEW 3:04"
+    },
+    {
+      "title": "Ragea",
+      "canonicalUrl": "https://music.apple.com/us/song/ragea/1775914889",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/81/9f/a8819f9f-99f8-eb28-6a73-fcae47843bc8/3616842352848.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1775914889",
+      "attributes": {
+        "album": "Ahla W Ahla",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "Ragea 36 Amr Diab Ahla W Ahla PREVIEW 3:29"
+    },
+    {
+      "title": "Tamly Maak",
+      "canonicalUrl": "https://music.apple.com/us/song/tamly-maak/880940097",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/31/4d/d4/314dd42d-3246-e7a3-107a-3d521fa9a7e2/dj.iiicnpub.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "880940097",
+      "attributes": {
+        "album": "Tamally Maak",
+        "duration": "4:29",
+        "durationIso": "PT4M29S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "Tamly Maak 37 Amr Diab Tamally Maak PREVIEW 4:29"
+    },
+    {
+      "title": "Merayt El Hob",
+      "canonicalUrl": "https://music.apple.com/us/song/merayt-el-hob/6792757014",
+      "creator": "Tamer Ashour",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1e/cd/a11ecd2f-ee9c-16f9-b38d-e760b43afc2a/619165335423.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6792757014",
+      "attributes": {
+        "album": "Merayt El Hob",
+        "duration": "4:03",
+        "durationIso": "PT4M3S",
+        "chartPosition": "38",
+        "explicit": false
+      },
+      "evidenceText": "Merayt El Hob 38 Tamer Ashour Merayt El Hob PREVIEW 4:03"
+    },
+    {
+      "title": "يا حبيبي خليك | ريدبُل مزيكا صالونات",
+      "canonicalUrl": "https://music.apple.com/us/song/%D9%8A%D8%A7-%D8%AD%D8%A8%D9%8A%D8%A8%D9%8A-%D8%AE%D9%84%D9%8A%D9%83-%D8%B1%D9%8A%D8%AF%D8%A8-%D9%84-%D9%85%D8%B2%D9%8A%D9%83%D8%A7-%D8%B5%D8%A7%D9%84%D9%88%D9%86%D8%A7%D8%AA/6811685368",
+      "creator": "Amr Mostafa, Wezza Montaser, Hamo El Morshedy, Red Bull Sika",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/2d/de/332ddee9-ebf7-4344-6f88-5df651d50402/759004875717.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6811685368",
+      "attributes": {
+        "album": "يا حبيبي خليك | ريدبُل مزيكا صالونات - Single",
+        "duration": "2:45",
+        "durationIso": "PT2M45S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "يا حبيبي خليك | ريدبُل مزيكا صالونات 39 Amr Mostafa, Wezza Montaser, Hamo El Morshedy, Red Bull Sika يا حبيبي خليك | ريدبُل مزيكا صالونات - Single PREVIEW 2:45"
+    },
+    {
+      "title": "Estanna,",
+      "canonicalUrl": "https://music.apple.com/us/song/estanna/6772128969",
+      "creator": "Tawsen, Fares Sokar",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/b8/f4/a7b8f48b-1acb-05d2-b385-58bcae01af00/199316628029_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6772128969",
+      "attributes": {
+        "album": "Chokran,",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "40",
+        "explicit": false
+      },
+      "evidenceText": "Estanna, 40 Tawsen, Fares Sokar Chokran, PREVIEW 3:32"
+    },
+    {
+      "title": "Teadar Tetkalem",
+      "canonicalUrl": "https://music.apple.com/us/song/teadar-tetkalem/534190622",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music32/v4/c3/62/ba/c362bacb-8556-d411-172f-7803bb6a5f6b/mzm.bzmpdxsk.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "534190622",
+      "attributes": {
+        "album": "Allem Alby",
+        "duration": "4:56",
+        "durationIso": "PT4M56S",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "Teadar Tetkalem 41 Amr Diab Allem Alby PREVIEW 4:56"
+    },
+    {
+      "title": "لو تعرف",
+      "canonicalUrl": "https://music.apple.com/us/song/%D9%84%D9%88-%D8%AA%D8%B9%D8%B1%D9%81/6780180026",
+      "creator": "Ramy Sabry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/79/b4/9879b499-a6b8-2ae4-4b7a-f4486b30199b/197048057292_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6780180026",
+      "attributes": {
+        "album": "القمر",
+        "duration": "3:23",
+        "durationIso": "PT3M23S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "لو تعرف 42 Ramy Sabry القمر PREVIEW 3:23"
+    },
+    {
+      "title": "بحكيلك عن الأيام",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%A8%D8%AD%D9%83%D9%8A%D9%84%D9%83-%D8%B9%D9%86-%D8%A7%D9%84%D8%A3%D9%8A%D8%A7%D9%85/1825148913",
+      "creator": "Ramy Sabry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/b0/71/30b071e5-33b5-7aae-99bb-106e1eeb2646/197048051771_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1825148913",
+      "attributes": {
+        "album": "انا بحبك انت",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "43",
+        "explicit": false
+      },
+      "evidenceText": "بحكيلك عن الأيام 43 Ramy Sabry انا بحبك انت PREVIEW 4:02"
+    },
+    {
+      "title": "M3a Nafsi",
+      "canonicalUrl": "https://music.apple.com/us/song/m3a-nafsi/1894623298",
+      "creator": "Ramy Sabry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/d9/19/d3d9197d-942b-74b8-9a2b-944829eefe45/3616844610731_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1894623298",
+      "attributes": {
+        "album": "M3a Nafsi - Single",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "M3a Nafsi 44 Ramy Sabry M3a Nafsi - Single PREVIEW 3:32"
+    },
+    {
+      "title": "اخدت الكدر من الجميع",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%A7%D8%AE%D8%AF%D8%AA-%D8%A7%D9%84%D9%83%D8%AF%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D8%B9/1894301836",
+      "creator": "Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/6c/ad/4f6cada2-8aa4-fca7-eca1-e24ddc89dc4e/6221216923998_Artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1894301836",
+      "attributes": {
+        "album": "اخدت الكدر من الجميع - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "45",
+        "explicit": false
+      },
+      "evidenceText": "اخدت الكدر من الجميع 45 Hamo El Morshedy اخدت الكدر من الجميع - Single PREVIEW 3:29"
+    },
+    {
+      "title": "Mategy",
+      "canonicalUrl": "https://music.apple.com/us/song/mategy/6796409269",
+      "creator": "Cairokee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a0/00/7fa00086-e72c-191b-6547-e8992f774a9a/885288056853.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6796409269",
+      "attributes": {
+        "album": "Supernova",
+        "duration": "5:38",
+        "durationIso": "PT5M38S",
+        "chartPosition": "46",
+        "explicit": false
+      },
+      "evidenceText": "Mategy 46 Cairokee Supernova PREVIEW 5:38"
+    },
+    {
+      "title": "الصدارة بيتى",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%A7%D9%84%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A8%D9%8A%D8%AA%D9%89/1886121761",
+      "creator": "Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/f1/e1/fff1e18e-54b1-fa02-2580-b5f37d1bec05/6221216894045_Artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1886121761",
+      "attributes": {
+        "album": "الصدارة بيتى - Single",
+        "duration": "3:24",
+        "durationIso": "PT3M24S",
+        "chartPosition": "47",
+        "explicit": false
+      },
+      "evidenceText": "الصدارة بيتى 47 Hamo El Morshedy الصدارة بيتى - Single PREVIEW 3:24"
+    },
+    {
+      "title": "Awel Kol Haga",
+      "canonicalUrl": "https://music.apple.com/us/song/awel-kol-haga/1775936888",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/e1/97/d2e19759-e749-749a-a439-1e310ac89f14/889502763589.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1775936888",
+      "attributes": {
+        "album": "Meaddy El Nas",
+        "duration": "4:41",
+        "durationIso": "PT4M41S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Awel Kol Haga 48 Amr Diab Meaddy El Nas PREVIEW 4:41"
+    },
+    {
+      "title": "البخت",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%A7%D9%84%D8%A8%D8%AE%D8%AA/1851322099",
+      "creator": "Wegz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/07/3b/e2073b69-e9a9-0377-2a37-8eabccbc8ef5/6221216329950.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1851322099",
+      "attributes": {
+        "album": "البخت - Single",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "البخت 49 Wegz البخت - Single PREVIEW 3:26"
+    },
+    {
+      "title": "El Shai Ya Baba",
+      "canonicalUrl": "https://music.apple.com/us/song/el-shai-ya-baba/6808342283",
+      "creator": "Wegz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/fb/3b/bafb3bf8-2d2d-40ef-7eaf-837c84d2deed/885288480030.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6808342283",
+      "attributes": {
+        "album": "El Shai Ya Baba - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "50",
+        "explicit": false
+      },
+      "evidenceText": "El Shai Ya Baba 50 Wegz El Shai Ya Baba - Single PREVIEW 3:15"
+    },
+    {
+      "title": "Ana Mosh Anany",
+      "canonicalUrl": "https://music.apple.com/us/song/ana-mosh-anany/1866660616",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/d7/64/5dd76451-8134-3967-f765-318d19cb24c0/6281130209295.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1866660616",
+      "attributes": {
+        "album": "Shoft El Ayam",
+        "duration": "4:49",
+        "durationIso": "PT4M49S",
+        "chartPosition": "51",
+        "explicit": false
+      },
+      "evidenceText": "Ana Mosh Anany 51 Amr Diab Shoft El Ayam PREVIEW 4:49"
+    },
+    {
+      "title": "Garee2a Awy",
+      "canonicalUrl": "https://music.apple.com/us/song/garee2a-awy/6797577057",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/2f/73/2d2f739c-eb8c-fd9e-c67a-f7704d3fb66e/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6797577057",
+      "attributes": {
+        "album": "Sadeek El Bernameg",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "52",
+        "explicit": false
+      },
+      "evidenceText": "Garee2a Awy 52 TUL8TE Sadeek El Bernameg PREVIEW 2:39"
+    },
+    {
+      "title": "WALA MEEN (feat. Lege-Cy & Ismail Nosrat)",
+      "canonicalUrl": "https://music.apple.com/us/song/wala-meen-feat-lege-cy-ismail-nosrat/1824213210",
+      "creator": "ZIAD ZAZA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/f1/5d/aef15de0-5d18-531f-f5cb-13bcd1ee6f52/6221117201072.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1824213210",
+      "attributes": {
+        "album": "WALA MEEN (feat. Lege-Cy & Ismail Nosrat) - Single",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "WALA MEEN (feat. Lege-Cy & Ismail Nosrat) 53 ZIAD ZAZA WALA MEEN (feat. Lege-Cy & Ismail Nosrat) - Single PREVIEW 3:12"
+    },
+    {
+      "title": "LAYALINA",
+      "canonicalUrl": "https://music.apple.com/us/song/layalina/1763742980",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/37/34/273734d4-68c1-1dac-ca55-3c93599b98c6/362145.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1763742980",
+      "attributes": {
+        "album": "TESH SHABAB",
+        "duration": "3:38",
+        "durationIso": "PT3M38S",
+        "chartPosition": "54",
+        "explicit": false
+      },
+      "evidenceText": "LAYALINA 54 TUL8TE TESH SHABAB PREVIEW 3:38"
+    },
+    {
+      "title": "Haneish",
+      "canonicalUrl": "https://music.apple.com/us/song/haneish/6797577072",
+      "creator": "TUL8TE, Elyanna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/2f/73/2d2f739c-eb8c-fd9e-c67a-f7704d3fb66e/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6797577072",
+      "attributes": {
+        "album": "Sadeek El Bernameg",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "Haneish 55 TUL8TE, Elyanna Sadeek El Bernameg PREVIEW 3:26"
+    },
+    {
+      "title": "BALINI",
+      "canonicalUrl": "https://music.apple.com/us/song/balini/1829420259",
+      "creator": "ZIAD ZAZA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/28/12/7b2812f4-a293-b287-f298-c5349a67691d/196873462837.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1829420259",
+      "attributes": {
+        "album": "BALINI - EP",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "BALINI 56 ZIAD ZAZA BALINI - EP PREVIEW 3:17"
+    },
+    {
+      "title": "Ana Bakbr (feat. Sary Hany)",
+      "canonicalUrl": "https://music.apple.com/us/song/ana-bakbr-feat-sary-hany/6796409457",
+      "creator": "Cairokee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a0/00/7fa00086-e72c-191b-6547-e8992f774a9a/885288056853.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6796409457",
+      "attributes": {
+        "album": "Supernova",
+        "duration": "4:54",
+        "durationIso": "PT4M54S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "Ana Bakbr (feat. Sary Hany) 57 Cairokee Supernova PREVIEW 4:54"
+    },
+    {
+      "title": "LEH",
+      "canonicalUrl": "https://music.apple.com/us/song/leh/1806802247",
+      "creator": "Nasser",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/26/7d/ed267d75-d04e-1943-e710-36e518e5f719/6221117195913.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1806802247",
+      "attributes": {
+        "album": "LEH - Single",
+        "duration": "2:40",
+        "durationIso": "PT2M40S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "LEH 58 Nasser LEH - Single PREVIEW 2:40"
+    },
+    {
+      "title": "El Hoob 3ebna",
+      "canonicalUrl": "https://music.apple.com/us/song/el-hoob-3ebna/1800456163",
+      "creator": "Ramy Sabry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/26/18/d9261834-0d8f-c5e4-ba5d-3f9a527c6b57/25UMGIM39986.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1800456163",
+      "attributes": {
+        "album": "El Hoob 3ebna - Single",
+        "duration": "3:56",
+        "durationIso": "PT3M56S",
+        "chartPosition": "59",
+        "explicit": false
+      },
+      "evidenceText": "El Hoob 3ebna 59 Ramy Sabry El Hoob 3ebna - Single PREVIEW 3:56"
+    },
+    {
+      "title": "Ayami Beek",
+      "canonicalUrl": "https://music.apple.com/us/song/ayami-beek/1599596967",
+      "creator": "Elissa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/df/a2/8edfa2cd-1430-3750-77e0-0f1af7a0324f/6281130204504.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1599596967",
+      "attributes": {
+        "album": "Ayami Beek",
+        "duration": "4:40",
+        "durationIso": "PT4M40S",
+        "chartPosition": "60",
+        "explicit": false
+      },
+      "evidenceText": "Ayami Beek 60 Elissa Ayami Beek PREVIEW 4:40"
+    },
+    {
+      "title": "ولا فكك",
+      "canonicalUrl": "https://music.apple.com/us/song/%D9%88%D9%84%D8%A7-%D9%81%D9%83%D9%83/6803986655",
+      "creator": "Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/5b/74/805b7412-902a-511a-374d-76b11872785e/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6803986655",
+      "attributes": {
+        "album": "ولا فكك - Single",
+        "duration": "2:07",
+        "durationIso": "PT2M7S",
+        "chartPosition": "61",
+        "explicit": false
+      },
+      "evidenceText": "ولا فكك 61 Hamo El Morshedy ولا فكك - Single PREVIEW 2:07"
+    },
+    {
+      "title": "Msh Fare2ly",
+      "canonicalUrl": "https://music.apple.com/us/song/msh-fare2ly/6792757020",
+      "creator": "Tamer Ashour",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1e/cd/a11ecd2f-ee9c-16f9-b38d-e760b43afc2a/619165335423.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6792757020",
+      "attributes": {
+        "album": "Merayt El Hob",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "62",
+        "explicit": false
+      },
+      "evidenceText": "Msh Fare2ly 62 Tamer Ashour Merayt El Hob PREVIEW 3:44"
+    },
+    {
+      "title": "ماتيجي اعدي عليكي",
+      "canonicalUrl": "https://music.apple.com/us/song/%D9%85%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-%D8%A7%D8%B9%D8%AF%D9%8A-%D8%B9%D9%84%D9%8A%D9%83%D9%8A/1759421966",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/d5/01/3ad50105-be3e-ffb2-8f92-54f3ecf52432/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1759421966",
+      "attributes": {
+        "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+        "duration": "2:25",
+        "durationIso": "PT2M25S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "ماتيجي اعدي عليكي 63 TUL8TE كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي PREVIEW 2:25"
+    },
+    {
+      "title": "هقلب عليك انا الترابيزه - انا اخدت الساحه منكو (feat. الناسف برودكشن - Elnasef prouduction)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D9%87%D9%82%D9%84%D8%A8-%D8%B9%D9%84%D9%8A%D9%83-%D8%A7%D9%86%D8%A7-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%A8%D9%8A%D8%B2%D9%87-%D8%A7%D9%86%D8%A7-%D8%A7%D8%AE%D8%AF%D8%AA-%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D9%87-%D9%85%D9%86%D9%83%D9%88-feat-%D8%A7%D9%84%D9%86%D8%A7%D8%B3%D9%81/6772536611",
+      "creator": "Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/be/c3/e7bec3d1-e304-65c1-2c4a-a16599ad84b8/9cc3d183-fe1b-471b-9bcf-1d1ee4d4a800.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6772536611",
+      "attributes": {
+        "album": "هقلب عليك انا الترابيزه - انا اخدت الساحه منكو - Single",
+        "duration": "4:26",
+        "durationIso": "PT4M26S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "هقلب عليك انا الترابيزه - انا اخدت الساحه منكو (feat. الناسف برودكشن - Elnasef prouduction) 64 Hamo El Morshedy هقلب عليك انا الترابيزه - انا اخدت الساحه منكو - Single PREVIEW 4:26"
+    },
+    {
+      "title": "هيجيلي موجوع",
+      "canonicalUrl": "https://music.apple.com/us/song/%D9%87%D9%8A%D8%AC%D9%8A%D9%84%D9%8A-%D9%85%D9%88%D8%AC%D9%88%D8%B9/1894664047",
+      "creator": "Tamer Ashour",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/5b/a6/bc5ba615-b439-9a1a-28c9-fcb2fadd31f2/3617382720432_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1894664047",
+      "attributes": {
+        "album": "هيجيلي موجوع - Single",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "هيجيلي موجوع 65 Tamer Ashour هيجيلي موجوع - Single PREVIEW 3:30"
+    },
+    {
+      "title": "Be3teeny Leh | Red Bull Mazzika Salonat (feat. Red Bull Sika)",
+      "canonicalUrl": "https://music.apple.com/us/song/be3teeny-leh-red-bull-mazzika-salonat-feat-red-bull-sika/1857738845",
+      "creator": "Amr Mostafa, ZIAD ZAZA, Moataz Mady",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/24/b3/f824b3e3-09fa-5898-ca1d-7caa80456f81/6221117207173.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1857738845",
+      "attributes": {
+        "album": "Be3teeny Leh | Red Bull Mazzika Salonat (feat. Red Bull Sika) - Single",
+        "duration": "3:35",
+        "durationIso": "PT3M35S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "Be3teeny Leh | Red Bull Mazzika Salonat (feat. Red Bull Sika) 66 Amr Mostafa, ZIAD ZAZA, Moataz Mady Be3teeny Leh | Red Bull Mazzika Salonat (feat. Red Bull Sika) - Single PREVIEW 3:35"
+    },
+    {
+      "title": "Habeitek",
+      "canonicalUrl": "https://music.apple.com/us/song/habeitek/6793040770",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/5b/fd/4b5bfdec-c374-afcc-ed93-26207f245082/196874624913.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6793040770",
+      "attributes": {
+        "album": "Habeitek",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "Habeitek 67 Amr Diab Habeitek PREVIEW 2:49"
+    },
+    {
+      "title": "Maak Alby",
+      "canonicalUrl": "https://music.apple.com/us/song/maak-alby/1775914668",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/81/9f/a8819f9f-99f8-eb28-6a73-fcae47843bc8/3616842352848.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1775914668",
+      "attributes": {
+        "album": "Ahla W Ahla",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "Maak Alby 68 Amr Diab Ahla W Ahla PREVIEW 3:18"
+    },
+    {
+      "title": "Shedeeny",
+      "canonicalUrl": "https://music.apple.com/us/song/shedeeny/1828448360",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/fd/a2/4bfda2f7-d1ca-f702-7be3-8e46b514005c/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1828448360",
+      "attributes": {
+        "album": "Narein",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "69",
+        "explicit": false
+      },
+      "evidenceText": "Shedeeny 69 TUL8TE Narein PREVIEW 3:08"
+    },
+    {
+      "title": "Loser",
+      "canonicalUrl": "https://music.apple.com/us/song/loser/1836226731",
+      "creator": "Tame Impala",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1836226731",
+      "attributes": {
+        "album": "Deadbeat",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "70",
+        "explicit": true
+      },
+      "evidenceText": "Loser 70 Tame Impala Deadbeat PREVIEW 3:43"
+    },
+    {
+      "title": "3la Bali",
+      "canonicalUrl": "https://music.apple.com/us/song/3la-bali/534964912",
+      "creator": "Sherine",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/1d/df/211ddf6f-33b6-95bb-7f25-3df64c78f297/2005_Shirene_-_Lazem_A3ish.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "534964912",
+      "attributes": {
+        "album": "Lazem A3eesh",
+        "duration": "4:39",
+        "durationIso": "PT4M39S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "3la Bali 71 Sherine Lazem A3eesh PREVIEW 4:39"
+    },
+    {
+      "title": "Masadaat Etabelna",
+      "canonicalUrl": "https://music.apple.com/us/song/masadaat-etabelna/1037842753",
+      "creator": "Ramy Sabry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/4e/94/52/4e94520d-a2e3-0327-216d-89fb41096d49/9681001007901.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1037842753",
+      "attributes": {
+        "album": "Agmal Layaly Omry",
+        "duration": "4:36",
+        "durationIso": "PT4M36S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "Masadaat Etabelna 72 Ramy Sabry Agmal Layaly Omry PREVIEW 4:36"
+    },
+    {
+      "title": "Hayaty Msh Tamam",
+      "canonicalUrl": "https://music.apple.com/us/song/hayaty-msh-tamam/1894623336",
+      "creator": "Ramy Sabry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/8b/ac/b58bac43-2971-5b2f-3f1e-9c5eb7a82b92/3616403832185_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1894623336",
+      "attributes": {
+        "album": "Hayaty Msh Tamam - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "Hayaty Msh Tamam 73 Ramy Sabry Hayaty Msh Tamam - Single PREVIEW 3:15"
+    },
+    {
+      "title": "Amarain",
+      "canonicalUrl": "https://music.apple.com/us/song/amarain/533091076",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/b9/56/14/b956146c-ca00-7619-d521-d002b61ad1a6/dj.vlndmiyw.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "533091076",
+      "attributes": {
+        "album": "Amarain",
+        "duration": "4:27",
+        "durationIso": "PT4M27S",
+        "chartPosition": "74",
+        "explicit": false
+      },
+      "evidenceText": "Amarain 74 Amr Diab Amarain PREVIEW 4:27"
+    },
+    {
+      "title": "Tebaa'n Tebaa'n",
+      "canonicalUrl": "https://music.apple.com/us/song/tebaan-tebaan/6767568287",
+      "creator": "Sherine",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/80/f8/c780f86b-f6f9-ecd3-7ec0-febe963ac0e2/196874384763.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6767568287",
+      "attributes": {
+        "album": "Tebaa'n Tebaa'n - Single",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Tebaa'n Tebaa'n 75 Sherine Tebaa'n Tebaa'n - Single PREVIEW 4:06"
+    },
+    {
+      "title": "Ma3aya",
+      "canonicalUrl": "https://music.apple.com/us/song/ma3aya/1854075210",
+      "creator": "Bahaa Sultan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/00/45/c8004573-fd08-2164-e491-e6a9bae9a765/196873860329.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1854075210",
+      "attributes": {
+        "album": "Ma3aya - Single",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "76",
+        "explicit": false
+      },
+      "evidenceText": "Ma3aya 76 Bahaa Sultan Ma3aya - Single PREVIEW 3:12"
+    },
+    {
+      "title": "Basrah w Atooh",
+      "canonicalUrl": "https://music.apple.com/us/song/basrah-w-atooh/1645863673",
+      "creator": "Cairokee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/81/82/468182bd-6914-bf7d-2f4a-4cb4bd5175cd/196925215671.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1645863673",
+      "attributes": {
+        "album": "Roma",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "Basrah w Atooh 77 Cairokee Roma PREVIEW 3:57"
+    },
+    {
+      "title": "Seket Leh",
+      "canonicalUrl": "https://music.apple.com/us/song/seket-leh/1441658828",
+      "creator": "Ramy Sabry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/90/8b/69/908b695e-125b-6608-6416-42addb58b6c5/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1441658828",
+      "attributes": {
+        "album": "Ramy Sabry Collection",
+        "duration": "4:41",
+        "durationIso": "PT4M41S",
+        "chartPosition": "78",
+        "explicit": false
+      },
+      "evidenceText": "Seket Leh 78 Ramy Sabry Ramy Sabry Collection PREVIEW 4:41"
+    },
+    {
+      "title": "Ya Layaly",
+      "canonicalUrl": "https://music.apple.com/us/song/ya-layaly/1459030772",
+      "creator": "Sherine",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/08/0e/2e/080e2e62-4a2a-4415-2811-8a040980b632/6225000108479.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1459030772",
+      "attributes": {
+        "album": "Ana Kteer",
+        "duration": "4:59",
+        "durationIso": "PT4M59S",
+        "chartPosition": "79",
+        "explicit": false
+      },
+      "evidenceText": "Ya Layaly 79 Sherine Ana Kteer PREVIEW 4:59"
+    },
+    {
+      "title": "ليه بنخبي و مش بنقول",
+      "canonicalUrl": "https://music.apple.com/us/song/%D9%84%D9%8A%D9%87-%D8%A8%D9%86%D8%AE%D8%A8%D9%8A-%D9%88-%D9%85%D8%B4-%D8%A8%D9%86%D9%82%D9%88%D9%84/1759421976",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/d5/01/3ad50105-be3e-ffb2-8f92-54f3ecf52432/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1759421976",
+      "attributes": {
+        "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+        "duration": "3:09",
+        "durationIso": "PT3M9S",
+        "chartPosition": "80",
+        "explicit": false
+      },
+      "evidenceText": "ليه بنخبي و مش بنقول 80 TUL8TE كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي PREVIEW 3:09"
+    },
+    {
+      "title": "متحصن (feat. الخال El khal)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D9%85%D8%AA%D8%AD%D8%B5%D9%86-feat-%D8%A7%D9%84%D8%AE%D8%A7%D9%84-el-khal/6810592153",
+      "creator": "HAMO ELGALAD",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/70/f0/ba70f07e-db4a-04c0-e665-6f2106c1086f/b4255133-4dd0-46b8-ab4b-f4bd1fa18221.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6810592153",
+      "attributes": {
+        "album": "متحصن (feat. الخال El khal) - Single",
+        "duration": "5:37",
+        "durationIso": "PT5M37S",
+        "chartPosition": "81",
+        "explicit": false
+      },
+      "evidenceText": "متحصن (feat. الخال El khal) 81 HAMO ELGALAD متحصن (feat. الخال El khal) - Single PREVIEW 5:37"
+    },
+    {
+      "title": "حبيبي ليه",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%AD%D8%A8%D9%8A%D8%A8%D9%8A-%D9%84%D9%8A%D9%87/1759421981",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/d5/01/3ad50105-be3e-ffb2-8f92-54f3ecf52432/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1759421981",
+      "attributes": {
+        "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+        "duration": "2:00",
+        "durationIso": "PT2M",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "حبيبي ليه 82 TUL8TE كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي PREVIEW 2:00"
+    },
+    {
+      "title": "Faker",
+      "canonicalUrl": "https://music.apple.com/us/song/faker/1599333080",
+      "creator": "Elissa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6b/6e/e2/6b6ee27e-e060-02fd-ea32-e5667dc61665/6281130208854.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1599333080",
+      "attributes": {
+        "album": "Asaad Wahda",
+        "duration": "5:44",
+        "durationIso": "PT5M44S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "Faker 83 Elissa Asaad Wahda PREVIEW 5:44"
+    },
+    {
+      "title": "Allem Alby",
+      "canonicalUrl": "https://music.apple.com/us/song/allem-alby/534190616",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music32/v4/c3/62/ba/c362bacb-8556-d411-172f-7803bb6a5f6b/mzm.bzmpdxsk.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "534190616",
+      "attributes": {
+        "album": "Allem Alby",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "Allem Alby 84 Amr Diab Allem Alby PREVIEW 3:34"
+    },
+    {
+      "title": "Agheeb",
+      "canonicalUrl": "https://music.apple.com/us/song/agheeb/1599548601",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/51/de/83/51de835c-d964-0764-b285-0a11069bc840/6281130200308.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1599548601",
+      "attributes": {
+        "album": "Kammel Kalamak",
+        "duration": "3:31",
+        "durationIso": "PT3M31S",
+        "chartPosition": "85",
+        "explicit": false
+      },
+      "evidenceText": "Agheeb 85 Amr Diab Kammel Kalamak PREVIEW 3:31"
+    },
+    {
+      "title": "أنا مش شايفك (أنا السالك وأنا السهم المنطلق)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%A3%D9%86%D8%A7-%D9%85%D8%B4-%D8%B4%D8%A7%D9%8A%D9%81%D9%83-%D8%A3%D9%86%D8%A7-%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%83-%D9%88%D8%A3%D9%86%D8%A7-%D8%A7%D9%84%D8%B3%D9%87%D9%85-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%84%D9%82/6763419998",
+      "creator": "Hamo El Morshedy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/76/40/837640b3-93c3-2a4d-a890-4e05498d35ee/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6763419998",
+      "attributes": {
+        "album": "أنا مش شايفك (أنا السالك وأنا السهم المنطلق) - Single",
+        "duration": "4:13",
+        "durationIso": "PT4M13S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "أنا مش شايفك (أنا السالك وأنا السهم المنطلق) 86 Hamo El Morshedy أنا مش شايفك (أنا السالك وأنا السهم المنطلق) - Single PREVIEW 4:13"
+    },
+    {
+      "title": "Fel Khetam",
+      "canonicalUrl": "https://music.apple.com/us/song/fel-khetam/6796409462",
+      "creator": "Cairokee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a0/00/7fa00086-e72c-191b-6547-e8992f774a9a/885288056853.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6796409462",
+      "attributes": {
+        "album": "Supernova",
+        "duration": "4:54",
+        "durationIso": "PT4M54S",
+        "chartPosition": "87",
+        "explicit": false
+      },
+      "evidenceText": "Fel Khetam 87 Cairokee Supernova PREVIEW 4:54"
+    },
+    {
+      "title": "مرزمن",
+      "canonicalUrl": "https://music.apple.com/us/song/%D9%85%D8%B1%D8%B2%D9%85%D9%86/1894712748",
+      "creator": "Shehab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/43/fd/4e43fd80-f0b2-a2c3-a2cc-aa3198660daf/3617224896646_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1894712748",
+      "attributes": {
+        "album": "مرزمن - Single",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "مرزمن 88 Shehab مرزمن - Single PREVIEW 2:55"
+    },
+    {
+      "title": "Esht Maak Hekayat",
+      "canonicalUrl": "https://music.apple.com/us/song/esht-maak-hekayat/930118072",
+      "creator": "Tamer Ashour",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/83/c4/4683c4b9-729d-688b-9c3b-29879ccda287/ticket.wnjdcrbk.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "930118072",
+      "attributes": {
+        "album": "Esht Maak Hekayat",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "Esht Maak Hekayat 89 Tamer Ashour Esht Maak Hekayat PREVIEW 3:41"
+    },
+    {
+      "title": "بقيت وحيد",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%A8%D9%82%D9%8A%D8%AA-%D9%88%D8%AD%D9%8A%D8%AF/1759422382",
+      "creator": "TUL8TE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/d5/01/3ad50105-be3e-ffb2-8f92-54f3ecf52432/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1759422382",
+      "attributes": {
+        "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "بقيت وحيد 90 TUL8TE كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي PREVIEW 2:37"
+    },
+    {
+      "title": "Asef",
+      "canonicalUrl": "https://music.apple.com/us/song/asef/6792757018",
+      "creator": "Tamer Ashour",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1e/cd/a11ecd2f-ee9c-16f9-b38d-e760b43afc2a/619165335423.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6792757018",
+      "attributes": {
+        "album": "Merayt El Hob",
+        "duration": "4:07",
+        "durationIso": "PT4M7S",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "Asef 91 Tamer Ashour Merayt El Hob PREVIEW 4:07"
+    },
+    {
+      "title": "Eta'akhar Etabna",
+      "canonicalUrl": "https://music.apple.com/us/song/etaakhar-etabna/6793040914",
+      "creator": "Amr Diab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/5b/fd/4b5bfdec-c374-afcc-ed93-26207f245082/196874624913.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6793040914",
+      "attributes": {
+        "album": "Habeitek",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "Eta'akhar Etabna 92 Amr Diab Habeitek PREVIEW 3:40"
+    },
+    {
+      "title": "انا مالي بيك",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%A7%D9%86%D8%A7-%D9%85%D8%A7%D9%84%D9%8A-%D8%A8%D9%8A%D9%83/6780179820",
+      "creator": "Ramy Sabry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/79/b4/9879b499-a6b8-2ae4-4b7a-f4486b30199b/197048057292_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6780179820",
+      "attributes": {
+        "album": "القمر",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "93",
+        "explicit": false
+      },
+      "evidenceText": "انا مالي بيك 93 Ramy Sabry القمر PREVIEW 3:07"
+    },
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "94",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 94 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "تروح لمين (من فيلم البحث عن منفذ لخروج السيد رامبو)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D8%AA%D8%B1%D9%88%D8%AD-%D9%84%D9%85%D9%8A%D9%86-%D9%85%D9%86-%D9%81%D9%8A%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D9%85%D9%86%D9%81%D8%B0-%D9%84%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B1%D8%A7%D9%85%D8%A8%D9%88/1789324587",
+      "creator": "Lege-Cy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/f0/57/5df05789-f488-9bf8-44d0-a4085c661ec4/6221216711458_Artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1789324587",
+      "attributes": {
+        "album": "تروح لمين (من فيلم البحث عن منفذ لخروج السيد رامبو) - Single",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "95",
+        "explicit": false
+      },
+      "evidenceText": "تروح لمين (من فيلم البحث عن منفذ لخروج السيد رامبو) 95 Lege-Cy تروح لمين (من فيلم البحث عن منفذ لخروج السيد رامبو) - Single PREVIEW 2:58"
+    },
+    {
+      "title": "Roma",
+      "canonicalUrl": "https://music.apple.com/us/song/roma/1645863656",
+      "creator": "Cairokee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/81/82/468182bd-6914-bf7d-2f4a-4cb4bd5175cd/196925215671.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1645863656",
+      "attributes": {
+        "album": "Roma",
+        "duration": "4:30",
+        "durationIso": "PT4M30S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "Roma 96 Cairokee Roma PREVIEW 4:30"
+    },
+    {
+      "title": "لما بيوحشني",
+      "canonicalUrl": "https://music.apple.com/us/song/%D9%84%D9%85%D8%A7-%D8%A8%D9%8A%D9%88%D8%AD%D8%B4%D9%86%D9%8A/1894622544",
+      "creator": "Ramy Sabry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/36/9d/46369d6a-d659-9b9b-580b-4457f117ef5f/197048017562_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1894622544",
+      "attributes": {
+        "album": "معايا هتبدع",
+        "duration": "4:32",
+        "durationIso": "PT4M32S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "لما بيوحشني 97 Ramy Sabry معايا هتبدع PREVIEW 4:32"
+    },
+    {
+      "title": "YALLY BEATOUNA",
+      "canonicalUrl": "https://music.apple.com/us/song/yally-beatouna/6785578311",
+      "creator": "ZIAD ZAZA, Amjad Jomaa, Ismail Nosrat, Sleiman Damien",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/fe/02/adfe02cd-a069-dd39-eb40-5b1686f897a5/26UMGIM84547.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6785578311",
+      "attributes": {
+        "album": "YALLY BEATOUNA - Single",
+        "duration": "3:52",
+        "durationIso": "PT3M52S",
+        "chartPosition": "98",
+        "explicit": false
+      },
+      "evidenceText": "YALLY BEATOUNA 98 ZIAD ZAZA, Amjad Jomaa, Ismail Nosrat, Sleiman Damien YALLY BEATOUNA - Single PREVIEW 3:52"
+    },
+    {
+      "title": "Gada3",
+      "canonicalUrl": "https://music.apple.com/us/song/gada3/6792757293",
+      "creator": "Tamer Ashour",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1e/cd/a11ecd2f-ee9c-16f9-b38d-e760b43afc2a/619165335423.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "6792757293",
+      "attributes": {
+        "album": "Merayt El Hob",
+        "duration": "3:50",
+        "durationIso": "PT3M50S",
+        "chartPosition": "99",
+        "explicit": false
+      },
+      "evidenceText": "Gada3 99 Tamer Ashour Merayt El Hob PREVIEW 3:50"
+    },
+    {
+      "title": "Fi Eih",
+      "canonicalUrl": "https://music.apple.com/us/song/fi-eih/1833232031",
+      "creator": "Ramy Sabry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/86/6b/d6866b86-9c68-5488-ea5b-b406ce47ebfb/689860602922_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-egypt/pl.a0b3d0b9a2764646b59ccacdf82e3544",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Egypt",
+      "externalId": "1833232031",
+      "attributes": {
+        "album": "Ghammadt Einy",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "100",
+        "explicit": false
+      },
+      "evidenceText": "Fi Eih 100 Ramy Sabry Ghammadt Einy PREVIEW 3:30"
+    }
+  ]
+}

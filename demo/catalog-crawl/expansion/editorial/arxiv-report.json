@@ -1,0 +1,111 @@
+{
+  "sourceId": "arxiv",
+  "uniqueItems": 2920,
+  "additionalVsOriginal": 2668,
+  "collections": 4,
+  "pages": [
+    {
+      "collectionId": "arxiv-computer-vision",
+      "url": "https://arxiv.org/search/?query=computer%20vision&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=0",
+      "observedAt": "2026-09-27T03:37:38.222Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-computer-vision",
+      "url": "https://arxiv.org/search/?query=computer+vision&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=200",
+      "observedAt": "2026-09-27T03:37:50.889Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-computer-vision",
+      "url": "https://arxiv.org/search/?query=computer+vision&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=400",
+      "observedAt": "2026-09-27T03:38:08.177Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-computer-vision",
+      "url": "https://arxiv.org/search/?query=computer+vision&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=600",
+      "observedAt": "2026-09-27T03:38:26.480Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-reinforcement-learning-expanded",
+      "url": "https://arxiv.org/search/?query=reinforcement%20learning&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=0",
+      "observedAt": "2026-09-27T03:38:48.063Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-reinforcement-learning-expanded",
+      "url": "https://arxiv.org/search/?query=reinforcement+learning&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=200",
+      "observedAt": "2026-09-27T03:39:10.468Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-reinforcement-learning-expanded",
+      "url": "https://arxiv.org/search/?query=reinforcement+learning&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=400",
+      "observedAt": "2026-09-27T03:39:39.559Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-reinforcement-learning-expanded",
+      "url": "https://arxiv.org/search/?query=reinforcement+learning&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=600",
+      "observedAt": "2026-09-27T03:40:04.316Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-natural-language-processing",
+      "url": "https://arxiv.org/search/?query=natural%20language%20processing&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=0",
+      "observedAt": "2026-09-27T03:40:30.157Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-natural-language-processing",
+      "url": "https://arxiv.org/search/?query=natural+language+processing&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=200",
+      "observedAt": "2026-09-27T03:41:01.713Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-natural-language-processing",
+      "url": "https://arxiv.org/search/?query=natural+language+processing&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=400",
+      "observedAt": "2026-09-27T03:41:16.173Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-natural-language-processing",
+      "url": "https://arxiv.org/search/?query=natural+language+processing&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=600",
+      "observedAt": "2026-09-27T03:41:43.294Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-robotics",
+      "url": "https://arxiv.org/search/?query=robotics&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=0",
+      "observedAt": "2026-09-27T03:42:08.456Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-robotics",
+      "url": "https://arxiv.org/search/?query=robotics&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=200",
+      "observedAt": "2026-09-27T03:42:30.063Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-robotics",
+      "url": "https://arxiv.org/search/?query=robotics&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=400",
+      "observedAt": "2026-09-27T03:42:57.414Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-robotics",
+      "url": "https://arxiv.org/search/?query=robotics&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=600",
+      "observedAt": "2026-09-27T03:43:30.099Z",
+      "count": 200
+    },
+    {
+      "collectionId": "arxiv-recommendation-systems",
+      "url": "https://arxiv.org/search/?query=recommender%20systems&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=0",
+      "error": "spawnSync npx ETIMEDOUT",
+      "browserBody": "Rate exceeded."
+    }
+  ],
+  "stopReason": "Browser page rendered Rate exceeded after navigation timeout. No retries or bypass attempted."
+}

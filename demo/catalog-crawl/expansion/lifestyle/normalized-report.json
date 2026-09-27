@@ -1,0 +1,30 @@
+[
+  {
+    "sourceId": "oliveyoung-global",
+    "items": 2436,
+    "newUnique": 2226,
+    "collections": 8,
+    "imageUrls": 2436
+  },
+  {
+    "sourceId": "musinsa",
+    "items": 6911,
+    "newUnique": 6613,
+    "collections": 10,
+    "imageUrls": 6911
+  },
+  {
+    "sourceId": "apple-music",
+    "items": 1909,
+    "newUnique": 1803,
+    "collections": 30,
+    "imageUrls": 1909
+  },
+  {
+    "sourceId": "youtube",
+    "items": 2892,
+    "newUnique": 2892,
+    "collections": 12,
+    "imageUrls": 1818
+  }
+]

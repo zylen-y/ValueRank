@@ -1,0 +1,1968 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+  "collection": "Top 100: China",
+  "fetchedAt": "2026-09-27T03:41:19.948Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "I Am Fine",
+      "canonicalUrl": "https://music.apple.com/us/song/i-am-fine/255921025",
+      "creator": "Yanzi Sun",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/fc/1d/24fc1d3e-b37f-968f-3d21-880edc8f8d79/mzi.ybwydvjn.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "255921025",
+      "attributes": {
+        "album": "To Be Continued",
+        "duration": "5:20",
+        "durationIso": "PT5M20S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "I Am Fine 1 Yanzi Sun To Be Continued PREVIEW 5:20"
+    },
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 2 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Qi-Li-Xiang",
+      "canonicalUrl": "https://music.apple.com/us/song/qi-li-xiang/1721450037",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/8d/6d/588d6d61-fbac-148a-86bd-0030ce076ac1/23UM1IM57281.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721450037",
+      "attributes": {
+        "album": "Common Jasmine Orange",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Qi-Li-Xiang 3 Jay Chou Common Jasmine Orange PREVIEW 4:57"
+    },
+    {
+      "title": "Sunny Day",
+      "canonicalUrl": "https://music.apple.com/us/song/sunny-day/1721464906",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/47/86/8c47862d-e254-8b49-30cf-d1f05ebba05b/23UM1IM56855.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721464906",
+      "attributes": {
+        "album": "Yeh, Hwei-Mei",
+        "duration": "4:29",
+        "durationIso": "PT4M29S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "Sunny Day 4 Jay Chou Yeh, Hwei-Mei PREVIEW 4:29"
+    },
+    {
+      "title": "Step Aside",
+      "canonicalUrl": "https://music.apple.com/us/song/step-aside/1721450047",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/8d/6d/588d6d61-fbac-148a-86bd-0030ce076ac1/23UM1IM57281.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721450047",
+      "attributes": {
+        "album": "Common Jasmine Orange",
+        "duration": "3:58",
+        "durationIso": "PT3M58S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "Step Aside 5 Jay Chou Common Jasmine Orange PREVIEW 3:58"
+    },
+    {
+      "title": "我懷念的",
+      "canonicalUrl": "https://music.apple.com/us/song/%E6%88%91%E6%87%B7%E5%BF%B5%E7%9A%84/905226305",
+      "creator": "Yanzi Sun",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/39/8e/7d/398e7d64-1877-03ab-17cb-460943429bc0/825646246939.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "905226305",
+      "attributes": {
+        "album": "逆光",
+        "duration": "4:49",
+        "durationIso": "PT4M49S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "我懷念的 6 Yanzi Sun 逆光 PREVIEW 4:49"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 7 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "8",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 8 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "Floral Sea",
+      "canonicalUrl": "https://music.apple.com/us/song/floral-sea/1721460703",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/6c/72/536c7219-e177-a912-9322-e1abf70e8733/23UM1IM58828.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721460703",
+      "attributes": {
+        "album": "Capricorn",
+        "duration": "4:24",
+        "durationIso": "PT4M24S",
+        "chartPosition": "9",
+        "explicit": false
+      },
+      "evidenceText": "Floral Sea 9 Jay Chou Capricorn PREVIEW 4:24"
+    },
+    {
+      "title": "明明就",
+      "canonicalUrl": "https://music.apple.com/us/song/%E6%98%8E%E6%98%8E%E5%B0%B1/1721467034",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/95/d0/4895d0c4-c8e3-277b-9616-f878bae55c96/23UM1IM59189.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721467034",
+      "attributes": {
+        "album": "Opus 12",
+        "duration": "4:20",
+        "durationIso": "PT4M20S",
+        "chartPosition": "10",
+        "explicit": false
+      },
+      "evidenceText": "明明就 10 Jay Chou Opus 12 PREVIEW 4:20"
+    },
+    {
+      "title": "Wrong Love",
+      "canonicalUrl": "https://music.apple.com/us/song/wrong-love/1134344911",
+      "creator": "Wang Leehom",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/4a/77/be4a7730-c144-a39e-c7b6-9d26ea0ebff3/1400X1400.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1134344911",
+      "attributes": {
+        "album": "Shangri-La",
+        "duration": "3:58",
+        "durationIso": "PT3M58S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "Wrong Love 11 Wang Leehom Shangri-La PREVIEW 3:58"
+    },
+    {
+      "title": "Realize",
+      "canonicalUrl": "https://music.apple.com/us/song/realize/298837675",
+      "creator": "Yanzi Sun",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/0f/99/a7/mzi.zsimusvk.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "298837675",
+      "attributes": {
+        "album": "My Desired Happiness",
+        "duration": "4:31",
+        "durationIso": "PT4M31S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "Realize 12 Yanzi Sun My Desired Happiness PREVIEW 4:31"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "13",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 13 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Love before BC",
+      "canonicalUrl": "https://music.apple.com/us/song/love-before-bc/1721454235",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/b9/fa/14b9fa3f-ef0c-01de-3721-93ff740062b5/23UM1IM56711.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721454235",
+      "attributes": {
+        "album": "Fantasy",
+        "duration": "3:54",
+        "durationIso": "PT3M54S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "Love before BC 14 Jay Chou Fantasy PREVIEW 3:54"
+    },
+    {
+      "title": "All the Way North",
+      "canonicalUrl": "https://music.apple.com/us/song/all-the-way-north/1721454134",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/49/61/694961f3-1414-355e-66e4-9649ba13ec55/23UM1IM57770.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721454134",
+      "attributes": {
+        "album": "November's Chopin",
+        "duration": "4:54",
+        "durationIso": "PT4M54S",
+        "chartPosition": "15",
+        "explicit": false
+      },
+      "evidenceText": "All the Way North 15 Jay Chou November's Chopin PREVIEW 4:54"
+    },
+    {
+      "title": "情歌",
+      "canonicalUrl": "https://music.apple.com/us/song/%E6%83%85%E6%AD%8C/1095630246",
+      "creator": "Fish Leong",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bf/f0/11/bff01142-f4f0-f9c4-f497-007f43e42783/BD0018-_-_Fall_In_Love_Songs.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1095630246",
+      "attributes": {
+        "album": "别再为他流泪",
+        "duration": "4:20",
+        "durationIso": "PT4M20S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "情歌 16 Fish Leong 别再为他流泪 PREVIEW 4:20"
+    },
+    {
+      "title": "Waiting For You",
+      "canonicalUrl": "https://music.apple.com/us/song/waiting-for-you/1721454756",
+      "creator": "Jay Chou, Gary Yang",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/92/9c/c4929c9f-b605-7ac3-41c8-9f9091b00741/23UM1IM59704.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721454756",
+      "attributes": {
+        "album": "Greatest Works Of Art",
+        "duration": "4:30",
+        "durationIso": "PT4M30S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "Waiting For You 17 Jay Chou, Gary Yang Greatest Works Of Art PREVIEW 4:30"
+    },
+    {
+      "title": "Rice Field",
+      "canonicalUrl": "https://music.apple.com/us/song/rice-field/1721460924",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/6c/72/536c7219-e177-a912-9322-e1abf70e8733/23UM1IM58828.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721460924",
+      "attributes": {
+        "album": "Capricorn",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "Rice Field 18 Jay Chou Capricorn PREVIEW 3:43"
+    },
+    {
+      "title": "特別的人",
+      "canonicalUrl": "https://music.apple.com/us/song/%E7%89%B9%E5%88%A5%E7%9A%84%E4%BA%BA/1579903651",
+      "creator": "Khalil Fong",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/d7/2a/35d72a0a-7e0c-fc2d-b2da-4bd030219997/190296501159.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1579903651",
+      "attributes": {
+        "album": "危險世界",
+        "duration": "4:19",
+        "durationIso": "PT4M19S",
+        "chartPosition": "19",
+        "explicit": false
+      },
+      "evidenceText": "特別的人 19 Khalil Fong 危險世界 PREVIEW 4:19"
+    },
+    {
+      "title": "Cloudy Day",
+      "canonicalUrl": "https://music.apple.com/us/song/cloudy-day/200473135",
+      "creator": "Karen Mok",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/81/cc/52/81cc5224-3ace-5e3c-468a-17b4b71da831/dj.aqolbuce.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "200473135",
+      "attributes": {
+        "album": "Karen Mok Greatest Hits",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "20",
+        "explicit": false
+      },
+      "evidenceText": "Cloudy Day 20 Karen Mok Karen Mok Greatest Hits PREVIEW 4:02"
+    },
+    {
+      "title": "淚海",
+      "canonicalUrl": "https://music.apple.com/us/song/%E6%B7%9A%E6%B5%B7/1442648689",
+      "creator": "Valen Hsu",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/3a/4c/163a4cf3-5691-6c86-3a56-e5b02720fef6/11UMGIM10513.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1442648689",
+      "attributes": {
+        "album": "好歌茹芸",
+        "duration": "4:59",
+        "durationIso": "PT4M59S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "淚海 21 Valen Hsu 好歌茹芸 PREVIEW 4:59"
+    },
+    {
+      "title": "Nocturne",
+      "canonicalUrl": "https://music.apple.com/us/song/nocturne/1721454108",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/49/61/694961f3-1414-355e-66e4-9649ba13ec55/23UM1IM57770.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721454108",
+      "attributes": {
+        "album": "November's Chopin",
+        "duration": "3:48",
+        "durationIso": "PT3M48S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "Nocturne 23 Jay Chou November's Chopin PREVIEW 3:48"
+    },
+    {
+      "title": "愛情轉移",
+      "canonicalUrl": "https://music.apple.com/us/song/%E6%84%9B%E6%83%85%E8%BD%89%E7%A7%BB/1443352465",
+      "creator": "Eason Chan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/cb/d6/27cbd6b4-c991-cd95-49e3-b6019462ff97/00602517338845.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1443352465",
+      "attributes": {
+        "album": "認了吧 (台灣版)",
+        "duration": "4:19",
+        "durationIso": "PT4M19S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "愛情轉移 24 Eason Chan 認了吧 (台灣版) PREVIEW 4:19"
+    },
+    {
+      "title": "甲乙丙丁Strangers",
+      "canonicalUrl": "https://music.apple.com/us/song/%E7%94%B2%E4%B9%99%E4%B8%99%E4%B8%81strangers/6785801848",
+      "creator": "Jess Lee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/e6/a5/b6e6a5ec-a86c-aece-ca1f-ee5ca56b3caf/196874568842.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "6785801848",
+      "attributes": {
+        "album": "甲乙丙丁Strangers - Single",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "甲乙丙丁Strangers 25 Jess Lee 甲乙丙丁Strangers - Single PREVIEW 3:30"
+    },
+    {
+      "title": "Who Do You Love?",
+      "canonicalUrl": "https://music.apple.com/us/song/who-do-you-love/905206660",
+      "creator": "David Tao",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/ad/e7/feade7c8-826b-0379-fbf4-e59606db8e4c/825646245406.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "905206660",
+      "attributes": {
+        "album": "The Great Leap",
+        "duration": "4:52",
+        "durationIso": "PT4M52S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "Who Do You Love? 26 David Tao The Great Leap PREVIEW 4:52"
+    },
+    {
+      "title": "玻璃",
+      "canonicalUrl": "https://music.apple.com/us/song/%E7%8E%BB%E7%92%83/6769327013",
+      "creator": "Gareth.T",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/1a/be/1c1abe3a-2eb6-216c-9040-797bb98464d1/827568024145.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "6769327013",
+      "attributes": {
+        "album": "玻璃 - Single",
+        "duration": "3:05",
+        "durationIso": "PT3M5S",
+        "chartPosition": "27",
+        "explicit": false
+      },
+      "evidenceText": "玻璃 27 Gareth.T 玻璃 - Single PREVIEW 3:05"
+    },
+    {
+      "title": "The Day It Rained",
+      "canonicalUrl": "https://music.apple.com/us/song/the-day-it-rained/1887230879",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/65/5d/01655d0b-0dbc-1524-bf7c-3ebcf28aaa96/26UMGIM26811.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1887230879",
+      "attributes": {
+        "album": "Children of the Sun",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "The Day It Rained 28 Jay Chou Children of the Sun PREVIEW 3:43"
+    },
+    {
+      "title": "hate that i made you love me",
+      "canonicalUrl": "https://music.apple.com/us/song/hate-that-i-made-you-love-me/6763656876",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "6763656876",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "29",
+        "explicit": false
+      },
+      "evidenceText": "hate that i made you love me 29 Ariana Grande petal PREVIEW 3:17"
+    },
+    {
+      "title": "Love Confession",
+      "canonicalUrl": "https://music.apple.com/us/song/love-confession/1721456393",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/d4/1c/43d41cbe-fa45-82f6-e2d5-651c17d97aba/23UM1IM59700.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721456393",
+      "attributes": {
+        "album": "Jay Chou's Bedtime Stories",
+        "duration": "3:35",
+        "durationIso": "PT3M35S",
+        "chartPosition": "30",
+        "explicit": false
+      },
+      "evidenceText": "Love Confession 30 Jay Chou Jay Chou's Bedtime Stories PREVIEW 3:35"
+    },
+    {
+      "title": "雨愛",
+      "canonicalUrl": "https://music.apple.com/us/song/%E9%9B%A8%E6%84%9B/347295290",
+      "creator": "Rainie Yang",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/bc/e0/e5/mzi.mzfgcpgj.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "347295290",
+      "attributes": {
+        "album": "Rainie & Love?",
+        "duration": "4:21",
+        "durationIso": "PT4M21S",
+        "chartPosition": "31",
+        "explicit": false
+      },
+      "evidenceText": "雨愛 31 Rainie Yang Rainie & Love? PREVIEW 4:21"
+    },
+    {
+      "title": "Hair Like Snow",
+      "canonicalUrl": "https://music.apple.com/us/song/hair-like-snow/1721454114",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/49/61/694961f3-1414-355e-66e4-9649ba13ec55/23UM1IM57770.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721454114",
+      "attributes": {
+        "album": "November's Chopin",
+        "duration": "5:01",
+        "durationIso": "PT5M1S",
+        "chartPosition": "32",
+        "explicit": false
+      },
+      "evidenceText": "Hair Like Snow 32 Jay Chou November's Chopin PREVIEW 5:01"
+    },
+    {
+      "title": "Lovers",
+      "canonicalUrl": "https://music.apple.com/us/song/lovers/1773340393",
+      "creator": "Li Ronghao",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/a2/4f/88a24f8a-1f32-516e-9268-c0782a54b4cb/196872531909.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1773340393",
+      "attributes": {
+        "album": "The Dark Horse",
+        "duration": "4:35",
+        "durationIso": "PT4M35S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "Lovers 33 Li Ronghao The Dark Horse PREVIEW 4:35"
+    },
+    {
+      "title": "Simple Love",
+      "canonicalUrl": "https://music.apple.com/us/song/simple-love/1721454239",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/b9/fa/14b9fa3f-ef0c-01de-3721-93ff740062b5/23UM1IM56711.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721454239",
+      "attributes": {
+        "album": "Fantasy",
+        "duration": "4:30",
+        "durationIso": "PT4M30S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "Simple Love 34 Jay Chou Fantasy PREVIEW 4:30"
+    },
+    {
+      "title": "Long Distance",
+      "canonicalUrl": "https://music.apple.com/us/song/long-distance/1053567928",
+      "creator": "G.E.M.",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/bb/c7/55bbc782-299e-7f24-bc4a-ae129e6d8030/mzm.rpqttxch.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1053567928",
+      "attributes": {
+        "album": "Heartbeat",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "35",
+        "explicit": false
+      },
+      "evidenceText": "Long Distance 35 G.E.M. Heartbeat PREVIEW 3:36"
+    },
+    {
+      "title": "遇見",
+      "canonicalUrl": "https://music.apple.com/us/song/%E9%81%87%E8%A6%8B/280911996",
+      "creator": "Yanzi Sun",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/15/ca/82/mzi.fsgrhyyg.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "280911996",
+      "attributes": {
+        "album": "Your Song (2006 新歌+精選)",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "遇見 36 Yanzi Sun Your Song (2006 新歌+精選) PREVIEW 3:29"
+    },
+    {
+      "title": "Maple Leaf",
+      "canonicalUrl": "https://music.apple.com/us/song/maple-leaf/1721454117",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/49/61/694961f3-1414-355e-66e4-9649ba13ec55/23UM1IM57770.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721454117",
+      "attributes": {
+        "album": "November's Chopin",
+        "duration": "4:37",
+        "durationIso": "PT4M37S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "Maple Leaf 37 Jay Chou November's Chopin PREVIEW 4:37"
+    },
+    {
+      "title": "Only One",
+      "canonicalUrl": "https://music.apple.com/us/song/only-one/1717034230",
+      "creator": "G.E.M.",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/81/62/cb/8162cbd8-5089-39ee-430b-b7e354a0e957/196871644518.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1717034230",
+      "attributes": {
+        "album": "T.I.M.E. - EP",
+        "duration": "4:13",
+        "durationIso": "PT4M13S",
+        "chartPosition": "38",
+        "explicit": false
+      },
+      "evidenceText": "Only One 38 G.E.M. T.I.M.E. - EP PREVIEW 4:13"
+    },
+    {
+      "title": "十年",
+      "canonicalUrl": "https://music.apple.com/us/song/%E5%8D%81%E5%B9%B4/542922095",
+      "creator": "Eason Chan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/e6/66/56e6661d-e570-782f-fbc8-e7b12e38f1a7/EEG3035V1-_-.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "542922095",
+      "attributes": {
+        "album": "你的陳奕迅國語精選",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "十年 39 Eason Chan 你的陳奕迅國語精選 PREVIEW 3:25"
+    },
+    {
+      "title": "Won't Cry",
+      "canonicalUrl": "https://music.apple.com/us/song/wont-cry/1721454346",
+      "creator": "Jay Chou, Ashin Chen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/92/9c/c4929c9f-b605-7ac3-41c8-9f9091b00741/23UM1IM59704.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721454346",
+      "attributes": {
+        "album": "Greatest Works Of Art",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "40",
+        "explicit": false
+      },
+      "evidenceText": "Won't Cry 40 Jay Chou, Ashin Chen Greatest Works Of Art PREVIEW 3:40"
+    },
+    {
+      "title": "最佳損友",
+      "canonicalUrl": "https://music.apple.com/us/song/%E6%9C%80%E4%BD%B3%E6%90%8D%E5%8F%8B/1442913348",
+      "creator": "Eason Chan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a4/fa/86/a4fa86d6-c23a-c37f-1251-00376ff144cd/00602498378830.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1442913348",
+      "attributes": {
+        "album": "Life Continues",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "最佳損友 41 Eason Chan Life Continues PREVIEW 3:53"
+    },
+    {
+      "title": "紅塵客棧",
+      "canonicalUrl": "https://music.apple.com/us/song/%E7%B4%85%E5%A1%B5%E5%AE%A2%E6%A3%A7/1721467261",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/95/d0/4895d0c4-c8e3-277b-9616-f878bae55c96/23UM1IM59189.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721467261",
+      "attributes": {
+        "album": "Opus 12",
+        "duration": "4:34",
+        "durationIso": "PT4M34S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "紅塵客棧 42 Jay Chou Opus 12 PREVIEW 4:34"
+    },
+    {
+      "title": "The Key",
+      "canonicalUrl": "https://music.apple.com/us/song/the-key/1871400641",
+      "creator": "JJ Lin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/d8/71/3dd8711e-41ec-29ee-72b6-0a2a480031d0/4711720281483.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1871400641",
+      "attributes": {
+        "album": "From M.E. To Myself",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "43",
+        "explicit": false
+      },
+      "evidenceText": "The Key 43 JJ Lin From M.E. To Myself PREVIEW 3:27"
+    },
+    {
+      "title": "You Better Not Think About Me",
+      "canonicalUrl": "https://music.apple.com/us/song/you-better-not-think-about-me/780523277",
+      "creator": "Hebe Tien",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/81/a2/8f/81a28f90-7d3e-305b-0c3e-88b2aa6b32f4/4716220194806.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "780523277",
+      "attributes": {
+        "album": "Insignificance",
+        "duration": "4:40",
+        "durationIso": "PT4M40S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "You Better Not Think About Me 44 Hebe Tien Insignificance PREVIEW 4:40"
+    },
+    {
+      "title": "孤獨患者",
+      "canonicalUrl": "https://music.apple.com/us/song/%E5%AD%A4%E7%8D%A8%E6%82%A3%E8%80%85/1443783507",
+      "creator": "Eason Chan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/2c/29/a12c2947-faea-f1c4-24e0-6612fc50ea13/00602488980715.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1443783507",
+      "attributes": {
+        "album": "?",
+        "duration": "4:33",
+        "durationIso": "PT4M33S",
+        "chartPosition": "45",
+        "explicit": false
+      },
+      "evidenceText": "孤獨患者 45 Eason Chan ? PREVIEW 4:33"
+    },
+    {
+      "title": "SUN KISS",
+      "canonicalUrl": "https://music.apple.com/us/song/sun-kiss/6795782855",
+      "creator": "TUIDE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/a0/02/f2a00270-a846-b0aa-65b3-91bc94442e10/823375310600_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "6795782855",
+      "attributes": {
+        "album": "TUNE & PLAY - EP",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "46",
+        "explicit": false
+      },
+      "evidenceText": "SUN KISS 46 TUIDE TUNE & PLAY - EP PREVIEW 3:01"
+    },
+    {
+      "title": "富士山下",
+      "canonicalUrl": "https://music.apple.com/us/song/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E4%B8%8B/1443346107",
+      "creator": "Eason Chan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/44/d3/57/44d35752-0906-6a22-ebc4-32d9553fa0fb/00602517176997.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1443346107",
+      "attributes": {
+        "album": "What's Going On...?",
+        "duration": "4:19",
+        "durationIso": "PT4M19S",
+        "chartPosition": "47",
+        "explicit": false
+      },
+      "evidenceText": "富士山下 47 Eason Chan What's Going On...? PREVIEW 4:19"
+    },
+    {
+      "title": "忽然之間",
+      "canonicalUrl": "https://music.apple.com/us/song/%E5%BF%BD%E7%84%B6%E4%B9%8B%E9%96%93/1722205331",
+      "creator": "Karen Mok",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/22/39/eb223900-0182-c49c-6c82-ee342cbd6c22/4710149707703_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1722205331",
+      "attributes": {
+        "album": "就是莫文蔚",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "忽然之間 48 Karen Mok 就是莫文蔚 PREVIEW 3:21"
+    },
+    {
+      "title": "All The Things You Never Knew",
+      "canonicalUrl": "https://music.apple.com/us/song/all-the-things-you-never-knew/1528146380",
+      "creator": "Wang Leehom",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/94/01/3e94013b-17f0-09e9-69ce-4ab94e1507da/18_Material_arts.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1528146380",
+      "attributes": {
+        "album": "18 Martial Arts",
+        "duration": "4:39",
+        "durationIso": "PT4M39S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "All The Things You Never Knew 49 Wang Leehom 18 Martial Arts PREVIEW 4:39"
+    },
+    {
+      "title": "會呼吸的痛",
+      "canonicalUrl": "https://music.apple.com/us/song/%E6%9C%83%E5%91%BC%E5%90%B8%E7%9A%84%E7%97%9B/1097016179",
+      "creator": "Fish Leong",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c4/6c/9f/c46c9ffa-dffd-37d9-8bd7-129b24f880ba/BD0009-_-_J_ADORE.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1097016179",
+      "attributes": {
+        "album": "崇拜",
+        "duration": "4:32",
+        "durationIso": "PT4M32S",
+        "chartPosition": "50",
+        "explicit": false
+      },
+      "evidenceText": "會呼吸的痛 50 Fish Leong 崇拜 PREVIEW 4:32"
+    },
+    {
+      "title": "蘭亭序",
+      "canonicalUrl": "https://music.apple.com/us/song/%E8%98%AD%E4%BA%AD%E5%BA%8F/1721460918",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/6c/72/536c7219-e177-a912-9322-e1abf70e8733/23UM1IM58828.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721460918",
+      "attributes": {
+        "album": "Capricorn",
+        "duration": "4:13",
+        "durationIso": "PT4M13S",
+        "chartPosition": "51",
+        "explicit": false
+      },
+      "evidenceText": "蘭亭序 51 Jay Chou Capricorn PREVIEW 4:13"
+    },
+    {
+      "title": "愛愛愛",
+      "canonicalUrl": "https://music.apple.com/us/song/%E6%84%9B%E6%84%9B%E6%84%9B/220365871",
+      "creator": "Khalil Fong",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/c3/d0/e5/mzi.kdgffvqb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "220365871",
+      "attributes": {
+        "album": "This Love",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "52",
+        "explicit": false
+      },
+      "evidenceText": "愛愛愛 52 Khalil Fong This Love PREVIEW 3:33"
+    },
+    {
+      "title": "江南",
+      "canonicalUrl": "https://music.apple.com/us/song/%E6%B1%9F%E5%8D%97/1071753628",
+      "creator": "JJ Lin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9b/98/eb/9b98ebae-69b1-8009-678c-65e94124e0a8/dj.cqtiyqmo.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1071753628",
+      "attributes": {
+        "album": "第二天堂(江南)",
+        "duration": "4:27",
+        "durationIso": "PT4M27S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "江南 53 JJ Lin 第二天堂(江南) PREVIEW 4:27"
+    },
+    {
+      "title": "If Only",
+      "canonicalUrl": "https://music.apple.com/us/song/if-only/1788007696",
+      "creator": "JJ Lin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/5a/1b/575a1bc9-ca86-7549-e873-b55663ba6276/4711508105925.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1788007696",
+      "attributes": {
+        "album": "Brave New World",
+        "duration": "4:58",
+        "durationIso": "PT4M58S",
+        "chartPosition": "54",
+        "explicit": false
+      },
+      "evidenceText": "If Only 54 JJ Lin Brave New World PREVIEW 4:58"
+    },
+    {
+      "title": "LEMONADE",
+      "canonicalUrl": "https://music.apple.com/us/song/lemonade/6772870627",
+      "creator": "aespa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/c8/93/ccc89345-aa49-ca82-3dbe-f11c65ff1706/888735955679_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "6772870627",
+      "attributes": {
+        "album": "LEMONADE - The 2nd Album (GISELLE Special Version)",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "LEMONADE 55 aespa LEMONADE - The 2nd Album (GISELLE Special Version) PREVIEW 3:07"
+    },
+    {
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "canonicalUrl": "https://music.apple.com/us/song/beauty-and-a-beat-feat-nicki-minaj/1440650961",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1440650961",
+      "attributes": {
+        "album": "Believe (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "Beauty and a Beat (feat. Nicki Minaj) 56 Justin Bieber Believe (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "Cloudy Day",
+      "canonicalUrl": "https://music.apple.com/us/song/cloudy-day/541857036",
+      "creator": "Yanzi Sun",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/91/d7/8a91d731-cdb1-01b5-17a9-c88cf66d6e01/5050466855725.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "541857036",
+      "attributes": {
+        "album": "The Moment",
+        "duration": "3:56",
+        "durationIso": "PT3M56S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "Cloudy Day 57 Yanzi Sun The Moment PREVIEW 3:56"
+    },
+    {
+      "title": "淘汰",
+      "canonicalUrl": "https://music.apple.com/us/song/%E6%B7%98%E6%B1%B0/1443352455",
+      "creator": "Eason Chan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/cb/d6/27cbd6b4-c991-cd95-49e3-b6019462ff97/00602517338845.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1443352455",
+      "attributes": {
+        "album": "認了吧 (台灣版)",
+        "duration": "4:45",
+        "durationIso": "PT4M45S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "淘汰 58 Eason Chan 認了吧 (台灣版) PREVIEW 4:45"
+    },
+    {
+      "title": "Fairy Tale",
+      "canonicalUrl": "https://music.apple.com/us/song/fairy-tale/464207307",
+      "creator": "Yoga Lin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/fe/a6/6f/mzi.oaxuukrq.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "464207307",
+      "attributes": {
+        "album": "Senses Around",
+        "duration": "4:24",
+        "durationIso": "PT4M24S",
+        "chartPosition": "59",
+        "explicit": false
+      },
+      "evidenceText": "Fairy Tale 59 Yoga Lin Senses Around PREVIEW 4:24"
+    },
+    {
+      "title": "Shouldn't Be (feat. a-mei)",
+      "canonicalUrl": "https://music.apple.com/us/song/shouldnt-be-feat-a-mei/1721456390",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/d4/1c/43d41cbe-fa45-82f6-e2d5-651c17d97aba/23UM1IM59700.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721456390",
+      "attributes": {
+        "album": "Jay Chou's Bedtime Stories",
+        "duration": "4:51",
+        "durationIso": "PT4M51S",
+        "chartPosition": "60",
+        "explicit": false
+      },
+      "evidenceText": "Shouldn't Be (feat. a-mei) 60 Jay Chou Jay Chou's Bedtime Stories PREVIEW 4:51"
+    },
+    {
+      "title": "Secret Sign",
+      "canonicalUrl": "https://music.apple.com/us/song/secret-sign/1721459355",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a4/06/51/a40651bc-7905-eef6-aaf3-ee269c8d735a/23UM1IM56805.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721459355",
+      "attributes": {
+        "album": "The Eight Dimensions",
+        "duration": "4:29",
+        "durationIso": "PT4M29S",
+        "chartPosition": "61",
+        "explicit": false
+      },
+      "evidenceText": "Secret Sign 61 Jay Chou The Eight Dimensions PREVIEW 4:29"
+    },
+    {
+      "title": "Counter-clockwise Clock",
+      "canonicalUrl": "https://music.apple.com/us/song/counter-clockwise-clock/1721459423",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/f7/7f/69f77f5e-9b36-917e-cf15-7bd8442572c7/23UM1IM56109.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721459423",
+      "attributes": {
+        "album": "Jay",
+        "duration": "4:16",
+        "durationIso": "PT4M16S",
+        "chartPosition": "62",
+        "explicit": false
+      },
+      "evidenceText": "Counter-clockwise Clock 62 Jay Chou Jay PREVIEW 4:16"
+    },
+    {
+      "title": "The Promised Love",
+      "canonicalUrl": "https://music.apple.com/us/song/the-promised-love/1721460917",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/6c/72/536c7219-e177-a912-9322-e1abf70e8733/23UM1IM58828.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721460917",
+      "attributes": {
+        "album": "Capricorn",
+        "duration": "4:16",
+        "durationIso": "PT4M16S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "The Promised Love 63 Jay Chou Capricorn PREVIEW 4:16"
+    },
+    {
+      "title": "天天",
+      "canonicalUrl": "https://music.apple.com/us/song/%E5%A4%A9%E5%A4%A9/905206485",
+      "creator": "David Tao",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/77/fc/d077fcf8-6a17-e7ea-6c91-6cf40ad39d81/825646245383.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "905206485",
+      "attributes": {
+        "album": "I'm O.K.",
+        "duration": "4:15",
+        "durationIso": "PT4M15S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "天天 64 David Tao I'm O.K. PREVIEW 4:15"
+    },
+    {
+      "title": "The Fate of Ophelia (Track by Track)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia-track-by-track/1843998667",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/74/44/3a74440e-a1c2-c2bc-22c4-c71bd4584ed1/25UM1IM53942.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1843998667",
+      "attributes": {
+        "album": "The Life of a Showgirl (Track by Track Version)",
+        "duration": "0:41",
+        "durationIso": "PT41S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia (Track by Track) 65 Taylor Swift The Life of a Showgirl (Track by Track Version) PREVIEW 0:41"
+    },
+    {
+      "title": "好久不見",
+      "canonicalUrl": "https://music.apple.com/us/song/%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A6%8B/1443352467",
+      "creator": "Eason Chan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/cb/d6/27cbd6b4-c991-cd95-49e3-b6019462ff97/00602517338845.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1443352467",
+      "attributes": {
+        "album": "認了吧 (台灣版)",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "好久不見 66 Eason Chan 認了吧 (台灣版) PREVIEW 4:10"
+    },
+    {
+      "title": "葡萄成熟時",
+      "canonicalUrl": "https://music.apple.com/us/song/%E8%91%A1%E8%90%84%E6%88%90%E7%86%9F%E6%99%82/1443375474",
+      "creator": "Eason Chan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/52/5c/62525cbe-f9cd-90ee-820e-db3f75d29c80/00602498308905.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1443375474",
+      "attributes": {
+        "album": "U 87",
+        "duration": "4:37",
+        "durationIso": "PT4M37S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "葡萄成熟時 67 Eason Chan U 87 PREVIEW 4:37"
+    },
+    {
+      "title": "Fade Away",
+      "canonicalUrl": "https://music.apple.com/us/song/fade-away/1721449922",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/8b/ff/358bffcf-4327-7688-3a3b-cbc66cfbac23/23UM1IM58832.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721449922",
+      "attributes": {
+        "album": "The Era",
+        "duration": "4:23",
+        "durationIso": "PT4M23S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "Fade Away 68 Jay Chou The Era PREVIEW 4:23"
+    },
+    {
+      "title": "new trick",
+      "canonicalUrl": "https://music.apple.com/us/song/new-trick/6812894907",
+      "creator": "ROSÉ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/06/3f/48063f55-8c24-92e6-2bbe-ffb3a638420b/075679555984.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "6812894907",
+      "attributes": {
+        "album": "new trick - Single",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "69",
+        "explicit": false
+      },
+      "evidenceText": "new trick 69 ROSÉ new trick - Single PREVIEW 3:02"
+    },
+    {
+      "title": "Too Smart",
+      "canonicalUrl": "https://music.apple.com/us/song/too-smart/152197590",
+      "creator": "Cheer Chen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/a2/21/3ca22123-14d6-57f4-9e52-aa4573a05b07/mzm.clkcarof.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "152197590",
+      "attributes": {
+        "album": "Groupies",
+        "duration": "4:23",
+        "durationIso": "PT4M23S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "Too Smart 70 Cheer Chen Groupies PREVIEW 4:23"
+    },
+    {
+      "title": "FALLEN ANGEL",
+      "canonicalUrl": "https://music.apple.com/us/song/fallen-angel/6804046959",
+      "creator": "JENNIE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/b0/ed/27b0edf5-ec5e-fb16-0193-298a679e7a50/196874698273.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "6804046959",
+      "attributes": {
+        "album": "Fallen Angel - EP",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "FALLEN ANGEL 71 JENNIE Fallen Angel - EP PREVIEW 3:19"
+    },
+    {
+      "title": "Twilight",
+      "canonicalUrl": "https://music.apple.com/us/song/twilight/1871400637",
+      "creator": "JJ Lin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/d8/71/3dd8711e-41ec-29ee-72b6-0a2a480031d0/4711720281483.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1871400637",
+      "attributes": {
+        "album": "From M.E. To Myself",
+        "duration": "4:25",
+        "durationIso": "PT4M25S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "Twilight 72 JJ Lin From M.E. To Myself PREVIEW 4:25"
+    },
+    {
+      "title": "Big City Small Love",
+      "canonicalUrl": "https://music.apple.com/us/song/big-city-small-love/1134353955",
+      "creator": "Wang Leehom",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/82/88/f98288eb-ea32-6c8c-7919-357c31a4b437/1400X1400.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1134353955",
+      "attributes": {
+        "album": "Heroes of Earth",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "Big City Small Love 73 Wang Leehom Heroes of Earth PREVIEW 3:44"
+    },
+    {
+      "title": "My Only Girl",
+      "canonicalUrl": "https://music.apple.com/us/song/my-only-girl/577983297",
+      "creator": "Khalil Fong",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/91/41/8c/91418cce-4b5b-a7a7-cf54-858af87966e3/dj.munrszcb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "577983297",
+      "attributes": {
+        "album": "Back to Wonderland",
+        "duration": "4:48",
+        "durationIso": "PT4M48S",
+        "chartPosition": "74",
+        "explicit": false
+      },
+      "evidenceText": "My Only Girl 74 Khalil Fong Back to Wonderland PREVIEW 4:48"
+    },
+    {
+      "title": "Blue and White Porcelain",
+      "canonicalUrl": "https://music.apple.com/us/song/blue-and-white-porcelain/1721455873",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/2c/9f/f72c9fc6-c4dc-d6a0-4386-0478b09cb797/23UM1IM58609.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721455873",
+      "attributes": {
+        "album": "Jay Chou On The Run",
+        "duration": "3:59",
+        "durationIso": "PT3M59S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Blue and White Porcelain 75 Jay Chou Jay Chou On The Run PREVIEW 3:59"
+    },
+    {
+      "title": "勇氣",
+      "canonicalUrl": "https://music.apple.com/us/song/%E5%8B%87%E6%B0%A3/1692291089",
+      "creator": "Fish Leong",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/d7/93/55d793f9-1cbd-51d2-780a-b14b085111d0/4710149701770_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1692291089",
+      "attributes": {
+        "album": "勇氣",
+        "duration": "3:59",
+        "durationIso": "PT3M59S",
+        "chartPosition": "76",
+        "explicit": false
+      },
+      "evidenceText": "勇氣 76 Fish Leong 勇氣 PREVIEW 3:59"
+    },
+    {
+      "title": "The Land of Maybe",
+      "canonicalUrl": "https://music.apple.com/us/song/the-land-of-maybe/6812635397",
+      "creator": "Hebe Tien",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/49/4c/64494cca-8338-c4d2-7225-951b8d183cd3/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "6812635397",
+      "attributes": {
+        "album": "The Land of Maybe",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "The Land of Maybe 77 Hebe Tien The Land of Maybe PREVIEW 3:47"
+    },
+    {
+      "title": "Opalite",
+      "canonicalUrl": "https://music.apple.com/us/song/opalite/1833328845",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1833328845",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "78",
+        "explicit": false
+      },
+      "evidenceText": "Opalite 78 Taylor Swift The Life of a Showgirl PREVIEW 3:55"
+    },
+    {
+      "title": "下一個天亮",
+      "canonicalUrl": "https://music.apple.com/us/song/%E4%B8%8B%E4%B8%80%E5%80%8B%E5%A4%A9%E4%BA%AE/535391944",
+      "creator": "Claire Kuo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/49/46/054946ac-9e38-f5b0-9778-cbcd4d844687/4717398702336.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "535391944",
+      "attributes": {
+        "album": "下一個天亮",
+        "duration": "4:26",
+        "durationIso": "PT4M26S",
+        "chartPosition": "79",
+        "explicit": false
+      },
+      "evidenceText": "下一個天亮 79 Claire Kuo 下一個天亮 PREVIEW 4:26"
+    },
+    {
+      "title": "Airport in 10:30",
+      "canonicalUrl": "https://music.apple.com/us/song/airport-in-10-30/1416149929",
+      "creator": "David Tao",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/bb/bd/ddbbbda1-9408-72b2-4c0b-943e648be6c1/190295574086.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1416149929",
+      "attributes": {
+        "album": "David Tao",
+        "duration": "4:40",
+        "durationIso": "PT4M40S",
+        "chartPosition": "80",
+        "explicit": false
+      },
+      "evidenceText": "Airport in 10:30 80 David Tao David Tao PREVIEW 4:40"
+    },
+    {
+      "title": "I Find It Hard To Say",
+      "canonicalUrl": "https://music.apple.com/us/song/i-find-it-hard-to-say/1721454246",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/b9/fa/14b9fa3f-ef0c-01de-3721-93ff740062b5/23UM1IM56711.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721454246",
+      "attributes": {
+        "album": "Fantasy",
+        "duration": "4:44",
+        "durationIso": "PT4M44S",
+        "chartPosition": "81",
+        "explicit": false
+      },
+      "evidenceText": "I Find It Hard To Say 81 Jay Chou Fantasy PREVIEW 4:44"
+    },
+    {
+      "title": "No Turning Back",
+      "canonicalUrl": "https://music.apple.com/us/song/no-turning-back/1531323101",
+      "creator": "JJ Lin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/dd/ce/8dddceba-2a33-d936-680d-eb7c32aa54c6/190295140731.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1531323101",
+      "attributes": {
+        "album": "No Turning Back - Single",
+        "duration": "4:36",
+        "durationIso": "PT4M36S",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "No Turning Back 82 JJ Lin No Turning Back - Single PREVIEW 4:36"
+    },
+    {
+      "title": "小半",
+      "canonicalUrl": "https://music.apple.com/us/song/%E5%B0%8F%E5%8D%8A/1421693331",
+      "creator": "Chen Li",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/f8/ab/aff8abed-e8f5-1c4b-67a7-860eceb15c59/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1421693331",
+      "attributes": {
+        "album": "小梦大半",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "小半 83 Chen Li 小梦大半 PREVIEW 4:57"
+    },
+    {
+      "title": "Practice Love",
+      "canonicalUrl": "https://music.apple.com/us/song/practice-love/1694849138",
+      "creator": "JJ Lin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/86/80/48/86804834-eb90-62a1-2170-cd96f9963cac/4711099729722.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1694849138",
+      "attributes": {
+        "album": "Stories Untold",
+        "duration": "4:47",
+        "durationIso": "PT4M47S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "Practice Love 84 JJ Lin Stories Untold PREVIEW 4:47"
+    },
+    {
+      "title": "雨天",
+      "canonicalUrl": "https://music.apple.com/us/song/%E9%9B%A8%E5%A4%A9/280798617",
+      "creator": "Yanzi Sun",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/70/8f/21/mzi.buxkpipq.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "280798617",
+      "attributes": {
+        "album": "My Story (2006 新歌+精選)",
+        "duration": "4:01",
+        "durationIso": "PT4M1S",
+        "chartPosition": "85",
+        "explicit": false
+      },
+      "evidenceText": "雨天 85 Yanzi Sun My Story (2006 新歌+精選) PREVIEW 4:01"
+    },
+    {
+      "title": "You Hear Me",
+      "canonicalUrl": "https://music.apple.com/us/song/you-hear-me/1721465363",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/47/86/8c47862d-e254-8b49-30cf-d1f05ebba05b/23UM1IM56855.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721465363",
+      "attributes": {
+        "album": "Yeh, Hwei-Mei",
+        "duration": "3:50",
+        "durationIso": "PT3M50S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "You Hear Me 86 Jay Chou Yeh, Hwei-Mei PREVIEW 3:50"
+    },
+    {
+      "title": "Handwritten Past",
+      "canonicalUrl": "https://music.apple.com/us/song/handwritten-past/1721458221",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/61/42/e1614256-60b4-7cd9-809b-11da1506532f/23UM1IM59225.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721458221",
+      "attributes": {
+        "album": "Aiyo, Not Bad",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "87",
+        "explicit": false
+      },
+      "evidenceText": "Handwritten Past 87 Jay Chou Aiyo, Not Bad PREVIEW 4:57"
+    },
+    {
+      "title": "Coral Sea (feat. Lara Veronin)",
+      "canonicalUrl": "https://music.apple.com/us/song/coral-sea-feat-lara-veronin/1721454126",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/49/61/694961f3-1414-355e-66e4-9649ba13ec55/23UM1IM57770.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721454126",
+      "attributes": {
+        "album": "November's Chopin",
+        "duration": "4:16",
+        "durationIso": "PT4M16S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "Coral Sea (feat. Lara Veronin) 88 Jay Chou November's Chopin PREVIEW 4:16"
+    },
+    {
+      "title": "背對背擁抱",
+      "canonicalUrl": "https://music.apple.com/us/song/%E8%83%8C%E5%B0%8D%E8%83%8C%E6%93%81%E6%8A%B1/1071517710",
+      "creator": "JJ Lin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/84/a2/4a84a274-3678-533c-c1e1-5fd9216b7f1d/dj.kxuxixwe.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1071517710",
+      "attributes": {
+        "album": "100天",
+        "duration": "3:54",
+        "durationIso": "PT3M54S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "背對背擁抱 89 JJ Lin 100天 PREVIEW 3:54"
+    },
+    {
+      "title": "慢冷",
+      "canonicalUrl": "https://music.apple.com/us/song/%E6%85%A2%E5%86%B7/1462400556",
+      "creator": "Fish Leong",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/0d/15/5a0d150d-124a-ed96-abaa-98f57e733938/19UMGIM39997.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1462400556",
+      "attributes": {
+        "album": "我好嗎? - 太陽如常升起",
+        "duration": "4:49",
+        "durationIso": "PT4M49S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "慢冷 90 Fish Leong 我好嗎? - 太陽如常升起 PREVIEW 4:49"
+    },
+    {
+      "title": "匿名的好友",
+      "canonicalUrl": "https://music.apple.com/us/song/%E5%8C%BF%E5%90%8D%E7%9A%84%E5%A5%BD%E5%8F%8B/352569547",
+      "creator": "Rainie Yang",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/07/51/39/075139cf-7910-68c9-7c91-c6c000718794/mzi.vmzravef.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "352569547",
+      "attributes": {
+        "album": "雨愛 (繽紛慶功版)",
+        "duration": "4:20",
+        "durationIso": "PT4M20S",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "匿名的好友 91 Rainie Yang 雨愛 (繽紛慶功版) PREVIEW 4:20"
+    },
+    {
+      "title": "Lingering",
+      "canonicalUrl": "https://music.apple.com/us/song/lingering/1363418962",
+      "creator": "Yanzi Sun",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/95/e7/86/95e78666-a9d7-c3cc-87cf-0a46d6d8c6aa/00602567574132.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1363418962",
+      "attributes": {
+        "album": "Lingering - Single",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "Lingering 92 Yanzi Sun Lingering - Single PREVIEW 4:02"
+    },
+    {
+      "title": "連名帶姓",
+      "canonicalUrl": "https://music.apple.com/us/song/%E9%80%A3%E5%90%8D%E5%B8%B6%E5%A7%93/1834199249",
+      "creator": "aMEI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/ea/32/4aea3283-2bcf-c075-ad2d-c48bf6e19dcd/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1834199249",
+      "attributes": {
+        "album": "偷故事的人",
+        "duration": "5:33",
+        "durationIso": "PT5M33S",
+        "chartPosition": "94",
+        "explicit": false
+      },
+      "evidenceText": "連名帶姓 94 aMEI 偷故事的人 PREVIEW 5:33"
+    },
+    {
+      "title": "Can't Bear It (Ending Credit Theme Song of ''You Are My Sunshine'')",
+      "canonicalUrl": "https://music.apple.com/us/song/cant-bear-it-ending-credit-theme-song-of-you-are-my-sunshine/1072339996",
+      "creator": "Li Ronghao",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/17/4a/4c174aec-80a7-c039-54cd-4be73cb090d3/dj.fagjndon.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1072339996",
+      "attributes": {
+        "album": "An Ideal",
+        "duration": "5:13",
+        "durationIso": "PT5M13S",
+        "chartPosition": "95",
+        "explicit": false
+      },
+      "evidenceText": "Can't Bear It (Ending Credit Theme Song of ''You Are My Sunshine'') 95 Li Ronghao An Ideal PREVIEW 5:13"
+    },
+    {
+      "title": "A Step Back",
+      "canonicalUrl": "https://music.apple.com/us/song/a-step-back/1721454284",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6b/05/16/6b051613-864c-b2b4-af7a-1fade330fa7c/23UM1IM58372.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721454284",
+      "attributes": {
+        "album": "Still Fantasy",
+        "duration": "4:22",
+        "durationIso": "PT4M22S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "A Step Back 96 Jay Chou Still Fantasy PREVIEW 4:22"
+    },
+    {
+      "title": "Thank You",
+      "canonicalUrl": "https://music.apple.com/us/song/thank-you/6810476456",
+      "creator": "Jackson Wang",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/52/04/4c5204eb-e880-d7b8-044c-8c44ca5ad792/4308087.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "6810476456",
+      "attributes": {
+        "album": "Thank You - Single",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "Thank You 97 Jackson Wang Thank You - Single PREVIEW 3:44"
+    },
+    {
+      "title": "After Hours",
+      "canonicalUrl": "https://music.apple.com/us/song/after-hours/1499378615",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1499378615",
+      "attributes": {
+        "album": "After Hours",
+        "duration": "6:01",
+        "durationIso": "PT6M1S",
+        "chartPosition": "98",
+        "explicit": false
+      },
+      "evidenceText": "After Hours 98 The Weeknd After Hours PREVIEW 6:01"
+    },
+    {
+      "title": "Always Online",
+      "canonicalUrl": "https://music.apple.com/us/song/always-online/1071752119",
+      "creator": "JJ Lin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/e8/4f/99e84f72-3c26-0617-86a7-8e3f250f8c98/fengmain.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1071752119",
+      "attributes": {
+        "album": "JJ陸",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "99",
+        "explicit": false
+      },
+      "evidenceText": "Always Online 99 JJ Lin JJ陸 PREVIEW 3:41"
+    },
+    {
+      "title": "A Dandelion's Promise",
+      "canonicalUrl": "https://music.apple.com/us/song/a-dandelions-promise/1721456003",
+      "creator": "Jay Chou",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/2c/9f/f72c9fc6-c4dc-d6a0-4386-0478b09cb797/23UM1IM58609.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: China",
+      "externalId": "1721456003",
+      "attributes": {
+        "album": "Jay Chou On The Run",
+        "duration": "4:07",
+        "durationIso": "PT4M7S",
+        "chartPosition": "100",
+        "explicit": false
+      },
+      "evidenceText": "A Dandelion's Promise 100 Jay Chou Jay Chou On The Run PREVIEW 4:07"
+    }
+  ]
+}

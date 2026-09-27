@@ -1,0 +1,4091 @@
+{
+  "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+  "collection": "Y Combinator · Videos",
+  "fetchedAt": "2026-09-27T03:47:43.740Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Robot-Use Agents: Why General-Purpose Models May Win in Robotics",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Jv5B5CEaPJI",
+      "externalId": "Jv5B5CEaPJI",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/Jv5B5CEaPJI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC8FmQFQKYwGrtH-45mOsC8XObINg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "29:49",
+        "metadata": "23K 13h ago"
+      },
+      "evidenceText": "29:49 Robot-Use Agents: Why General-Purpose Models May Win in Robotics 23K 13h ago"
+    },
+    {
+      "title": "The State of Startups in 2026",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yslXlV2BP_Y",
+      "externalId": "yslXlV2BP_Y",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/yslXlV2BP_Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCDLEAOQwb77jLjN_bPmgu0A6zQoQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "36:29",
+        "metadata": "152K 9d ago"
+      },
+      "evidenceText": "36:29 The State of Startups in 2026 152K 9d ago"
+    },
+    {
+      "title": "Why You're Getting Zero Replies To Your Cold Emails",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wr6PMD06hP0",
+      "externalId": "wr6PMD06hP0",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/wr6PMD06hP0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAjBFJtAtsTFHLSiocfXzkiEXMRVA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "12:42",
+        "metadata": "77K 2w ago"
+      },
+      "evidenceText": "12:42 Why You're Getting Zero Replies To Your Cold Emails 77K 2w ago"
+    },
+    {
+      "title": "Why The Harness Matters More Than The Model | YC Paper Club",
+      "canonicalUrl": "https://www.youtube.com/watch?v=n9xKblqyQ28",
+      "externalId": "n9xKblqyQ28",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "1:00:11",
+        "metadata": "376K 2w ago"
+      },
+      "evidenceText": "1:00:11 Why The Harness Matters More Than The Model | YC Paper Club 376K 2w ago"
+    },
+    {
+      "title": "Open Models Change The Economics of AI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rY0wnfFHYbs",
+      "externalId": "rY0wnfFHYbs",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "57:16",
+        "metadata": "112K 3w ago"
+      },
+      "evidenceText": "57:16 Open Models Change The Economics of AI 112K 3w ago"
+    },
+    {
+      "title": "Paul Graham On Startups, Ambition, and Great Founders",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5bxp78i96S8",
+      "externalId": "5bxp78i96S8",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "21:25",
+        "metadata": "316K 3w ago"
+      },
+      "evidenceText": "21:25 Paul Graham On Startups, Ambition, and Great Founders 316K 3w ago"
+    },
+    {
+      "title": "The World’s Largest Electric Aircraft Just Flew",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "externalId": "nM86DBOqgPM",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "14:49",
+        "metadata": "3.8M 3w ago"
+      },
+      "evidenceText": "14:49 The World’s Largest Electric Aircraft Just Flew 3.8M 3w ago"
+    },
+    {
+      "title": "Max Junestrand: You Need The Willingness To Learn Faster Than Anyone Else",
+      "canonicalUrl": "https://www.youtube.com/watch?v=o0ORPbSEgd8",
+      "externalId": "o0ORPbSEgd8",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "59:40",
+        "metadata": "73K 1mo ago"
+      },
+      "evidenceText": "59:40 Max Junestrand: You Need The Willingness To Learn Faster Than Anyone Else 73K 1mo ago"
+    },
+    {
+      "title": "Going In Deep On Data | YC Paper Club",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IfoPg2QefF8",
+      "externalId": "IfoPg2QefF8",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "52:35",
+        "metadata": "43K 1mo ago"
+      },
+      "evidenceText": "52:35 Going In Deep On Data | YC Paper Club 43K 1mo ago"
+    },
+    {
+      "title": "Michael Kratsios: Inside the White House's AI Strategy",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zLUZclThLhU",
+      "externalId": "zLUZclThLhU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/zLUZclThLhU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAAzkRhVX9v9PopCI9bg6eI_Pvqcw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "39:44",
+        "metadata": "10K 1mo ago"
+      },
+      "evidenceText": "39:44 Michael Kratsios: Inside the White House's AI Strategy 10K 1mo ago"
+    },
+    {
+      "title": "Susan Kare: Designing Icons & Graphics For the Original Mac",
+      "canonicalUrl": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+      "externalId": "YEvLKzsEwMw",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/YEvLKzsEwMw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLABU3vROW8e22w_JKdk206SQJiBgA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "51:45",
+        "metadata": "42K 1mo ago"
+      },
+      "evidenceText": "51:45 Susan Kare: Designing Icons & Graphics For the Original Mac 42K 1mo ago"
+    },
+    {
+      "title": "Chelsea Finn: This is the State of the Art in Robotics",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cRZNwgvcWUg",
+      "externalId": "cRZNwgvcWUg",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/cRZNwgvcWUg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCoc4Zm1CYIX5v5uAxHVlkOzBOV0A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "58:18",
+        "metadata": "75K 1mo ago"
+      },
+      "evidenceText": "58:18 Chelsea Finn: This is the State of the Art in Robotics 75K 1mo ago"
+    },
+    {
+      "title": "Circleback CEO Ali Haghani: Why Your Company Should Be Recording More Meetings",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4YWO4sSRrTE",
+      "externalId": "4YWO4sSRrTE",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/4YWO4sSRrTE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD4hEMLY7CWxQmHLZa9pYCxvME6WA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "15:17",
+        "metadata": "14K 1mo ago"
+      },
+      "evidenceText": "15:17 Circleback CEO Ali Haghani: Why Your Company Should Be Recording More Meetings 14K 1mo ago"
+    },
+    {
+      "title": "Peter Steinberger: \"Fun Is Velocity\"",
+      "canonicalUrl": "https://www.youtube.com/watch?v=whcfSGN6CAU",
+      "externalId": "whcfSGN6CAU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/whcfSGN6CAU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLApwzODPhEFyWAJXiaIrn6rTdz2Iw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "41:53",
+        "metadata": "26K 1mo ago"
+      },
+      "evidenceText": "41:53 Peter Steinberger: \"Fun Is Velocity\" 26K 1mo ago"
+    },
+    {
+      "title": "Why Robotics Still Isn't Solved - But Could Be Soon | YC Paper Club",
+      "canonicalUrl": "https://www.youtube.com/watch?v=myDCd0hNqQU",
+      "externalId": "myDCd0hNqQU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/myDCd0hNqQU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAIZ7IPubJQGIiMEzFvUP5QBsFiIg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "1:24:13",
+        "metadata": "72K 1mo ago"
+      },
+      "evidenceText": "1:24:13 Why Robotics Still Isn't Solved - But Could Be Soon | YC Paper Club 72K 1mo ago"
+    },
+    {
+      "title": "Max Hodak: Average Is Not Good Enough",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Xc4klGbq8v8",
+      "externalId": "Xc4klGbq8v8",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/Xc4klGbq8v8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBd_R2ENoOS75qL_I60tL-JvmIcGw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "57:03",
+        "metadata": "34K 1mo ago"
+      },
+      "evidenceText": "57:03 Max Hodak: Average Is Not Good Enough 34K 1mo ago"
+    },
+    {
+      "title": "How To Design In The Agent Era",
+      "canonicalUrl": "https://www.youtube.com/watch?v=P06RgnUKX_I",
+      "externalId": "P06RgnUKX_I",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/P06RgnUKX_I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTwKgV_uIke1cI2Vlz1-ldhS9jkw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "56:02",
+        "metadata": "87K 1mo ago"
+      },
+      "evidenceText": "56:02 How To Design In The Agent Era 87K 1mo ago"
+    },
+    {
+      "title": "Garry Tan: Own Your Intelligence",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eRrc1pUY5oU",
+      "externalId": "eRrc1pUY5oU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/eRrc1pUY5oU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA583-l0j5cajn2HA-zgdj1lEFwug",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "42:08",
+        "metadata": "104K 1mo ago"
+      },
+      "evidenceText": "42:08 Garry Tan: Own Your Intelligence 104K 1mo ago"
+    },
+    {
+      "title": "The Case For Data Centers In Space",
+      "canonicalUrl": "https://www.youtube.com/watch?v=A9JDkiYEhfY",
+      "externalId": "A9JDkiYEhfY",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/A9JDkiYEhfY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB8wzIr7zq5SFNrKMWGGDcIy7NeBg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "36:14",
+        "metadata": "25K 1mo ago"
+      },
+      "evidenceText": "36:14 The Case For Data Centers In Space 25K 1mo ago"
+    },
+    {
+      "title": "Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Gp4zrV3-6N8",
+      "externalId": "Gp4zrV3-6N8",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/Gp4zrV3-6N8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB-dnt1D_pNmkaAnsdVO6iBD3JfwQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "49:24",
+        "metadata": "41K 1mo ago"
+      },
+      "evidenceText": "49:24 Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work 41K 1mo ago"
+    },
+    {
+      "title": "Patrick Collison: Is AI Breaking the Lean Startup Playbook?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5d6y3poKwK4",
+      "externalId": "5d6y3poKwK4",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/5d6y3poKwK4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCegsUxfwXGc1eW_n9pbdz8XZ0-Gg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "31:00",
+        "metadata": "64K 1mo ago"
+      },
+      "evidenceText": "31:00 Patrick Collison: Is AI Breaking the Lean Startup Playbook? 64K 1mo ago"
+    },
+    {
+      "title": "Jeff Dean: The 1% Rule for Building in AI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
+      "externalId": "CxXgV54KzpQ",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "57:07",
+        "metadata": "183K 1mo ago"
+      },
+      "evidenceText": "57:07 Jeff Dean: The 1% Rule for Building in AI 183K 1mo ago"
+    },
+    {
+      "title": "Lessons From Training Composer At Cursor And Building Meta/Nvidia Compute Clusters | YC Paper Club",
+      "canonicalUrl": "https://www.youtube.com/watch?v=n8dz2FX0_uY",
+      "externalId": "n8dz2FX0_uY",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "1:16:25",
+        "metadata": "43K 1mo ago"
+      },
+      "evidenceText": "1:16:25 Lessons From Training Composer At Cursor And Building Meta/Nvidia Compute Clusters | YC Paper Club 43K 1mo ago"
+    },
+    {
+      "title": "Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sJ4VJWycX9M",
+      "externalId": "sJ4VJWycX9M",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "32:10",
+        "metadata": "324K 1mo ago"
+      },
+      "evidenceText": "32:10 Alexandr Wang: “This is a Once-in-a-Civilization Opportunity” 324K 1mo ago"
+    },
+    {
+      "title": "Blake Scholl: How 50 People Built a Supersonic Jet",
+      "canonicalUrl": "https://www.youtube.com/watch?v=byAj35QlGbs",
+      "externalId": "byAj35QlGbs",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/byAj35QlGbs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_4HTb7QudcXDZ5waxISfPwwfJiA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "50:02",
+        "metadata": "10K 1mo ago"
+      },
+      "evidenceText": "50:02 Blake Scholl: How 50 People Built a Supersonic Jet 10K 1mo ago"
+    },
+    {
+      "title": "Sam Altman: \"Never a Better Time to Do a Startup\"",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZIaOBAjvc38",
+      "externalId": "ZIaOBAjvc38",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/ZIaOBAjvc38/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDoHCX3QSXozcQJFNmg-5WTimXhOw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "39:01",
+        "metadata": "249K 1mo ago"
+      },
+      "evidenceText": "39:01 Sam Altman: \"Never a Better Time to Do a Startup\" 249K 1mo ago"
+    },
+    {
+      "title": "Boris Cherny: We Cut 80% of Claude Code’s Prompt",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
+      "externalId": "qyPCVqFUyDo",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/qyPCVqFUyDo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDyGRFF4XJ70MM4zZYjL72JW759aQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "35:52",
+        "metadata": "308K 1mo ago"
+      },
+      "evidenceText": "35:52 Boris Cherny: We Cut 80% of Claude Code’s Prompt 308K 1mo ago"
+    },
+    {
+      "title": "Jensen Huang: The Mindset That Built NVIDIA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=I4B37S1dyQQ",
+      "externalId": "I4B37S1dyQQ",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/I4B37S1dyQQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC5WviDHtmFeEu4ildGLs9ycGZoIA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "49:00",
+        "metadata": "258K 2mo ago"
+      },
+      "evidenceText": "49:00 Jensen Huang: The Mindset That Built NVIDIA 258K 2mo ago"
+    },
+    {
+      "title": "What Actually Makes A Startup Durable",
+      "canonicalUrl": "https://www.youtube.com/watch?v=99sPd15j3Zc",
+      "externalId": "99sPd15j3Zc",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/99sPd15j3Zc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB5HLf9ZPRotDWAoeJDcJlceqmfEQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "47:36",
+        "metadata": "15K 2mo ago"
+      },
+      "evidenceText": "47:36 What Actually Makes A Startup Durable 15K 2mo ago"
+    },
+    {
+      "title": "What Big Tech Missed And How Startups Can Still Win",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FVsgX0AdDTo",
+      "externalId": "FVsgX0AdDTo",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/FVsgX0AdDTo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBi81AfCvmsBMUwOzzlP38RvVamSw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "29:10",
+        "metadata": "7.2K 2mo ago"
+      },
+      "evidenceText": "29:10 What Big Tech Missed And How Startups Can Still Win 7.2K 2mo ago"
+    },
+    {
+      "title": "Why Physical AI Is the Next Platform Shift",
+      "canonicalUrl": "https://www.youtube.com/watch?v=F3INH9wZXoQ",
+      "externalId": "F3INH9wZXoQ",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/F3INH9wZXoQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCD9F8YZ84nwPsYxMBDamF6ER1jhA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "20:11",
+        "metadata": "8.9K 2mo ago"
+      },
+      "evidenceText": "20:11 Why Physical AI Is the Next Platform Shift 8.9K 2mo ago"
+    },
+    {
+      "title": "What Top AI Labs Are Really Doing With Observability",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vb1Gcn10enw",
+      "externalId": "vb1Gcn10enw",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/vb1Gcn10enw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCj760mTMB8Fb5_rLI3bqaWPnFloQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "30:30",
+        "metadata": "6.7K 2mo ago"
+      },
+      "evidenceText": "30:30 What Top AI Labs Are Really Doing With Observability 6.7K 2mo ago"
+    },
+    {
+      "title": "He Built the World's #1 Open-Source Coding Agent",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_O6x4ktK6JA",
+      "externalId": "_O6x4ktK6JA",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/_O6x4ktK6JA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBzDxtHhXiXdVlJEW5LL6m1dB2uDA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "44:27",
+        "metadata": "76K 2mo ago"
+      },
+      "evidenceText": "44:27 He Built the World's #1 Open-Source Coding Agent 76K 2mo ago"
+    },
+    {
+      "title": "How Photoroom Trained Themselves To Dream Bigger",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RgYCO87ghRY",
+      "externalId": "RgYCO87ghRY",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "22:04",
+        "metadata": "3.5K 2mo ago"
+      },
+      "evidenceText": "22:04 How Photoroom Trained Themselves To Dream Bigger 3.5K 2mo ago"
+    },
+    {
+      "title": "The Model-Agnostic AI Platform Betting That No Single Lab Will Win",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DbBnd9PYob4",
+      "externalId": "DbBnd9PYob4",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "22:53",
+        "metadata": "5.5K 2mo ago"
+      },
+      "evidenceText": "22:53 The Model-Agnostic AI Platform Betting That No Single Lab Will Win 5.5K 2mo ago"
+    },
+    {
+      "title": "How Supabase Became One Of The Fastest Growing DevTool Companies In The World",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sG5aB79TE44",
+      "externalId": "sG5aB79TE44",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "31:21",
+        "metadata": "7.9K 2mo ago"
+      },
+      "evidenceText": "31:21 How Supabase Became One Of The Fastest Growing DevTool Companies In The World 7.9K 2mo ago"
+    },
+    {
+      "title": "Why Ambitious Startup Ideas Are Actually Easier To Sell",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ALJQHSgCl2E",
+      "externalId": "ALJQHSgCl2E",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "28:42",
+        "metadata": "19K 2mo ago"
+      },
+      "evidenceText": "28:42 Why Ambitious Startup Ideas Are Actually Easier To Sell 19K 2mo ago"
+    },
+    {
+      "title": "World Models, JEPA And The Path To Sample-Efficient RL",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qz4GQ0zUFRw",
+      "externalId": "qz4GQ0zUFRw",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "1:14:27",
+        "metadata": "32K 2mo ago"
+      },
+      "evidenceText": "1:14:27 World Models, JEPA And The Path To Sample-Efficient RL 32K 2mo ago"
+    },
+    {
+      "title": "YC's Head of Design Shows You How To Design With AI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VbqaL_eHhKY",
+      "externalId": "VbqaL_eHhKY",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "30:55",
+        "metadata": "98K 2mo ago"
+      },
+      "evidenceText": "30:55 YC's Head of Design Shows You How To Design With AI 98K 2mo ago"
+    },
+    {
+      "title": "Dot Plots: How to Actually See What Your Users Are Doing",
+      "canonicalUrl": "https://www.youtube.com/watch?v=e5-6rEwzxLs",
+      "externalId": "e5-6rEwzxLs",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/e5-6rEwzxLs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB5qtjXYrDX3b1o3E4aMmFr3BrmfA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "13:50",
+        "metadata": "38K 2mo ago"
+      },
+      "evidenceText": "13:50 Dot Plots: How to Actually See What Your Users Are Doing 38K 2mo ago"
+    },
+    {
+      "title": "Solving the Blank Canvas Problem: Gusto's AI Co-Founder",
+      "canonicalUrl": "https://www.youtube.com/watch?v=xpeRVyFFy_Q",
+      "externalId": "xpeRVyFFy_Q",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/xpeRVyFFy_Q/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCA38hdrmLgiy0-Rh4o9iBgr882Hg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "32:27",
+        "metadata": "21K 2mo ago"
+      },
+      "evidenceText": "32:27 Solving the Blank Canvas Problem: Gusto's AI Co-Founder 21K 2mo ago"
+    },
+    {
+      "title": "India Can Create The Largest AI Companies",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Ju8LVdvuxGM",
+      "externalId": "Ju8LVdvuxGM",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/Ju8LVdvuxGM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBS473iqA2jOgwIqTplZFUgtDpkeQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "32:10",
+        "metadata": "29K 2mo ago"
+      },
+      "evidenceText": "32:10 India Can Create The Largest AI Companies 29K 2mo ago"
+    },
+    {
+      "title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
+      "canonicalUrl": "https://www.youtube.com/watch?v=oHwUD9b9_pg",
+      "externalId": "oHwUD9b9_pg",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/oHwUD9b9_pg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB3iXkOmzfKwlDKHm_zErtMcmt0Rw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "40:43",
+        "metadata": "40K 3mo ago"
+      },
+      "evidenceText": "40:43 Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It 40K 3mo ago"
+    },
+    {
+      "title": "How to Get Your First 10 Customers",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_FBivfgOvuE",
+      "externalId": "_FBivfgOvuE",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/_FBivfgOvuE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGMKkAQs4d5s0ZB0z3k_KUDXfMmw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "13:47",
+        "metadata": "129K 3mo ago"
+      },
+      "evidenceText": "13:47 How to Get Your First 10 Customers 129K 3mo ago"
+    },
+    {
+      "title": "The Age Of The 40-Year-Old Solo Founder Is Here",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8OOuCnZB-4o",
+      "externalId": "8OOuCnZB-4o",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/8OOuCnZB-4o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJ03zFVzna0P6uj3ume89J8oaErw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "42:43",
+        "metadata": "121K 3mo ago"
+      },
+      "evidenceText": "42:43 The Age Of The 40-Year-Old Solo Founder Is Here 121K 3mo ago"
+    },
+    {
+      "title": "Pick One Idea and Go Deep",
+      "canonicalUrl": "https://www.youtube.com/watch?v=R56RJFZBasQ",
+      "externalId": "R56RJFZBasQ",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/R56RJFZBasQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDFjE5zXkZ77SOlJaRXejxhM8P6DQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "11:31",
+        "metadata": "162K 3mo ago"
+      },
+      "evidenceText": "11:31 Pick One Idea and Go Deep 162K 3mo ago"
+    },
+    {
+      "title": "Groww: If Your Customers Don't Love It or Hate It, You've Already Lost",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ObBAxL2dFzw",
+      "externalId": "ObBAxL2dFzw",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/ObBAxL2dFzw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC0AXqZdM-3SM2_AmBDNBpt9q5YqA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "30:11",
+        "metadata": "11K 3mo ago"
+      },
+      "evidenceText": "30:11 Groww: If Your Customers Don't Love It or Hate It, You've Already Lost 11K 3mo ago"
+    },
+    {
+      "title": "Self-Play for LLMs, AI for Biology, Formal Verification, and More | YC Paper Club",
+      "canonicalUrl": "https://www.youtube.com/watch?v=3rWSvrFahIY",
+      "externalId": "3rWSvrFahIY",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/3rWSvrFahIY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCkyv3H7Kn1Rt-tQ34HT4IncfrcBA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "1:16:55",
+        "metadata": "94K 3mo ago"
+      },
+      "evidenceText": "1:16:55 Self-Play for LLMs, AI for Biology, Formal Verification, and More | YC Paper Club 94K 3mo ago"
+    },
+    {
+      "title": "How Meesho Became India’s Biggest Shopping App",
+      "canonicalUrl": "https://www.youtube.com/watch?v=49L8lVe_PVo",
+      "externalId": "49L8lVe_PVo",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/49L8lVe_PVo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDAmWjZMwnn81e1woNLPl-CurxrtA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "30:21",
+        "metadata": "17K 3mo ago"
+      },
+      "evidenceText": "30:21 How Meesho Became India’s Biggest Shopping App 17K 3mo ago"
+    },
+    {
+      "title": "The Most AI-Pilled CEO We Know",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mPAHvz8kW24",
+      "externalId": "mPAHvz8kW24",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/mPAHvz8kW24/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAylhNfJKpzRXA36gINH-DrnMXPPw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "54:07",
+        "metadata": "57K 3mo ago"
+      },
+      "evidenceText": "54:07 The Most AI-Pilled CEO We Know 57K 3mo ago"
+    },
+    {
+      "title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yyXCQHX55N4",
+      "externalId": "yyXCQHX55N4",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/yyXCQHX55N4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB8sVAbMCHSPZKrgDYf1LGLu-So3w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "29:05",
+        "metadata": "25K 3mo ago"
+      },
+      "evidenceText": "29:05 Emergent: How Six Months of Tinkering Led To A $100M ARR Company 25K 3mo ago"
+    },
+    {
+      "title": "How Legora Went From YC to $100M ARR in 18 Months",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mjmswQurIU4",
+      "externalId": "mjmswQurIU4",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "22:47",
+        "metadata": "22K 3mo ago"
+      },
+      "evidenceText": "22:47 How Legora Went From YC to $100M ARR in 18 Months 22K 3mo ago"
+    },
+    {
+      "title": "Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fQmlML9Lay4",
+      "externalId": "fQmlML9Lay4",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "16:35",
+        "metadata": "300K 3mo ago"
+      },
+      "evidenceText": "16:35 Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup 300K 3mo ago"
+    },
+    {
+      "title": "How to Build an AI-Native Services Company",
+      "canonicalUrl": "https://www.youtube.com/watch?v=gSNFJbgoaHI",
+      "externalId": "gSNFJbgoaHI",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "11:22",
+        "metadata": "155K 3mo ago"
+      },
+      "evidenceText": "11:22 How to Build an AI-Native Services Company 155K 3mo ago"
+    },
+    {
+      "title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2Ap1dnv-GXA",
+      "externalId": "2Ap1dnv-GXA",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/2Ap1dnv-GXA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLATvBp2lfvm0_RdKjUXud_3uA8ASg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "24:30",
+        "metadata": "23K 3mo ago"
+      },
+      "evidenceText": "24:30 Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup 23K 3mo ago"
+    },
+    {
+      "title": "Inference, Diffusion, World Models, and More | YC Paper Club",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wE1ZgJdt4uM",
+      "externalId": "wE1ZgJdt4uM",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/wE1ZgJdt4uM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDi49kTsZQntYS3qLrW0DD0cu3kBw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "1:07:19",
+        "metadata": "142K 3mo ago"
+      },
+      "evidenceText": "1:07:19 Inference, Diffusion, World Models, and More | YC Paper Club 142K 3mo ago"
+    },
+    {
+      "title": "Inside YC's AI Playbook",
+      "canonicalUrl": "https://www.youtube.com/watch?v=B246K_G7mHU",
+      "externalId": "B246K_G7mHU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/B246K_G7mHU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_-oqZuThkUJDm7EWXsJIageHP-g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "46:30",
+        "metadata": "101K 3mo ago"
+      },
+      "evidenceText": "46:30 Inside YC's AI Playbook 101K 3mo ago"
+    },
+    {
+      "title": "How The Best Companies Defend Against Mediocrity And Rot",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7VKliOQXQ9M",
+      "externalId": "7VKliOQXQ9M",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/7VKliOQXQ9M/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbs87ltskYHm5zIG9cDvyUoF7Uhg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "50:05",
+        "metadata": "24K 4mo ago"
+      },
+      "evidenceText": "50:05 How The Best Companies Defend Against Mediocrity And Rot 24K 4mo ago"
+    },
+    {
+      "title": "How to Build a Self-Improving Company with AI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=X_JsIHUfUjc",
+      "externalId": "X_JsIHUfUjc",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/X_JsIHUfUjc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBlmwajvu2QzSR7Hye-Uumz3a67Kw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "13:29",
+        "metadata": "179K 4mo ago"
+      },
+      "evidenceText": "13:29 How to Build a Self-Improving Company with AI 179K 4mo ago"
+    },
+    {
+      "title": "Zepto: How Two 17-Year-Olds Built India's Largest Seller Of Fruits and Vegetables",
+      "canonicalUrl": "https://www.youtube.com/watch?v=YKZCU0ynEbs",
+      "externalId": "YKZCU0ynEbs",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/YKZCU0ynEbs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAWSOgd7zaWsxb_QgeON04BJzSrmw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "28:58",
+        "metadata": "236K 4mo ago"
+      },
+      "evidenceText": "28:58 Zepto: How Two 17-Year-Olds Built India's Largest Seller Of Fruits and Vegetables 236K 4mo ago"
+    },
+    {
+      "title": "Paul Graham, Founder of Y Combinator, Live from Stockholm",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QHJkUw31YX8",
+      "externalId": "QHJkUw31YX8",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/QHJkUw31YX8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBAJRxxq9qmH_2C896jl-zh5093_g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "21:58",
+        "metadata": "97K 4mo ago"
+      },
+      "evidenceText": "21:58 Paul Graham, Founder of Y Combinator, Live from Stockholm 97K 4mo ago"
+    },
+    {
+      "title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
+      "canonicalUrl": "https://www.youtube.com/watch?v=57lDpTwiW6g",
+      "externalId": "57lDpTwiW6g",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/57lDpTwiW6g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA3cGSMOOEc6JXvNPs3RsS-5wJMLg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "41:30",
+        "metadata": "99K 4mo ago"
+      },
+      "evidenceText": "41:30 Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers 99K 4mo ago"
+    },
+    {
+      "title": "Harshil Mathur: AI Is Compressing Every Moat",
+      "canonicalUrl": "https://www.youtube.com/watch?v=X5bABLCuIHA",
+      "externalId": "X5bABLCuIHA",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/X5bABLCuIHA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZczs1uXtoVc_jJSi196JZaCgTJA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "31:35",
+        "metadata": "20K 4mo ago"
+      },
+      "evidenceText": "31:35 Harshil Mathur: AI Is Compressing Every Moat 20K 4mo ago"
+    },
+    {
+      "title": "Recursion Is The Next Scaling Law In AI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DGtUUMNYLcc",
+      "externalId": "DGtUUMNYLcc",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "37:53",
+        "metadata": "19K 4mo ago"
+      },
+      "evidenceText": "37:53 Recursion Is The Next Scaling Law In AI 19K 4mo ago"
+    },
+    {
+      "title": "Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
+      "externalId": "JNyuX1zoOgU",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "40:57",
+        "metadata": "318K 4mo ago"
+      },
+      "evidenceText": "40:57 Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough 318K 4mo ago"
+    },
+    {
+      "title": "Replit's CEO On The Only Two Jobs Left In The Company Of The Future",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kMYeTRqzAfc",
+      "externalId": "kMYeTRqzAfc",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "39:12",
+        "metadata": "37K 5mo ago"
+      },
+      "evidenceText": "39:12 Replit's CEO On The Only Two Jobs Left In The Company Of The Future 37K 5mo ago"
+    },
+    {
+      "title": "How To Build A Company With AI From The Ground Up",
+      "canonicalUrl": "https://www.youtube.com/watch?v=EN7frwQIbKc",
+      "externalId": "EN7frwQIbKc",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "10:28",
+        "metadata": "316K 5mo ago"
+      },
+      "evidenceText": "10:28 How To Build A Company With AI From The Ground Up 316K 5mo ago"
+    },
+    {
+      "title": "How to Make Claude Code Your AI Engineering Team",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wkv2ifxPpF8",
+      "externalId": "wkv2ifxPpF8",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "21:50",
+        "metadata": "265K 5mo ago"
+      },
+      "evidenceText": "21:50 How to Make Claude Code Your AI Engineering Team 265K 5mo ago"
+    },
+    {
+      "title": "How Stripe Built Their New Website",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ypzNhwpmOD4",
+      "externalId": "ypzNhwpmOD4",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "43:37",
+        "metadata": "92K 5mo ago"
+      },
+      "evidenceText": "43:37 How Stripe Built Their New Website 92K 5mo ago"
+    },
+    {
+      "title": "The GPT Moment for Robotics Is Here",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
+      "externalId": "4EsUaur0nsQ",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/4EsUaur0nsQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAh-v6bfsW85DB6obLaXzDuBK_yDA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "49:27",
+        "metadata": "82K 5mo ago"
+      },
+      "evidenceText": "49:27 The GPT Moment for Robotics Is Here 82K 5mo ago"
+    },
+    {
+      "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
+      "externalId": "kkv5rZhrLkc",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/kkv5rZhrLkc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCf_4FBXjRxmJ7xxFZ4W6Eg4q8tcw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "20:50",
+        "metadata": "42K 5mo ago"
+      },
+      "evidenceText": "20:50 BillionToOne Is Solving One of Biotech’s Hardest Problems 42K 5mo ago"
+    },
+    {
+      "title": "This Startup Catches Fraud at Scale",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JF6XIixstmQ",
+      "externalId": "JF6XIixstmQ",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/JF6XIixstmQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTYrPjeJ7SUNpXDmtoO8vf_X2PIw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "31:24",
+        "metadata": "17K 5mo ago"
+      },
+      "evidenceText": "31:24 This Startup Catches Fraud at Scale 17K 5mo ago"
+    },
+    {
+      "title": "François Chollet: Why Scaling Alone Isn’t Enough for AGI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=k2ZLQC8P7dc",
+      "externalId": "k2ZLQC8P7dc",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/k2ZLQC8P7dc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBkV7SZYW_Ihv989JW11W_k3igMYQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "57:24",
+        "metadata": "47K 5mo ago"
+      },
+      "evidenceText": "57:24 François Chollet: Why Scaling Alone Isn’t Enough for AGI 47K 5mo ago"
+    },
+    {
+      "title": "Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PCypBUVhff8",
+      "externalId": "PCypBUVhff8",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/PCypBUVhff8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDmpVOp33-XmFm2Ey1W7U7j5fIq-w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "13:08",
+        "metadata": "284K 6mo ago"
+      },
+      "evidenceText": "13:08 Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry 284K 6mo ago"
+    },
+    {
+      "title": "AI Is Unlocking Millions Of New Builders",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8SVocWnDHwE",
+      "externalId": "8SVocWnDHwE",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/8SVocWnDHwE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBMR81QREHK0AKVLwFoPq-tide6jQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "39:33",
+        "metadata": "50K 6mo ago"
+      },
+      "evidenceText": "39:33 AI Is Unlocking Millions Of New Builders 50K 6mo ago"
+    },
+    {
+      "title": "The Future Of Brain-Computer Interfaces",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5gspRJVp9dI",
+      "externalId": "5gspRJVp9dI",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/5gspRJVp9dI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGkw2hpz5rdbbTx7BvtMJM7BHGrw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "53:21",
+        "metadata": "262K 6mo ago"
+      },
+      "evidenceText": "53:21 The Future Of Brain-Computer Interfaces 262K 6mo ago"
+    },
+    {
+      "title": "Common Mistakes With Vibe Coded Websites",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DNSXlBmukck",
+      "externalId": "DNSXlBmukck",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/DNSXlBmukck/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDC5FWwguYFcv_mvR6Z4b62r-FY_w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "37:27",
+        "metadata": "118K 6mo ago"
+      },
+      "evidenceText": "37:27 Common Mistakes With Vibe Coded Websites 118K 6mo ago"
+    },
+    {
+      "title": "The Powerful Alternative To Fine-Tuning",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UPGB-hsAoVY",
+      "externalId": "UPGB-hsAoVY",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/UPGB-hsAoVY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtjqLf22hxtwfTDg23IGu-g7GLkQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "19:46",
+        "metadata": "57K 6mo ago"
+      },
+      "evidenceText": "19:46 The Powerful Alternative To Fine-Tuning 57K 6mo ago"
+    },
+    {
+      "title": "The AI Agent Economy Is Here",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Q8wVMdwhlh4",
+      "externalId": "Q8wVMdwhlh4",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/Q8wVMdwhlh4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC7mHbM2Nq8HPS6ycn6px41tCYYMA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "23:22",
+        "metadata": "159K 7mo ago"
+      },
+      "evidenceText": "23:22 The AI Agent Economy Is Here 159K 7mo ago"
+    },
+    {
+      "title": "Inside Claude Code With Its Creator Boris Cherny",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PQU9o_5rHC4",
+      "externalId": "PQU9o_5rHC4",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/PQU9o_5rHC4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBl0o8zs62kiKuaVcVYzMVSOJ4Qzg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "50:11",
+        "metadata": "248K 7mo ago"
+      },
+      "evidenceText": "50:11 Inside Claude Code With Its Creator Boris Cherny 248K 7mo ago"
+    },
+    {
+      "title": "The New Way To Build A Startup",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rWUWfj_PqmM",
+      "externalId": "rWUWfj_PqmM",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/rWUWfj_PqmM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNI2po7sd-owBxu2zL2PYMyHKtTA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "7:51",
+        "metadata": "312K 7mo ago"
+      },
+      "evidenceText": "7:51 The New Way To Build A Startup 312K 7mo ago"
+    },
+    {
+      "title": "OpenClaw Creator: Why 80% Of Apps Will Disappear",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4uzGDAoNOZc",
+      "externalId": "4uzGDAoNOZc",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "22:36",
+        "metadata": "1M 7mo ago"
+      },
+      "evidenceText": "22:36 OpenClaw Creator: Why 80% Of Apps Will Disappear 1M 7mo ago"
+    },
+    {
+      "title": "We're All Addicted To Claude Code",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qwmmWzPnhog",
+      "externalId": "qwmmWzPnhog",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "46:00",
+        "metadata": "127K 7mo ago"
+      },
+      "evidenceText": "46:00 We're All Addicted To Claude Code 127K 7mo ago"
+    },
+    {
+      "title": "How We Redesigned Our Website",
+      "canonicalUrl": "https://www.youtube.com/watch?v=K5JoLAauzq4",
+      "externalId": "K5JoLAauzq4",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "18:40",
+        "metadata": "25K 7mo ago"
+      },
+      "evidenceText": "18:40 How We Redesigned Our Website 25K 7mo ago"
+    },
+    {
+      "title": "Why Your Startup Website Isn't Converting",
+      "canonicalUrl": "https://www.youtube.com/watch?v=leQ89XSHILw",
+      "externalId": "leQ89XSHILw",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/leQ89XSHILw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD184uiJ9FYK693QIhisfFVymT4Cg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "40:27",
+        "metadata": "26K 7mo ago"
+      },
+      "evidenceText": "40:27 Why Your Startup Website Isn't Converting 26K 7mo ago"
+    },
+    {
+      "title": "The ML Technique Every Founder Should Know",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dC_3ys349bU",
+      "externalId": "dC_3ys349bU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/dC_3ys349bU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCj1exn7Xa2m3A8b_T2YUvFB_EkDA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "27:11",
+        "metadata": "38K 8mo ago"
+      },
+      "evidenceText": "27:11 The ML Technique Every Founder Should Know 38K 8mo ago"
+    },
+    {
+      "title": "How To Get Your First Users",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0kARDVL2nZg",
+      "externalId": "0kARDVL2nZg",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/0kARDVL2nZg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBdPvdJfqfP_6a3_Lp5m00b6lAhrA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "5:42",
+        "metadata": "114K 8mo ago"
+      },
+      "evidenceText": "5:42 How To Get Your First Users 114K 8mo ago"
+    },
+    {
+      "title": "Inside The Startup Building Reusable Rockets",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2hgjgycOU_0",
+      "externalId": "2hgjgycOU_0",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/2hgjgycOU_0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCw1sgqbBBFhB22WP9kOcOM7y4vkg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "15:44",
+        "metadata": "43K 8mo ago"
+      },
+      "evidenceText": "15:44 Inside The Startup Building Reusable Rockets 43K 8mo ago"
+    },
+    {
+      "title": "The Truth About The AI Bubble",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cqrJzG03ENE",
+      "externalId": "cqrJzG03ENE",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/cqrJzG03ENE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA8iDrAzQkrIwo0jLMWffCrZkS-iA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "30:23",
+        "metadata": "104K 9mo ago"
+      },
+      "evidenceText": "30:23 The Truth About The AI Bubble 104K 9mo ago"
+    },
+    {
+      "title": "How Intelligent Is AI, Really?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pBlIgs6w7Ss",
+      "externalId": "pBlIgs6w7Ss",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/pBlIgs6w7Ss/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_GfQI8QWv-35k2NeDeGs5e7udcQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "12:00",
+        "metadata": "14K 9mo ago"
+      },
+      "evidenceText": "12:00 How Intelligent Is AI, Really? 14K 9mo ago"
+    },
+    {
+      "title": "From Pivot Hell To $1.4 Billion Unicorn",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5WN8bfG06Hk",
+      "externalId": "5WN8bfG06Hk",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/5WN8bfG06Hk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAz8vqHp0OWFTDccRwzjJ8H1Am-cw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "38:47",
+        "metadata": "32K 9mo ago"
+      },
+      "evidenceText": "38:47 From Pivot Hell To $1.4 Billion Unicorn 32K 9mo ago"
+    },
+    {
+      "title": "How Amplitude Went From Skeptics to “All In” on AI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=t8co94HS6tY",
+      "externalId": "t8co94HS6tY",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/t8co94HS6tY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBfbXN2FeflEHbUZPxpFRCl7GABnQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "44:22",
+        "metadata": "48K 9mo ago"
+      },
+      "evidenceText": "44:22 How Amplitude Went From Skeptics to “All In” on AI 48K 9mo ago"
+    },
+    {
+      "title": "The Best Consumer Startup Ideas Were Impossible Until Now",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Z4L4ZqL1xqQ",
+      "externalId": "Z4L4ZqL1xqQ",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/Z4L4ZqL1xqQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDe-qflyLpfsIas2NiYJkBe6hGRIg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "39:36",
+        "metadata": "76K 9mo ago"
+      },
+      "evidenceText": "39:36 The Best Consumer Startup Ideas Were Impossible Until Now 76K 9mo ago"
+    },
+    {
+      "title": "Cursor Head of Design Roasts Startup Websites",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RynySryqM_0",
+      "externalId": "RynySryqM_0",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "35:35",
+        "metadata": "182K 10mo ago"
+      },
+      "evidenceText": "35:35 Cursor Head of Design Roasts Startup Websites 182K 10mo ago"
+    },
+    {
+      "title": "AI Is Eating Logistics",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KTmxaMdUbHA",
+      "externalId": "KTmxaMdUbHA",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "33:41",
+        "metadata": "72K 10mo ago"
+      },
+      "evidenceText": "33:41 AI Is Eating Logistics 72K 10mo ago"
+    },
+    {
+      "title": "Inside The Startup Launching AI Data Centers Into Space",
+      "canonicalUrl": "https://www.youtube.com/watch?v=hKw6cRKcqzY",
+      "externalId": "hKw6cRKcqzY",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "12:56",
+        "metadata": "330K 10mo ago"
+      },
+      "evidenceText": "12:56 Inside The Startup Launching AI Data Centers Into Space 330K 10mo ago"
+    },
+    {
+      "title": "The Startup Playbook for Hiring Your First Engineers and AEs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=i_PjjXKNpA4",
+      "externalId": "i_PjjXKNpA4",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "43:21",
+        "metadata": "55K 10mo ago"
+      },
+      "evidenceText": "43:21 The Startup Playbook for Hiring Your First Engineers and AEs 55K 10mo ago"
+    },
+    {
+      "title": "Good News For Startups: Enterprise Is Bad At AI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DULfEcPR0Gc",
+      "externalId": "DULfEcPR0Gc",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "21:44",
+        "metadata": "127K 10mo ago"
+      },
+      "evidenceText": "21:44 Good News For Startups: Enterprise Is Bad At AI 127K 10mo ago"
+    },
+    {
+      "title": "From Idea to $650M Exit: Lessons in Building AI Startups",
+      "canonicalUrl": "https://www.youtube.com/watch?v=l0h3nAW13ao",
+      "externalId": "l0h3nAW13ao",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "39:25",
+        "metadata": "371K 10mo ago"
+      },
+      "evidenceText": "39:25 From Idea to $650M Exit: Lessons in Building AI Startups 371K 10mo ago"
+    },
+    {
+      "title": "Transformers Explained: The Discovery That Changed AI Forever",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JZLZQVmfGn8",
+      "externalId": "JZLZQVmfGn8",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/JZLZQVmfGn8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCVrVsKA0qOfygF3IaeQtQhatIqvw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "9:19",
+        "metadata": "107K 11mo ago"
+      },
+      "evidenceText": "9:19 Transformers Explained: The Discovery That Changed AI Forever 107K 11mo ago"
+    },
+    {
+      "title": "Startup Advice: AI GTM, Pivoting & How To Hire",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nGLmpKi-jRU",
+      "externalId": "nGLmpKi-jRU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/nGLmpKi-jRU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBMMlz-BNqOmXCr1_s5OPfM1XjfPw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "38:33",
+        "metadata": "56K 11mo ago"
+      },
+      "evidenceText": "38:33 Startup Advice: AI GTM, Pivoting & How To Hire 56K 11mo ago"
+    },
+    {
+      "title": "Billion-Dollar Unpopular Startup Ideas",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Hm-ZIiwiN1o",
+      "externalId": "Hm-ZIiwiN1o",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/Hm-ZIiwiN1o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAnL2m6Km-OIAWdAc26nKNhMn8MBw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "37:43",
+        "metadata": "144K 11mo ago"
+      },
+      "evidenceText": "37:43 Billion-Dollar Unpopular Startup Ideas 144K 11mo ago"
+    },
+    {
+      "title": "What Everyone Is Getting Wrong About AI And Jobs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IqwSb2hO1jE",
+      "externalId": "IqwSb2hO1jE",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/IqwSb2hO1jE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJW-X6JUgnOvRh48kta9RywprJoA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "8:01",
+        "metadata": "322K 11mo ago"
+      },
+      "evidenceText": "8:01 What Everyone Is Getting Wrong About AI And Jobs 322K 11mo ago"
+    },
+    {
+      "title": "This Startup Is Trying To Delete 29% Of All CO2 Emissions",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ENG_DQF5E60",
+      "externalId": "ENG_DQF5E60",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/ENG_DQF5E60/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAzARdqn9yOsQBcs88TF8d1Bgap_w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "12:47",
+        "metadata": "50K 11mo ago"
+      },
+      "evidenceText": "12:47 This Startup Is Trying To Delete 29% Of All CO2 Emissions 50K 11mo ago"
+    },
+    {
+      "title": "Ask These Questions Before Starting An AI Startup",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DJjZzzPANBY",
+      "externalId": "DJjZzzPANBY",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/DJjZzzPANBY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDankPrBSGnPvFst4MOimV14MyL7A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "40:36",
+        "metadata": "49K 11mo ago"
+      },
+      "evidenceText": "40:36 Ask These Questions Before Starting An AI Startup 49K 11mo ago"
+    },
+    {
+      "title": "The 7 Most Powerful Moats For AI Startups",
+      "canonicalUrl": "https://www.youtube.com/watch?v=bxBzsSsqQAM",
+      "externalId": "bxBzsSsqQAM",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/bxBzsSsqQAM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCYLHN9Ji3IxTudGFQuVHxqoF0YTw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "45:06",
+        "metadata": "195K 11mo ago"
+      },
+      "evidenceText": "45:06 The 7 Most Powerful Moats For AI Startups 195K 11mo ago"
+    },
+    {
+      "title": "Anthropic Head of Pretraining on Scaling Laws, Compute, and the Future of AI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=YFeb3yAxtjE",
+      "externalId": "YFeb3yAxtjE",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/YFeb3yAxtjE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC2C539jo_TuDeHScaHvDgHfO5LEQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "1:04:05",
+        "metadata": "32K 11mo ago"
+      },
+      "evidenceText": "1:04:05 Anthropic Head of Pretraining on Scaling Laws, Compute, and the Future of AI 32K 11mo ago"
+    },
+    {
+      "title": "Why Now Is The Best Time To Build In Crypto",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Pdne9xaRLUc",
+      "externalId": "Pdne9xaRLUc",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/Pdne9xaRLUc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLABrQd4FOehMxODBVPkiNCMLHPueA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "42:01",
+        "metadata": "32K 1y ago"
+      },
+      "evidenceText": "42:01 Why Now Is The Best Time To Build In Crypto 32K 1y ago"
+    },
+    {
+      "title": "Aaron Levie: Why Startups Win In The AI Era",
+      "canonicalUrl": "https://www.youtube.com/watch?v=uqc_vt95GJg",
+      "externalId": "uqc_vt95GJg",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/uqc_vt95GJg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDHEWuZvnufXH65OnTfJzoAsbZMsw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "40:28",
+        "metadata": "98K 1y ago"
+      },
+      "evidenceText": "40:28 Aaron Levie: Why Startups Win In The AI Era 98K 1y ago"
+    },
+    {
+      "title": "The Future of Software Creation with Replit CEO Amjad Masad",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lWmDiDGsLK4",
+      "externalId": "lWmDiDGsLK4",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/lWmDiDGsLK4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCoa3ilvKyW6-iGxuhGxIB7wnC0Rw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "42:02",
+        "metadata": "117K 1y ago"
+      },
+      "evidenceText": "42:02 The Future of Software Creation with Replit CEO Amjad Masad 117K 1y ago"
+    },
+    {
+      "title": "The FDE Playbook for AI Startups with Bob McGrew",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Zyw-YA0k3xo",
+      "externalId": "Zyw-YA0k3xo",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/Zyw-YA0k3xo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBwCRX0IUcTZU-ChE3zhET-1FOrBg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "50:43",
+        "metadata": "145K 1y ago"
+      },
+      "evidenceText": "50:43 The FDE Playbook for AI Startups with Bob McGrew 145K 1y ago"
+    },
+    {
+      "title": "Michael Truell: Building Cursor At 23, Taking On GitHub Copilot & Advice To Engineering Students",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TrXi3naD6Og",
+      "externalId": "TrXi3naD6Og",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "27:56",
+        "metadata": "60K 1y ago"
+      },
+      "evidenceText": "27:56 Michael Truell: Building Cursor At 23, Taking On GitHub Copilot & Advice To Engineering Students 60K 1y ago"
+    },
+    {
+      "title": "OpenAI vs. Deepseek vs. Qwen: Comparing Open Source LLM Architectures",
+      "canonicalUrl": "https://www.youtube.com/watch?v=raTbhtKZTZA",
+      "externalId": "raTbhtKZTZA",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "12:32",
+        "metadata": "34K 1y ago"
+      },
+      "evidenceText": "12:32 OpenAI vs. Deepseek vs. Qwen: Comparing Open Source LLM Architectures 34K 1y ago"
+    },
+    {
+      "title": "How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pHuXCzM2ntU",
+      "externalId": "pHuXCzM2ntU",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "45:26",
+        "metadata": "96K 1y ago"
+      },
+      "evidenceText": "45:26 How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience) 96K 1y ago"
+    },
+    {
+      "title": "Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JdT78t1Offo",
+      "externalId": "JdT78t1Offo",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/JdT78t1Offo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXlwtskjfjgg3T9pGZcQfkzD5e1A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "35:57",
+        "metadata": "145K 1y ago"
+      },
+      "evidenceText": "35:57 Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design 145K 1y ago"
+    },
+    {
+      "title": "The Sales Playbook For Founders | Startup School",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DH7REvnQ1y4",
+      "externalId": "DH7REvnQ1y4",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/DH7REvnQ1y4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLEbVs3THGJUKFLw-mFGReOPsbuA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "18:49",
+        "metadata": "132K 1y ago"
+      },
+      "evidenceText": "18:49 The Sales Playbook For Founders | Startup School 132K 1y ago"
+    },
+    {
+      "title": "Dylan Field: Scaling Figma and the Future of Design",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-7Qz7tSTfUU",
+      "externalId": "-7Qz7tSTfUU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/-7Qz7tSTfUU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBVyCnJI_HY3zu9e8nTSnrLHSG5UA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "40:37",
+        "metadata": "41K 1y ago"
+      },
+      "evidenceText": "40:37 Dylan Field: Scaling Figma and the Future of Design 41K 1y ago"
+    },
+    {
+      "title": "The Finance Startup Bringing Agentic AI to Wall Street",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lqokpIme47A",
+      "externalId": "lqokpIme47A",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/lqokpIme47A/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDq5NOF0SjlKR4cXmPWjxZzvdKWjA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "46:16",
+        "metadata": "63K 1y ago"
+      },
+      "evidenceText": "46:16 The Finance Startup Bringing Agentic AI to Wall Street 63K 1y ago"
+    },
+    {
+      "title": "Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan",
+      "canonicalUrl": "https://www.youtube.com/watch?v=p8Jx4qvDoSo",
+      "externalId": "p8Jx4qvDoSo",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/p8Jx4qvDoSo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDInWCv3sbwUSpnhNAgMSDViaH1KA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "40:48",
+        "metadata": "60K 1y ago"
+      },
+      "evidenceText": "40:48 Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan 60K 1y ago"
+    },
+    {
+      "title": "Brand Design Tips From Linear Founder Karri Saarinen",
+      "canonicalUrl": "https://www.youtube.com/watch?v=uEeFsW9343g",
+      "externalId": "uEeFsW9343g",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/uEeFsW9343g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLByv4Ri-WMHsz3IoLPkDlv7IXZZ2w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "43:42",
+        "metadata": "38K 1y ago"
+      },
+      "evidenceText": "43:42 Brand Design Tips From Linear Founder Karri Saarinen 38K 1y ago"
+    },
+    {
+      "title": "Chelsea Finn: Building Robots That Can Do Anything",
+      "canonicalUrl": "https://www.youtube.com/watch?v=a8-QsBHoH94",
+      "externalId": "a8-QsBHoH94",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/a8-QsBHoH94/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLARXz-jWvaycdMHShASsUXTyn3o9w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "44:53",
+        "metadata": "105K 1y ago"
+      },
+      "evidenceText": "44:53 Chelsea Finn: Building Robots That Can Do Anything 105K 1y ago"
+    },
+    {
+      "title": "How Replit Went From $10M to $100M ARR In Just 9 Months",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kOyIjt6FUrw",
+      "externalId": "kOyIjt6FUrw",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/kOyIjt6FUrw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLComVs1JZWESOji0kM5ZcEzb5AEzA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "35:51",
+        "metadata": "39K 1y ago"
+      },
+      "evidenceText": "35:51 How Replit Went From $10M to $100M ARR In Just 9 Months 39K 1y ago"
+    },
+    {
+      "title": "Nobel Laureate John Jumper: AI is Revolutionizing Scientific Discovery",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2Yguz5U-Nic",
+      "externalId": "2Yguz5U-Nic",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/2Yguz5U-Nic/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCbUE60QTMG8l9OD-z8H4M0HPhOFQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "27:27",
+        "metadata": "43K 1y ago"
+      },
+      "evidenceText": "27:27 Nobel Laureate John Jumper: AI is Revolutionizing Scientific Discovery 43K 1y ago"
+    },
+    {
+      "title": "Aravind Srinivas: Perplexity's Race to Build Agentic Search",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2jOnoTEk-xA",
+      "externalId": "2jOnoTEk-xA",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "43:13",
+        "metadata": "130K 1y ago"
+      },
+      "evidenceText": "43:13 Aravind Srinivas: Perplexity's Race to Build Agentic Search 130K 1y ago"
+    },
+    {
+      "title": "Andrew Ng: Building Faster with AI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RNJCfif1dPY",
+      "externalId": "RNJCfif1dPY",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "43:58",
+        "metadata": "458K 1y ago"
+      },
+      "evidenceText": "43:58 Andrew Ng: Building Faster with AI 458K 1y ago"
+    },
+    {
+      "title": "How to Spend Your 20s in the AI Era",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ShYKkPPhOoc",
+      "externalId": "ShYKkPPhOoc",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "38:56",
+        "metadata": "351K 1y ago"
+      },
+      "evidenceText": "38:56 How to Spend Your 20s in the AI Era 351K 1y ago"
+    },
+    {
+      "title": "François Chollet: How We Get To AGI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5QcCeSsNRks",
+      "externalId": "5QcCeSsNRks",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "34:48",
+        "metadata": "139K 1y ago"
+      },
+      "evidenceText": "34:48 François Chollet: How We Get To AGI 139K 1y ago"
+    },
+    {
+      "title": "Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_PioN-CpOP0",
+      "externalId": "_PioN-CpOP0",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "44:22",
+        "metadata": "205K 1y ago"
+      },
+      "evidenceText": "44:22 Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI 205K 1y ago"
+    },
+    {
+      "title": "Legendary Consumer VC Predicts The Future Of AI Products",
+      "canonicalUrl": "https://www.youtube.com/watch?v=xFQ5mIJdxhA",
+      "externalId": "xFQ5mIJdxhA",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "35:47",
+        "metadata": "104K 1y ago"
+      },
+      "evidenceText": "35:47 Legendary Consumer VC Predicts The Future Of AI Products 104K 1y ago"
+    },
+    {
+      "title": "Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=AUUZuzVHKdo",
+      "externalId": "AUUZuzVHKdo",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/AUUZuzVHKdo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBZo-F7hXPJNZSHe57xu99Mv0djEA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "40:30",
+        "metadata": "141K 1y ago"
+      },
+      "evidenceText": "40:30 Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs 141K 1y ago"
+    },
+    {
+      "title": "Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware",
+      "canonicalUrl": "https://www.youtube.com/watch?v=V979Wd1gmTU",
+      "externalId": "V979Wd1gmTU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/V979Wd1gmTU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDzV8ym5w5b-5GUqS10RXUNRrWujA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "42:44",
+        "metadata": "485K 1y ago"
+      },
+      "evidenceText": "42:44 Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware 485K 1y ago"
+    },
+    {
+      "title": "Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cFIlta1GkiE",
+      "externalId": "cFIlta1GkiE",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/cFIlta1GkiE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAAI0q5K6Y3xBlzRuLMv5PRcaYezA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "49:41",
+        "metadata": "776K 1y ago"
+      },
+      "evidenceText": "49:41 Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful 776K 1y ago"
+    },
+    {
+      "title": "Andrej Karpathy: Software Is Changing (Again)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "externalId": "LCEmiRjPEtQ",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/LCEmiRjPEtQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdR9R2QKWNR_TPysdq4kS6cgqhKA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "39:32",
+        "metadata": "2.5M 1y ago"
+      },
+      "evidenceText": "39:32 Andrej Karpathy: Software Is Changing (Again) 2.5M 1y ago"
+    },
+    {
+      "title": "Alexandr Wang: Building Scale AI, Transforming Work With Agents & Competing With China",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5noIKN8t69U",
+      "externalId": "5noIKN8t69U",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/5noIKN8t69U/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDt7cRipjEWq7ApckeP60abs1m16Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "1:01:13",
+        "metadata": "376K 1y ago"
+      },
+      "evidenceText": "1:01:13 Alexandr Wang: Building Scale AI, Transforming Work With Agents & Competing With China 376K 1y ago"
+    },
+    {
+      "title": "Cursor CEO: Going Beyond Code, Superintelligent AI Agents, And Why Taste Still Matters",
+      "canonicalUrl": "https://www.youtube.com/watch?v=oOylEw3tPQ8",
+      "externalId": "oOylEw3tPQ8",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/oOylEw3tPQ8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBwIc2LP3ZD9Ds5UC2ECgRLrzKBng",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "37:29",
+        "metadata": "253K 1y ago"
+      },
+      "evidenceText": "37:29 Cursor CEO: Going Beyond Code, Superintelligent AI Agents, And Why Taste Still Matters 253K 1y ago"
+    },
+    {
+      "title": "Fusion Energy Will Power the AI Boom",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XdigD0LOXx0",
+      "externalId": "XdigD0LOXx0",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/XdigD0LOXx0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBRhWfJsgyt8YW82bSnp2AXzrTOSA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "8:08",
+        "metadata": "57K 1y ago"
+      },
+      "evidenceText": "8:08 Fusion Energy Will Power the AI Boom 57K 1y ago"
+    },
+    {
+      "title": "State-Of-The-Art Prompting For AI Agents",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DL82mGde6wo",
+      "externalId": "DL82mGde6wo",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/DL82mGde6wo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCaRm6IBJElggwZ-RPnAWEriuAo2Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "31:26",
+        "metadata": "342K 1y ago"
+      },
+      "evidenceText": "31:26 State-Of-The-Art Prompting For AI Agents 342K 1y ago"
+    },
+    {
+      "title": "How To Design Better AI Apps",
+      "canonicalUrl": "https://www.youtube.com/watch?v=WJoZK9sMwvw",
+      "externalId": "WJoZK9sMwvw",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/WJoZK9sMwvw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAvLc3ogfG5YVdyQH-6xP8FsWXa4A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "30:08",
+        "metadata": "97K 1y ago"
+      },
+      "evidenceText": "30:08 How To Design Better AI Apps 97K 1y ago"
+    },
+    {
+      "title": "Startup Ideas You Can Now Build With AI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=K4s6Cgicw_A",
+      "externalId": "K4s6Cgicw_A",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/K4s6Cgicw_A/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAiq9YcU650bCZB8urAMhPT9BHe3A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "40:47",
+        "metadata": "296K 1y ago"
+      },
+      "evidenceText": "40:47 Startup Ideas You Can Now Build With AI 296K 1y ago"
+    },
+    {
+      "title": "How AI Coding Agents Will Change Your Job",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TECDj4JUx7o",
+      "externalId": "TECDj4JUx7o",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/TECDj4JUx7o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDwmiTBznR9FcIt_A1ywDJ9J1mlmQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "19:12",
+        "metadata": "115K 1y ago"
+      },
+      "evidenceText": "19:12 How AI Coding Agents Will Change Your Job 115K 1y ago"
+    },
+    {
+      "title": "Windsurf CEO: Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LKgAx7FWva4",
+      "externalId": "LKgAx7FWva4",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/LKgAx7FWva4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDD-Ikt2Ef7yQ3u0KkuzIzPoY6NEw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "52:36",
+        "metadata": "252K 1y ago"
+      },
+      "evidenceText": "52:36 Windsurf CEO: Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding 252K 1y ago"
+    },
+    {
+      "title": "How To Get The Most Out Of Vibe Coding | Startup School",
+      "canonicalUrl": "https://www.youtube.com/watch?v=BJjsfNO5JTo",
+      "externalId": "BJjsfNO5JTo",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "16:40",
+        "metadata": "357K 1y ago"
+      },
+      "evidenceText": "16:40 How To Get The Most Out Of Vibe Coding | Startup School 357K 1y ago"
+    },
+    {
+      "title": "How Zepto Became India’s Fastest Growing Startup",
+      "canonicalUrl": "https://www.youtube.com/watch?v=aYK0H85E_oU",
+      "externalId": "aYK0H85E_oU",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "38:24",
+        "metadata": "236K 1y ago"
+      },
+      "evidenceText": "38:24 How Zepto Became India’s Fastest Growing Startup 236K 1y ago"
+    },
+    {
+      "title": "The Next Breakthrough In AI Agents Is Here",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JOYSDqJdiro",
+      "externalId": "JOYSDqJdiro",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "8:30",
+        "metadata": "278K 1y ago"
+      },
+      "evidenceText": "8:30 The Next Breakthrough In AI Agents Is Here 278K 1y ago"
+    },
+    {
+      "title": "How To Build A Truly Abundant Future",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VIkphkYlkaQ",
+      "externalId": "VIkphkYlkaQ",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/VIkphkYlkaQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCg-j3JALwMihqOJc-pmWef3kbP4Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "34:13",
+        "metadata": "27K 1y ago"
+      },
+      "evidenceText": "34:13 How To Build A Truly Abundant Future 27K 1y ago"
+    },
+    {
+      "title": "What Founders Can Do To Improve Their Design Game",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ksGNfd-wQY4",
+      "externalId": "ksGNfd-wQY4",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/ksGNfd-wQY4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDMCEoIuCcwbM_UtwQx6gT3ZarTOQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "20:44",
+        "metadata": "55K 1y ago"
+      },
+      "evidenceText": "20:44 What Founders Can Do To Improve Their Design Game 55K 1y ago"
+    },
+    {
+      "title": "DoorDash CEO: Customer Obsession, Surviving Startup Death & Creating A New Market",
+      "canonicalUrl": "https://www.youtube.com/watch?v=3N3TnaViyjk",
+      "externalId": "3N3TnaViyjk",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/3N3TnaViyjk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBfbW07gIDlacp_PFtaFuxJChfKhQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "31:33",
+        "metadata": "220K 1y ago"
+      },
+      "evidenceText": "31:33 DoorDash CEO: Customer Obsession, Surviving Startup Death & Creating A New Market 220K 1y ago"
+    },
+    {
+      "title": "How Top 1% Founders Navigate Co-founder Conflict",
+      "canonicalUrl": "https://www.youtube.com/watch?v=bvjyaz4ZiVI",
+      "externalId": "bvjyaz4ZiVI",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/bvjyaz4ZiVI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBB4k5Q-9JKytXzoA0LJRfvBhcqfA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "43:15",
+        "metadata": "59K 1y ago"
+      },
+      "evidenceText": "43:15 How Top 1% Founders Navigate Co-founder Conflict 59K 1y ago"
+    },
+    {
+      "title": "From A Pivot To Building A $9.6 Billion Payroll Company",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VaQA55ZZWBU",
+      "externalId": "VaQA55ZZWBU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/VaQA55ZZWBU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCVFrkQw2_1SddlQEOMt_mLW7ITsg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "26:12",
+        "metadata": "29K 1y ago"
+      },
+      "evidenceText": "26:12 From A Pivot To Building A $9.6 Billion Payroll Company 29K 1y ago"
+    },
+    {
+      "title": "Figma's Dylan Field: Exploring the idea maze, vibe coding, and the power of “locking in”",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4UE4e6b2qtA",
+      "externalId": "4UE4e6b2qtA",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/4UE4e6b2qtA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCL_tU_iBr7LpWthp1c5aPrSmmu_w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "37:42",
+        "metadata": "66K 1y ago"
+      },
+      "evidenceText": "37:42 Figma's Dylan Field: Exploring the idea maze, vibe coding, and the power of “locking in” 66K 1y ago"
+    },
+    {
+      "title": "GPT-4.5 = Big Model Energy | YC Decoded",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5uBAQrg4SoQ",
+      "externalId": "5uBAQrg4SoQ",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/5uBAQrg4SoQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXETUCOya_1hFAGHgqFISUCcQubw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "8:26",
+        "metadata": "31K 1y ago"
+      },
+      "evidenceText": "8:26 GPT-4.5 = Big Model Energy | YC Decoded 31K 1y ago"
+    },
+    {
+      "title": "Vibe Coding Is The Future",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IACHfKmZMr8",
+      "externalId": "IACHfKmZMr8",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/IACHfKmZMr8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDi8XXQLk_QCQRQCtVUJkislCrxqg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "31:34",
+        "metadata": "300K 1y ago"
+      },
+      "evidenceText": "31:34 Vibe Coding Is The Future 300K 1y ago"
+    },
+    {
+      "title": "AI Interfaces Of The Future | Design Review",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DBhSfROq3wU",
+      "externalId": "DBhSfROq3wU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/DBhSfROq3wU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBE7P9Y2K_rrWE0CRFRoo5DuHjKTw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "36:28",
+        "metadata": "174K 1y ago"
+      },
+      "evidenceText": "36:28 AI Interfaces Of The Future | Design Review 174K 1y ago"
+    },
+    {
+      "title": "How To Build The Future: Aravind Srinivas",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SP7Ua8FKZN4",
+      "externalId": "SP7Ua8FKZN4",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "34:39",
+        "metadata": "142K 1y ago"
+      },
+      "evidenceText": "34:39 How To Build The Future: Aravind Srinivas 142K 1y ago"
+    },
+    {
+      "title": "How AI Is Changing Enterprise",
+      "canonicalUrl": "https://www.youtube.com/watch?v=aIKfA3gIXwo",
+      "externalId": "aIKfA3gIXwo",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "49:29",
+        "metadata": "132K 1y ago"
+      },
+      "evidenceText": "49:29 How AI Is Changing Enterprise 132K 1y ago"
+    },
+    {
+      "title": "How Blake Scholl Built The First Independent Supersonic Jet",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sOFmYwYa9Pk",
+      "externalId": "sOFmYwYa9Pk",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "13:46",
+        "metadata": "88K 1y ago"
+      },
+      "evidenceText": "13:46 How Blake Scholl Built The First Independent Supersonic Jet 88K 1y ago"
+    },
+    {
+      "title": "The Right (And Wrong) Way To Spend Money At Your Startup",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IRROi-Q1V44",
+      "externalId": "IRROi-Q1V44",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "29:07",
+        "metadata": "79K 1y ago"
+      },
+      "evidenceText": "29:07 The Right (And Wrong) Way To Spend Money At Your Startup 79K 1y ago"
+    },
+    {
+      "title": "How To Get AI Startup Ideas",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TANaRNMbYgk",
+      "externalId": "TANaRNMbYgk",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "43:49",
+        "metadata": "289K 1y ago"
+      },
+      "evidenceText": "43:49 How To Get AI Startup Ideas 289K 1y ago"
+    },
+    {
+      "title": "The Engineering Unlocks Behind DeepSeek | YC Decoded",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4Tmn-XP93m4",
+      "externalId": "4Tmn-XP93m4",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "13:06",
+        "metadata": "214K 1y ago"
+      },
+      "evidenceText": "13:06 The Engineering Unlocks Behind DeepSeek | YC Decoded 214K 1y ago"
+    },
+    {
+      "title": "Bob McGrew: AI Agents And The Path To AGI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eW7rUtYHD9U",
+      "externalId": "eW7rUtYHD9U",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/eW7rUtYHD9U/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBWqIQY92ekSmsULA0GyxlittA9wg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "30:45",
+        "metadata": "50K 1y ago"
+      },
+      "evidenceText": "30:45 Bob McGrew: AI Agents And The Path To AGI 50K 1y ago"
+    },
+    {
+      "title": "AI Revolution: What Nobody Else Is Seeing",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0LMK5JYkB94",
+      "externalId": "0LMK5JYkB94",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/0LMK5JYkB94/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDRL1Vt2ixqsCqAZcXXIyDymKtVRQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "39:33",
+        "metadata": "192K 1y ago"
+      },
+      "evidenceText": "39:33 AI Revolution: What Nobody Else Is Seeing 192K 1y ago"
+    },
+    {
+      "title": "How Scaling Laws Will Determine AI's Future | YC Decoded",
+      "canonicalUrl": "https://www.youtube.com/watch?v=d6Ed5bZAtrM",
+      "externalId": "d6Ed5bZAtrM",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/d6Ed5bZAtrM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAuI4hBSNTBchtFCaRLB1rA-iunJg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "10:12",
+        "metadata": "40K 1y ago"
+      },
+      "evidenceText": "10:12 How Scaling Laws Will Determine AI's Future | YC Decoded 40K 1y ago"
+    },
+    {
+      "title": "How To Use AI In Your Startup",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7Kt9ugD3bGQ",
+      "externalId": "7Kt9ugD3bGQ",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/7Kt9ugD3bGQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBzdUqArsh7Qlp0LKXGGl64yvv9mg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "14:18",
+        "metadata": "88K 1y ago"
+      },
+      "evidenceText": "14:18 How To Use AI In Your Startup 88K 1y ago"
+    },
+    {
+      "title": "How To Build The Future: Parker Conrad",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FwD0wqwUjAI",
+      "externalId": "FwD0wqwUjAI",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/FwD0wqwUjAI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC37YxObEnYn52rjw2eG5MmvJA4xw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "43:28",
+        "metadata": "61K 1y ago"
+      },
+      "evidenceText": "43:28 How To Build The Future: Parker Conrad 61K 1y ago"
+    },
+    {
+      "title": "Building A $2 Billion SaaS Company: Lessons From A Two Time Founder",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rjyJsbUunQ4",
+      "externalId": "rjyJsbUunQ4",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/rjyJsbUunQ4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAGb5IZK-0Y9BbhhRku0CopThbXCA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "24:32",
+        "metadata": "99K 1y ago"
+      },
+      "evidenceText": "24:32 Building A $2 Billion SaaS Company: Lessons From A Two Time Founder 99K 1y ago"
+    },
+    {
+      "title": "The Lightcone 2025 Forecast",
+      "canonicalUrl": "https://www.youtube.com/watch?v=uGjv25IrjoE",
+      "externalId": "uGjv25IrjoE",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/uGjv25IrjoE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDqdYtdU1v_WJvEyS-eInoRH-5uGg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "7:03",
+        "metadata": "51K 1y ago"
+      },
+      "evidenceText": "7:03 The Lightcone 2025 Forecast 51K 1y ago"
+    },
+    {
+      "title": "How David Lieb Turned a Failing Startup Into Google Photos | Backstory",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CcnwFJqEnxU",
+      "externalId": "CcnwFJqEnxU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/CcnwFJqEnxU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC823vbxa1RyyGI7erfhgz7CN4J-w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "19:33",
+        "metadata": "356K 1y ago"
+      },
+      "evidenceText": "19:33 How David Lieb Turned a Failing Startup Into Google Photos | Backstory 356K 1y ago"
+    },
+    {
+      "title": "2024: The Year the GPT Wrapper Myth Proved Wrong",
+      "canonicalUrl": "https://www.youtube.com/watch?v=z0wt2pe_LZM",
+      "externalId": "z0wt2pe_LZM",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/z0wt2pe_LZM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLARys8Uedx3CJS75EvZDkDqzVtGKQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "38:11",
+        "metadata": "108K 1y ago"
+      },
+      "evidenceText": "38:11 2024: The Year the GPT Wrapper Myth Proved Wrong 108K 1y ago"
+    },
+    {
+      "title": "Anthropic’s Claude Computer Use Is A Game Changer | YC Decoded",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VDmU0jjklBo",
+      "externalId": "VDmU0jjklBo",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/VDmU0jjklBo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDFWIR4CtQySPwmJ4yAy8o_PfgcNg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "7:54",
+        "metadata": "143K 1y ago"
+      },
+      "evidenceText": "7:54 Anthropic’s Claude Computer Use Is A Game Changer | YC Decoded 143K 1y ago"
+    },
+    {
+      "title": "How To Start A Dev Tools Company | Startup School",
+      "canonicalUrl": "https://www.youtube.com/watch?v=z1aKRhRnVNk",
+      "externalId": "z1aKRhRnVNk",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/z1aKRhRnVNk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBdVgZtwlaKimdTi1LOFvuChMMmag",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "32:57",
+        "metadata": "68K 1y ago"
+      },
+      "evidenceText": "32:57 How To Start A Dev Tools Company | Startup School 68K 1y ago"
+    },
+    {
+      "title": "Vertical AI Agents Could Be 10X Bigger Than SaaS",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ASABxNenD_U",
+      "externalId": "ASABxNenD_U",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/ASABxNenD_U/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBonwXygoCnTVy1cehXZy_Q3Pbf1g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "42:13",
+        "metadata": "998K 1y ago"
+      },
+      "evidenceText": "42:13 Vertical AI Agents Could Be 10X Bigger Than SaaS 998K 1y ago"
+    },
+    {
+      "title": "Twitter vs. X: Product Lessons For Startup Founders",
+      "canonicalUrl": "https://www.youtube.com/watch?v=EW9TUqOgjmQ",
+      "externalId": "EW9TUqOgjmQ",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "22:43",
+        "metadata": "41K 1y ago"
+      },
+      "evidenceText": "22:43 Twitter vs. X: Product Lessons For Startup Founders 41K 1y ago"
+    },
+    {
+      "title": "Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JiwiqYGw4iU",
+      "externalId": "JiwiqYGw4iU",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "35:17",
+        "metadata": "81K 1y ago"
+      },
+      "evidenceText": "35:17 Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling 81K 1y ago"
+    },
+    {
+      "title": "How To Build The Future: Sam Altman",
+      "canonicalUrl": "https://www.youtube.com/watch?v=xXCBz_8hM9w",
+      "externalId": "xXCBz_8hM9w",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "46:52",
+        "metadata": "700K 1y ago"
+      },
+      "evidenceText": "46:52 How To Build The Future: Sam Altman 700K 1y ago"
+    },
+    {
+      "title": "The 10 Trillion Parameter AI Model With 300 IQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lbJilIQhHko",
+      "externalId": "lbJilIQhHko",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/lbJilIQhHko/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAMgSC7yyLPzLDYGnQAHTboqXGiyg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "33:45",
+        "metadata": "62K 1y ago"
+      },
+      "evidenceText": "33:45 The 10 Trillion Parameter AI Model With 300 IQ 62K 1y ago"
+    },
+    {
+      "title": "You Don’t Have To Be A Billionaire To Launch Satellites",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Q0Xs0lGgwVA",
+      "externalId": "Q0Xs0lGgwVA",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/Q0Xs0lGgwVA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBKgAbGfyab1T_cTTqDq1B-eAAQUg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "13:41",
+        "metadata": "32K 1y ago"
+      },
+      "evidenceText": "13:41 You Don’t Have To Be A Billionaire To Launch Satellites 32K 1y ago"
+    },
+    {
+      "title": "Why OpenAI's o1 Is A Huge Deal | YC Decoded",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Lv9bKyQgoHo",
+      "externalId": "Lv9bKyQgoHo",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/Lv9bKyQgoHo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDm2bi64CEX14Joe2HruGvAsR0PwQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "7:07",
+        "metadata": "41K 1y ago"
+      },
+      "evidenceText": "7:07 Why OpenAI's o1 Is A Huge Deal | YC Decoded 41K 1y ago"
+    },
+    {
+      "title": "Starting A Company? The Key Terms You Should Know | Startup School",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wH3TKpALlw4",
+      "externalId": "wH3TKpALlw4",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/wH3TKpALlw4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCMDKdSfXfFc_PP6W3le6vcVkp3-A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "17:55",
+        "metadata": "111K 1y ago"
+      },
+      "evidenceText": "17:55 Starting A Company? The Key Terms You Should Know | Startup School 111K 1y ago"
+    },
+    {
+      "title": "Now Anyone Can Code: How AI Agents Can Build Your Whole App",
+      "canonicalUrl": "https://www.youtube.com/watch?v=jbIQfoldLag",
+      "externalId": "jbIQfoldLag",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/jbIQfoldLag/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDN3iIZXcL5Ype3Tpj1cKcZ1lrj8A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "37:14",
+        "metadata": "94K 1y ago"
+      },
+      "evidenceText": "37:14 Now Anyone Can Code: How AI Agents Can Build Your Whole App 94K 1y ago"
+    },
+    {
+      "title": "Why Design Matters: Lessons from Stripe, Lyft and Airbnb",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CKfERe55CeA",
+      "externalId": "CKfERe55CeA",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/CKfERe55CeA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAne4psBPWfm19T4m0gvZf8_rstOg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "33:38",
+        "metadata": "62K 1y ago"
+      },
+      "evidenceText": "33:38 Why Design Matters: Lessons from Stripe, Lyft and Airbnb 62K 1y ago"
+    },
+    {
+      "title": "How Do Billion Dollar Startups Start?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HB3l1BPi7zo",
+      "externalId": "HB3l1BPi7zo",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/HB3l1BPi7zo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD1Rk_YONcuHpw8PLOVmaYjtUOl_g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "18:34",
+        "metadata": "141K 1y ago"
+      },
+      "evidenceText": "18:34 How Do Billion Dollar Startups Start? 141K 1y ago"
+    },
+    {
+      "title": "Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eBVi_sLaYsc",
+      "externalId": "eBVi_sLaYsc",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/eBVi_sLaYsc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCk4_5ipQAMhWCWdJk4EjgsmmBScA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "37:06",
+        "metadata": "445K 1y ago"
+      },
+      "evidenceText": "37:06 Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities 445K 1y ago"
+    },
+    {
+      "title": "Stripe Head of Design Katie Dill Reviews Startup Websites",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DY5Z-uZ6ZMc",
+      "externalId": "DY5Z-uZ6ZMc",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/DY5Z-uZ6ZMc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBOMaKzrd9REdYOdFwb6uuhtVRSWg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "21:06",
+        "metadata": "94K 1y ago"
+      },
+      "evidenceText": "21:06 Stripe Head of Design Katie Dill Reviews Startup Websites 94K 1y ago"
+    },
+    {
+      "title": "How To Find A Co-Founder | Startup School",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Fk9BCr5pLTU",
+      "externalId": "Fk9BCr5pLTU",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "20:38",
+        "metadata": "132K 1y ago"
+      },
+      "evidenceText": "20:38 How To Find A Co-Founder | Startup School 132K 1y ago"
+    },
+    {
+      "title": "Building The World's Best Image Diffusion Model",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VyIOoqjm8HA",
+      "externalId": "VyIOoqjm8HA",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "55:52",
+        "metadata": "18K 2y ago"
+      },
+      "evidenceText": "55:52 Building The World's Best Image Diffusion Model 18K 2y ago"
+    },
+    {
+      "title": "Signs Your Company Is Recovering From ZIRP",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kVGvC7Ix_nc",
+      "externalId": "kVGvC7Ix_nc",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "17:40",
+        "metadata": "28K 2y ago"
+      },
+      "evidenceText": "17:40 Signs Your Company Is Recovering From ZIRP 28K 2y ago"
+    },
+    {
+      "title": "How To Convert Customers With Cold Emails | Startup School",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7Kh_fpxP1yY",
+      "externalId": "7Kh_fpxP1yY",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "32:46",
+        "metadata": "140K 2y ago"
+      },
+      "evidenceText": "32:46 How To Convert Customers With Cold Emails | Startup School 140K 2y ago"
+    },
+    {
+      "title": "How YC Was Created With Jessica Livingston",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6u4JVz7iQTY",
+      "externalId": "6u4JVz7iQTY",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "59:00",
+        "metadata": "28K 2y ago"
+      },
+      "evidenceText": "59:00 How YC Was Created With Jessica Livingston 28K 2y ago"
+    },
+    {
+      "title": "How To Keep Your Users | Startup School",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VNxBZ7ka5J0",
+      "externalId": "VNxBZ7ka5J0",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "29:23",
+        "metadata": "59K 2y ago"
+      },
+      "evidenceText": "29:23 How To Keep Your Users | Startup School 59K 2y ago"
+    },
+    {
+      "title": "Are We In An AI Hype Cycle?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_-5xJQ4U8g0",
+      "externalId": "_-5xJQ4U8g0",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/_-5xJQ4U8g0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdppcCbzwbNKWdyhcgUcbbunjTVQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "37:36",
+        "metadata": "73K 2y ago"
+      },
+      "evidenceText": "37:36 Are We In An AI Hype Cycle? 73K 2y ago"
+    },
+    {
+      "title": "How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years",
+      "canonicalUrl": "https://www.youtube.com/watch?v=uZVyBc1CKN0",
+      "externalId": "uZVyBc1CKN0",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/uZVyBc1CKN0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBWdgj-1huyFxm7rZ9UnlLaXQXdhQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "21:11",
+        "metadata": "130K 2y ago"
+      },
+      "evidenceText": "21:11 How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years 130K 2y ago"
+    },
+    {
+      "title": "Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LSUviaN1eso",
+      "externalId": "LSUviaN1eso",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/LSUviaN1eso/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCagG0JRyOUiCK_tvxvijE7ou-qXw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "48:44",
+        "metadata": "67K 2y ago"
+      },
+      "evidenceText": "48:44 Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom 67K 2y ago"
+    },
+    {
+      "title": "How To Price For B2B | Startup School",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4hjiRmgmHiU",
+      "externalId": "4hjiRmgmHiU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/4hjiRmgmHiU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAB4MxV2NPpImvawDcSWvZ3TOEarA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "17:46",
+        "metadata": "161K 2y ago"
+      },
+      "evidenceText": "17:46 How To Price For B2B | Startup School 161K 2y ago"
+    },
+    {
+      "title": "Tarpit Ideas: The Sequel",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GU9iT7MW0rs",
+      "externalId": "GU9iT7MW0rs",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/GU9iT7MW0rs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8yPhXZGOSJxO_8_QWGta9vScAEA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "13:50",
+        "metadata": "97K 2y ago"
+      },
+      "evidenceText": "13:50 Tarpit Ideas: The Sequel 97K 2y ago"
+    },
+    {
+      "title": "Why Startup Founders Should Launch Companies Sooner Than They Think",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Nsx5RDVKZSk",
+      "externalId": "Nsx5RDVKZSk",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/Nsx5RDVKZSk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB3ViF0N5UuFeFDLlYZXB5h4tTleA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "18:18",
+        "metadata": "115K 2y ago"
+      },
+      "evidenceText": "18:18 Why Startup Founders Should Launch Companies Sooner Than They Think 115K 2y ago"
+    },
+    {
+      "title": "Enterprise Sales | Startup School",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0fKYVl12VTA",
+      "externalId": "0fKYVl12VTA",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/0fKYVl12VTA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAEfnCk_mp7k1qey6HGYb6VLqWoTQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "23:07",
+        "metadata": "213K 2y ago"
+      },
+      "evidenceText": "23:07 Enterprise Sales | Startup School 213K 2y ago"
+    },
+    {
+      "title": "10 People + AI = Billion Dollar Company?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CKvo_kQbakU",
+      "externalId": "CKvo_kQbakU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/CKvo_kQbakU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDAmQ9sT6OHB3prhXOH_OiSLVnSDQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "38:24",
+        "metadata": "217K 2y ago"
+      },
+      "evidenceText": "38:24 10 People + AI = Billion Dollar Company? 217K 2y ago"
+    },
+    {
+      "title": "What Is ZIRP And How Did It Poison Startups?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=iMo5-4h_XwE",
+      "externalId": "iMo5-4h_XwE",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/iMo5-4h_XwE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBeHFmQRR2ieh20lWhjFbtVG-d23g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "18:23",
+        "metadata": "72K 2y ago"
+      },
+      "evidenceText": "18:23 What Is ZIRP And How Did It Poison Startups? 72K 2y ago"
+    },
+    {
+      "title": "Standing Up For Startups - YC Goes To D.C.",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6WtdFqgsEY0",
+      "externalId": "6WtdFqgsEY0",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/6WtdFqgsEY0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBCu_3VgaDx2uHMSQsWu8-j0adDUQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "12:07",
+        "metadata": "17K 2y ago"
+      },
+      "evidenceText": "12:07 Standing Up For Startups - YC Goes To D.C. 17K 2y ago"
+    },
+    {
+      "title": "Better AI Models, Better Startups",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4aMQPG9gPoM",
+      "externalId": "4aMQPG9gPoM",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/4aMQPG9gPoM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBpUcheb61yCenYAYW6daKDtayB1g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "41:07",
+        "metadata": "86K 2y ago"
+      },
+      "evidenceText": "41:07 Better AI Models, Better Startups 86K 2y ago"
+    },
+    {
+      "title": "Startup Experts Discuss Doing Things That Don't Scale",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IjPDIjge81o",
+      "externalId": "IjPDIjge81o",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/IjPDIjge81o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDwRyxt0bbsIJ8hLwYruVBKodWlJA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "25:42",
+        "metadata": "228K 2y ago"
+      },
+      "evidenceText": "25:42 Startup Experts Discuss Doing Things That Don't Scale 228K 2y ago"
+    },
+    {
+      "title": "How New Technology Creates New Businesses",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KxjPgGLVJSg",
+      "externalId": "KxjPgGLVJSg",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "8:16",
+        "metadata": "66K 2y ago"
+      },
+      "evidenceText": "8:16 How New Technology Creates New Businesses 66K 2y ago"
+    },
+    {
+      "title": "Why This Is The Perfect Time To Start A Startup",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0TNTlMZFTWw",
+      "externalId": "0TNTlMZFTWw",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "19:10",
+        "metadata": "101K 2y ago"
+      },
+      "evidenceText": "19:10 Why This Is The Perfect Time To Start A Startup 101K 2y ago"
+    },
+    {
+      "title": "Does Your Startup Website Pass The First Impression Test? | Design Review",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pqwOL6YfRIo",
+      "externalId": "pqwOL6YfRIo",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "21:12",
+        "metadata": "55K 2y ago"
+      },
+      "evidenceText": "21:12 Does Your Startup Website Pass The First Impression Test? | Design Review 55K 2y ago"
+    },
+    {
+      "title": "Lightcone: Consumer is back, What’s getting funded now, The vibes immaculate",
+      "canonicalUrl": "https://www.youtube.com/watch?v=e1Yhs9BEOSw",
+      "externalId": "e1Yhs9BEOSw",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/e1Yhs9BEOSw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClWD__U7VPicHDEo9IfwL3JOHLtQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "42:22",
+        "metadata": "92K 2y ago"
+      },
+      "evidenceText": "42:22 Lightcone: Consumer is back, What’s getting funded now, The vibes immaculate 92K 2y ago"
+    },
+    {
+      "title": "When Should You Trust Your Gut?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2ViqdR5E2wU",
+      "externalId": "2ViqdR5E2wU",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/2ViqdR5E2wU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB1E-A4lmRgG_xrVoMcCEyFTOqJzg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "12:11",
+        "metadata": "69K 2y ago"
+      },
+      "evidenceText": "12:11 When Should You Trust Your Gut? 69K 2y ago"
+    },
+    {
+      "title": "Inside The Hard Tech Startups Turning Sci-Fi Into Reality",
+      "canonicalUrl": "https://www.youtube.com/watch?v=erDE2e69dlc",
+      "externalId": "erDE2e69dlc",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/erDE2e69dlc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAwv6gfRge4VxwqRHjifJbHVnjx1A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "48:37",
+        "metadata": "90K 2y ago"
+      },
+      "evidenceText": "48:37 Inside The Hard Tech Startups Turning Sci-Fi Into Reality 90K 2y ago"
+    },
+    {
+      "title": "How to Survive the Crypto Boom & Bust Cycle",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8-Zrhz1QKGo",
+      "externalId": "8-Zrhz1QKGo",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/8-Zrhz1QKGo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDaMhXOr0AtQKXob2VXl874Y8tNOA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "9:35",
+        "metadata": "15K 2y ago"
+      },
+      "evidenceText": "9:35 How to Survive the Crypto Boom & Bust Cycle 15K 2y ago"
+    },
+    {
+      "title": "How To Build Generative AI Models Like OpenAI's Sora",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fmI_OciHV_8",
+      "externalId": "fmI_OciHV_8",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/fmI_OciHV_8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB9qrQtIvL1Ps6dpY0rRzFugSVIcg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "34:06",
+        "metadata": "85K 2y ago"
+      },
+      "evidenceText": "34:06 How To Build Generative AI Models Like OpenAI's Sora 85K 2y ago"
+    },
+    {
+      "title": "Why Founders Shouldn't Think Like Investors",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SMi3JO-hsyY",
+      "externalId": "SMi3JO-hsyY",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/SMi3JO-hsyY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA-hd-QU2cZvLrzW2KgNhsYqhjdFg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "23:58",
+        "metadata": "122K 2y ago"
+      },
+      "evidenceText": "23:58 Why Founders Shouldn't Think Like Investors 122K 2y ago"
+    },
+    {
+      "title": "The best AI founders in the world are moving here",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wA0qC9D4LA0",
+      "externalId": "wA0qC9D4LA0",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/wA0qC9D4LA0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDQ-8Dr0QuNqxbJmBc8J0c7fKSPSg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "33:27",
+        "metadata": "88K 2y ago"
+      },
+      "evidenceText": "33:27 The best AI founders in the world are moving here 88K 2y ago"
+    },
+    {
+      "title": "Building Confidence In Yourself and Your Ideas",
+      "canonicalUrl": "https://www.youtube.com/watch?v=al-15mMAS18",
+      "externalId": "al-15mMAS18",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/al-15mMAS18/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDH7lDvknCn2Vxq3w468UHHlPDiVw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "21:11",
+        "metadata": "199K 2y ago"
+      },
+      "evidenceText": "21:11 Building Confidence In Yourself and Your Ideas 199K 2y ago"
+    },
+    {
+      "title": "Apple Vision Pro: Startup Platform Of The Future?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=a_n4yOqlWbA",
+      "externalId": "a_n4yOqlWbA",
+      "creator": "Y Combinator",
+      "imageUrl": "https://i.ytimg.com/vi/a_n4yOqlWbA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAebrRlEvC1x5c3RSbREuNY0ksXWA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "27:59",
+        "metadata": "100K 2y ago"
+      },
+      "evidenceText": "27:59 Apple Vision Pro: Startup Platform Of The Future? 100K 2y ago"
+    },
+    {
+      "title": "Stop Innovating (On The Wrong Things)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FNwu440UxhU",
+      "externalId": "FNwu440UxhU",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "11:59",
+        "metadata": "99K 2y ago"
+      },
+      "evidenceText": "11:59 Stop Innovating (On The Wrong Things) 99K 2y ago"
+    },
+    {
+      "title": "The Truth About Building AI Startups Today",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TwDJhUJL-5o",
+      "externalId": "TwDJhUJL-5o",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "32:27",
+        "metadata": "552K 2y ago"
+      },
+      "evidenceText": "32:27 The Truth About Building AI Startups Today 552K 2y ago"
+    },
+    {
+      "title": "Should Your Startup Bootstrap or Raise Venture Capital?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=D81y-kh11oI",
+      "externalId": "D81y-kh11oI",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "14:05",
+        "metadata": "224K 2y ago"
+      },
+      "evidenceText": "14:05 Should Your Startup Bootstrap or Raise Venture Capital? 224K 2y ago"
+    },
+    {
+      "title": "Tom Blomfield: How I Created Two Billion-Dollar Fintech Startups",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QKPgBAnbc10",
+      "externalId": "QKPgBAnbc10",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "14:25",
+        "metadata": "249K 2y ago"
+      },
+      "evidenceText": "14:25 Tom Blomfield: How I Created Two Billion-Dollar Fintech Startups 249K 2y ago"
+    },
+    {
+      "title": "Do Technical Founders Need Business Co-Founders?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=43RhhwpiSk0",
+      "externalId": "43RhhwpiSk0",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "10:35",
+        "metadata": "176K 2y ago"
+      },
+      "evidenceText": "10:35 Do Technical Founders Need Business Co-Founders? 176K 2y ago"
+    },
+    {
+      "title": "Consumer Startup Metrics | Startup School",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fdD4y4Civp4",
+      "externalId": "fdD4y4Civp4",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "22:26",
+        "metadata": "89K 2y ago"
+      },
+      "evidenceText": "22:26 Consumer Startup Metrics | Startup School 89K 2y ago"
+    },
+    {
+      "title": "Techno Optimism, Explained",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vhXdUXmmhb4",
+      "externalId": "vhXdUXmmhb4",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "16:16",
+        "metadata": "43K 2y ago"
+      },
+      "evidenceText": "16:16 Techno Optimism, Explained 43K 2y ago"
+    },
+    {
+      "title": "B2B Startup Metrics | Startup School",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_mKeVGSqQac",
+      "externalId": "_mKeVGSqQac",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "23:47",
+        "metadata": "129K 2y ago"
+      },
+      "evidenceText": "23:47 B2B Startup Metrics | Startup School 129K 2y ago"
+    },
+    {
+      "title": "Critiquing Software Startup Websites with CEO of Glide",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CYdsh1FhpI4",
+      "externalId": "CYdsh1FhpI4",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "23:18",
+        "metadata": "38K 2y ago"
+      },
+      "evidenceText": "23:18 Critiquing Software Startup Websites with CEO of Glide 38K 2y ago"
+    },
+    {
+      "title": "How To Build A Tech Startup With No Technical Skills",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZpKu2wvquWg",
+      "externalId": "ZpKu2wvquWg",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "15:14",
+        "metadata": "663K 2y ago"
+      },
+      "evidenceText": "15:14 How To Build A Tech Startup With No Technical Skills 663K 2y ago"
+    },
+    {
+      "title": "AI Startup Founders Debate the Creation of Artificial General Intelligence",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nsM558l60_c",
+      "externalId": "nsM558l60_c",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "5:46",
+        "metadata": "47K 2y ago"
+      },
+      "evidenceText": "5:46 AI Startup Founders Debate the Creation of Artificial General Intelligence 47K 2y ago"
+    },
+    {
+      "title": "AI and the Future of Law: The 10 Year \"Overnight\" Success Story",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qFBUd0b8TjY",
+      "externalId": "qFBUd0b8TjY",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "17:29",
+        "metadata": "39K 2y ago"
+      },
+      "evidenceText": "17:29 AI and the Future of Law: The 10 Year \"Overnight\" Success Story 39K 2y ago"
+    },
+    {
+      "title": "How To NOT Get Screwed As A Software Engineer",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fcfVjd_oV1I",
+      "externalId": "fcfVjd_oV1I",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "17:39",
+        "metadata": "234K 2y ago"
+      },
+      "evidenceText": "17:39 How To NOT Get Screwed As A Software Engineer 234K 2y ago"
+    },
+    {
+      "title": "Design Tips to Convert More Customers | Design Review",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tJTxDqjO4vg",
+      "externalId": "tJTxDqjO4vg",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "23:50",
+        "metadata": "46K 2y ago"
+      },
+      "evidenceText": "23:50 Design Tips to Convert More Customers | Design Review 46K 2y ago"
+    },
+    {
+      "title": "Should You Quit Your Job At A Unicorn?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=chAoH_AeGAg",
+      "externalId": "chAoH_AeGAg",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "13:32",
+        "metadata": "53K 2y ago"
+      },
+      "evidenceText": "13:32 Should You Quit Your Job At A Unicorn? 53K 2y ago"
+    },
+    {
+      "title": "50 Founders Share Why They Applied To Y Combinator",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HQjjgi6271k",
+      "externalId": "HQjjgi6271k",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "3:04",
+        "metadata": "21K 2y ago"
+      },
+      "evidenceText": "3:04 50 Founders Share Why They Applied To Y Combinator 21K 2y ago"
+    },
+    {
+      "title": "Startup Experts Reveal Their Top Productivity Advice",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nF_YWdz6S0Y",
+      "externalId": "nF_YWdz6S0Y",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "16:22",
+        "metadata": "176K 2y ago"
+      },
+      "evidenceText": "16:22 Startup Experts Reveal Their Top Productivity Advice 176K 2y ago"
+    },
+    {
+      "title": "How Surbhi Sarna Built A $275M Biotech Company From Nothing",
+      "canonicalUrl": "https://www.youtube.com/watch?v=R2fAYn8R318",
+      "externalId": "R2fAYn8R318",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "11:52",
+        "metadata": "56K 2y ago"
+      },
+      "evidenceText": "11:52 How Surbhi Sarna Built A $275M Biotech Company From Nothing 56K 2y ago"
+    },
+    {
+      "title": "40 AI Founders Discuss Current Artificial Intelligence Technology",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TNgjY5twBIg",
+      "externalId": "TNgjY5twBIg",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "7:05",
+        "metadata": "50K 3y ago"
+      },
+      "evidenceText": "7:05 40 AI Founders Discuss Current Artificial Intelligence Technology 50K 3y ago"
+    },
+    {
+      "title": "Why You Shouldn't Copy Your Tech Idols",
+      "canonicalUrl": "https://www.youtube.com/watch?v=09mXPGVkfVA",
+      "externalId": "09mXPGVkfVA",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "17:35",
+        "metadata": "119K 3y ago"
+      },
+      "evidenceText": "17:35 Why You Shouldn't Copy Your Tech Idols 119K 3y ago"
+    },
+    {
+      "title": "Critiquing Startup Mobile Apps with Glide CEO",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4N55fVuxxOg",
+      "externalId": "4N55fVuxxOg",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "24:03",
+        "metadata": "133K 3y ago"
+      },
+      "evidenceText": "24:03 Critiquing Startup Mobile Apps with Glide CEO 133K 3y ago"
+    },
+    {
+      "title": "The Secret That Silicon Valley's Top Investors All Share",
+      "canonicalUrl": "https://www.youtube.com/watch?v=bgp5QZwuNQI",
+      "externalId": "bgp5QZwuNQI",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "11:40",
+        "metadata": "54K 3y ago"
+      },
+      "evidenceText": "11:40 The Secret That Silicon Valley's Top Investors All Share 54K 3y ago"
+    },
+    {
+      "title": "Startup Experts Share Their Investor Horror Stories",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ljVan7CGBiE",
+      "externalId": "ljVan7CGBiE",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "26:09",
+        "metadata": "144K 3y ago"
+      },
+      "evidenceText": "26:09 Startup Experts Share Their Investor Horror Stories 144K 3y ago"
+    },
+    {
+      "title": "50 Founders Share How They Got Their First Customers",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NZp5j5hvn9I",
+      "externalId": "NZp5j5hvn9I",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "4:00",
+        "metadata": "199K 3y ago"
+      },
+      "evidenceText": "4:00 50 Founders Share How They Got Their First Customers 199K 3y ago"
+    },
+    {
+      "title": "Does Your Startup Need To Be In San Francisco?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZqGOCF4O6ks",
+      "externalId": "ZqGOCF4O6ks",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "15:18",
+        "metadata": "95K 3y ago"
+      },
+      "evidenceText": "15:18 Does Your Startup Need To Be In San Francisco? 95K 3y ago"
+    },
+    {
+      "title": "60 Startup Founders Share How They Met Their Co-Founder",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IyhLAbqDw0k",
+      "externalId": "IyhLAbqDw0k",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "3:53",
+        "metadata": "75K 3y ago"
+      },
+      "evidenceText": "3:53 60 Startup Founders Share How They Met Their Co-Founder 75K 3y ago"
+    },
+    {
+      "title": "Startup Experts Reveal Their Favorite Pivot Stories",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DmehFuCMtvc",
+      "externalId": "DmehFuCMtvc",
+      "creator": "Y Combinator",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@YCombinator/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Y Combinator · Videos",
+      "attributes": {
+        "duration": "20:49",
+        "metadata": "163K 3y ago"
+      },
+      "evidenceText": "20:49 Startup Experts Reveal Their Favorite Pivot Stories 163K 3y ago"
+    }
+  ],
+  "topic": "Startups and building",
+  "captures": [
+    {
+      "step": 0,
+      "visible": 30,
+      "unique": 30,
+      "observedAt": "2026-09-27T03:47:11.242Z"
+    },
+    {
+      "step": 1,
+      "visible": 30,
+      "unique": 30,
+      "observedAt": "2026-09-27T03:47:13.499Z"
+    },
+    {
+      "step": 2,
+      "visible": 60,
+      "unique": 60,
+      "observedAt": "2026-09-27T03:47:15.784Z"
+    },
+    {
+      "step": 3,
+      "visible": 60,
+      "unique": 60,
+      "observedAt": "2026-09-27T03:47:17.852Z"
+    },
+    {
+      "step": 4,
+      "visible": 90,
+      "unique": 90,
+      "observedAt": "2026-09-27T03:47:20.195Z"
+    },
+    {
+      "step": 5,
+      "visible": 90,
+      "unique": 90,
+      "observedAt": "2026-09-27T03:47:22.631Z"
+    },
+    {
+      "step": 6,
+      "visible": 120,
+      "unique": 120,
+      "observedAt": "2026-09-27T03:47:25.098Z"
+    },
+    {
+      "step": 7,
+      "visible": 120,
+      "unique": 120,
+      "observedAt": "2026-09-27T03:47:27.724Z"
+    },
+    {
+      "step": 8,
+      "visible": 150,
+      "unique": 150,
+      "observedAt": "2026-09-27T03:47:29.765Z"
+    },
+    {
+      "step": 9,
+      "visible": 150,
+      "unique": 150,
+      "observedAt": "2026-09-27T03:47:31.812Z"
+    },
+    {
+      "step": 10,
+      "visible": 180,
+      "unique": 180,
+      "observedAt": "2026-09-27T03:47:34.106Z"
+    },
+    {
+      "step": 11,
+      "visible": 180,
+      "unique": 180,
+      "observedAt": "2026-09-27T03:47:36.338Z"
+    },
+    {
+      "step": 12,
+      "visible": 210,
+      "unique": 210,
+      "observedAt": "2026-09-27T03:47:38.810Z"
+    },
+    {
+      "step": 13,
+      "visible": 210,
+      "unique": 210,
+      "observedAt": "2026-09-27T03:47:41.286Z"
+    },
+    {
+      "step": 14,
+      "visible": 240,
+      "unique": 240,
+      "observedAt": "2026-09-27T03:47:43.740Z"
+    }
+  ]
+}

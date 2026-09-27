@@ -1,0 +1,1988 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+  "collection": "Top 100: Denmark",
+  "fetchedAt": "2026-09-27T03:41:36.739Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 1 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 2 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 3 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Shen Mao",
+      "canonicalUrl": "https://music.apple.com/us/song/shen-mao/6795585112",
+      "creator": "Kundo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/f4/63/0ef463b2-aded-c525-8096-40efcab2c020/196874647530.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6795585112",
+      "attributes": {
+        "album": "Shen Mao - Single",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "4",
+        "explicit": true
+      },
+      "evidenceText": "Shen Mao 4 Kundo Shen Mao - Single PREVIEW 2:38"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 5 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Herinde (feat. Hans Philip)",
+      "canonicalUrl": "https://music.apple.com/us/song/herinde-feat-hans-philip/6813496788",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496788",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "2:14",
+        "durationIso": "PT2M14S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "Herinde (feat. Hans Philip) 6 Gilli Verden Er Din PREVIEW 2:14"
+    },
+    {
+      "title": "Falder Fra Månen (feat. D1MA)",
+      "canonicalUrl": "https://music.apple.com/us/song/falder-fra-m%C3%A5nen-feat-d1ma/6813496776",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496776",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "Falder Fra Månen (feat. D1MA) 7 Gilli Verden Er Din PREVIEW 3:04"
+    },
+    {
+      "title": "Hold Mit Tempo (feat. Annika)",
+      "canonicalUrl": "https://music.apple.com/us/song/hold-mit-tempo-feat-annika/6777930820",
+      "creator": "Lamin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/a8/6d/a0a86d43-fcad-78fa-f72c-066c8a7141a5/26UMGIM70971.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6777930820",
+      "attributes": {
+        "album": "WAVY",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "8",
+        "explicit": false
+      },
+      "evidenceText": "Hold Mit Tempo (feat. Annika) 8 Lamin WAVY PREVIEW 2:43"
+    },
+    {
+      "title": "Great Expectation",
+      "canonicalUrl": "https://music.apple.com/us/song/great-expectation/6769552411",
+      "creator": "SIENNA SPIRO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6769552411",
+      "attributes": {
+        "album": "Visitor (Deluxe)",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "9",
+        "explicit": false
+      },
+      "evidenceText": "Great Expectation 9 SIENNA SPIRO Visitor (Deluxe) PREVIEW 2:53"
+    },
+    {
+      "title": "Ringer Om Natten",
+      "canonicalUrl": "https://music.apple.com/us/song/ringer-om-natten/6771018266",
+      "creator": "Christopher",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/5b/d4/425bd4e2-f70c-0a0d-da44-ebdd0a1b5ee4/26UMGIM63069.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6771018266",
+      "attributes": {
+        "album": "Ringer Om Natten - Single",
+        "duration": "2:44",
+        "durationIso": "PT2M44S",
+        "chartPosition": "10",
+        "explicit": true
+      },
+      "evidenceText": "Ringer Om Natten 10 Christopher Ringer Om Natten - Single PREVIEW 2:44"
+    },
+    {
+      "title": "Elsker Dig Så Meget Jeg Ku' Gå I Stykker",
+      "canonicalUrl": "https://music.apple.com/us/song/elsker-dig-s%C3%A5-meget-jeg-ku-g%C3%A5-i-stykker/6804130345",
+      "creator": "Christopher",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/cd/21/f5cd2125-73c6-ee33-a7d5-54cbb4d528f6/26UM1IM08878.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6804130345",
+      "attributes": {
+        "album": "Elsker Dig Så Meget Jeg Ku' Gå I Stykker - Single",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "Elsker Dig Så Meget Jeg Ku' Gå I Stykker 11 Christopher Elsker Dig Så Meget Jeg Ku' Gå I Stykker - Single PREVIEW 2:55"
+    },
+    {
+      "title": "Desperado",
+      "canonicalUrl": "https://music.apple.com/us/song/desperado/6776867440",
+      "creator": "Annika",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/19/1b/0a191b25-ef28-f96c-063d-f1f58346dd69/26UMGIM70940.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6776867440",
+      "attributes": {
+        "album": "Desperado - Single",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "12",
+        "explicit": true
+      },
+      "evidenceText": "Desperado 12 Annika Desperado - Single PREVIEW 3:13"
+    },
+    {
+      "title": "Lille Hjerte",
+      "canonicalUrl": "https://music.apple.com/us/song/lille-hjerte/6813496783",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496783",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "13",
+        "explicit": false
+      },
+      "evidenceText": "Lille Hjerte 13 Gilli Verden Er Din PREVIEW 2:55"
+    },
+    {
+      "title": "Monaco",
+      "canonicalUrl": "https://music.apple.com/us/song/monaco/6813496773",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496773",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "2:34",
+        "durationIso": "PT2M34S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "Monaco 14 Gilli Verden Er Din PREVIEW 2:34"
+    },
+    {
+      "title": "Dai Dai",
+      "canonicalUrl": "https://music.apple.com/us/song/dai-dai/6768469976",
+      "creator": "Shakira, Burna Boy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6768469976",
+      "attributes": {
+        "album": "Dai Dai - Single",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "15",
+        "explicit": false
+      },
+      "evidenceText": "Dai Dai 15 Shakira, Burna Boy Dai Dai - Single PREVIEW 3:43"
+    },
+    {
+      "title": "Choosin' Texas",
+      "canonicalUrl": "https://music.apple.com/us/song/choosin-texas/1844932150",
+      "creator": "Ella Langley",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1844932150",
+      "attributes": {
+        "album": "Choosin' Texas - Single",
+        "duration": "3:52",
+        "durationIso": "PT3M52S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "Choosin' Texas 16 Ella Langley Choosin' Texas - Single PREVIEW 3:52"
+    },
+    {
+      "title": "Vil du noget?",
+      "canonicalUrl": "https://music.apple.com/us/song/vil-du-noget/1841393787",
+      "creator": "Guldimund, Saveus",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/e4/ff/5fe4ffdf-c4dc-27f4-4f7e-fceef3e39dcf/25UM1IM48748.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1841393787",
+      "attributes": {
+        "album": "Vil du noget? - Single",
+        "duration": "3:05",
+        "durationIso": "PT3M5S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "Vil du noget? 17 Guldimund, Saveus Vil du noget? - Single PREVIEW 3:05"
+    },
+    {
+      "title": "Drukner",
+      "canonicalUrl": "https://music.apple.com/us/song/drukner/6763320035",
+      "creator": "Kesi, Annika",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/a2/4e/a2a24e4a-2602-e2a3-e51e-0304b55be10c/26UMGIM48379.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6763320035",
+      "attributes": {
+        "album": "MEN SÅ KOM I MORGEN",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "18",
+        "explicit": true
+      },
+      "evidenceText": "Drukner 18 Kesi, Annika MEN SÅ KOM I MORGEN PREVIEW 3:17"
+    },
+    {
+      "title": "Ik Giv Slip (feat. Mille)",
+      "canonicalUrl": "https://music.apple.com/us/song/ik-giv-slip-feat-mille/6813496780",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496780",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "19",
+        "explicit": false
+      },
+      "evidenceText": "Ik Giv Slip (feat. Mille) 19 Gilli Verden Er Din PREVIEW 2:53"
+    },
+    {
+      "title": "Hver Eneste Gang",
+      "canonicalUrl": "https://music.apple.com/us/song/hver-eneste-gang/6812312843",
+      "creator": "Thor Farlov, Kesi, MAS",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/b2/0a/e7b20a1d-8c0c-1ad3-d9d4-1bb41455c3ac/196874768525.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6812312843",
+      "attributes": {
+        "album": "Hver Eneste Gang - Single",
+        "duration": "3:49",
+        "durationIso": "PT3M49S",
+        "chartPosition": "20",
+        "explicit": false
+      },
+      "evidenceText": "Hver Eneste Gang 20 Thor Farlov, Kesi, MAS Hver Eneste Gang - Single PREVIEW 3:49"
+    },
+    {
+      "title": "Lesgo (feat. Kesi)",
+      "canonicalUrl": "https://music.apple.com/us/song/lesgo-feat-kesi/6813496951",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496951",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "2:25",
+        "durationIso": "PT2M25S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "Lesgo (feat. Kesi) 21 Gilli Verden Er Din PREVIEW 2:25"
+    },
+    {
+      "title": "Ham Med Guitaren",
+      "canonicalUrl": "https://music.apple.com/us/song/ham-med-guitaren/1880371313",
+      "creator": "Christopher",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/03/1e/a2031edd-e8dd-1f60-86b7-7481e6004af8/26UMGIM23258.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1880371313",
+      "attributes": {
+        "album": "Ham Med Guitaren - Single",
+        "duration": "3:14",
+        "durationIso": "PT3M14S",
+        "chartPosition": "22",
+        "explicit": true
+      },
+      "evidenceText": "Ham Med Guitaren 22 Christopher Ham Med Guitaren - Single PREVIEW 3:14"
+    },
+    {
+      "title": "Cabaret",
+      "canonicalUrl": "https://music.apple.com/us/song/cabaret/6813496774",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496774",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "2:23",
+        "durationIso": "PT2M23S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "Cabaret 23 Gilli Verden Er Din PREVIEW 2:23"
+    },
+    {
+      "title": "Movin' To The Sun",
+      "canonicalUrl": "https://music.apple.com/us/song/movin-to-the-sun/6769070199",
+      "creator": "HUGEL, Imael Angel, Ultra Naté",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6769070199",
+      "attributes": {
+        "album": "Movin' To The Sun - Single",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "Movin' To The Sun 24 HUGEL, Imael Angel, Ultra Naté Movin' To The Sun - Single PREVIEW 2:22"
+    },
+    {
+      "title": "En drøm om et menneske",
+      "canonicalUrl": "https://music.apple.com/us/song/en-dr%C3%B8m-om-et-menneske/1875110282",
+      "creator": "APHACA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/83/4d/c8834dfd-1a8d-6f1d-113a-1256c4c90540/26UMGIM01573.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1875110282",
+      "attributes": {
+        "album": "VILD UNGDOM",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "En drøm om et menneske 25 APHACA VILD UNGDOM PREVIEW 2:58"
+    },
+    {
+      "title": "9mm",
+      "canonicalUrl": "https://music.apple.com/us/song/9mm/6799063258",
+      "creator": "The Minds Of 99",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/1e/da/3a1edaea-9f32-c4ea-1dbe-4d3fdb133213/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6799063258",
+      "attributes": {
+        "album": "9mm - Single",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "9mm 26 The Minds Of 99 9mm - Single PREVIEW 3:30"
+    },
+    {
+      "title": "hate that i made you love me",
+      "canonicalUrl": "https://music.apple.com/us/song/hate-that-i-made-you-love-me/6763656876",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6763656876",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "27",
+        "explicit": false
+      },
+      "evidenceText": "hate that i made you love me 27 Ariana Grande petal PREVIEW 3:17"
+    },
+    {
+      "title": "Opalite",
+      "canonicalUrl": "https://music.apple.com/us/song/opalite/1833328845",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1833328845",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "Opalite 28 Taylor Swift The Life of a Showgirl PREVIEW 3:55"
+    },
+    {
+      "title": "Stolt",
+      "canonicalUrl": "https://music.apple.com/us/song/stolt/1811420030",
+      "creator": "Annika, Lamin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/40/8c/88408c03-3dba-2a0c-18fd-9dba33c37129/25UMGIM60872.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1811420030",
+      "attributes": {
+        "album": "AW",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "29",
+        "explicit": true
+      },
+      "evidenceText": "Stolt 29 Annika, Lamin AW PREVIEW 3:32"
+    },
+    {
+      "title": "Man I Need",
+      "canonicalUrl": "https://music.apple.com/us/song/man-i-need/1817609509",
+      "creator": "Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1817609509",
+      "attributes": {
+        "album": "The Art of Loving",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "30",
+        "explicit": false
+      },
+      "evidenceText": "Man I Need 30 Olivia Dean The Art of Loving PREVIEW 3:04"
+    },
+    {
+      "title": "9 Liv",
+      "canonicalUrl": "https://music.apple.com/us/song/9-liv/6809778853",
+      "creator": "Suspekt",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/ef/f3/eaeff381-82ee-2da8-0bcc-eafc64ac9136/26UM1IM14597.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6809778853",
+      "attributes": {
+        "album": "9 Liv - Single",
+        "duration": "1:55",
+        "durationIso": "PT1M55S",
+        "chartPosition": "31",
+        "explicit": true
+      },
+      "evidenceText": "9 Liv 31 Suspekt 9 Liv - Single PREVIEW 1:55"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "32",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 32 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "Casio (feat. Noah Carter)",
+      "canonicalUrl": "https://music.apple.com/us/song/casio-feat-noah-carter/6813496789",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496789",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "Casio (feat. Noah Carter) 33 Gilli Verden Er Din PREVIEW 3:02"
+    },
+    {
+      "title": "Livsforladt",
+      "canonicalUrl": "https://music.apple.com/us/song/livsforladt/1882089158",
+      "creator": "Annika",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/5e/7a/605e7a32-811a-a180-36ea-0e7b85cf746e/26UMGIM24731.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1882089158",
+      "attributes": {
+        "album": "Livsforladt - Single",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "Livsforladt 34 Annika Livsforladt - Single PREVIEW 3:02"
+    },
+    {
+      "title": "Vinden Blæser",
+      "canonicalUrl": "https://music.apple.com/us/song/vinden-bl%C3%A6ser/6813496947",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496947",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "35",
+        "explicit": false
+      },
+      "evidenceText": "Vinden Blæser 35 Gilli Verden Er Din PREVIEW 3:10"
+    },
+    {
+      "title": "El Corte Inglés",
+      "canonicalUrl": "https://music.apple.com/us/song/el-corte-ingle-s/6813496778",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496778",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "2:44",
+        "durationIso": "PT2M44S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "El Corte Inglés 36 Gilli Verden Er Din PREVIEW 2:44"
+    },
+    {
+      "title": "Ærlig Freestyle",
+      "canonicalUrl": "https://music.apple.com/us/song/%C3%A6rlig-freestyle/6763541026",
+      "creator": "Anton Westerlin, Annika",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/61/a8/7461a83e-5ab1-31ab-6f7e-8c974b88b52c/26UMGIM50999.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6763541026",
+      "attributes": {
+        "album": "Bag Gardinerne S1+S2",
+        "duration": "2:32",
+        "durationIso": "PT2M32S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "Ærlig Freestyle 37 Anton Westerlin, Annika Bag Gardinerne S1+S2 PREVIEW 2:32"
+    },
+    {
+      "title": "10/5 (feat. Benny Jamz)",
+      "canonicalUrl": "https://music.apple.com/us/song/10-5-feat-benny-jamz/6813496784",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496784",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "38",
+        "explicit": true
+      },
+      "evidenceText": "10/5 (feat. Benny Jamz) 38 Gilli Verden Er Din PREVIEW 2:37"
+    },
+    {
+      "title": "stupid song",
+      "canonicalUrl": "https://music.apple.com/us/song/stupid-song/1889992115",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1889992115",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "stupid song 39 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:29"
+    },
+    {
+      "title": "The Fate of Ophelia (Track by Track)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia-track-by-track/1843998667",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/74/44/3a74440e-a1c2-c2bc-22c4-c71bd4584ed1/25UM1IM53942.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1843998667",
+      "attributes": {
+        "album": "The Life of a Showgirl (Track by Track Version)",
+        "duration": "0:41",
+        "durationIso": "PT41S",
+        "chartPosition": "40",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia (Track by Track) 40 Taylor Swift The Life of a Showgirl (Track by Track Version) PREVIEW 0:41"
+    },
+    {
+      "title": "Sky Priority (feat. Lamin)",
+      "canonicalUrl": "https://music.apple.com/us/song/sky-priority-feat-lamin/6813496954",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496954",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "Sky Priority (feat. Lamin) 41 Gilli Verden Er Din PREVIEW 3:00"
+    },
+    {
+      "title": "En Som Dig",
+      "canonicalUrl": "https://music.apple.com/us/song/en-som-dig/6813496779",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496779",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "En Som Dig 42 Gilli Verden Er Din PREVIEW 2:22"
+    },
+    {
+      "title": "Blå Himmel (feat. Hans Philip)",
+      "canonicalUrl": "https://music.apple.com/us/song/bl%C3%A5-himmel-feat-hans-philip/1519807659",
+      "creator": "Kesi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ed/7b/fe/ed7bfebb-4e97-e55b-40e4-0e7939710859/886448590347.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1519807659",
+      "attributes": {
+        "album": "BO4L",
+        "duration": "3:48",
+        "durationIso": "PT3M48S",
+        "chartPosition": "43",
+        "explicit": false
+      },
+      "evidenceText": "Blå Himmel (feat. Hans Philip) 43 Kesi BO4L PREVIEW 3:48"
+    },
+    {
+      "title": "HUGORM NEDLÆGGER FORSVARET (feat. Peter Sommer)",
+      "canonicalUrl": "https://music.apple.com/us/song/hugorm-nedl%C3%A6gger-forsvaret-feat-peter-sommer/1844844883",
+      "creator": "HUGORM",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/f6/3f/64f63fcf-4adb-2d98-726b-f45f2759eb9a/5026854085555.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1844844883",
+      "attributes": {
+        "album": "HUGORM NEDLÆGGER FORSVARET (feat. Peter Sommer) - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "HUGORM NEDLÆGGER FORSVARET (feat. Peter Sommer) 44 HUGORM HUGORM NEDLÆGGER FORSVARET (feat. Peter Sommer) - Single PREVIEW 3:29"
+    },
+    {
+      "title": "Ain't In LA",
+      "canonicalUrl": "https://music.apple.com/us/song/aint-in-la/6792884101",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6792884101",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "45",
+        "explicit": true
+      },
+      "evidenceText": "Ain't In LA 45 ADÉLA PRIMA PREVIEW 3:04"
+    },
+    {
+      "title": "Flue i et spind",
+      "canonicalUrl": "https://music.apple.com/us/song/flue-i-et-spind/1875110039",
+      "creator": "APHACA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/83/4d/c8834dfd-1a8d-6f1d-113a-1256c4c90540/26UMGIM01573.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1875110039",
+      "attributes": {
+        "album": "VILD UNGDOM",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "46",
+        "explicit": false
+      },
+      "evidenceText": "Flue i et spind 46 APHACA VILD UNGDOM PREVIEW 3:44"
+    },
+    {
+      "title": "Cohiba (feat. Noah Carter & Gilli)",
+      "canonicalUrl": "https://music.apple.com/us/song/cohiba-feat-noah-carter-gilli/6777930803",
+      "creator": "Lamin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/a8/6d/a0a86d43-fcad-78fa-f72c-066c8a7141a5/26UMGIM70971.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6777930803",
+      "attributes": {
+        "album": "WAVY",
+        "duration": "2:17",
+        "durationIso": "PT2M17S",
+        "chartPosition": "47",
+        "explicit": true
+      },
+      "evidenceText": "Cohiba (feat. Noah Carter & Gilli) 47 Lamin WAVY PREVIEW 2:17"
+    },
+    {
+      "title": "Verden Er Din Freestyle (feat. Guzo)",
+      "canonicalUrl": "https://music.apple.com/us/song/verden-er-din-freestyle-feat-guzo/6813496793",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496793",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "2:51",
+        "durationIso": "PT2M51S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Verden Er Din Freestyle (feat. Guzo) 48 Gilli Verden Er Din PREVIEW 2:51"
+    },
+    {
+      "title": "Lush Life",
+      "canonicalUrl": "https://music.apple.com/us/song/lush-life/1201058113",
+      "creator": "Zara Larsson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/e6/3b/74e63bb4-d593-f926-85c7-df3ca43fcf3f/886446183473.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1201058113",
+      "attributes": {
+        "album": "So Good",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "Lush Life 49 Zara Larsson So Good PREVIEW 3:20"
+    },
+    {
+      "title": "PPC",
+      "canonicalUrl": "https://music.apple.com/us/song/ppc/6795522226",
+      "creator": "D1MA, Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/ca/be/57cabe4f-7c90-f342-418f-53d7c0eb78f6/26UMGIM98743.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6795522226",
+      "attributes": {
+        "album": "PPC - Single",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "50",
+        "explicit": true
+      },
+      "evidenceText": "PPC 50 D1MA, Gilli PPC - Single PREVIEW 3:16"
+    },
+    {
+      "title": "STOR MAND (feat. andreas odbjerg)",
+      "canonicalUrl": "https://music.apple.com/us/song/stor-mand-feat-andreas-odbjerg/1574294893",
+      "creator": "Tobias Rahim",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/3c/80/f23c8089-3c43-6de6-8f47-405c198000ae/886449415274.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1574294893",
+      "attributes": {
+        "album": "STOR MAND (feat. andreas odbjerg) - Single",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "51",
+        "explicit": true
+      },
+      "evidenceText": "STOR MAND (feat. andreas odbjerg) 51 Tobias Rahim STOR MAND (feat. andreas odbjerg) - Single PREVIEW 3:02"
+    },
+    {
+      "title": "Elizabeth Taylor",
+      "canonicalUrl": "https://music.apple.com/us/song/elizabeth-taylor/1833328842",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1833328842",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "52",
+        "explicit": false
+      },
+      "evidenceText": "Elizabeth Taylor 52 Taylor Swift The Life of a Showgirl PREVIEW 3:28"
+    },
+    {
+      "title": "Billie Jean",
+      "canonicalUrl": "https://music.apple.com/us/song/billie-jean/269573364",
+      "creator": "Michael Jackson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "269573364",
+      "attributes": {
+        "album": "Thriller",
+        "duration": "4:53",
+        "durationIso": "PT4M53S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "Billie Jean 53 Michael Jackson Thriller PREVIEW 4:53"
+    },
+    {
+      "title": "Bliv hvor du er",
+      "canonicalUrl": "https://music.apple.com/us/song/bliv-hvor-du-er/1883118888",
+      "creator": "Rosa, Artigeardit",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/ad/05/47ad050a-991f-e8f0-10d2-1fd8b776f06d/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1883118888",
+      "attributes": {
+        "album": "Bliv hvor du er - Single",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "54",
+        "explicit": true
+      },
+      "evidenceText": "Bliv hvor du er 54 Rosa, Artigeardit Bliv hvor du er - Single PREVIEW 2:52"
+    },
+    {
+      "title": "Portugal",
+      "canonicalUrl": "https://music.apple.com/us/song/portugal/6768696620",
+      "creator": "Benjamin Hav",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/40/8e/c8408e8d-82f5-1e22-c1fe-ccc22c7e754d/196874377444.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6768696620",
+      "attributes": {
+        "album": "Portugal - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "Portugal 55 Benjamin Hav Portugal - Single PREVIEW 3:29"
+    },
+    {
+      "title": "Hørt Det Før",
+      "canonicalUrl": "https://music.apple.com/us/song/h%C3%B8rt-det-f%C3%B8r/1813398823",
+      "creator": "Anton Westerlin, Pil, Annika, Mille, Medina",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/5a/fc/585afce8-cc23-49ff-bc89-6e082f430316/25UMGIM69299.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1813398823",
+      "attributes": {
+        "album": "Godaften",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "Hørt Det Før 56 Anton Westerlin, Pil, Annika, Mille, Medina Godaften PREVIEW 3:34"
+    },
+    {
+      "title": "Animal",
+      "canonicalUrl": "https://music.apple.com/us/song/animal/1891779776",
+      "creator": "KATSEYE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/28/92/e22892a7-fe88-72cf-ecba-691030dfcf7e/26UMGIM41151.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1891779776",
+      "attributes": {
+        "album": "WILD - EP",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "Animal 57 KATSEYE WILD - EP PREVIEW 2:38"
+    },
+    {
+      "title": "Kom Over",
+      "canonicalUrl": "https://music.apple.com/us/song/kom-over/1373781817",
+      "creator": "Kesi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/68/c1/b6/68c1b695-6029-6376-74dc-70b22e672c1b/886447066331.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1373781817",
+      "attributes": {
+        "album": "Kom Over - Single",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "Kom Over 58 Kesi Kom Over - Single PREVIEW 3:16"
+    },
+    {
+      "title": "Pure",
+      "canonicalUrl": "https://music.apple.com/us/song/pure/6769552686",
+      "creator": "SIENNA SPIRO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6769552686",
+      "attributes": {
+        "album": "Visitor (Deluxe)",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "59",
+        "explicit": false
+      },
+      "evidenceText": "Pure 59 SIENNA SPIRO Visitor (Deluxe) PREVIEW 3:39"
+    },
+    {
+      "title": "Gode Dage, Gode Drinks",
+      "canonicalUrl": "https://music.apple.com/us/song/gode-dage-gode-drinks/1641317721",
+      "creator": "Lamin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e4/a1/2a/e4a12aa1-b22c-3493-3bdf-9797b373e04b/22UMGIM93794.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1641317721",
+      "attributes": {
+        "album": "Kronisk Skeptisk",
+        "duration": "2:20",
+        "durationIso": "PT2M20S",
+        "chartPosition": "60",
+        "explicit": false
+      },
+      "evidenceText": "Gode Dage, Gode Drinks 60 Lamin Kronisk Skeptisk PREVIEW 2:20"
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia/1833328840",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1833328840",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "61",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia 61 Taylor Swift The Life of a Showgirl PREVIEW 3:46"
+    },
+    {
+      "title": "Er Her",
+      "canonicalUrl": "https://music.apple.com/us/song/er-her/1565967990",
+      "creator": "Artigeardit, Kesi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ce/81/aa/ce81aa9a-e884-c592-80f0-a3b51893f513/21UMGIM37899.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1565967990",
+      "attributes": {
+        "album": "Er Her - Single",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "62",
+        "explicit": true
+      },
+      "evidenceText": "Er Her 62 Artigeardit, Kesi Er Her - Single PREVIEW 2:37"
+    },
+    {
+      "title": "Perfect",
+      "canonicalUrl": "https://music.apple.com/us/song/perfect/1193701400",
+      "creator": "Ed Sheeran",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1193701400",
+      "attributes": {
+        "album": "÷ (Deluxe)",
+        "duration": "4:23",
+        "durationIso": "PT4M23S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "Perfect 63 Ed Sheeran ÷ (Deluxe) PREVIEW 4:23"
+    },
+    {
+      "title": "Ordinary",
+      "canonicalUrl": "https://music.apple.com/us/song/ordinary/1793663645",
+      "creator": "Alex Warren",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1793663645",
+      "attributes": {
+        "album": "Ordinary - Single",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "Ordinary 64 Alex Warren Ordinary - Single PREVIEW 3:06"
+    },
+    {
+      "title": "Så længe jeg er sexy.",
+      "canonicalUrl": "https://music.apple.com/us/song/s%C3%A5-l%C3%A6nge-jeg-er-sexy/1756826600",
+      "creator": "Annika",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/74/f7/ee74f742-ec5a-9d38-ce74-8c9135c3d94f/24UMGIM66018.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1756826600",
+      "attributes": {
+        "album": "Så længe jeg er sexy. - Single",
+        "duration": "2:30",
+        "durationIso": "PT2M30S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "Så længe jeg er sexy. 65 Annika Så længe jeg er sexy. - Single PREVIEW 2:30"
+    },
+    {
+      "title": "So Easy (To Fall In Love)",
+      "canonicalUrl": "https://music.apple.com/us/song/so-easy-to-fall-in-love/1817609507",
+      "creator": "Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1817609507",
+      "attributes": {
+        "album": "The Art of Loving",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "So Easy (To Fall In Love) 66 Olivia Dean The Art of Loving PREVIEW 2:49"
+    },
+    {
+      "title": "Hvem er det der græder nu?",
+      "canonicalUrl": "https://music.apple.com/us/song/hvem-er-det-der-gr%C3%A6der-nu/6805415953",
+      "creator": "Berg",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/19/5a/e0195abc-3bd1-4d17-34b3-df1670d0626a/196874727706.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6805415953",
+      "attributes": {
+        "album": "Hvem er det der græder nu? - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "Hvem er det der græder nu? 67 Berg Hvem er det der græder nu? - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Danser Med Minder",
+      "canonicalUrl": "https://music.apple.com/us/song/danser-med-minder/6775506018",
+      "creator": "Kind mod Kind",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/c6/ab/4ac6ab61-f8d6-c8db-578d-752601e53992/196874490105.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6775506018",
+      "attributes": {
+        "album": "Danser Med Minder - Single",
+        "duration": "3:38",
+        "durationIso": "PT3M38S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "Danser Med Minder 68 Kind mod Kind Danser Med Minder - Single PREVIEW 3:38"
+    },
+    {
+      "title": "Fina",
+      "canonicalUrl": "https://music.apple.com/us/song/fina/6813496955",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496955",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "2:24",
+        "durationIso": "PT2M24S",
+        "chartPosition": "69",
+        "explicit": false
+      },
+      "evidenceText": "Fina 69 Gilli Verden Er Din PREVIEW 2:24"
+    },
+    {
+      "title": "Jeg Ka' Ik' Mærke Noget (feat. Thomas Helmig)",
+      "canonicalUrl": "https://music.apple.com/us/song/jeg-ka-ik-m%C3%A6rke-noget-feat-thomas-helmig/6786653940",
+      "creator": "Christopher",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/ca/93/01ca93b4-cb54-f574-a244-75becd2ef5f3/26UMGIM85584.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6786653940",
+      "attributes": {
+        "album": "Jeg Ka' Ik' Mærke Noget (feat. Thomas Helmig) - Single",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "Jeg Ka' Ik' Mærke Noget (feat. Thomas Helmig) 70 Christopher Jeg Ka' Ik' Mærke Noget (feat. Thomas Helmig) - Single PREVIEW 2:38"
+    },
+    {
+      "title": "Bar bund (feat. Gilli)",
+      "canonicalUrl": "https://music.apple.com/us/song/bar-bund-feat-gilli/1811420035",
+      "creator": "Annika",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/40/8c/88408c03-3dba-2a0c-18fd-9dba33c37129/25UMGIM60872.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1811420035",
+      "attributes": {
+        "album": "AW",
+        "duration": "2:45",
+        "durationIso": "PT2M45S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "Bar bund (feat. Gilli) 72 Annika AW PREVIEW 2:45"
+    },
+    {
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "canonicalUrl": "https://music.apple.com/us/song/beauty-and-a-beat-feat-nicki-minaj/1440650961",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1440650961",
+      "attributes": {
+        "album": "Believe (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "Beauty and a Beat (feat. Nicki Minaj) 73 Justin Bieber Believe (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "Leve Livet",
+      "canonicalUrl": "https://music.apple.com/us/song/leve-livet/6813496948",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496948",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "2:45",
+        "durationIso": "PT2M45S",
+        "chartPosition": "74",
+        "explicit": false
+      },
+      "evidenceText": "Leve Livet 74 Gilli Verden Er Din PREVIEW 2:45"
+    },
+    {
+      "title": "Shape of You",
+      "canonicalUrl": "https://music.apple.com/us/song/shape-of-you/1193701392",
+      "creator": "Ed Sheeran",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1193701392",
+      "attributes": {
+        "album": "÷ (Deluxe)",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Shape of You 75 Ed Sheeran ÷ (Deluxe) PREVIEW 3:53"
+    },
+    {
+      "title": "Don Duggi The Drifter",
+      "canonicalUrl": "https://music.apple.com/us/song/don-duggi-the-drifter/6809778856",
+      "creator": "Suspekt",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/ef/f3/eaeff381-82ee-2da8-0bcc-eafc64ac9136/26UM1IM14597.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6809778856",
+      "attributes": {
+        "album": "9 Liv - Single",
+        "duration": "2:17",
+        "durationIso": "PT2M17S",
+        "chartPosition": "76",
+        "explicit": true
+      },
+      "evidenceText": "Don Duggi The Drifter 76 Suspekt 9 Liv - Single PREVIEW 2:17"
+    },
+    {
+      "title": "Under Din Sne",
+      "canonicalUrl": "https://music.apple.com/us/song/under-din-sne/1590500751",
+      "creator": "The Minds Of 99",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/68/df/1b68dfb8-51ce-73b1-9035-90b7354754ce/886449674855.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1590500751",
+      "attributes": {
+        "album": "Under Din Sne - Single",
+        "duration": "4:24",
+        "durationIso": "PT4M24S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "Under Din Sne 77 The Minds Of 99 Under Din Sne - Single PREVIEW 4:24"
+    },
+    {
+      "title": "Hele Vejen (feat. Mumle)",
+      "canonicalUrl": "https://music.apple.com/us/song/hele-vejen-feat-mumle/1862160517",
+      "creator": "Omar",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/1d/c7/931dc76e-14bc-fa15-a117-3edaf4a80aa9/5026854382036.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1862160517",
+      "attributes": {
+        "album": "Højt At Flyve Dybt At Falde",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "78",
+        "explicit": false
+      },
+      "evidenceText": "Hele Vejen (feat. Mumle) 78 Omar Højt At Flyve Dybt At Falde PREVIEW 2:57"
+    },
+    {
+      "title": "Orbit",
+      "canonicalUrl": "https://music.apple.com/us/song/orbit/1803419835",
+      "creator": "Christopher",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/a8/a8/01a8a8a7-5707-a00a-b54f-b9cfc6c7a27f/5021732752833.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1803419835",
+      "attributes": {
+        "album": "Fools Gold",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "79",
+        "explicit": false
+      },
+      "evidenceText": "Orbit 79 Christopher Fools Gold PREVIEW 3:12"
+    },
+    {
+      "title": "Ivrig",
+      "canonicalUrl": "https://music.apple.com/us/song/ivrig/6770456180",
+      "creator": "Artigeardit",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/b0/b8/3cb0b867-fb3a-8cf7-ac50-4197d7484231/26UMGIM63292.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6770456180",
+      "attributes": {
+        "album": "Ivrig - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "80",
+        "explicit": false
+      },
+      "evidenceText": "Ivrig 80 Artigeardit Ivrig - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Father Figure",
+      "canonicalUrl": "https://music.apple.com/us/song/father-figure/1833328847",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1833328847",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "81",
+        "explicit": true
+      },
+      "evidenceText": "Father Figure 81 Taylor Swift The Life of a Showgirl PREVIEW 3:32"
+    },
+    {
+      "title": "Dét Der Udenfor",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%A9t-der-udenfor/1882117746",
+      "creator": "The Minds Of 99",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/10/38/4a1038f6-8f64-4b13-24b9-9114d1400068/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1882117746",
+      "attributes": {
+        "album": "Dét Der Udenfor - Single",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "Dét Der Udenfor 82 The Minds Of 99 Dét Der Udenfor - Single PREVIEW 3:34"
+    },
+    {
+      "title": "kendt mig en uge",
+      "canonicalUrl": "https://music.apple.com/us/song/kendt-mig-en-uge/1800246702",
+      "creator": "Mille",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/18/d8/6b18d84b-148d-d704-03f6-db8244c19efe/5021732734457.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1800246702",
+      "attributes": {
+        "album": "kendt mig en uge - Single",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "kendt mig en uge 83 Mille kendt mig en uge - Single PREVIEW 3:06"
+    },
+    {
+      "title": "Aldrig Igen",
+      "canonicalUrl": "https://music.apple.com/us/song/aldrig-igen/6813496961",
+      "creator": "Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f5/58/41f5582c-ddb8-0ab5-160e-9cbd4178cfef/26UM1IM11127.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6813496961",
+      "attributes": {
+        "album": "Verden Er Din",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "Aldrig Igen 84 Gilli Verden Er Din PREVIEW 2:42"
+    },
+    {
+      "title": "Reposado",
+      "canonicalUrl": "https://music.apple.com/us/song/reposado/1750725224",
+      "creator": "Benny Jamz, Gilli",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/0d/72/700d7287-a9b7-cd14-09bd-4a6fb10d0993/24UMGIM61999.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1750725224",
+      "attributes": {
+        "album": "KENNY",
+        "duration": "2:41",
+        "durationIso": "PT2M41S",
+        "chartPosition": "85",
+        "explicit": true
+      },
+      "evidenceText": "Reposado 85 Benny Jamz, Gilli KENNY PREVIEW 2:41"
+    },
+    {
+      "title": "Janice STFU",
+      "canonicalUrl": "https://music.apple.com/us/song/janice-stfu/6769568596",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "6769568596",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "86",
+        "explicit": true
+      },
+      "evidenceText": "Janice STFU 86 Drake ICEMAN PREVIEW 3:57"
+    },
+    {
+      "title": "Rein Me In",
+      "canonicalUrl": "https://music.apple.com/us/song/rein-me-in/1820918468",
+      "creator": "Sam Fender, Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1820918468",
+      "attributes": {
+        "album": "Rein Me In - Single",
+        "duration": "5:39",
+        "durationIso": "PT5M39S",
+        "chartPosition": "87",
+        "explicit": true
+      },
+      "evidenceText": "Rein Me In 87 Sam Fender, Olivia Dean Rein Me In - Single PREVIEW 5:39"
+    },
+    {
+      "title": "the cure",
+      "canonicalUrl": "https://music.apple.com/us/song/the-cure/1889992123",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1889992123",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "88",
+        "explicit": true
+      },
+      "evidenceText": "the cure 88 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 4:57"
+    },
+    {
+      "title": "I KNOW",
+      "canonicalUrl": "https://music.apple.com/us/song/i-know/1691941968",
+      "creator": "D1MA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/17/9a/37179a92-e5dd-07e7-2d5b-1d7afa4dda70/23UMGIM66928.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1691941968",
+      "attributes": {
+        "album": "I KNOW - Single",
+        "duration": "3:09",
+        "durationIso": "PT3M9S",
+        "chartPosition": "89",
+        "explicit": true
+      },
+      "evidenceText": "I KNOW 89 D1MA I KNOW - Single PREVIEW 3:09"
+    },
+    {
+      "title": "BAD TIMES",
+      "canonicalUrl": "https://music.apple.com/us/song/bad-times/1894224409",
+      "creator": "Imael Angel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1894224409",
+      "attributes": {
+        "album": "BAD TIMES - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "BAD TIMES 90 Imael Angel BAD TIMES - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Den Danske Sommer (feat. Birthe Kjær)",
+      "canonicalUrl": "https://music.apple.com/us/song/den-danske-sommer-feat-birthe-kj%C3%A6r/1887212712",
+      "creator": "Tobias Rahim",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/c7/3d/fbc73db3-efbb-fc75-8618-37549860609b/196874242346.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1887212712",
+      "attributes": {
+        "album": "Den Danske Sommer (feat. Birthe Kjær) - Single",
+        "duration": "2:25",
+        "durationIso": "PT2M25S",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "Den Danske Sommer (feat. Birthe Kjær) 91 Tobias Rahim Den Danske Sommer (feat. Birthe Kjær) - Single PREVIEW 2:25"
+    },
+    {
+      "title": "Wi$h Li$t",
+      "canonicalUrl": "https://music.apple.com/us/song/wi%24h-li%24t/1833328851",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1833328851",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "92",
+        "explicit": true
+      },
+      "evidenceText": "Wi$h Li$t 92 Taylor Swift The Life of a Showgirl PREVIEW 3:27"
+    },
+    {
+      "title": "Lyse Nætter",
+      "canonicalUrl": "https://music.apple.com/us/song/lyse-n%C3%A6tter/339361514",
+      "creator": "Alberte Winding",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0c/ef/16/0cef16df-e357-b735-cc65-fd9f391e359e/884977067729.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "339361514",
+      "attributes": {
+        "album": "Lyse Nætter",
+        "duration": "3:52",
+        "durationIso": "PT3M52S",
+        "chartPosition": "93",
+        "explicit": false
+      },
+      "evidenceText": "Lyse Nætter 93 Alberte Winding Lyse Nætter PREVIEW 3:52"
+    },
+    {
+      "title": "Wonderwall (Remastered)",
+      "canonicalUrl": "https://music.apple.com/us/song/wonderwall-remastered/1525933490",
+      "creator": "Oasis",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1525933490",
+      "attributes": {
+        "album": "(What's The Story) Morning Glory? [Deluxe Remastered Edition]",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "94",
+        "explicit": false
+      },
+      "evidenceText": "Wonderwall (Remastered) 94 Oasis (What's The Story) Morning Glory? [Deluxe Remastered Edition] PREVIEW 4:18"
+    },
+    {
+      "title": "Blodigt",
+      "canonicalUrl": "https://music.apple.com/us/song/blodigt/1789543370",
+      "creator": "Anton Westerlin, Annika",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/df/ca/1bdfca81-fe23-160e-d744-1333f57cbbaa/25UMGIM01277.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1789543370",
+      "attributes": {
+        "album": "Blodigt - Single",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "95",
+        "explicit": true
+      },
+      "evidenceText": "Blodigt 95 Anton Westerlin, Annika Blodigt - Single PREVIEW 3:02"
+    },
+    {
+      "title": "Under Stjernerne På Himlen",
+      "canonicalUrl": "https://music.apple.com/us/song/under-stjernerne-p%C3%A5-himlen/1406272739",
+      "creator": "Rasmus Seebach",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/9c/2e/c69c2e65-7111-6587-1de5-812fb891b5a3/00602567874188.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1406272739",
+      "attributes": {
+        "album": "Mer End' Kærlighed",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "Under Stjernerne På Himlen 96 Rasmus Seebach Mer End' Kærlighed PREVIEW 2:53"
+    },
+    {
+      "title": "ocean eyes",
+      "canonicalUrl": "https://music.apple.com/us/song/ocean-eyes/1440899467",
+      "creator": "Billie Eilish",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1440899467",
+      "attributes": {
+        "album": "dont smile at me",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "ocean eyes 97 Billie Eilish dont smile at me PREVIEW 3:20"
+    },
+    {
+      "title": "Vi pumper hjertet op",
+      "canonicalUrl": "https://music.apple.com/us/song/vi-pumper-hjertet-op/1875110294",
+      "creator": "APHACA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/83/4d/c8834dfd-1a8d-6f1d-113a-1256c4c90540/26UMGIM01573.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1875110294",
+      "attributes": {
+        "album": "VILD UNGDOM",
+        "duration": "5:05",
+        "durationIso": "PT5M5S",
+        "chartPosition": "98",
+        "explicit": false
+      },
+      "evidenceText": "Vi pumper hjertet op 98 APHACA VILD UNGDOM PREVIEW 5:05"
+    },
+    {
+      "title": "Blinding Lights",
+      "canonicalUrl": "https://music.apple.com/us/song/blinding-lights/1488408568",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1488408568",
+      "attributes": {
+        "album": "Blinding Lights - Single",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "99",
+        "explicit": false
+      },
+      "evidenceText": "Blinding Lights 99 The Weeknd Blinding Lights - Single PREVIEW 3:21"
+    },
+    {
+      "title": "Into You",
+      "canonicalUrl": "https://music.apple.com/us/song/into-you/1568020292",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6e/40/14/6e401443-8c15-2f21-4d2c-effe972c3838/16UMGIM30042.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-denmark/pl.d08496850bc840a4874e877177a69f9f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Denmark",
+      "externalId": "1568020292",
+      "attributes": {
+        "album": "Dangerous Woman (Bonus Tracks Edition)",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "100",
+        "explicit": false
+      },
+      "evidenceText": "Into You 100 Ariana Grande Dangerous Woman (Bonus Tracks Edition) PREVIEW 4:04"
+    }
+  ]
+}

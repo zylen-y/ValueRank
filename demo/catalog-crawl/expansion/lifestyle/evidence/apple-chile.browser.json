@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+  "collection": "Top 100: Chile",
+  "fetchedAt": "2026-09-27T03:41:14.745Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "BbY WOW",
+      "canonicalUrl": "https://music.apple.com/us/song/bby-wow/6796864754",
+      "creator": "KAROL G, Judeline, rusowsky",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6796864754",
+      "attributes": {
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "BbY WOW 1 KAROL G, Judeline, rusowsky NO ME ARREPIENTO DE SENTIR TANTO PREVIEW 3:45"
+    },
+    {
+      "title": "No Me Suman",
+      "canonicalUrl": "https://music.apple.com/us/song/no-me-suman/6807145252",
+      "creator": "Cris MJ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/98/1f/44981f2c-e997-9d84-a8b2-2df42b13f5d9/885288369113.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6807145252",
+      "attributes": {
+        "album": "No Me Suman - Single",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "2",
+        "explicit": true
+      },
+      "evidenceText": "No Me Suman 2 Cris MJ No Me Suman - Single PREVIEW 2:38"
+    },
+    {
+      "title": "VAMO A VEL",
+      "canonicalUrl": "https://music.apple.com/us/song/vamo-a-vel/6808400640",
+      "creator": "ROA, Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/66/11/50661123-1d80-1054-62f2-2e786fa631c3/26UM1IM14326.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6808400640",
+      "attributes": {
+        "album": "VAMO A VEL - Single",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "3",
+        "explicit": true
+      },
+      "evidenceText": "VAMO A VEL 3 ROA, Anuel AA VAMO A VEL - Single PREVIEW 4:00"
+    },
+    {
+      "title": "Yonaguni",
+      "canonicalUrl": "https://music.apple.com/us/song/yonaguni/1570323056",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1570323056",
+      "attributes": {
+        "album": "Yonaguni - Single",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "4",
+        "explicit": true
+      },
+      "evidenceText": "Yonaguni 4 Bad Bunny Yonaguni - Single PREVIEW 3:26"
+    },
+    {
+      "title": "KOKO",
+      "canonicalUrl": "https://music.apple.com/us/song/koko/1877482633",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1877482633",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "5",
+        "explicit": true
+      },
+      "evidenceText": "KOKO 5 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 3:15"
+    },
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 6 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Las mas bonitas son p#tas",
+      "canonicalUrl": "https://music.apple.com/us/song/las-mas-bonitas-son-p-tas/6784402416",
+      "creator": "Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/f2/82/46f28288-8e3d-d4cb-e73f-00863da4603b/820233902649.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6784402416",
+      "attributes": {
+        "album": "Las mas bonitas son p#tas - Single",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "7",
+        "explicit": true
+      },
+      "evidenceText": "Las mas bonitas son p#tas 7 Anuel AA Las mas bonitas son p#tas - Single PREVIEW 2:39"
+    },
+    {
+      "title": "Efecto",
+      "canonicalUrl": "https://music.apple.com/us/song/efecto/1622045954",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1622045954",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "8",
+        "explicit": true
+      },
+      "evidenceText": "Efecto 8 Bad Bunny Un Verano Sin Ti PREVIEW 3:33"
+    },
+    {
+      "title": "TE MUDASTE",
+      "canonicalUrl": "https://music.apple.com/us/song/te-mudaste/1542102922",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1542102922",
+      "attributes": {
+        "album": "EL ÚLTIMO TOUR DEL MUNDO",
+        "duration": "2:10",
+        "durationIso": "PT2M10S",
+        "chartPosition": "9",
+        "explicit": true
+      },
+      "evidenceText": "TE MUDASTE 9 Bad Bunny EL ÚLTIMO TOUR DEL MUNDO PREVIEW 2:10"
+    },
+    {
+      "title": "Donde Hubo Fuego Cenizas Quedan",
+      "canonicalUrl": "https://music.apple.com/us/song/donde-hubo-fuego-cenizas-quedan/6800930383",
+      "creator": "Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/3d/73/6d3d7313-69c5-5983-d735-8858d9f01c43/820233858090.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6800930383",
+      "attributes": {
+        "album": "Donde Hubo Fuego Cenizas Quedan - Single",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "10",
+        "explicit": true
+      },
+      "evidenceText": "Donde Hubo Fuego Cenizas Quedan 10 Anuel AA Donde Hubo Fuego Cenizas Quedan - Single PREVIEW 3:28"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 11 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "Pa' Que La Pases Bien",
+      "canonicalUrl": "https://music.apple.com/us/song/pa-que-la-pases-bien/1247228818",
+      "creator": "Arcángel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1247228818",
+      "attributes": {
+        "album": "El Fenómeno",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "Pa' Que La Pases Bien 12 Arcángel El Fenómeno PREVIEW 3:34"
+    },
+    {
+      "title": "Daytona",
+      "canonicalUrl": "https://music.apple.com/us/song/daytona/1715087682",
+      "creator": "Cris MJ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/fd/76/61fd7677-e736-a5ca-42fc-3a3681061d58/197190355710.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1715087682",
+      "attributes": {
+        "album": "Partyson",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "13",
+        "explicit": true
+      },
+      "evidenceText": "Daytona 13 Cris MJ Partyson PREVIEW 2:53"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 14 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Luces Tenues",
+      "canonicalUrl": "https://music.apple.com/us/song/luces-tenues/1720988719",
+      "creator": "Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/79/0c/0e790cc8-c67d-6e06-cc92-4137c9a8afe4/197190645262.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1720988719",
+      "attributes": {
+        "album": "Luces Tenues - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "15",
+        "explicit": true
+      },
+      "evidenceText": "Luces Tenues 15 Anuel AA Luces Tenues - Single PREVIEW 3:10"
+    },
+    {
+      "title": "CAPCANA COCOA",
+      "canonicalUrl": "https://music.apple.com/us/song/capcana-cocoa/6808005059",
+      "creator": "Blessd, Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/ff/de/45ffde34-6e7e-90e4-eaa7-4d4f72599051/1200220051427.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6808005059",
+      "attributes": {
+        "album": "CAPCANA COCOA - Single",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "16",
+        "explicit": true
+      },
+      "evidenceText": "CAPCANA COCOA 16 Blessd, Anuel AA CAPCANA COCOA - Single PREVIEW 4:04"
+    },
+    {
+      "title": "Hasta Que Dios Diga",
+      "canonicalUrl": "https://music.apple.com/us/song/hasta-que-dios-diga/1515739167",
+      "creator": "Anuel AA, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/95/c7/5095c702-2159-c3ac-be67-9a1c16cc0ed9/195081694399.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1515739167",
+      "attributes": {
+        "album": "Emmanuel",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "17",
+        "explicit": true
+      },
+      "evidenceText": "Hasta Que Dios Diga 17 Anuel AA, Bad Bunny Emmanuel PREVIEW 4:06"
+    },
+    {
+      "title": "Ojitos Lindos",
+      "canonicalUrl": "https://music.apple.com/us/song/ojitos-lindos/1622045962",
+      "creator": "Bad Bunny, Bomba Estéreo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1622045962",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "Ojitos Lindos 18 Bad Bunny, Bomba Estéreo Un Verano Sin Ti PREVIEW 4:18"
+    },
+    {
+      "title": "Que Nadie Se Entere",
+      "canonicalUrl": "https://music.apple.com/us/song/que-nadie-se-entere/1474297775",
+      "creator": "La Noche",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/d9/4b/c8d94bfa-9d81-2add-d302-e4b531de28f8/194491127855.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1474297775",
+      "attributes": {
+        "album": "Amor Entre Sábanas",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "19",
+        "explicit": false
+      },
+      "evidenceText": "Que Nadie Se Entere 19 La Noche Amor Entre Sábanas PREVIEW 3:01"
+    },
+    {
+      "title": "ZIZI",
+      "canonicalUrl": "https://music.apple.com/us/song/zizi/6793688579",
+      "creator": "Ozuna, Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/74/b0/d274b0a3-b700-1aa4-b56d-b2d1b7995c13/196874578162.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6793688579",
+      "attributes": {
+        "album": "ZIZI - Single",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "20",
+        "explicit": true
+      },
+      "evidenceText": "ZIZI 20 Ozuna, Omar Courtz ZIZI - Single PREVIEW 4:02"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 21 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "De Lejitos (Remix)",
+      "canonicalUrl": "https://music.apple.com/us/song/de-lejitos-remix/6770655342",
+      "creator": "Jay Wheeler, Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/98/7a/71987aa4-557e-61fd-66c8-a5536d21d31c/ticket.snrwquok.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6770655342",
+      "attributes": {
+        "album": "La Voz Favorita",
+        "duration": "4:36",
+        "durationIso": "PT4M36S",
+        "chartPosition": "22",
+        "explicit": true
+      },
+      "evidenceText": "De Lejitos (Remix) 22 Jay Wheeler, Omar Courtz La Voz Favorita PREVIEW 4:36"
+    },
+    {
+      "title": "Vete",
+      "canonicalUrl": "https://music.apple.com/us/song/vete/1500776923",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1500776923",
+      "attributes": {
+        "album": "YHLQMDLG",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "23",
+        "explicit": true
+      },
+      "evidenceText": "Vete 23 Bad Bunny YHLQMDLG PREVIEW 3:12"
+    },
+    {
+      "title": "666",
+      "canonicalUrl": "https://music.apple.com/us/song/666/1892154824",
+      "creator": "Panda Black, Yan Block, Cris MJ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/fa/95/f7fa951d-d14e-0f33-aea5-fd90d09d99a6/820200994608.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1892154824",
+      "attributes": {
+        "album": "666 - Single",
+        "duration": "2:20",
+        "durationIso": "PT2M20S",
+        "chartPosition": "24",
+        "explicit": true
+      },
+      "evidenceText": "666 24 Panda Black, Yan Block, Cris MJ 666 - Single PREVIEW 2:20"
+    },
+    {
+      "title": "Dile a El",
+      "canonicalUrl": "https://music.apple.com/us/song/dile-a-el/1536861744",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/85/36/3585365d-4678-0648-1bfd-76ea49ba8c9c/886448841388.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1536861744",
+      "attributes": {
+        "album": "Afrodisíaco",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "25",
+        "explicit": true
+      },
+      "evidenceText": "Dile a El 25 Rauw Alejandro Afrodisíaco PREVIEW 3:29"
+    },
+    {
+      "title": "Se Preparó",
+      "canonicalUrl": "https://music.apple.com/us/song/se-prepar%C3%B3/1269286798",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/7c/1b/df7c1b32-0fca-94f0-866b-ba89e420ca04/697691884103.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1269286798",
+      "attributes": {
+        "album": "Odisea",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "Se Preparó 26 Ozuna Odisea PREVIEW 3:08"
+    },
+    {
+      "title": "VeLDÁ",
+      "canonicalUrl": "https://music.apple.com/us/song/veld%C3%A1/1787022999",
+      "creator": "Bad Bunny, Omar Courtz, Dei V",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1787022999",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "27",
+        "explicit": true
+      },
+      "evidenceText": "VeLDÁ 27 Bad Bunny, Omar Courtz, Dei V DeBÍ TiRAR MáS FOToS PREVIEW 3:55"
+    },
+    {
+      "title": "MILLONETA",
+      "canonicalUrl": "https://music.apple.com/us/song/milloneta/6790914854",
+      "creator": "Jere Klein, Blessd, Raven la R",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/0e/58/5d0e580d-3ea9-9302-7e12-436995bd2a48/885288054996.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6790914854",
+      "attributes": {
+        "album": "MILLONETA - Single",
+        "duration": "2:40",
+        "durationIso": "PT2M40S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "MILLONETA 28 Jere Klein, Blessd, Raven la R MILLONETA - Single PREVIEW 2:40"
+    },
+    {
+      "title": "SERIO CON ESE Q",
+      "canonicalUrl": "https://music.apple.com/us/song/serio-con-ese-q/1760194570",
+      "creator": "Omar Courtz, Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1760194570",
+      "attributes": {
+        "album": "PRIMERA MUSA",
+        "duration": "4:07",
+        "durationIso": "PT4M7S",
+        "chartPosition": "29",
+        "explicit": true
+      },
+      "evidenceText": "SERIO CON ESE Q 29 Omar Courtz, Anuel AA PRIMERA MUSA PREVIEW 4:07"
+    },
+    {
+      "title": "Q Hubo Amor (Medellín)",
+      "canonicalUrl": "https://music.apple.com/us/song/q-hubo-amor-medell%C3%ADn/6771192502",
+      "creator": "Ovy On the Drums, Jere Klein, Blessd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/56/bf/1956bf83-1d80-d1ba-c1ec-3a7ce136a091/1200214077648.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6771192502",
+      "attributes": {
+        "album": "Q Hubo Amor (Medellín) - Single",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "30",
+        "explicit": false
+      },
+      "evidenceText": "Q Hubo Amor (Medellín) 30 Ovy On the Drums, Jere Klein, Blessd Q Hubo Amor (Medellín) - Single PREVIEW 2:52"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "31",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 31 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "Me Porto Bonito",
+      "canonicalUrl": "https://music.apple.com/us/song/me-porto-bonito/1622045634",
+      "creator": "Bad Bunny, Chencho Corleone",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1622045634",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "32",
+        "explicit": true
+      },
+      "evidenceText": "Me Porto Bonito 32 Bad Bunny, Chencho Corleone Un Verano Sin Ti PREVIEW 2:58"
+    },
+    {
+      "title": "Amanece",
+      "canonicalUrl": "https://music.apple.com/us/song/amanece/1445474682",
+      "creator": "Anuel AA, Haze",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bb/60/83/bb6083b2-1d5d-4459-6f8e-870954717c96/050742349004_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1445474682",
+      "attributes": {
+        "album": "Amanece - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "33",
+        "explicit": true
+      },
+      "evidenceText": "Amanece 33 Anuel AA, Haze Amanece - Single PREVIEW 3:10"
+    },
+    {
+      "title": "L a k e n o s h i",
+      "canonicalUrl": "https://music.apple.com/us/song/l-a-k-e-n-o-s-h-i/1877482430",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1877482430",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "34",
+        "explicit": true
+      },
+      "evidenceText": "L a k e n o s h i 34 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 3:27"
+    },
+    {
+      "title": "Dichavate",
+      "canonicalUrl": "https://music.apple.com/us/song/dichavate/1865959223",
+      "creator": "Ya Ice Dilan, Rey Tony, DJ Honda, Helabusador",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/ea/be/a6eabeb7-b493-8920-2fcc-5209f43f335d/8605020139741.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1865959223",
+      "attributes": {
+        "album": "Dichavate - Single",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "35",
+        "explicit": false
+      },
+      "evidenceText": "Dichavate 35 Ya Ice Dilan, Rey Tony, DJ Honda, Helabusador Dichavate - Single PREVIEW 4:06"
+    },
+    {
+      "title": "DILUVIO",
+      "canonicalUrl": "https://music.apple.com/us/song/diluvio/1695651429",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1695651429",
+      "attributes": {
+        "album": "PLAYA SATURNO",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "36",
+        "explicit": true
+      },
+      "evidenceText": "DILUVIO 36 Rauw Alejandro PLAYA SATURNO PREVIEW 3:17"
+    },
+    {
+      "title": "DÁKITI",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%A1kiti/1542103620",
+      "creator": "Bad Bunny, JHAYCO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1542103620",
+      "attributes": {
+        "album": "EL ÚLTIMO TOUR DEL MUNDO",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "37",
+        "explicit": true
+      },
+      "evidenceText": "DÁKITI 37 Bad Bunny, JHAYCO EL ÚLTIMO TOUR DEL MUNDO PREVIEW 3:25"
+    },
+    {
+      "title": "EL NENE",
+      "canonicalUrl": "https://music.apple.com/us/song/el-nene/1655229764",
+      "creator": "Anuel AA, Foreign Teck",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/2e/11/1d2e11eb-8ce0-55b5-4fdc-40d1a100b295/197187477456.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1655229764",
+      "attributes": {
+        "album": "LLNM2",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "38",
+        "explicit": true
+      },
+      "evidenceText": "EL NENE 38 Anuel AA, Foreign Teck LLNM2 PREVIEW 3:00"
+    },
+    {
+      "title": "Cuando No Era Cantante (Remix)",
+      "canonicalUrl": "https://music.apple.com/us/song/cuando-no-era-cantante-remix/6793698180",
+      "creator": "El Bogueto, Anuel AA, Fuerza Regida, Yung Beef",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/43/a1/7443a10d-3fb6-3030-684d-7282a35a32f9/229593.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6793698180",
+      "attributes": {
+        "album": "Cuando No Era Cantante (Remix) - Single",
+        "duration": "5:27",
+        "durationIso": "PT5M27S",
+        "chartPosition": "39",
+        "explicit": true
+      },
+      "evidenceText": "Cuando No Era Cantante (Remix) 39 El Bogueto, Anuel AA, Fuerza Regida, Yung Beef Cuando No Era Cantante (Remix) - Single PREVIEW 5:27"
+    },
+    {
+      "title": "POR SI MAÑANA NO ESTOY",
+      "canonicalUrl": "https://music.apple.com/us/song/por-si-ma%C3%B1ana-no-estoy/1877482849",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1877482849",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "4:24",
+        "durationIso": "PT4M24S",
+        "chartPosition": "40",
+        "explicit": true
+      },
+      "evidenceText": "POR SI MAÑANA NO ESTOY 40 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 4:24"
+    },
+    {
+      "title": "LATINA FOREVA",
+      "canonicalUrl": "https://music.apple.com/us/song/latina-foreva/1819544623",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/39/f5/1e39f58c-e5c1-6431-d6ed-d6c32e29d63f/25UMGIM79234.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1819544623",
+      "attributes": {
+        "album": "Tropicoqueta",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "41",
+        "explicit": true
+      },
+      "evidenceText": "LATINA FOREVA 41 KAROL G Tropicoqueta PREVIEW 2:39"
+    },
+    {
+      "title": "Loba",
+      "canonicalUrl": "https://music.apple.com/us/song/loba/6773817088",
+      "creator": "Bayriton, Jere Klein, Jairo Vera, Raven la R",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/be/61/02be610e-1534-05eb-855b-23569b575d93/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6773817088",
+      "attributes": {
+        "album": "Dark Fantasy",
+        "duration": "3:49",
+        "durationIso": "PT3M49S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "Loba 42 Bayriton, Jere Klein, Jairo Vera, Raven la R Dark Fantasy PREVIEW 3:49"
+    },
+    {
+      "title": "Subelo",
+      "canonicalUrl": "https://music.apple.com/us/song/subelo/1594455104",
+      "creator": "Anuel AA, Myke Towers, JHAYCO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/be/4c/22be4cc5-a7f2-eadc-359b-e338fbe3d7ee/196292821857.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1594455104",
+      "attributes": {
+        "album": "Las Leyendas Nunca Mueren",
+        "duration": "3:59",
+        "durationIso": "PT3M59S",
+        "chartPosition": "43",
+        "explicit": true
+      },
+      "evidenceText": "Subelo 43 Anuel AA, Myke Towers, JHAYCO Las Leyendas Nunca Mueren PREVIEW 3:59"
+    },
+    {
+      "title": "AMARGURA",
+      "canonicalUrl": "https://music.apple.com/us/song/amargura/1670246089",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1670246089",
+      "attributes": {
+        "album": "MAÑANA SERÁ BONITO",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "44",
+        "explicit": true
+      },
+      "evidenceText": "AMARGURA 44 KAROL G MAÑANA SERÁ BONITO PREVIEW 2:50"
+    },
+    {
+      "title": "Qué Pasaría...",
+      "canonicalUrl": "https://music.apple.com/us/song/qu%C3%A9-pasar%C3%ADa/1775462855",
+      "creator": "Rauw Alejandro, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1775462855",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "45",
+        "explicit": true
+      },
+      "evidenceText": "Qué Pasaría... 45 Rauw Alejandro, Bad Bunny Cosa Nuestra PREVIEW 3:11"
+    },
+    {
+      "title": "WO OH OH",
+      "canonicalUrl": "https://music.apple.com/us/song/wo-oh-oh/1877482628",
+      "creator": "Omar Courtz, ROA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1877482628",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "4:29",
+        "durationIso": "PT4M29S",
+        "chartPosition": "46",
+        "explicit": true
+      },
+      "evidenceText": "WO OH OH 46 Omar Courtz, ROA POR SI MAÑANA NO ESTOY PREVIEW 4:29"
+    },
+    {
+      "title": "POLLYPOCKET",
+      "canonicalUrl": "https://music.apple.com/us/song/pollypocket/1892231302",
+      "creator": "Martinwhite, Katteyes",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/60/bf/b460bfa8-534f-f671-04d7-0c5de9c74b2b/196874126875.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1892231302",
+      "attributes": {
+        "album": "POLLYPOCKET - Single",
+        "duration": "2:32",
+        "durationIso": "PT2M32S",
+        "chartPosition": "47",
+        "explicit": false
+      },
+      "evidenceText": "POLLYPOCKET 47 Martinwhite, Katteyes POLLYPOCKET - Single PREVIEW 2:32"
+    },
+    {
+      "title": "Little Demon",
+      "canonicalUrl": "https://music.apple.com/us/song/little-demon/1822642848",
+      "creator": "Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/0a/bf/510abf13-1223-7522-b5be-b8e78f36092c/199538005301.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1822642848",
+      "attributes": {
+        "album": "Little Demon - Single",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Little Demon 48 Anuel AA Little Demon - Single PREVIEW 2:46"
+    },
+    {
+      "title": "Entre Tú y Yo",
+      "canonicalUrl": "https://music.apple.com/us/song/entre-t%C3%BA-y-yo/6764310129",
+      "creator": "Bayriton, Piero 47, Raven la R",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/6a/27/d46a2796-5ce8-7edc-41e4-03dfb342fd19/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6764310129",
+      "attributes": {
+        "album": "Entre Tú y Yo - Single",
+        "duration": "2:32",
+        "durationIso": "PT2M32S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "Entre Tú y Yo 49 Bayriton, Piero 47, Raven la R Entre Tú y Yo - Single PREVIEW 2:32"
+    },
+    {
+      "title": "Hey Mor (feat. Feid)",
+      "canonicalUrl": "https://music.apple.com/us/song/hey-mor-feat-feid/1646180883",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/b1/35/46b135cc-592e-8b51-1e91-ac955d4200a0/196925396240.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1646180883",
+      "attributes": {
+        "album": "OzuTochi",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "50",
+        "explicit": false
+      },
+      "evidenceText": "Hey Mor (feat. Feid) 50 Ozuna OzuTochi PREVIEW 3:16"
+    },
+    {
+      "title": "Q U E V A S H A C E R H O Y ?",
+      "canonicalUrl": "https://music.apple.com/us/song/q-u-e-v-a-s-h-a-c-e-r-h-o-y/1760194559",
+      "creator": "Omar Courtz, De La Rose",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1760194559",
+      "attributes": {
+        "album": "PRIMERA MUSA",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "51",
+        "explicit": true
+      },
+      "evidenceText": "Q U E V A S H A C E R H O Y ? 51 Omar Courtz, De La Rose PRIMERA MUSA PREVIEW 3:44"
+    },
+    {
+      "title": "Bastardo (feat. Ñengo Flow & Jere Klein)",
+      "canonicalUrl": "https://music.apple.com/us/song/bastardo-feat-%C3%B1engo-flow-jere-klein/1736862427",
+      "creator": "Pablo Chill-E",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/72/45/ac724502-2bdd-cd9f-8f00-36bf27585cd6/38591.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1736862427",
+      "attributes": {
+        "album": "Los Gangsters También Lloran",
+        "duration": "4:24",
+        "durationIso": "PT4M24S",
+        "chartPosition": "52",
+        "explicit": true
+      },
+      "evidenceText": "Bastardo (feat. Ñengo Flow & Jere Klein) 52 Pablo Chill-E Los Gangsters También Lloran PREVIEW 4:24"
+    },
+    {
+      "title": "Callaíta",
+      "canonicalUrl": "https://music.apple.com/us/song/calla%C3%ADta/1465503235",
+      "creator": "Bad Bunny, Tainy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/5d/7c/a85d7c43-777a-f2b7-5abc-1e4d59d8fe7c/193483903545.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1465503235",
+      "attributes": {
+        "album": "Callaíta - Single",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "53",
+        "explicit": true
+      },
+      "evidenceText": "Callaíta 53 Bad Bunny, Tainy Callaíta - Single PREVIEW 4:10"
+    },
+    {
+      "title": "⁠LUCES DE COLORES",
+      "canonicalUrl": "https://music.apple.com/us/song/luces-de-colores/1760194670",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1760194670",
+      "attributes": {
+        "album": "PRIMERA MUSA",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "54",
+        "explicit": true
+      },
+      "evidenceText": "⁠LUCES DE COLORES 54 Omar Courtz PRIMERA MUSA PREVIEW 3:36"
+    },
+    {
+      "title": "Te Estoy Correteando",
+      "canonicalUrl": "https://music.apple.com/us/song/te-estoy-correteando/6796842545",
+      "creator": "LATIN MAFIA, Fred again..",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/52/6e/90526e94-89c7-8387-458f-1972f7995d48/1200214495824.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6796842545",
+      "attributes": {
+        "album": "9 months & 50 hours",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "Te Estoy Correteando 55 LATIN MAFIA, Fred again.. 9 months & 50 hours PREVIEW 3:13"
+    },
+    {
+      "title": "SUPERESTRELLA",
+      "canonicalUrl": "https://music.apple.com/us/song/superestrella/1814146675",
+      "creator": "Aitana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1814146675",
+      "attributes": {
+        "album": "CUARTO AZUL",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "56",
+        "explicit": true
+      },
+      "evidenceText": "SUPERESTRELLA 56 Aitana CUARTO AZUL PREVIEW 3:03"
+    },
+    {
+      "title": "Si Antes Te Hubiera Conocido",
+      "canonicalUrl": "https://music.apple.com/us/song/si-antes-te-hubiera-conocido/1752031539",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1752031539",
+      "attributes": {
+        "album": "Si Antes Te Hubiera Conocido - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "Si Antes Te Hubiera Conocido 57 KAROL G Si Antes Te Hubiera Conocido - Single PREVIEW 3:15"
+    },
+    {
+      "title": "Encantadora",
+      "canonicalUrl": "https://music.apple.com/us/song/encantadora/1046026054",
+      "creator": "Yandel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/70/53/c77053a9-01ba-55e6-338d-8e617daccabb/886445457346.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1046026054",
+      "attributes": {
+        "album": "Dangerous",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "Encantadora 58 Yandel Dangerous PREVIEW 4:00"
+    },
+    {
+      "title": "CARITA FELIZ",
+      "canonicalUrl": "https://music.apple.com/us/song/carita-feliz/6800003928",
+      "creator": "Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/b2/54/84b25474-27fe-1c98-4f52-0434c5a89451/1200214798499.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6800003928",
+      "attributes": {
+        "album": "CARITA FELIZ - Single",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "59",
+        "explicit": false
+      },
+      "evidenceText": "CARITA FELIZ 59 Myke Towers CARITA FELIZ - Single PREVIEW 3:13"
+    },
+    {
+      "title": "LA CANCIÓN",
+      "canonicalUrl": "https://music.apple.com/us/song/la-canci%C3%B3n/1470146813",
+      "creator": "J Balvin, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1470146813",
+      "attributes": {
+        "album": "OASIS",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "60",
+        "explicit": false
+      },
+      "evidenceText": "LA CANCIÓN 60 J Balvin, Bad Bunny OASIS PREVIEW 4:02"
+    },
+    {
+      "title": "Relación Rota",
+      "canonicalUrl": "https://music.apple.com/us/song/relaci%C3%B3n-rota/1495895113",
+      "creator": "Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/63/86/76638602-1e1a-5656-20de-442dfb6e2b6f/194491908096.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1495895113",
+      "attributes": {
+        "album": "Easy Money Baby",
+        "duration": "2:40",
+        "durationIso": "PT2M40S",
+        "chartPosition": "61",
+        "explicit": true
+      },
+      "evidenceText": "Relación Rota 61 Myke Towers Easy Money Baby PREVIEW 2:40"
+    },
+    {
+      "title": "Dile Que Tú Me Quieres",
+      "canonicalUrl": "https://music.apple.com/us/song/dile-que-t%C3%BA-me-quieres/1269286851",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/7c/1b/df7c1b32-0fca-94f0-866b-ba89e420ca04/697691884103.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1269286851",
+      "attributes": {
+        "album": "Odisea",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "62",
+        "explicit": false
+      },
+      "evidenceText": "Dile Que Tú Me Quieres 62 Ozuna Odisea PREVIEW 3:46"
+    },
+    {
+      "title": "Después De La 1",
+      "canonicalUrl": "https://music.apple.com/us/song/despu%C3%A9s-de-la-1/1767478459",
+      "creator": "Cris MJ, FloyyMenor",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/2a/e7/742ae73f-8357-bdf3-bada-769796f2ef8a/198846286426.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1767478459",
+      "attributes": {
+        "album": "MJ - Single",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "63",
+        "explicit": true
+      },
+      "evidenceText": "Después De La 1 63 Cris MJ, FloyyMenor MJ - Single PREVIEW 2:57"
+    },
+    {
+      "title": "Adicto",
+      "canonicalUrl": "https://music.apple.com/us/song/adicto/1473148905",
+      "creator": "Tainy, Anuel AA, Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bc/86/c3/bc86c389-d022-cd6e-d8d9-96981621e507/19UMGIM60949.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1473148905",
+      "attributes": {
+        "album": "Adicto - Single",
+        "duration": "4:30",
+        "durationIso": "PT4M30S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "Adicto 64 Tainy, Anuel AA, Ozuna Adicto - Single PREVIEW 4:30"
+    },
+    {
+      "title": "BAILE INoLVIDABLE",
+      "canonicalUrl": "https://music.apple.com/us/song/baile-inolvidable/1787022842",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1787022842",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "6:07",
+        "durationIso": "PT6M7S",
+        "chartPosition": "65",
+        "explicit": true
+      },
+      "evidenceText": "BAILE INoLVIDABLE 65 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 6:07"
+    },
+    {
+      "title": "Dile",
+      "canonicalUrl": "https://music.apple.com/us/song/dile/1467968652",
+      "creator": "Don Omar",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/71/44/ab/7144ab43-17de-e8a2-fa09-21f333ec3485/06UMGIM15438.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1467968652",
+      "attributes": {
+        "album": "The Last Don",
+        "duration": "3:24",
+        "durationIso": "PT3M24S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "Dile 66 Don Omar The Last Don PREVIEW 3:24"
+    },
+    {
+      "title": "Diablote",
+      "canonicalUrl": "https://music.apple.com/us/song/diablote/6799187390",
+      "creator": "Lleflight",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/c6/b4/67c6b476-c81e-80b0-11ab-6c1e1c781bb4/1200214798604.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6799187390",
+      "attributes": {
+        "album": "Diablote - Single",
+        "duration": "2:30",
+        "durationIso": "PT2M30S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "Diablote 67 Lleflight Diablote - Single PREVIEW 2:30"
+    },
+    {
+      "title": "Ganas de Ti",
+      "canonicalUrl": "https://music.apple.com/us/song/ganas-de-ti/1247228820",
+      "creator": "Arcángel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1247228820",
+      "attributes": {
+        "album": "El Fenómeno",
+        "duration": "2:54",
+        "durationIso": "PT2M54S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "Ganas de Ti 68 Arcángel El Fenómeno PREVIEW 2:54"
+    },
+    {
+      "title": "TU SANCHO",
+      "canonicalUrl": "https://music.apple.com/us/song/tu-sancho/1804142885",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/0a/a3/510aa39f-7a41-b53c-70a0-6a0df60645bb/196872995978.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1804142885",
+      "attributes": {
+        "album": "111XPANTIA",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "69",
+        "explicit": true
+      },
+      "evidenceText": "TU SANCHO 69 Fuerza Regida 111XPANTIA PREVIEW 2:57"
+    },
+    {
+      "title": "Ahí",
+      "canonicalUrl": "https://music.apple.com/us/song/ah%C3%AD/6796864746",
+      "creator": "KAROL G, Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6796864746",
+      "attributes": {
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "duration": "2:56",
+        "durationIso": "PT2M56S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "Ahí 70 KAROL G, Drake NO ME ARREPIENTO DE SENTIR TANTO PREVIEW 2:56"
+    },
+    {
+      "title": "KE MAL",
+      "canonicalUrl": "https://music.apple.com/us/song/ke-mal/1715737405",
+      "creator": "Jere Klein",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/9d/39/489d396a-e426-3da5-1b8d-72cf9de48ee1/197190363470.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1715737405",
+      "attributes": {
+        "album": "ÉNFASIS",
+        "duration": "2:05",
+        "durationIso": "PT2M5S",
+        "chartPosition": "71",
+        "explicit": true
+      },
+      "evidenceText": "KE MAL 71 Jere Klein ÉNFASIS PREVIEW 2:05"
+    },
+    {
+      "title": "FOREVER TU GANTEL",
+      "canonicalUrl": "https://music.apple.com/us/song/forever-tu-gantel/1877482427",
+      "creator": "Omar Courtz, Ñengo Flow",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1877482427",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "72",
+        "explicit": true
+      },
+      "evidenceText": "FOREVER TU GANTEL 72 Omar Courtz, Ñengo Flow POR SI MAÑANA NO ESTOY PREVIEW 3:46"
+    },
+    {
+      "title": "NENA BAD BITCH",
+      "canonicalUrl": "https://music.apple.com/us/song/nena-bad-bitch/6810850100",
+      "creator": "Katteyes",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/eb/c4/86ebc405-beb4-f595-aa80-55957f22f6c0/885288537970.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6810850100",
+      "attributes": {
+        "album": "NENA BAD BITCH - Single",
+        "duration": "2:31",
+        "durationIso": "PT2M31S",
+        "chartPosition": "73",
+        "explicit": true
+      },
+      "evidenceText": "NENA BAD BITCH 73 Katteyes NENA BAD BITCH - Single PREVIEW 2:31"
+    },
+    {
+      "title": "EoO",
+      "canonicalUrl": "https://music.apple.com/us/song/eoo/1787023929",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1787023929",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:24",
+        "durationIso": "PT3M24S",
+        "chartPosition": "74",
+        "explicit": true
+      },
+      "evidenceText": "EoO 74 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 3:24"
+    },
+    {
+      "title": "QLONA",
+      "canonicalUrl": "https://music.apple.com/us/song/qlona/1699662671",
+      "creator": "KAROL G, Peso Pluma",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1699662671",
+      "attributes": {
+        "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "75",
+        "explicit": true
+      },
+      "evidenceText": "QLONA 75 KAROL G, Peso Pluma MAÑANA SERÁ BONITO (BICHOTA SEASON) PREVIEW 2:52"
+    },
+    {
+      "title": "Holanda",
+      "canonicalUrl": "https://music.apple.com/us/song/holanda/1699106722",
+      "creator": "JHAYCO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/c6/ff/a6c6ff16-b92a-72f6-600c-112d69305cd6/23UMGIM80474.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1699106722",
+      "attributes": {
+        "album": "Holanda - Single",
+        "duration": "3:51",
+        "durationIso": "PT3M51S",
+        "chartPosition": "76",
+        "explicit": true
+      },
+      "evidenceText": "Holanda 76 JHAYCO Holanda - Single PREVIEW 3:51"
+    },
+    {
+      "title": "Tu Príncipe (feat. Zion & Lennox)",
+      "canonicalUrl": "https://music.apple.com/us/song/tu-pr%C3%ADncipe-feat-zion-lennox/1786000222",
+      "creator": "Daddy Yankee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/66/f0/2f66f0f1-c3c2-9dc0-8391-04804cabc8cf/24CRGIM46808.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1786000222",
+      "attributes": {
+        "album": "Barrio Fino (Deluxe Version)",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "Tu Príncipe (feat. Zion & Lennox) 77 Daddy Yankee Barrio Fino (Deluxe Version) PREVIEW 3:25"
+    },
+    {
+      "title": "Khé?",
+      "canonicalUrl": "https://music.apple.com/us/song/kh%C3%A9/1775463293",
+      "creator": "Rauw Alejandro, Romeo Santos",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1775463293",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "78",
+        "explicit": false
+      },
+      "evidenceText": "Khé? 78 Rauw Alejandro, Romeo Santos Cosa Nuestra PREVIEW 3:26"
+    },
+    {
+      "title": "WHAT U NEED? (SexPlaylist 2)",
+      "canonicalUrl": "https://music.apple.com/us/song/what-u-need-sexplaylist-2/1877482627",
+      "creator": "Omar Courtz, Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1877482627",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "4:25",
+        "durationIso": "PT4M25S",
+        "chartPosition": "79",
+        "explicit": true
+      },
+      "evidenceText": "WHAT U NEED? (SexPlaylist 2) 79 Omar Courtz, Myke Towers POR SI MAÑANA NO ESTOY PREVIEW 4:25"
+    },
+    {
+      "title": "Cuerpecito",
+      "canonicalUrl": "https://music.apple.com/us/song/cuerpecito/1761909486",
+      "creator": "JHAYCO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/78/fd/3778fd46-790c-5ab0-cc98-25f17843148c/23UM1IM55597.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1761909486",
+      "attributes": {
+        "album": "Le Clique: Vida Rockstar (X)",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "80",
+        "explicit": false
+      },
+      "evidenceText": "Cuerpecito 80 JHAYCO Le Clique: Vida Rockstar (X) PREVIEW 3:15"
+    },
+    {
+      "title": "Girl",
+      "canonicalUrl": "https://music.apple.com/us/song/girl/1495895117",
+      "creator": "Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/63/86/76638602-1e1a-5656-20de-442dfb6e2b6f/194491908096.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1495895117",
+      "attributes": {
+        "album": "Easy Money Baby",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "81",
+        "explicit": true
+      },
+      "evidenceText": "Girl 81 Myke Towers Easy Money Baby PREVIEW 3:06"
+    },
+    {
+      "title": "ME JALO",
+      "canonicalUrl": "https://music.apple.com/us/song/me-jalo/1786262012",
+      "creator": "Fuerza Regida, Grupo Frontera",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/96/9e/ba969e5d-857d-bbda-08e2-edc08642d188/196872772869.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1786262012",
+      "attributes": {
+        "album": "MALA MÍA - EP",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "82",
+        "explicit": true
+      },
+      "evidenceText": "ME JALO 82 Fuerza Regida, Grupo Frontera MALA MÍA - EP PREVIEW 3:32"
+    },
+    {
+      "title": "VAMOaCOCHI",
+      "canonicalUrl": "https://music.apple.com/us/song/vamoacochi/1877482434",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1877482434",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "83",
+        "explicit": true
+      },
+      "evidenceText": "VAMOaCOCHI 83 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 3:19"
+    },
+    {
+      "title": "Drácula (feat. Felolaefe)",
+      "canonicalUrl": "https://music.apple.com/us/song/dr%C3%A1cula-feat-felolaefe/6773817093",
+      "creator": "Bayriton, Drakomafia, JulianoChieff, Raven la R",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/be/61/02be610e-1534-05eb-855b-23569b575d93/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6773817093",
+      "attributes": {
+        "album": "Dark Fantasy",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "Drácula (feat. Felolaefe) 84 Bayriton, Drakomafia, JulianoChieff, Raven la R Dark Fantasy PREVIEW 4:10"
+    },
+    {
+      "title": "Ojos Brujos",
+      "canonicalUrl": "https://music.apple.com/us/song/ojos-brujos/6803625558",
+      "creator": "Clarent, Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/be/f7/1fbef76b-28cb-10cc-e2c5-47ad8b61f86d/1200214912208.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6803625558",
+      "attributes": {
+        "album": "Ojos Brujos - Single",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "85",
+        "explicit": true
+      },
+      "evidenceText": "Ojos Brujos 85 Clarent, Omar Courtz Ojos Brujos - Single PREVIEW 4:10"
+    },
+    {
+      "title": "El Teléfono",
+      "canonicalUrl": "https://music.apple.com/us/song/el-tel%C3%A9fono/1444164083",
+      "creator": "Héctor El Father, Wisin & Yandel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fb/62/03/fb6203d4-34ea-24bb-6ed1-e3c8a272988b/00602517495678.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1444164083",
+      "attributes": {
+        "album": "The Bad Boy the Most Wanted Edition",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "El Teléfono 86 Héctor El Father, Wisin & Yandel The Bad Boy the Most Wanted Edition PREVIEW 3:55"
+    },
+    {
+      "title": "Ain't In LA",
+      "canonicalUrl": "https://music.apple.com/us/song/aint-in-la/6792884101",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "6792884101",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "87",
+        "explicit": true
+      },
+      "evidenceText": "Ain't In LA 87 ADÉLA PRIMA PREVIEW 3:04"
+    },
+    {
+      "title": "Es el Amor",
+      "canonicalUrl": "https://music.apple.com/us/song/es-el-amor/1474297780",
+      "creator": "La Noche",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/d9/4b/c8d94bfa-9d81-2add-d302-e4b531de28f8/194491127855.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1474297780",
+      "attributes": {
+        "album": "Amor Entre Sábanas",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "Es el Amor 88 La Noche Amor Entre Sábanas PREVIEW 3:34"
+    },
+    {
+      "title": "30 Mil Pies",
+      "canonicalUrl": "https://music.apple.com/us/song/30-mil-pies/1842205782",
+      "creator": "Cris MJ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/53/99/11539998-bf31-cb95-4f23-9b3d739bb033/199538941524.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1842205782",
+      "attributes": {
+        "album": "30 Mil Pies - Single",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "89",
+        "explicit": true
+      },
+      "evidenceText": "30 Mil Pies 89 Cris MJ 30 Mil Pies - Single PREVIEW 3:07"
+    },
+    {
+      "title": "Una Noche en Medellín",
+      "canonicalUrl": "https://music.apple.com/us/song/una-noche-en-medell%C3%ADn/1699157547",
+      "creator": "Cris MJ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6a/ee/e6/6aeee613-75a2-58f0-883f-4ab682036f93/197189258077.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1699157547",
+      "attributes": {
+        "album": "Una Noche en Medellín - Single",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "90",
+        "explicit": true
+      },
+      "evidenceText": "Una Noche en Medellín 90 Cris MJ Una Noche en Medellín - Single PREVIEW 2:33"
+    },
+    {
+      "title": "Chillax (feat. Ky-Mani Marley)",
+      "canonicalUrl": "https://music.apple.com/us/song/chillax-feat-ky-mani-marley/1047923256",
+      "creator": "Farruko",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/31/b2/b631b2ee-70e7-a59a-cf28-bb939873d013/mzm.qofgvzhf.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1047923256",
+      "attributes": {
+        "album": "Visionary",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "Chillax (feat. Ky-Mani Marley) 91 Farruko Visionary PREVIEW 3:17"
+    },
+    {
+      "title": "KLOuFRENS",
+      "canonicalUrl": "https://music.apple.com/us/song/kloufrens/1787023297",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1787023297",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "92",
+        "explicit": true
+      },
+      "evidenceText": "KLOuFRENS 92 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 3:19"
+    },
+    {
+      "title": "Déjame Entrar",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%A9jame-entrar/1775462852",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1775462852",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "4:14",
+        "durationIso": "PT4M14S",
+        "chartPosition": "93",
+        "explicit": true
+      },
+      "evidenceText": "Déjame Entrar 93 Rauw Alejandro Cosa Nuestra PREVIEW 4:14"
+    },
+    {
+      "title": "OA (feat. Mambo Kingz & DJ Luian)",
+      "canonicalUrl": "https://music.apple.com/us/song/oa-feat-mambo-kingz-dj-luian/1710283078",
+      "creator": "Anuel AA, Quevedo, Maluma",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/1d/b1/8a1db19e-9fc9-0d37-5f13-28845ef48a32/197190101669.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1710283078",
+      "attributes": {
+        "album": "OA (feat. Mambo Kingz & DJ Luian) - Single",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "94",
+        "explicit": true
+      },
+      "evidenceText": "OA (feat. Mambo Kingz & DJ Luian) 94 Anuel AA, Quevedo, Maluma OA (feat. Mambo Kingz & DJ Luian) - Single PREVIEW 3:55"
+    },
+    {
+      "title": "no tiene sentido",
+      "canonicalUrl": "https://music.apple.com/us/song/no-tiene-sentido/1812537122",
+      "creator": "Beéle",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/95/6b/8b956b63-4f21-899a-f912-f1c8a9f5d9f5/196873015750.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1812537122",
+      "attributes": {
+        "album": "BORONDO",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "95",
+        "explicit": false
+      },
+      "evidenceText": "no tiene sentido 95 Beéle BORONDO PREVIEW 2:38"
+    },
+    {
+      "title": "Permítame (feat. Yandel)",
+      "canonicalUrl": "https://music.apple.com/us/song/perm%C3%ADtame-feat-yandel/1811233665",
+      "creator": "Tony Dize",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/28/ff/cf28ffde-1bc9-ccdd-4f0d-8cc9503c15be/884977393293_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1811233665",
+      "attributes": {
+        "album": "La Melodía de la Calle \"Updated\"",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "Permítame (feat. Yandel) 96 Tony Dize La Melodía de la Calle \"Updated\" PREVIEW 3:04"
+    },
+    {
+      "title": "Diosa",
+      "canonicalUrl": "https://music.apple.com/us/song/diosa/1495895125",
+      "creator": "Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/63/86/76638602-1e1a-5656-20de-442dfb6e2b6f/194491908096.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1495895125",
+      "attributes": {
+        "album": "Easy Money Baby",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "97",
+        "explicit": true
+      },
+      "evidenceText": "Diosa 97 Myke Towers Easy Money Baby PREVIEW 3:34"
+    },
+    {
+      "title": "El Farsante",
+      "canonicalUrl": "https://music.apple.com/us/song/el-farsante/1269287617",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/7c/1b/df7c1b32-0fca-94f0-866b-ba89e420ca04/697691884103.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1269287617",
+      "attributes": {
+        "album": "Odisea",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "98",
+        "explicit": false
+      },
+      "evidenceText": "El Farsante 98 Ozuna Odisea PREVIEW 3:53"
+    },
+    {
+      "title": "Resentia",
+      "canonicalUrl": "https://music.apple.com/us/song/resentia/1736862426",
+      "creator": "Pablo Chill-E",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/72/45/ac724502-2bdd-cd9f-8f00-36bf27585cd6/38591.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1736862426",
+      "attributes": {
+        "album": "Los Gangsters También Lloran",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "99",
+        "explicit": true
+      },
+      "evidenceText": "Resentia 99 Pablo Chill-E Los Gangsters También Lloran PREVIEW 3:20"
+    },
+    {
+      "title": "Todo De Ti",
+      "canonicalUrl": "https://music.apple.com/us/song/todo-de-ti/1567154924",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/d6/4d/24d64d11-dcba-a475-7a0f-87fbef4c6ba6/886449222681.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-chile/pl.81015bbbefdd46758b2c8c7065f0863e",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Chile",
+      "externalId": "1567154924",
+      "attributes": {
+        "album": "Todo De Ti - Single",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "100",
+        "explicit": true
+      },
+      "evidenceText": "Todo De Ti 100 Rauw Alejandro Todo De Ti - Single PREVIEW 3:19"
+    }
+  ]
+}

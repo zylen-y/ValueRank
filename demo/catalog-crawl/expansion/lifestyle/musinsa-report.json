@@ -1,0 +1,62 @@
+[
+  {
+    "category": "001000",
+    "name": "Tops",
+    "count": 739,
+    "captures": 18
+  },
+  {
+    "category": "004000",
+    "name": "Bags",
+    "count": 731,
+    "captures": 18
+  },
+  {
+    "category": "120000",
+    "name": "Hats",
+    "count": 710,
+    "captures": 17
+  },
+  {
+    "category": "101000",
+    "name": "Accessories",
+    "count": 711,
+    "captures": 17
+  },
+  {
+    "category": "100000",
+    "name": "Dresses and skirts",
+    "count": 713,
+    "captures": 17
+  },
+  {
+    "category": "002000",
+    "name": "Outerwear",
+    "count": 742,
+    "captures": 18
+  },
+  {
+    "category": "003000",
+    "name": "Pants",
+    "count": 741,
+    "captures": 18
+  },
+  {
+    "category": "103000",
+    "name": "Shoes",
+    "count": 720,
+    "captures": 18
+  },
+  {
+    "category": "017000",
+    "name": "Sports and leisure",
+    "count": 729,
+    "captures": 18
+  },
+  {
+    "category": "026000",
+    "name": "Underwear and loungewear",
+    "count": 717,
+    "captures": 17
+  }
+]

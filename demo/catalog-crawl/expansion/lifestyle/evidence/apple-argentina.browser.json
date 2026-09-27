@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+  "collection": "Top 100: Argentina",
+  "fetchedAt": "2026-09-27T03:40:13.314Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 1 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "BbY WOW",
+      "canonicalUrl": "https://music.apple.com/us/song/bby-wow/6796864754",
+      "creator": "KAROL G, Judeline, rusowsky",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6796864754",
+      "attributes": {
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "BbY WOW 2 KAROL G, Judeline, rusowsky NO ME ARREPIENTO DE SENTIR TANTO PREVIEW 3:45"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 3 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 4 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 5 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Las mas bonitas son p#tas",
+      "canonicalUrl": "https://music.apple.com/us/song/las-mas-bonitas-son-p-tas/6784402416",
+      "creator": "Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/f2/82/46f28288-8e3d-d4cb-e73f-00863da4603b/820233902649.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6784402416",
+      "attributes": {
+        "album": "Las mas bonitas son p#tas - Single",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "6",
+        "explicit": true
+      },
+      "evidenceText": "Las mas bonitas son p#tas 6 Anuel AA Las mas bonitas son p#tas - Single PREVIEW 2:39"
+    },
+    {
+      "title": "ZIZI",
+      "canonicalUrl": "https://music.apple.com/us/song/zizi/6793688579",
+      "creator": "Ozuna, Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/74/b0/d274b0a3-b700-1aa4-b56d-b2d1b7995c13/196874578162.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6793688579",
+      "attributes": {
+        "album": "ZIZI - Single",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "7",
+        "explicit": true
+      },
+      "evidenceText": "ZIZI 7 Ozuna, Omar Courtz ZIZI - Single PREVIEW 4:02"
+    },
+    {
+      "title": "KOKO",
+      "canonicalUrl": "https://music.apple.com/us/song/koko/1877482633",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1877482633",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "8",
+        "explicit": true
+      },
+      "evidenceText": "KOKO 8 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 3:15"
+    },
+    {
+      "title": "Sensualidad (feat. Mambo Kingz & DJ Luian)",
+      "canonicalUrl": "https://music.apple.com/us/song/sensualidad-feat-mambo-kingz-dj-luian/1299972308",
+      "creator": "Bad Bunny, Prince Royce, J Balvin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/1a/e9/a31ae99b-9378-d004-a613-e8f7397f7a88/191773843489.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1299972308",
+      "attributes": {
+        "album": "Sensualidad (feat. Mambo Kingz & DJ Luian) - Single",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "9",
+        "explicit": false
+      },
+      "evidenceText": "Sensualidad (feat. Mambo Kingz & DJ Luian) 9 Bad Bunny, Prince Royce, J Balvin Sensualidad (feat. Mambo Kingz & DJ Luian) - Single PREVIEW 4:57"
+    },
+    {
+      "title": "Ojitos Lindos",
+      "canonicalUrl": "https://music.apple.com/us/song/ojitos-lindos/1622045962",
+      "creator": "Bad Bunny, Bomba Estéreo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1622045962",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "10",
+        "explicit": false
+      },
+      "evidenceText": "Ojitos Lindos 10 Bad Bunny, Bomba Estéreo Un Verano Sin Ti PREVIEW 4:18"
+    },
+    {
+      "title": "De Lejitos (Remix)",
+      "canonicalUrl": "https://music.apple.com/us/song/de-lejitos-remix/6770655342",
+      "creator": "Jay Wheeler, Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/98/7a/71987aa4-557e-61fd-66c8-a5536d21d31c/ticket.snrwquok.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6770655342",
+      "attributes": {
+        "album": "La Voz Favorita",
+        "duration": "4:36",
+        "durationIso": "PT4M36S",
+        "chartPosition": "11",
+        "explicit": true
+      },
+      "evidenceText": "De Lejitos (Remix) 11 Jay Wheeler, Omar Courtz La Voz Favorita PREVIEW 4:36"
+    },
+    {
+      "title": "Se Preparó",
+      "canonicalUrl": "https://music.apple.com/us/song/se-prepar%C3%B3/1269286798",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/7c/1b/df7c1b32-0fca-94f0-866b-ba89e420ca04/697691884103.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1269286798",
+      "attributes": {
+        "album": "Odisea",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "Se Preparó 12 Ozuna Odisea PREVIEW 3:08"
+    },
+    {
+      "title": "POR SI MAÑANA NO ESTOY",
+      "canonicalUrl": "https://music.apple.com/us/song/por-si-ma%C3%B1ana-no-estoy/1877482849",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1877482849",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "4:24",
+        "durationIso": "PT4M24S",
+        "chartPosition": "13",
+        "explicit": true
+      },
+      "evidenceText": "POR SI MAÑANA NO ESTOY 13 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 4:24"
+    },
+    {
+      "title": "VAMO A VEL",
+      "canonicalUrl": "https://music.apple.com/us/song/vamo-a-vel/6808400640",
+      "creator": "ROA, Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/66/11/50661123-1d80-1054-62f2-2e786fa631c3/26UM1IM14326.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6808400640",
+      "attributes": {
+        "album": "VAMO A VEL - Single",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "14",
+        "explicit": true
+      },
+      "evidenceText": "VAMO A VEL 14 ROA, Anuel AA VAMO A VEL - Single PREVIEW 4:00"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "15",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 15 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "Hasta Que Dios Diga",
+      "canonicalUrl": "https://music.apple.com/us/song/hasta-que-dios-diga/1515739167",
+      "creator": "Anuel AA, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/95/c7/5095c702-2159-c3ac-be67-9a1c16cc0ed9/195081694399.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1515739167",
+      "attributes": {
+        "album": "Emmanuel",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "16",
+        "explicit": true
+      },
+      "evidenceText": "Hasta Que Dios Diga 16 Anuel AA, Bad Bunny Emmanuel PREVIEW 4:06"
+    },
+    {
+      "title": "VeLDÁ",
+      "canonicalUrl": "https://music.apple.com/us/song/veld%C3%A1/1787022999",
+      "creator": "Bad Bunny, Omar Courtz, Dei V",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1787022999",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "17",
+        "explicit": true
+      },
+      "evidenceText": "VeLDÁ 17 Bad Bunny, Omar Courtz, Dei V DeBÍ TiRAR MáS FOToS PREVIEW 3:55"
+    },
+    {
+      "title": "Cuando No Era Cantante (Remix)",
+      "canonicalUrl": "https://music.apple.com/us/song/cuando-no-era-cantante-remix/6793698180",
+      "creator": "El Bogueto, Anuel AA, Fuerza Regida, Yung Beef",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/43/a1/7443a10d-3fb6-3030-684d-7282a35a32f9/229593.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6793698180",
+      "attributes": {
+        "album": "Cuando No Era Cantante (Remix) - Single",
+        "duration": "5:27",
+        "durationIso": "PT5M27S",
+        "chartPosition": "18",
+        "explicit": true
+      },
+      "evidenceText": "Cuando No Era Cantante (Remix) 18 El Bogueto, Anuel AA, Fuerza Regida, Yung Beef Cuando No Era Cantante (Remix) - Single PREVIEW 5:27"
+    },
+    {
+      "title": "SUPERESTRELLA",
+      "canonicalUrl": "https://music.apple.com/us/song/superestrella/1814146675",
+      "creator": "Aitana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1814146675",
+      "attributes": {
+        "album": "CUARTO AZUL",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "19",
+        "explicit": true
+      },
+      "evidenceText": "SUPERESTRELLA 19 Aitana CUARTO AZUL PREVIEW 3:03"
+    },
+    {
+      "title": "FOREVER TU GANTEL",
+      "canonicalUrl": "https://music.apple.com/us/song/forever-tu-gantel/1877482427",
+      "creator": "Omar Courtz, Ñengo Flow",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1877482427",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "20",
+        "explicit": true
+      },
+      "evidenceText": "FOREVER TU GANTEL 20 Omar Courtz, Ñengo Flow POR SI MAÑANA NO ESTOY PREVIEW 3:46"
+    },
+    {
+      "title": "Me Porto Bonito",
+      "canonicalUrl": "https://music.apple.com/us/song/me-porto-bonito/1622045634",
+      "creator": "Bad Bunny, Chencho Corleone",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1622045634",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "21",
+        "explicit": true
+      },
+      "evidenceText": "Me Porto Bonito 21 Bad Bunny, Chencho Corleone Un Verano Sin Ti PREVIEW 2:58"
+    },
+    {
+      "title": "DÁKITI",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%A1kiti/1542103620",
+      "creator": "Bad Bunny, JHAYCO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1542103620",
+      "attributes": {
+        "album": "EL ÚLTIMO TOUR DEL MUNDO",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "22",
+        "explicit": true
+      },
+      "evidenceText": "DÁKITI 22 Bad Bunny, JHAYCO EL ÚLTIMO TOUR DEL MUNDO PREVIEW 3:25"
+    },
+    {
+      "title": "Callaíta",
+      "canonicalUrl": "https://music.apple.com/us/song/calla%C3%ADta/1465503235",
+      "creator": "Bad Bunny, Tainy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/5d/7c/a85d7c43-777a-f2b7-5abc-1e4d59d8fe7c/193483903545.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1465503235",
+      "attributes": {
+        "album": "Callaíta - Single",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "23",
+        "explicit": true
+      },
+      "evidenceText": "Callaíta 23 Bad Bunny, Tainy Callaíta - Single PREVIEW 4:10"
+    },
+    {
+      "title": "Dile Que Tú Me Quieres",
+      "canonicalUrl": "https://music.apple.com/us/song/dile-que-t%C3%BA-me-quieres/1269286851",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/7c/1b/df7c1b32-0fca-94f0-866b-ba89e420ca04/697691884103.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1269286851",
+      "attributes": {
+        "album": "Odisea",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "Dile Que Tú Me Quieres 24 Ozuna Odisea PREVIEW 3:46"
+    },
+    {
+      "title": "Dile a El",
+      "canonicalUrl": "https://music.apple.com/us/song/dile-a-el/1536861744",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/85/36/3585365d-4678-0648-1bfd-76ea49ba8c9c/886448841388.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1536861744",
+      "attributes": {
+        "album": "Afrodisíaco",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "25",
+        "explicit": true
+      },
+      "evidenceText": "Dile a El 25 Rauw Alejandro Afrodisíaco PREVIEW 3:29"
+    },
+    {
+      "title": "WO OH OH",
+      "canonicalUrl": "https://music.apple.com/us/song/wo-oh-oh/1877482628",
+      "creator": "Omar Courtz, ROA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1877482628",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "4:29",
+        "durationIso": "PT4M29S",
+        "chartPosition": "26",
+        "explicit": true
+      },
+      "evidenceText": "WO OH OH 26 Omar Courtz, ROA POR SI MAÑANA NO ESTOY PREVIEW 4:29"
+    },
+    {
+      "title": "L a k e n o s h i",
+      "canonicalUrl": "https://music.apple.com/us/song/l-a-k-e-n-o-s-h-i/1877482430",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1877482430",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "27",
+        "explicit": true
+      },
+      "evidenceText": "L a k e n o s h i 27 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 3:27"
+    },
+    {
+      "title": "Q U E V A S H A C E R H O Y ?",
+      "canonicalUrl": "https://music.apple.com/us/song/q-u-e-v-a-s-h-a-c-e-r-h-o-y/1760194559",
+      "creator": "Omar Courtz, De La Rose",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1760194559",
+      "attributes": {
+        "album": "PRIMERA MUSA",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "28",
+        "explicit": true
+      },
+      "evidenceText": "Q U E V A S H A C E R H O Y ? 28 Omar Courtz, De La Rose PRIMERA MUSA PREVIEW 3:44"
+    },
+    {
+      "title": "Adicto",
+      "canonicalUrl": "https://music.apple.com/us/song/adicto/1473148905",
+      "creator": "Tainy, Anuel AA, Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bc/86/c3/bc86c389-d022-cd6e-d8d9-96981621e507/19UMGIM60949.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1473148905",
+      "attributes": {
+        "album": "Adicto - Single",
+        "duration": "4:30",
+        "durationIso": "PT4M30S",
+        "chartPosition": "29",
+        "explicit": false
+      },
+      "evidenceText": "Adicto 29 Tainy, Anuel AA, Ozuna Adicto - Single PREVIEW 4:30"
+    },
+    {
+      "title": "⁠LUCES DE COLORES",
+      "canonicalUrl": "https://music.apple.com/us/song/luces-de-colores/1760194670",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1760194670",
+      "attributes": {
+        "album": "PRIMERA MUSA",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "30",
+        "explicit": true
+      },
+      "evidenceText": "⁠LUCES DE COLORES 30 Omar Courtz PRIMERA MUSA PREVIEW 3:36"
+    },
+    {
+      "title": "LA CANCIÓN",
+      "canonicalUrl": "https://music.apple.com/us/song/la-canci%C3%B3n/1470146813",
+      "creator": "J Balvin, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1470146813",
+      "attributes": {
+        "album": "OASIS",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "31",
+        "explicit": false
+      },
+      "evidenceText": "LA CANCIÓN 31 J Balvin, Bad Bunny OASIS PREVIEW 4:02"
+    },
+    {
+      "title": "Amanece",
+      "canonicalUrl": "https://music.apple.com/us/song/amanece/1445474682",
+      "creator": "Anuel AA, Haze",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bb/60/83/bb6083b2-1d5d-4459-6f8e-870954717c96/050742349004_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1445474682",
+      "attributes": {
+        "album": "Amanece - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "32",
+        "explicit": true
+      },
+      "evidenceText": "Amanece 32 Anuel AA, Haze Amanece - Single PREVIEW 3:10"
+    },
+    {
+      "title": "AL GOLPITO",
+      "canonicalUrl": "https://music.apple.com/us/song/al-golpito/1894271858",
+      "creator": "Quevedo, Nueva Línea",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1894271858",
+      "attributes": {
+        "album": "EL BAIFO",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "AL GOLPITO 33 Quevedo, Nueva Línea EL BAIFO PREVIEW 3:27"
+    },
+    {
+      "title": "Estoy Pa' Ti",
+      "canonicalUrl": "https://music.apple.com/us/song/estoy-pa-ti/6800437588",
+      "creator": "Brytiago",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/f1/c9/63f1c9e4-1fc6-5807-b629-7495bf5f07fb/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6800437588",
+      "attributes": {
+        "album": "Estoy Pa' Ti - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "34",
+        "explicit": true
+      },
+      "evidenceText": "Estoy Pa' Ti 34 Brytiago Estoy Pa' Ti - Single PREVIEW 3:10"
+    },
+    {
+      "title": "BAILE INoLVIDABLE",
+      "canonicalUrl": "https://music.apple.com/us/song/baile-inolvidable/1787022842",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1787022842",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "6:07",
+        "durationIso": "PT6M7S",
+        "chartPosition": "35",
+        "explicit": true
+      },
+      "evidenceText": "BAILE INoLVIDABLE 35 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 6:07"
+    },
+    {
+      "title": "WHAT U NEED? (SexPlaylist 2)",
+      "canonicalUrl": "https://music.apple.com/us/song/what-u-need-sexplaylist-2/1877482627",
+      "creator": "Omar Courtz, Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1877482627",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "4:25",
+        "durationIso": "PT4M25S",
+        "chartPosition": "36",
+        "explicit": true
+      },
+      "evidenceText": "WHAT U NEED? (SexPlaylist 2) 36 Omar Courtz, Myke Towers POR SI MAÑANA NO ESTOY PREVIEW 4:25"
+    },
+    {
+      "title": "El Farsante",
+      "canonicalUrl": "https://music.apple.com/us/song/el-farsante/1269287617",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/7c/1b/df7c1b32-0fca-94f0-866b-ba89e420ca04/697691884103.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1269287617",
+      "attributes": {
+        "album": "Odisea",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "El Farsante 37 Ozuna Odisea PREVIEW 3:53"
+    },
+    {
+      "title": "Opalite",
+      "canonicalUrl": "https://music.apple.com/us/song/opalite/1833328845",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1833328845",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "38",
+        "explicit": false
+      },
+      "evidenceText": "Opalite 38 Taylor Swift The Life of a Showgirl PREVIEW 3:55"
+    },
+    {
+      "title": "Ain't In LA",
+      "canonicalUrl": "https://music.apple.com/us/song/aint-in-la/6792884101",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6792884101",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "39",
+        "explicit": true
+      },
+      "evidenceText": "Ain't In LA 39 ADÉLA PRIMA PREVIEW 3:04"
+    },
+    {
+      "title": "MIA (feat. Drake)",
+      "canonicalUrl": "https://music.apple.com/us/song/mia-feat-drake/1662168786",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/09/aa/f8/09aaf8da-8eaf-bf60-0c23-48a88d546cbd/26991.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1662168786",
+      "attributes": {
+        "album": "MIA (feat. Drake) - Single",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "40",
+        "explicit": false
+      },
+      "evidenceText": "MIA (feat. Drake) 40 Bad Bunny MIA (feat. Drake) - Single PREVIEW 3:30"
+    },
+    {
+      "title": "LA GRACIOSA",
+      "canonicalUrl": "https://music.apple.com/us/song/la-graciosa/1894272112",
+      "creator": "Quevedo, Elvis Crespo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1894272112",
+      "attributes": {
+        "album": "EL BAIFO",
+        "duration": "4:17",
+        "durationIso": "PT4M17S",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "LA GRACIOSA 41 Quevedo, Elvis Crespo EL BAIFO PREVIEW 4:17"
+    },
+    {
+      "title": "Si Antes Te Hubiera Conocido",
+      "canonicalUrl": "https://music.apple.com/us/song/si-antes-te-hubiera-conocido/1752031539",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1752031539",
+      "attributes": {
+        "album": "Si Antes Te Hubiera Conocido - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "Si Antes Te Hubiera Conocido 42 KAROL G Si Antes Te Hubiera Conocido - Single PREVIEW 3:15"
+    },
+    {
+      "title": "Qué Pasaría...",
+      "canonicalUrl": "https://music.apple.com/us/song/qu%C3%A9-pasar%C3%ADa/1775462855",
+      "creator": "Rauw Alejandro, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1775462855",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "43",
+        "explicit": true
+      },
+      "evidenceText": "Qué Pasaría... 43 Rauw Alejandro, Bad Bunny Cosa Nuestra PREVIEW 3:11"
+    },
+    {
+      "title": "The Fate of Ophelia (Track by Track)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia-track-by-track/1843998667",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/74/44/3a74440e-a1c2-c2bc-22c4-c71bd4584ed1/25UM1IM53942.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1843998667",
+      "attributes": {
+        "album": "The Life of a Showgirl (Track by Track Version)",
+        "duration": "0:41",
+        "durationIso": "PT41S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia (Track by Track) 44 Taylor Swift The Life of a Showgirl (Track by Track Version) PREVIEW 0:41"
+    },
+    {
+      "title": "DILUVIO",
+      "canonicalUrl": "https://music.apple.com/us/song/diluvio/1695651429",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1695651429",
+      "attributes": {
+        "album": "PLAYA SATURNO",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "45",
+        "explicit": true
+      },
+      "evidenceText": "DILUVIO 45 Rauw Alejandro PLAYA SATURNO PREVIEW 3:17"
+    },
+    {
+      "title": "Amorfoda",
+      "canonicalUrl": "https://music.apple.com/us/song/amorfoda/1470490722",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c2/90/c1/c290c133-ebcf-b08a-c398-c323abb25944/843357117287.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1470490722",
+      "attributes": {
+        "album": "Amorfoda - Single",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "46",
+        "explicit": true
+      },
+      "evidenceText": "Amorfoda 46 Bad Bunny Amorfoda - Single PREVIEW 2:33"
+    },
+    {
+      "title": "EL NENE",
+      "canonicalUrl": "https://music.apple.com/us/song/el-nene/1655229764",
+      "creator": "Anuel AA, Foreign Teck",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/2e/11/1d2e11eb-8ce0-55b5-4fdc-40d1a100b295/197187477456.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1655229764",
+      "attributes": {
+        "album": "LLNM2",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "47",
+        "explicit": true
+      },
+      "evidenceText": "EL NENE 47 Anuel AA, Foreign Teck LLNM2 PREVIEW 3:00"
+    },
+    {
+      "title": "Little Demon",
+      "canonicalUrl": "https://music.apple.com/us/song/little-demon/1822642848",
+      "creator": "Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/0a/bf/510abf13-1223-7522-b5be-b8e78f36092c/199538005301.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1822642848",
+      "attributes": {
+        "album": "Little Demon - Single",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Little Demon 48 Anuel AA Little Demon - Single PREVIEW 2:46"
+    },
+    {
+      "title": "VAMOaCOCHI",
+      "canonicalUrl": "https://music.apple.com/us/song/vamoacochi/1877482434",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1877482434",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "49",
+        "explicit": true
+      },
+      "evidenceText": "VAMOaCOCHI 49 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 3:19"
+    },
+    {
+      "title": "PERO NO TE ENAMORES",
+      "canonicalUrl": "https://music.apple.com/us/song/pero-no-te-enamores/1759045793",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1759045793",
+      "attributes": {
+        "album": "PERO NO TE ENAMORES",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "50",
+        "explicit": true
+      },
+      "evidenceText": "PERO NO TE ENAMORES 50 Fuerza Regida PERO NO TE ENAMORES PREVIEW 3:03"
+    },
+    {
+      "title": "Hey Mor (feat. Feid)",
+      "canonicalUrl": "https://music.apple.com/us/song/hey-mor-feat-feid/1646180883",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/b1/35/46b135cc-592e-8b51-1e91-ac955d4200a0/196925396240.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1646180883",
+      "attributes": {
+        "album": "OzuTochi",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "51",
+        "explicit": false
+      },
+      "evidenceText": "Hey Mor (feat. Feid) 51 Ozuna OzuTochi PREVIEW 3:16"
+    },
+    {
+      "title": "EXCESOS",
+      "canonicalUrl": "https://music.apple.com/us/song/excesos/1712363845",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/e3/b7/21e3b74f-571b-07ce-567b-a2aa8274c7b2/196871548922.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1712363845",
+      "attributes": {
+        "album": "Pa las Baby's Y Belikeada",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "52",
+        "explicit": false
+      },
+      "evidenceText": "EXCESOS 52 Fuerza Regida Pa las Baby's Y Belikeada PREVIEW 3:07"
+    },
+    {
+      "title": "Netflixxx",
+      "canonicalUrl": "https://music.apple.com/us/song/netflixxx/1873860709",
+      "creator": "Brytiago, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/9c/b5/519cb5e5-f9a1-7303-c203-07567454732a/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1873860709",
+      "attributes": {
+        "album": "Netflixxx - Single",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "53",
+        "explicit": true
+      },
+      "evidenceText": "Netflixxx 53 Brytiago, Bad Bunny Netflixxx - Single PREVIEW 3:39"
+    },
+    {
+      "title": "SERIO CON ESE Q",
+      "canonicalUrl": "https://music.apple.com/us/song/serio-con-ese-q/1760194570",
+      "creator": "Omar Courtz, Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1760194570",
+      "attributes": {
+        "album": "PRIMERA MUSA",
+        "duration": "4:07",
+        "durationIso": "PT4M7S",
+        "chartPosition": "54",
+        "explicit": true
+      },
+      "evidenceText": "SERIO CON ESE Q 54 Omar Courtz, Anuel AA PRIMERA MUSA PREVIEW 4:07"
+    },
+    {
+      "title": "Dichavate",
+      "canonicalUrl": "https://music.apple.com/us/song/dichavate/1865959223",
+      "creator": "Ya Ice Dilan, Rey Tony, DJ Honda, Helabusador",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/ea/be/a6eabeb7-b493-8920-2fcc-5209f43f335d/8605020139741.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1865959223",
+      "attributes": {
+        "album": "Dichavate - Single",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "Dichavate 55 Ya Ice Dilan, Rey Tony, DJ Honda, Helabusador Dichavate - Single PREVIEW 4:06"
+    },
+    {
+      "title": "VOY A LLeVARTE PA PR",
+      "canonicalUrl": "https://music.apple.com/us/song/voy-a-llevarte-pa-pr/1787022587",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1787022587",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "56",
+        "explicit": true
+      },
+      "evidenceText": "VOY A LLeVARTE PA PR 56 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 2:36"
+    },
+    {
+      "title": "Relación Rota",
+      "canonicalUrl": "https://music.apple.com/us/song/relaci%C3%B3n-rota/1495895113",
+      "creator": "Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/63/86/76638602-1e1a-5656-20de-442dfb6e2b6f/194491908096.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1495895113",
+      "attributes": {
+        "album": "Easy Money Baby",
+        "duration": "2:40",
+        "durationIso": "PT2M40S",
+        "chartPosition": "57",
+        "explicit": true
+      },
+      "evidenceText": "Relación Rota 57 Myke Towers Easy Money Baby PREVIEW 2:40"
+    },
+    {
+      "title": "AMARGURA",
+      "canonicalUrl": "https://music.apple.com/us/song/amargura/1670246089",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1670246089",
+      "attributes": {
+        "album": "MAÑANA SERÁ BONITO",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "58",
+        "explicit": true
+      },
+      "evidenceText": "AMARGURA 58 KAROL G MAÑANA SERÁ BONITO PREVIEW 2:50"
+    },
+    {
+      "title": "Si No Te Quiere",
+      "canonicalUrl": "https://music.apple.com/us/song/si-no-te-quiere/1269288097",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/7c/1b/df7c1b32-0fca-94f0-866b-ba89e420ca04/697691884103.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1269288097",
+      "attributes": {
+        "album": "Odisea",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "59",
+        "explicit": false
+      },
+      "evidenceText": "Si No Te Quiere 59 Ozuna Odisea PREVIEW 3:46"
+    },
+    {
+      "title": "Todo De Ti",
+      "canonicalUrl": "https://music.apple.com/us/song/todo-de-ti/1567154924",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/d6/4d/24d64d11-dcba-a475-7a0f-87fbef4c6ba6/886449222681.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1567154924",
+      "attributes": {
+        "album": "Todo De Ti - Single",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "60",
+        "explicit": true
+      },
+      "evidenceText": "Todo De Ti 60 Rauw Alejandro Todo De Ti - Single PREVIEW 3:19"
+    },
+    {
+      "title": "SI ESTÁS CON ALGUIEN",
+      "canonicalUrl": "https://music.apple.com/us/song/si-est%C3%A1s-con-alguien/1877482619",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1877482619",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "4:11",
+        "durationIso": "PT4M11S",
+        "chartPosition": "61",
+        "explicit": true
+      },
+      "evidenceText": "SI ESTÁS CON ALGUIEN 61 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 4:11"
+    },
+    {
+      "title": "EoO",
+      "canonicalUrl": "https://music.apple.com/us/song/eoo/1787023929",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1787023929",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:24",
+        "durationIso": "PT3M24S",
+        "chartPosition": "62",
+        "explicit": true
+      },
+      "evidenceText": "EoO 62 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 3:24"
+    },
+    {
+      "title": "Khé?",
+      "canonicalUrl": "https://music.apple.com/us/song/kh%C3%A9/1775463293",
+      "creator": "Rauw Alejandro, Romeo Santos",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1775463293",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "Khé? 63 Rauw Alejandro, Romeo Santos Cosa Nuestra PREVIEW 3:26"
+    },
+    {
+      "title": "Danceteria Afterhours",
+      "canonicalUrl": "https://music.apple.com/us/song/danceteria-afterhours/6812516294",
+      "creator": "Madonna, Charli xcx",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/ea/f2/41eaf245-956f-0f32-8d9f-a409a9ae6ed0/054391208811.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6812516294",
+      "attributes": {
+        "album": "Danceteria Afterhours - Single",
+        "duration": "3:50",
+        "durationIso": "PT3M50S",
+        "chartPosition": "64",
+        "explicit": true
+      },
+      "evidenceText": "Danceteria Afterhours 64 Madonna, Charli xcx Danceteria Afterhours - Single PREVIEW 3:50"
+    },
+    {
+      "title": "LUNA",
+      "canonicalUrl": "https://music.apple.com/us/song/luna/1719170507",
+      "creator": "Feid, ATL Jacob",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1719170507",
+      "attributes": {
+        "album": "FERXXOCALIPSIS",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "LUNA 65 Feid, ATL Jacob FERXXOCALIPSIS PREVIEW 3:16"
+    },
+    {
+      "title": "ME JALO",
+      "canonicalUrl": "https://music.apple.com/us/song/me-jalo/1786262012",
+      "creator": "Fuerza Regida, Grupo Frontera",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/96/9e/ba969e5d-857d-bbda-08e2-edc08642d188/196872772869.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1786262012",
+      "attributes": {
+        "album": "MALA MÍA - EP",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "66",
+        "explicit": true
+      },
+      "evidenceText": "ME JALO 66 Fuerza Regida, Grupo Frontera MALA MÍA - EP PREVIEW 3:32"
+    },
+    {
+      "title": "Luces Tenues",
+      "canonicalUrl": "https://music.apple.com/us/song/luces-tenues/1720988719",
+      "creator": "Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/79/0c/0e790cc8-c67d-6e06-cc92-4137c9a8afe4/197190645262.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1720988719",
+      "attributes": {
+        "album": "Luces Tenues - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "67",
+        "explicit": true
+      },
+      "evidenceText": "Luces Tenues 67 Anuel AA Luces Tenues - Single PREVIEW 3:10"
+    },
+    {
+      "title": "Encantadora",
+      "canonicalUrl": "https://music.apple.com/us/song/encantadora/1046026054",
+      "creator": "Yandel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/70/53/c77053a9-01ba-55e6-338d-8e617daccabb/886445457346.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1046026054",
+      "attributes": {
+        "album": "Dangerous",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "Encantadora 68 Yandel Dangerous PREVIEW 4:00"
+    },
+    {
+      "title": "CAPCANA COCOA",
+      "canonicalUrl": "https://music.apple.com/us/song/capcana-cocoa/6808005059",
+      "creator": "Blessd, Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/ff/de/45ffde34-6e7e-90e4-eaa7-4d4f72599051/1200220051427.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6808005059",
+      "attributes": {
+        "album": "CAPCANA COCOA - Single",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "69",
+        "explicit": true
+      },
+      "evidenceText": "CAPCANA COCOA 69 Blessd, Anuel AA CAPCANA COCOA - Single PREVIEW 4:04"
+    },
+    {
+      "title": "Pa' Que La Pases Bien",
+      "canonicalUrl": "https://music.apple.com/us/song/pa-que-la-pases-bien/1247228818",
+      "creator": "Arcángel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1247228818",
+      "attributes": {
+        "album": "El Fenómeno",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "Pa' Que La Pases Bien 70 Arcángel El Fenómeno PREVIEW 3:34"
+    },
+    {
+      "title": "Otra Noche en Miami",
+      "canonicalUrl": "https://music.apple.com/us/song/otra-noche-en-miami/1447554973",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/3a/db/cf3adbe6-8ea1-f60f-60fd-713eefda3962/193483317984.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1447554973",
+      "attributes": {
+        "album": "X 100PRE",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "71",
+        "explicit": true
+      },
+      "evidenceText": "Otra Noche en Miami 71 Bad Bunny X 100PRE PREVIEW 3:53"
+    },
+    {
+      "title": "LATINA FOREVA",
+      "canonicalUrl": "https://music.apple.com/us/song/latina-foreva/1819544623",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/39/f5/1e39f58c-e5c1-6431-d6ed-d6c32e29d63f/25UMGIM79234.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1819544623",
+      "attributes": {
+        "album": "Tropicoqueta",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "72",
+        "explicit": true
+      },
+      "evidenceText": "LATINA FOREVA 72 KAROL G Tropicoqueta PREVIEW 2:39"
+    },
+    {
+      "title": "Elizabeth Taylor",
+      "canonicalUrl": "https://music.apple.com/us/song/elizabeth-taylor/1833328842",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1833328842",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "Elizabeth Taylor 73 Taylor Swift The Life of a Showgirl PREVIEW 3:28"
+    },
+    {
+      "title": "the cure",
+      "canonicalUrl": "https://music.apple.com/us/song/the-cure/1889992123",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1889992123",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "74",
+        "explicit": true
+      },
+      "evidenceText": "the cure 74 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 4:57"
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia/1833328840",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1833328840",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia 75 Taylor Swift The Life of a Showgirl PREVIEW 3:46"
+    },
+    {
+      "title": "hate that i made you love me",
+      "canonicalUrl": "https://music.apple.com/us/song/hate-that-i-made-you-love-me/6763656876",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6763656876",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "76",
+        "explicit": false
+      },
+      "evidenceText": "hate that i made you love me 76 Ariana Grande petal PREVIEW 3:17"
+    },
+    {
+      "title": "M U S A E L E V Á",
+      "canonicalUrl": "https://music.apple.com/us/song/m-u-s-a-e-l-e-v-%C3%A1/1760193823",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1760193823",
+      "attributes": {
+        "album": "PRIMERA MUSA",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "77",
+        "explicit": true
+      },
+      "evidenceText": "M U S A E L E V Á 77 Omar Courtz PRIMERA MUSA PREVIEW 3:07"
+    },
+    {
+      "title": "stupid song",
+      "canonicalUrl": "https://music.apple.com/us/song/stupid-song/1889992115",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1889992115",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "78",
+        "explicit": false
+      },
+      "evidenceText": "stupid song 78 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:29"
+    },
+    {
+      "title": "Comernos",
+      "canonicalUrl": "https://music.apple.com/us/song/comernos/1804988448",
+      "creator": "Omar Courtz, Bad Gyal",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/62/9d/ca629dee-91c3-bbca-9185-d34c97ada5f5/199350192708.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1804988448",
+      "attributes": {
+        "album": "Comernos - Single",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "79",
+        "explicit": true
+      },
+      "evidenceText": "Comernos 79 Omar Courtz, Bad Gyal Comernos - Single PREVIEW 3:41"
+    },
+    {
+      "title": "Safari (feat. Pharrell Williams, BIA & Sky)",
+      "canonicalUrl": "https://music.apple.com/us/song/safari-feat-pharrell-williams-bia-sky/1526901701",
+      "creator": "J Balvin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6b/5c/77/6b5c7743-5e90-52a4-23bb-b7a3de19a681/21UM1IM03179.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1526901701",
+      "attributes": {
+        "album": "Summer Vacation - EP",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "80",
+        "explicit": false
+      },
+      "evidenceText": "Safari (feat. Pharrell Williams, BIA & Sky) 80 J Balvin Summer Vacation - EP PREVIEW 3:25"
+    },
+    {
+      "title": "Tú No Lo Amas",
+      "canonicalUrl": "https://music.apple.com/us/song/t%C3%BA-no-lo-amas/1453889338",
+      "creator": "Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ac/be/a9/acbea99c-c9ac-475b-774e-2fbfaa2aadea/193483488967.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1453889338",
+      "attributes": {
+        "album": "Real Hasta la Muerte",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "81",
+        "explicit": true
+      },
+      "evidenceText": "Tú No Lo Amas 81 Anuel AA Real Hasta la Muerte PREVIEW 3:34"
+    },
+    {
+      "title": "Diosa",
+      "canonicalUrl": "https://music.apple.com/us/song/diosa/1495895125",
+      "creator": "Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/63/86/76638602-1e1a-5656-20de-442dfb6e2b6f/194491908096.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1495895125",
+      "attributes": {
+        "album": "Easy Money Baby",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "82",
+        "explicit": true
+      },
+      "evidenceText": "Diosa 82 Myke Towers Easy Money Baby PREVIEW 3:34"
+    },
+    {
+      "title": "COQUETA",
+      "canonicalUrl": "https://music.apple.com/us/song/coqueta/1786262016",
+      "creator": "Fuerza Regida, Grupo Frontera",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/96/9e/ba969e5d-857d-bbda-08e2-edc08642d188/196872772869.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1786262016",
+      "attributes": {
+        "album": "MALA MÍA - EP",
+        "duration": "4:01",
+        "durationIso": "PT4M1S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "COQUETA 83 Fuerza Regida, Grupo Frontera MALA MÍA - EP PREVIEW 4:01"
+    },
+    {
+      "title": "Diles (feat. Arcángel, Ñengo Flow, DJ Luian & Mambo Kingz)",
+      "canonicalUrl": "https://music.apple.com/us/song/diles-feat-arc%C3%A1ngel-%C3%B1engo-flow-dj-luian-mambo-kingz/1470490146",
+      "creator": "Bad Bunny, Ozuna, Farruko",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/6b/0b/e36b0bd8-3a60-8466-b034-4ac6652f4110/191079034949.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1470490146",
+      "attributes": {
+        "album": "Diles (feat. Arcángel, Ñengo Flow, DJ Luian & Mambo Kingz) - Single",
+        "duration": "4:46",
+        "durationIso": "PT4M46S",
+        "chartPosition": "84",
+        "explicit": true
+      },
+      "evidenceText": "Diles (feat. Arcángel, Ñengo Flow, DJ Luian & Mambo Kingz) 84 Bad Bunny, Ozuna, Farruko Diles (feat. Arcángel, Ñengo Flow, DJ Luian & Mambo Kingz) - Single PREVIEW 4:46"
+    },
+    {
+      "title": "666",
+      "canonicalUrl": "https://music.apple.com/us/song/666/1892154824",
+      "creator": "Panda Black, Yan Block, Cris MJ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/fa/95/f7fa951d-d14e-0f33-aea5-fd90d09d99a6/820200994608.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1892154824",
+      "attributes": {
+        "album": "666 - Single",
+        "duration": "2:20",
+        "durationIso": "PT2M20S",
+        "chartPosition": "85",
+        "explicit": true
+      },
+      "evidenceText": "666 85 Panda Black, Yan Block, Cris MJ 666 - Single PREVIEW 2:20"
+    },
+    {
+      "title": "Girl",
+      "canonicalUrl": "https://music.apple.com/us/song/girl/1495895117",
+      "creator": "Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/63/86/76638602-1e1a-5656-20de-442dfb6e2b6f/194491908096.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1495895117",
+      "attributes": {
+        "album": "Easy Money Baby",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "86",
+        "explicit": true
+      },
+      "evidenceText": "Girl 86 Myke Towers Easy Money Baby PREVIEW 3:06"
+    },
+    {
+      "title": "Bass Persuades",
+      "canonicalUrl": "https://music.apple.com/us/song/bass-persuades/6807197459",
+      "creator": "Miley Cyrus",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "6807197459",
+      "attributes": {
+        "album": "Bass Persuades",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "87",
+        "explicit": false
+      },
+      "evidenceText": "Bass Persuades 87 Miley Cyrus Bass Persuades PREVIEW 3:22"
+    },
+    {
+      "title": "Father Figure",
+      "canonicalUrl": "https://music.apple.com/us/song/father-figure/1833328847",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1833328847",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "88",
+        "explicit": true
+      },
+      "evidenceText": "Father Figure 88 Taylor Swift The Life of a Showgirl PREVIEW 3:32"
+    },
+    {
+      "title": "Subelo",
+      "canonicalUrl": "https://music.apple.com/us/song/subelo/1594455104",
+      "creator": "Anuel AA, Myke Towers, JHAYCO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/be/4c/22be4cc5-a7f2-eadc-359b-e338fbe3d7ee/196292821857.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1594455104",
+      "attributes": {
+        "album": "Las Leyendas Nunca Mueren",
+        "duration": "3:59",
+        "durationIso": "PT3M59S",
+        "chartPosition": "89",
+        "explicit": true
+      },
+      "evidenceText": "Subelo 89 Anuel AA, Myke Towers, JHAYCO Las Leyendas Nunca Mueren PREVIEW 3:59"
+    },
+    {
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "canonicalUrl": "https://music.apple.com/us/song/beauty-and-a-beat-feat-nicki-minaj/1440650961",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1440650961",
+      "attributes": {
+        "album": "Believe (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "Beauty and a Beat (feat. Nicki Minaj) 90 Justin Bieber Believe (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "DtMF",
+      "canonicalUrl": "https://music.apple.com/us/song/dtmf/1787023936",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1787023936",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "91",
+        "explicit": true
+      },
+      "evidenceText": "DtMF 91 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 3:57"
+    },
+    {
+      "title": "Qué Onda",
+      "canonicalUrl": "https://music.apple.com/us/song/qu%C3%A9-onda/1705125233",
+      "creator": "Calle 24, Chino Pacas, Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/32/72/2c327216-8562-911a-f6e8-5c268f55afd6/717340552815_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1705125233",
+      "attributes": {
+        "album": "Qué Onda - Single",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "92",
+        "explicit": true
+      },
+      "evidenceText": "Qué Onda 92 Calle 24, Chino Pacas, Fuerza Regida Qué Onda - Single PREVIEW 3:11"
+    },
+    {
+      "title": "Holanda",
+      "canonicalUrl": "https://music.apple.com/us/song/holanda/1699106722",
+      "creator": "JHAYCO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/c6/ff/a6c6ff16-b92a-72f6-600c-112d69305cd6/23UMGIM80474.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1699106722",
+      "attributes": {
+        "album": "Holanda - Single",
+        "duration": "3:51",
+        "durationIso": "PT3M51S",
+        "chartPosition": "93",
+        "explicit": true
+      },
+      "evidenceText": "Holanda 93 JHAYCO Holanda - Single PREVIEW 3:51"
+    },
+    {
+      "title": "El Teléfono",
+      "canonicalUrl": "https://music.apple.com/us/song/el-tel%C3%A9fono/1444164083",
+      "creator": "Héctor El Father, Wisin & Yandel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fb/62/03/fb6203d4-34ea-24bb-6ed1-e3c8a272988b/00602517495678.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1444164083",
+      "attributes": {
+        "album": "The Bad Boy the Most Wanted Edition",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "94",
+        "explicit": false
+      },
+      "evidenceText": "El Teléfono 94 Héctor El Father, Wisin & Yandel The Bad Boy the Most Wanted Edition PREVIEW 3:55"
+    },
+    {
+      "title": "Me Acostumbré (feat. Bad Bunny)",
+      "canonicalUrl": "https://music.apple.com/us/song/me-acostumbr%C3%A9-feat-bad-bunny/1224814422",
+      "creator": "Arcángel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/ec/f2/c4ecf24e-2b24-b71f-a885-a6293f830434/654827031824_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1224814422",
+      "attributes": {
+        "album": "Me Acostumbré (feat. Bad Bunny) - Single",
+        "duration": "4:23",
+        "durationIso": "PT4M23S",
+        "chartPosition": "95",
+        "explicit": true
+      },
+      "evidenceText": "Me Acostumbré (feat. Bad Bunny) 95 Arcángel Me Acostumbré (feat. Bad Bunny) - Single PREVIEW 4:23"
+    },
+    {
+      "title": "Flaca",
+      "canonicalUrl": "https://music.apple.com/us/song/flaca/101374818",
+      "creator": "Andrés Calamaro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cd/52/6d/cd526dc6-daaa-e990-7019-47c828efdd1b/mzi.xpwcramk.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "101374818",
+      "attributes": {
+        "album": "Alta Suciedad",
+        "duration": "4:36",
+        "durationIso": "PT4M36S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "Flaca 96 Andrés Calamaro Alta Suciedad PREVIEW 4:36"
+    },
+    {
+      "title": "Wonderwall (Remastered)",
+      "canonicalUrl": "https://music.apple.com/us/song/wonderwall-remastered/1821192766",
+      "creator": "Oasis",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/e3/0d/cee30d80-d3e7-66ae-de84-4b62d8bc3b4d/5051961151107.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1821192766",
+      "attributes": {
+        "album": "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "Wonderwall (Remastered) 97 Oasis (What's The Story) Morning Glory? (30th Anniversary Deluxe Edition) PREVIEW 4:18"
+    },
+    {
+      "title": "Bastardo (feat. Ñengo Flow & Jere Klein)",
+      "canonicalUrl": "https://music.apple.com/us/song/bastardo-feat-%C3%B1engo-flow-jere-klein/1736862427",
+      "creator": "Pablo Chill-E",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/72/45/ac724502-2bdd-cd9f-8f00-36bf27585cd6/38591.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1736862427",
+      "attributes": {
+        "album": "Los Gangsters También Lloran",
+        "duration": "4:24",
+        "durationIso": "PT4M24S",
+        "chartPosition": "98",
+        "explicit": true
+      },
+      "evidenceText": "Bastardo (feat. Ñengo Flow & Jere Klein) 98 Pablo Chill-E Los Gangsters También Lloran PREVIEW 4:24"
+    },
+    {
+      "title": "no tiene sentido",
+      "canonicalUrl": "https://music.apple.com/us/song/no-tiene-sentido/1812537122",
+      "creator": "Beéle",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/95/6b/8b956b63-4f21-899a-f912-f1c8a9f5d9f5/196873015750.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1812537122",
+      "attributes": {
+        "album": "BORONDO",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "99",
+        "explicit": false
+      },
+      "evidenceText": "no tiene sentido 99 Beéle BORONDO PREVIEW 2:38"
+    },
+    {
+      "title": "MOJABI GHOST",
+      "canonicalUrl": "https://music.apple.com/us/song/mojabi-ghost/1709197783",
+      "creator": "Tainy, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ad/da/1f/adda1f4a-f2d3-fe31-c965-e0753d2990ad/196922654572_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-argentina/pl.7ae8594e422f44658e58212d876d9323",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Argentina",
+      "externalId": "1709197783",
+      "attributes": {
+        "album": "DATA",
+        "duration": "3:52",
+        "durationIso": "PT3M52S",
+        "chartPosition": "100",
+        "explicit": true
+      },
+      "evidenceText": "MOJABI GHOST 100 Tainy, Bad Bunny DATA PREVIEW 3:52"
+    }
+  ]
+}

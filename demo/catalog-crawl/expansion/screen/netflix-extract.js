@@ -1,0 +1,5 @@
+(() => {
+ const headings = Array.from(document.querySelectorAll('h2'));
+ const preceding = element => headings.filter(h => h.compareDocumentPosition(element) & Node.DOCUMENT_POSITION_FOLLOWING).at(-1)?.textContent?.trim() || document.querySelector('h1')?.textContent?.trim() || '';
+ return JSON.stringify({url:location.href,title:document.title,heading:document.querySelector('h1')?.innerText||'',observedAt:new Date().toISOString(),bodyIntro:document.body.innerText.slice(0,500),genres:Array.from(document.querySelectorAll('a[href*="/genre/"]')).map(a=>({url:a.href,label:preceding(a)})),cards:Array.from(document.querySelectorAll('a[href*="/title/"]')).map((a,index)=>{const image=a.querySelector('img'); const background=a.querySelector('[style*="background-image"]'); const backgroundURL=background?.style.backgroundImage.match(/url\(["']?(.*?)["']?\)/)?.[1]; return {url:a.href,title:a.querySelector('p')?.innerText?.trim() || a.getAttribute('aria-label')?.replace(/^Go to /,'') || a.innerText.trim(),imageUrl:image?.currentSrc||image?.src||backgroundURL,section:preceding(a),position:index+1}})});
+})()

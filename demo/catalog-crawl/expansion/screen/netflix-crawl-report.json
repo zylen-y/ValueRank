@@ -1,0 +1,699 @@
+{
+  "pages": [
+    {
+      "url": "https://www.netflix.com/browse/genre/7424",
+      "kind": "anime",
+      "heading": "Anime",
+      "cards": 528,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/83",
+      "kind": "series",
+      "heading": "TV Shows",
+      "cards": 680,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/34399",
+      "kind": "movies",
+      "heading": "Movies",
+      "cards": 680,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/64256",
+      "kind": "series",
+      "heading": "Japanese TV Shows",
+      "cards": 593,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/89844",
+      "kind": "movies",
+      "heading": "Award-Winning Movies",
+      "cards": 600,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/83193",
+      "kind": "series",
+      "heading": "Critically Acclaimed TV Shows",
+      "cards": 621,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/6721",
+      "kind": "anime",
+      "heading": "Anime Series",
+      "cards": 504,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1191605",
+      "kind": "series",
+      "heading": "Most BingeWorthy TV",
+      "cards": 602,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/51056",
+      "kind": "movies",
+      "heading": "Family Movies",
+      "cards": 502,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/26156",
+      "kind": "series",
+      "heading": "Watch Romantic TV Shows",
+      "cards": 597,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/27346",
+      "kind": "series",
+      "heading": "Kids TV Shows",
+      "cards": 528,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/2691049",
+      "kind": "anime",
+      "heading": "Dark Fantasy Anime",
+      "cards": 102,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/90139",
+      "kind": "movies",
+      "heading": "Hollywood Blockbuster Movies",
+      "cards": 510,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/67879",
+      "kind": "series",
+      "heading": "Korean TV Shows",
+      "cards": 679,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/72404",
+      "kind": "series",
+      "heading": "US TV Shows",
+      "cards": 680,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/10375",
+      "kind": "series",
+      "heading": "Best TV Comedy Shows",
+      "cards": 671,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/11714",
+      "kind": "series",
+      "heading": "TV Drama Series",
+      "cards": 665,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/89814",
+      "kind": "series",
+      "heading": "Award-Winning TV Shows",
+      "cards": 523,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/26146",
+      "kind": "series",
+      "heading": "Watch Crime TV Shows",
+      "cards": 645,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/6548",
+      "kind": "movies",
+      "heading": "Comedy Movies",
+      "cards": 677,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/5763",
+      "kind": "movies",
+      "heading": "Dramas",
+      "cards": 609,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/78367",
+      "kind": "movies",
+      "heading": "International Movies",
+      "cards": 680,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/2298875",
+      "kind": "movies",
+      "heading": "Best Hollywood Movies",
+      "cards": 680,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/43040",
+      "kind": "movies",
+      "heading": "Action Comedy Movies",
+      "cards": 364,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/9994",
+      "kind": "movies",
+      "heading": "Mysteries",
+      "cards": 441,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/3276033",
+      "kind": "movies",
+      "heading": "Sci-Fi Movies",
+      "cards": 419,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1365",
+      "kind": "movies",
+      "heading": "Action & Adventure Movies",
+      "cards": 665,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/5475",
+      "kind": "movies",
+      "heading": "Romantic Comedies",
+      "cards": 507,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/3979",
+      "kind": "movies",
+      "heading": "Critically Acclaimed Films",
+      "cards": 680,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/89811",
+      "kind": "series",
+      "heading": "Thriller TV Shows",
+      "cards": 589,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/5824",
+      "kind": "movies",
+      "heading": "Watch Crime Movies",
+      "cards": 664,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/5685",
+      "kind": "movies",
+      "heading": "Korean Movies",
+      "cards": 651,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/448",
+      "kind": "movies",
+      "heading": "Suspenseful Movies",
+      "cards": 635,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/10579",
+      "kind": "movies",
+      "heading": "Feel-good Movies",
+      "cards": 541,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1411",
+      "kind": "movies",
+      "heading": "Psychological Movies",
+      "cards": 442,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/8883",
+      "kind": "movies",
+      "heading": "Best Romantic Movies",
+      "cards": 653,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/2992583",
+      "kind": "series",
+      "heading": "Limited Series",
+      "cards": 486,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/2867624",
+      "kind": "anime",
+      "heading": "Shounen Anime",
+      "cards": 307,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/26009",
+      "kind": "series",
+      "heading": "TV Crime Dramas",
+      "cards": 587,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/5343",
+      "kind": "movies",
+      "heading": "Exciting Movies",
+      "cards": 652,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/4698",
+      "kind": "anime",
+      "heading": "Animated Movies and TV Shows",
+      "cards": 557,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/9744",
+      "kind": "movies",
+      "heading": "Fantasy Movies",
+      "cards": 258,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1819174",
+      "kind": "series",
+      "heading": "TV Shows Based on Books",
+      "cards": 603,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/42788",
+      "kind": "series",
+      "heading": "Supernatural TV Shows",
+      "cards": 385,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/11177",
+      "kind": "series",
+      "heading": "TV Cartoons",
+      "cards": 526,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/43048",
+      "kind": "movies",
+      "heading": "Action-Thrillers",
+      "cards": 561,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/7442",
+      "kind": "movies",
+      "heading": "Adventure Movies",
+      "cards": 386,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/49266",
+      "kind": "series",
+      "heading": "Competition Reality TV",
+      "cards": 435,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1195213",
+      "kind": "series",
+      "heading": "Watch International TV Shows",
+      "cards": 680,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/10105",
+      "kind": "series",
+      "heading": "Documentary Series",
+      "cards": 593,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/3519",
+      "kind": "movies",
+      "heading": "Teen Comedies",
+      "cards": 164,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/4136",
+      "kind": "movies",
+      "heading": "Watch Emotional Movies",
+      "cards": 642,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/920",
+      "kind": "movies",
+      "heading": "Movies Based on a True Story",
+      "cards": 406,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1255",
+      "kind": "movies",
+      "heading": "Romantic Drama Movies",
+      "cards": 493,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/8711",
+      "kind": "movies",
+      "heading": "Essential Horror Flicks",
+      "cards": 457,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/8933",
+      "kind": "movies",
+      "heading": "Thrillers",
+      "cards": 613,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/5505",
+      "kind": "movies",
+      "heading": "Psychological Thrillers",
+      "cards": 334,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/12739",
+      "kind": "movies",
+      "heading": "20th-Century Period Piece Movies",
+      "cards": 485,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/81466194",
+      "kind": "movies",
+      "heading": "90-Minute Movies",
+      "cards": 630,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1684370",
+      "kind": "movies",
+      "heading": "Young Adult Movies & Shows",
+      "cards": 531,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/11881",
+      "kind": "anime",
+      "heading": "Adult Animated Movies & Shows",
+      "cards": 249,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/9833",
+      "kind": "series",
+      "heading": "Reality TV Shows",
+      "cards": 548,
+      "blocked": false
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/7077",
+      "kind": "movies",
+      "heading": "Independent Movies",
+      "cards": 435,
+      "blocked": false
+    }
+  ],
+  "queue": [
+    {
+      "url": "https://www.netflix.com/browse/genre/7424",
+      "kind": "anime"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/83",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/34399",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/64256",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/89844",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/83193",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/6721",
+      "kind": "anime"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1191605",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/51056",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/26156",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/27346",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/2691049",
+      "kind": "anime"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/90139",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/67879",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/72404",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/10375",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/11714",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/89814",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/26146",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/6548",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/5763",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/78367",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/2298875",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/43040",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/9994",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/3276033",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1365",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/5475",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/3979",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/89811",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/5824",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/5685",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/448",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/10579",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1411",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/8883",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/2992583",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/2867624",
+      "kind": "anime"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/26009",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/5343",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/4698",
+      "kind": "anime"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/9744",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1819174",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/42788",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/11177",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/43048",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/7442",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/49266",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1195213",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/10105",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/3519",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/4136",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/920",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1255",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/8711",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/8933",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/5505",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/12739",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/81466194",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/1684370",
+      "kind": "movies"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/11881",
+      "kind": "anime"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/9833",
+      "kind": "series"
+    },
+    {
+      "url": "https://www.netflix.com/browse/genre/7077",
+      "kind": "movies"
+    }
+  ]
+}

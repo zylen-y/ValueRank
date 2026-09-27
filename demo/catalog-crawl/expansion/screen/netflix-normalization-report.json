@@ -1,0 +1,22 @@
+{
+  "uniqueTitles": 5516,
+  "pages": 63,
+  "kinds": {
+    "movies": {
+      "items": 2617,
+      "collections": 25,
+      "images": 2617
+    },
+    "series": {
+      "items": 2130,
+      "collections": 22,
+      "images": 2130
+    },
+    "anime": {
+      "items": 769,
+      "collections": 8,
+      "images": 769
+    }
+  },
+  "classificationConflicts": 25
+}

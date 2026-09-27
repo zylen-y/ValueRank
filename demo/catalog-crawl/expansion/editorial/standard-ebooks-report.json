@@ -1,0 +1,169 @@
+{
+  "sourceId": "standard-ebooks",
+  "uniqueItems": 1522,
+  "additionalVsOriginal": 1133,
+  "collections": 20,
+  "reachedLastPage": true,
+  "pages": [
+    {
+      "url": "https://standardebooks.org/ebooks?per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:46:38.464Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=2&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:46:42.278Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=3&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:46:45.372Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=4&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:46:48.887Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=5&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:46:52.282Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=6&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:46:55.404Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=7&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:46:58.564Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=8&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:01.707Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=9&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:04.789Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=10&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:07.916Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=11&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:11.414Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=12&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:14.534Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=13&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:17.574Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=14&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:20.673Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=15&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:24.016Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=16&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:27.345Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=17&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:30.346Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=18&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:33.484Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=19&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:36.709Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=20&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:40.059Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=21&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:43.392Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=22&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:46.406Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=23&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:49.405Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=24&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:52.406Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=25&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:55.548Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=26&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:47:59.010Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=27&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:48:02.076Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=28&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:48:05.171Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=29&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:48:08.206Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=30&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:48:11.302Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=31&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:48:14.760Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/ebooks?page=32&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T03:48:18.338Z",
+      "count": 34
+    }
+  ]
+}

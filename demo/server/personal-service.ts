@@ -349,6 +349,6 @@ export function createPersonalService(store: PersonalStore, options: { now?: () 
       return snapshot();
     });
   }
-  return { store, saveSource, saveUnit, saveSession, getSession, listSessions, getFacts, rank, datasets, createDataset, startComparison, answer, undo, setFact, deleteFact, observe, evaluations, snapshot, exportData, deleteData, deleteComparison, deleteDataset, deleteSession, trainingRows };
+  return { store, saveSource, saveUnit, saveSession, getSession, listSessions, getFacts, getModels, rank, datasets, createDataset, startComparison, answer, undo, setFact, deleteFact, observe, evaluations, snapshot, exportData, deleteData, deleteComparison, deleteDataset, deleteSession, trainingRows };
 }
 export type PersonalService = ReturnType<typeof createPersonalService>;

@@ -1,0 +1,303 @@
+{
+  "verifiedAt": "2026-09-27T04:12:30.049Z",
+  "result": "passed",
+  "baseUrl": "http://127.0.0.1:8792",
+  "isolation": {
+    "databaseDirectory": "/tmp/valuerank-expansion-qa.D9dhoq/",
+    "databases": [
+      "legacy.sqlite",
+      "personal.sqlite",
+      "media.sqlite",
+      "catalog.sqlite"
+    ],
+    "personalSeedsDisabled": true,
+    "mainWorkspacePreferenceWrites": 0,
+    "paidModelCallsTriggered": 0,
+    "serverSessionId": 3904,
+    "serverLeftRunning": false,
+    "shutdownNote": "Temporary QA server stopped after verification; the main demo remains at port 5188.",
+    "mainPreferenceLedgerVerifiedUnchanged": true
+  },
+  "catalog": {
+    "total": 27060,
+    "collections": 211,
+    "byKind": {
+      "anime": 769,
+      "beauty": 2466,
+      "books": 1522,
+      "fashion": 7056,
+      "instagram": 438,
+      "movies": 2617,
+      "music": 1998,
+      "papers": 3217,
+      "pinterest": 1045,
+      "portraits": 310,
+      "series": 2130,
+      "youtube": 3492
+    }
+  },
+  "checks": {
+    "emptyPrivateBaseline": true,
+    "choiceCreatesOneTrainingRow": true,
+    "modelVersionOne": true,
+    "predictionPredatesChoice": true,
+    "rankingChangesAfterChoice": true,
+    "undoRemovesTrainingSignal": true,
+    "undoRestoresFirst24Exactly": true,
+    "undoRetainsAuditTrail": true,
+    "representativeImagesLoad": true,
+    "noHorizontalOverflow": true,
+    "libraryTotalsAndContentTypes": true
+  },
+  "preferenceLoop": {
+    "selectedTitles": [
+      "Shelter",
+      "The Beekeeper"
+    ],
+    "selectedCount": 2,
+    "chosenTitle": "The Beekeeper",
+    "uiChoice": "a",
+    "trainingCounts": [
+      0,
+      1,
+      0
+    ],
+    "modelVersions": [
+      0,
+      1,
+      2
+    ],
+    "predictionCreatedAt": "2026-09-27T04:06:02.766Z",
+    "choiceCreatedAt": "2026-09-27T04:06:50.197Z",
+    "predictionProbabilityA": 0.5,
+    "afterUndoActiveTrainingRows": 0,
+    "afterUndoRetainedUndoneComparisons": 1,
+    "afterUndoDatasetCount": 1,
+    "first24OrderAndScoresRestored": true
+  },
+  "thumbnails": [
+    {
+      "kind": "movies",
+      "observedAt": "2026-09-27T04:09:46.254Z",
+      "cards": 24,
+      "fallbacks": 0,
+      "firstImages": [
+        {
+          "height": 420,
+          "host": "occ-0-8231-993.1.nflxso.net",
+          "loaded": true,
+          "title": "Shelter",
+          "width": 300
+        },
+        {
+          "height": 420,
+          "host": "occ-0-8231-993.1.nflxso.net",
+          "loaded": true,
+          "title": "The Beekeeper",
+          "width": 300
+        },
+        {
+          "height": 420,
+          "host": "occ-0-8231-993.1.nflxso.net",
+          "loaded": true,
+          "title": "The Great Flood",
+          "width": 300
+        },
+        {
+          "height": 420,
+          "host": "occ-0-8231-993.1.nflxso.net",
+          "loaded": true,
+          "title": "Humint",
+          "width": 300
+        }
+      ],
+      "loadedImages": 16,
+      "overflow": false,
+      "pendingImages": 8,
+      "title": "Netflix \u00b7 Movies",
+      "url": "http://127.0.0.1:8792/#library/netflix-movies-all",
+      "viewport": {
+        "height": 1050,
+        "width": 1440
+      },
+      "screenshot": "catalog-expanded-movies.png"
+    },
+    {
+      "kind": "portraits",
+      "observedAt": "2026-09-27T04:09:49.922Z",
+      "cards": 11,
+      "fallbacks": 0,
+      "firstImages": [
+        {
+          "height": 667,
+          "host": "thumb.wikimedia.org",
+          "loaded": true,
+          "title": "Bugonia Gala Premiere - BFI LFF Royal Festival Hall - Friday 10th October 2025",
+          "width": 960
+        },
+        {
+          "height": 750,
+          "host": "thumb.wikimedia.org",
+          "loaded": true,
+          "title": "Emma Stone at the 2025 Cannes Film Festival 01",
+          "width": 500
+        },
+        {
+          "height": 750,
+          "host": "thumb.wikimedia.org",
+          "loaded": true,
+          "title": "Emma Stone at the 2025 Cannes Film Festival 02",
+          "width": 500
+        },
+        {
+          "height": 719,
+          "host": "thumb.wikimedia.org",
+          "loaded": true,
+          "title": "Emma Stone at the 2025 Cannes Film Festival 03 (cropped)",
+          "width": 500
+        }
+      ],
+      "loadedImages": 11,
+      "overflow": false,
+      "pendingImages": 0,
+      "title": "Commons \u00b7 Emma Stone",
+      "url": "http://127.0.0.1:8792/#library/commons-performer-02687b291d8db3a9",
+      "viewport": {
+        "height": 1050,
+        "width": 1440
+      },
+      "screenshot": "catalog-expanded-portraits.png"
+    },
+    {
+      "kind": "instagram",
+      "observedAt": "2026-09-27T04:09:52.202Z",
+      "cards": 10,
+      "fallbacks": 0,
+      "firstImages": [
+        {
+          "height": 150,
+          "host": "scontent-icn2-1.cdninstagram.com",
+          "loaded": true,
+          "title": "sneakersnstuff",
+          "width": 150
+        },
+        {
+          "height": 150,
+          "host": "scontent-icn2-1.cdninstagram.com",
+          "loaded": true,
+          "title": "sneakers.jws.dz",
+          "width": 150
+        },
+        {
+          "height": 150,
+          "host": "scontent-icn2-1.cdninstagram.com",
+          "loaded": true,
+          "title": "_sneakers_store.by",
+          "width": 150
+        },
+        {
+          "height": 150,
+          "host": "scontent-icn2-1.cdninstagram.com",
+          "loaded": true,
+          "title": "10kthelongwaybackup",
+          "width": 150
+        }
+      ],
+      "loadedImages": 10,
+      "overflow": false,
+      "pendingImages": 0,
+      "title": "Accessories & sneakers accounts",
+      "url": "http://127.0.0.1:8792/#library/instagram-accessories-sneakers",
+      "viewport": {
+        "height": 1050,
+        "width": 1440
+      },
+      "screenshot": "catalog-expanded-instagram.png"
+    },
+    {
+      "kind": "pinterest",
+      "observedAt": "2026-09-27T04:09:54.288Z",
+      "cards": 24,
+      "fallbacks": 0,
+      "firstImages": [
+        {
+          "height": 869,
+          "host": "i.pinimg.com",
+          "loaded": true,
+          "title": "minimalism",
+          "width": 474
+        },
+        {
+          "height": 632,
+          "host": "i.pinimg.com",
+          "loaded": true,
+          "title": "the living room is clean and ready to be used as an entertainment area for entertaining",
+          "width": 474
+        },
+        {
+          "height": 581,
+          "host": "i.pinimg.com",
+          "loaded": true,
+          "title": "a living room filled with furniture and a book shelf",
+          "width": 473
+        },
+        {
+          "height": 711,
+          "host": "i.pinimg.com",
+          "loaded": true,
+          "title": "29 Minimalist House Interiors That Make the Living Room Shine",
+          "width": 474
+        }
+      ],
+      "loadedImages": 20,
+      "overflow": false,
+      "pendingImages": 4,
+      "title": "Visual inspiration on Pinterest",
+      "url": "http://127.0.0.1:8792/#library/pinterest-all",
+      "viewport": {
+        "height": 1050,
+        "width": 1440
+      },
+      "screenshot": "catalog-expanded-pinterest.png"
+    }
+  ],
+  "libraryBrowsing": {
+    "initialTiles": 24,
+    "afterShowMore": 48,
+    "booksFilterTiles": 20,
+    "unmatchedSearchTiles": 0,
+    "clearFiltersRestoresTiles": 24,
+    "desktopViewport": {
+      "width": 1440,
+      "height": 1050
+    },
+    "mobileViewportCheckedEarlier": {
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    "notes": "Progressive browsing, title search, category filters and empty/reset states were browser-verified with 174 collections; the final Library screenshot verifies 27,060 items, 211 collections and 12 types of content.",
+    "finalOverview": {
+      "items": 27060,
+      "collections": 211,
+      "typesOfContent": 12,
+      "initialVisibleCollections": 24
+    }
+  },
+  "screenshots": {
+    "library": "catalog-expanded-library.png",
+    "instagram": "catalog-expanded-instagram.png",
+    "pinterest": "catalog-expanded-pinterest.png",
+    "comparisonBefore": "catalog-expanded-comparison-before.png",
+    "comparisonAfter": "catalog-expanded-comparison-after.png",
+    "undo": "catalog-expanded-undo.png",
+    "movies": "catalog-expanded-movies.png",
+    "photos": "catalog-expanded-portraits.png"
+  },
+  "limitations": [
+    "Thumbnail checks sample the first visible cards from each requested source; below-fold images remain lazily loaded.",
+    "The feedback test verifies storage, model updates, reranking, and exact undo restoration. It does not establish semantic recommendation quality; one selected movie need not rank in the top 24 after one signal.",
+    "Catalog ranking uses the local metadata preference head and does not call Jev or analyze image pixels.",
+    "Remote source-hosted thumbnails can expire or become unavailable."
+  ]
+}

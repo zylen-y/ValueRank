@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+  "collection": "Top 100: Colombia",
+  "fetchedAt": "2026-09-27T03:41:25.391Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "BbY WOW",
+      "canonicalUrl": "https://music.apple.com/us/song/bby-wow/6796864754",
+      "creator": "KAROL G, Judeline, rusowsky",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6796864754",
+      "attributes": {
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "BbY WOW 1 KAROL G, Judeline, rusowsky NO ME ARREPIENTO DE SENTIR TANTO PREVIEW 3:45"
+    },
+    {
+      "title": "PARADIXE",
+      "canonicalUrl": "https://music.apple.com/us/song/paradixe/6812011443",
+      "creator": "Feid, El Americano 4KT, Pirlo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d6/4c/8fd64cc6-e58c-2edc-1615-238b433a1170/26UM1IM12670.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6812011443",
+      "attributes": {
+        "album": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "duration": "5:42",
+        "durationIso": "PT5M42S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "PARADIXE 2 Feid, El Americano 4KT, Pirlo EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES PREVIEW 5:42"
+    },
+    {
+      "title": "COMPA COLETO (uy_como)",
+      "canonicalUrl": "https://music.apple.com/us/song/compa-coleto-uy-como/6809977487",
+      "creator": "ARIA VEGA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/a3/68/c0a36849-cbc1-c6a6-f444-1f8cbedb76ed/1200220074808.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6809977487",
+      "attributes": {
+        "album": "COMPA COLETO (uy_como) - Single",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "COMPA COLETO (uy_como) 3 ARIA VEGA COMPA COLETO (uy_como) - Single PREVIEW 3:20"
+    },
+    {
+      "title": "Yonaguni",
+      "canonicalUrl": "https://music.apple.com/us/song/yonaguni/1570323056",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1570323056",
+      "attributes": {
+        "album": "Yonaguni - Single",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "4",
+        "explicit": true
+      },
+      "evidenceText": "Yonaguni 4 Bad Bunny Yonaguni - Single PREVIEW 3:26"
+    },
+    {
+      "title": "CAPCANA COCOA",
+      "canonicalUrl": "https://music.apple.com/us/song/capcana-cocoa/6808005059",
+      "creator": "Blessd, Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/ff/de/45ffde34-6e7e-90e4-eaa7-4d4f72599051/1200220051427.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6808005059",
+      "attributes": {
+        "album": "CAPCANA COCOA - Single",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "5",
+        "explicit": true
+      },
+      "evidenceText": "CAPCANA COCOA 5 Blessd, Anuel AA CAPCANA COCOA - Single PREVIEW 4:04"
+    },
+    {
+      "title": "PERRO NEGRO",
+      "canonicalUrl": "https://music.apple.com/us/song/perro-negro/1710983279",
+      "creator": "Bad Bunny, Feid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/e0/31/00e0311e-9dab-fd0c-fc37-ee3d36aafbf3/197190137897.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1710983279",
+      "attributes": {
+        "album": "nadie sabe lo que va a pasar mañana",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "6",
+        "explicit": true
+      },
+      "evidenceText": "PERRO NEGRO 6 Bad Bunny, Feid nadie sabe lo que va a pasar mañana PREVIEW 2:42"
+    },
+    {
+      "title": "Ojalá",
+      "canonicalUrl": "https://music.apple.com/us/song/ojal%C3%A1/1814164314",
+      "creator": "Ryan Castro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/bb/06/8bbb0602-9d85-c28b-6de1-558f89f38bfa/196873157443.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1814164314",
+      "attributes": {
+        "album": "SENDÉ",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "Ojalá 7 Ryan Castro SENDÉ PREVIEW 2:36"
+    },
+    {
+      "title": "ELLA",
+      "canonicalUrl": "https://music.apple.com/us/song/ella/6812882862",
+      "creator": "Blessd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/1a/c4/a91ac467-492b-7074-f312-78fac070ef5c/1200220155996.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6812882862",
+      "attributes": {
+        "album": "ELLA - Single",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "8",
+        "explicit": true
+      },
+      "evidenceText": "ELLA 8 Blessd ELLA - Single PREVIEW 3:34"
+    },
+    {
+      "title": "Efecto",
+      "canonicalUrl": "https://music.apple.com/us/song/efecto/1622045954",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1622045954",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "9",
+        "explicit": true
+      },
+      "evidenceText": "Efecto 9 Bad Bunny Un Verano Sin Ti PREVIEW 3:33"
+    },
+    {
+      "title": "MERO TOTE",
+      "canonicalUrl": "https://music.apple.com/us/song/mero-tote/6779825388",
+      "creator": "Blessd, De La Rose, Los Money Makers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/a1/e5/33a1e588-73c9-9bf1-54eb-91275332dde2/1200214359645.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6779825388",
+      "attributes": {
+        "album": "EL PEOR HOMBRE DEL MUNDO",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "10",
+        "explicit": true
+      },
+      "evidenceText": "MERO TOTE 10 Blessd, De La Rose, Los Money Makers EL PEOR HOMBRE DEL MUNDO PREVIEW 3:32"
+    },
+    {
+      "title": "KOKO",
+      "canonicalUrl": "https://music.apple.com/us/song/koko/1877482633",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1877482633",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "11",
+        "explicit": true
+      },
+      "evidenceText": "KOKO 11 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 3:15"
+    },
+    {
+      "title": "SE PUSO FEO",
+      "canonicalUrl": "https://music.apple.com/us/song/se-puso-feo/6812011453",
+      "creator": "Feid, Divino, Baby Ranks",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d6/4c/8fd64cc6-e58c-2edc-1615-238b433a1170/26UM1IM12670.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6812011453",
+      "attributes": {
+        "album": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "SE PUSO FEO 12 Feid, Divino, Baby Ranks EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES PREVIEW 3:28"
+    },
+    {
+      "title": "AMARGURA",
+      "canonicalUrl": "https://music.apple.com/us/song/amargura/1670246089",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1670246089",
+      "attributes": {
+        "album": "MAÑANA SERÁ BONITO",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "13",
+        "explicit": true
+      },
+      "evidenceText": "AMARGURA 13 KAROL G MAÑANA SERÁ BONITO PREVIEW 2:50"
+    },
+    {
+      "title": "LA CANCIÓN",
+      "canonicalUrl": "https://music.apple.com/us/song/la-canci%C3%B3n/1470146813",
+      "creator": "J Balvin, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1470146813",
+      "attributes": {
+        "album": "OASIS",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "LA CANCIÓN 14 J Balvin, Bad Bunny OASIS PREVIEW 4:02"
+    },
+    {
+      "title": "top diesel",
+      "canonicalUrl": "https://music.apple.com/us/song/top-diesel/1812537134",
+      "creator": "Beéle",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/95/6b/8b956b63-4f21-899a-f912-f1c8a9f5d9f5/196873015750.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1812537134",
+      "attributes": {
+        "album": "BORONDO",
+        "duration": "3:09",
+        "durationIso": "PT3M9S",
+        "chartPosition": "15",
+        "explicit": false
+      },
+      "evidenceText": "top diesel 15 Beéle BORONDO PREVIEW 3:09"
+    },
+    {
+      "title": "Pa' Que La Pases Bien",
+      "canonicalUrl": "https://music.apple.com/us/song/pa-que-la-pases-bien/1247228818",
+      "creator": "Arcángel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1247228818",
+      "attributes": {
+        "album": "El Fenómeno",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "Pa' Que La Pases Bien 16 Arcángel El Fenómeno PREVIEW 3:34"
+    },
+    {
+      "title": "Ojitos Lindos",
+      "canonicalUrl": "https://music.apple.com/us/song/ojitos-lindos/1622045962",
+      "creator": "Bad Bunny, Bomba Estéreo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1622045962",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "Ojitos Lindos 17 Bad Bunny, Bomba Estéreo Un Verano Sin Ti PREVIEW 4:18"
+    },
+    {
+      "title": "A Xon De Que",
+      "canonicalUrl": "https://music.apple.com/us/song/a-xon-de-que/6789281258",
+      "creator": "Feid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/91/0c/e7910c76-ba72-6e2e-928c-e241d408b204/26UMGIM87502.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6789281258",
+      "attributes": {
+        "album": "A Xon De Que - Single",
+        "duration": "2:21",
+        "durationIso": "PT2M21S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "A Xon De Que 18 Feid A Xon De Que - Single PREVIEW 2:21"
+    },
+    {
+      "title": "HAXTA EL DÍA FINAL",
+      "canonicalUrl": "https://music.apple.com/us/song/haxta-el-d%C3%ADa-final/6812011455",
+      "creator": "Feid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d6/4c/8fd64cc6-e58c-2edc-1615-238b433a1170/26UM1IM12670.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6812011455",
+      "attributes": {
+        "album": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "19",
+        "explicit": true
+      },
+      "evidenceText": "HAXTA EL DÍA FINAL 19 Feid EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES PREVIEW 4:02"
+    },
+    {
+      "title": "LATINA FOREVA",
+      "canonicalUrl": "https://music.apple.com/us/song/latina-foreva/1819544623",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/39/f5/1e39f58c-e5c1-6431-d6ed-d6c32e29d63f/25UMGIM79234.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1819544623",
+      "attributes": {
+        "album": "Tropicoqueta",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "20",
+        "explicit": true
+      },
+      "evidenceText": "LATINA FOREVA 20 KAROL G Tropicoqueta PREVIEW 2:39"
+    },
+    {
+      "title": "DE DIOR XL",
+      "canonicalUrl": "https://music.apple.com/us/song/de-dior-xl/6812011461",
+      "creator": "Feid, Bad Gyal",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d6/4c/8fd64cc6-e58c-2edc-1615-238b433a1170/26UM1IM12670.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6812011461",
+      "attributes": {
+        "album": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "duration": "3:14",
+        "durationIso": "PT3M14S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "DE DIOR XL 21 Feid, Bad Gyal EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES PREVIEW 3:14"
+    },
+    {
+      "title": "GANAS",
+      "canonicalUrl": "https://music.apple.com/us/song/ganas/1867941109",
+      "creator": "Kris R.",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/cb/5d/7fcb5dbe-0cbe-fbb7-35fa-763332e5f4f0/5026854505350.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1867941109",
+      "attributes": {
+        "album": "GANAS - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "22",
+        "explicit": false
+      },
+      "evidenceText": "GANAS 22 Kris R. GANAS - Single PREVIEW 3:10"
+    },
+    {
+      "title": "no tiene sentido",
+      "canonicalUrl": "https://music.apple.com/us/song/no-tiene-sentido/1812537122",
+      "creator": "Beéle",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/95/6b/8b956b63-4f21-899a-f912-f1c8a9f5d9f5/196873015750.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1812537122",
+      "attributes": {
+        "album": "BORONDO",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "no tiene sentido 23 Beéle BORONDO PREVIEW 2:38"
+    },
+    {
+      "title": "Brickell",
+      "canonicalUrl": "https://music.apple.com/us/song/brickell/1740674376",
+      "creator": "Feid, Yandel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/48/03/cf480322-e907-87b3-e933-217d2a73892e/24UMGIM42176.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1740674376",
+      "attributes": {
+        "album": "MANIFESTING 20-05 - EP",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "24",
+        "explicit": true
+      },
+      "evidenceText": "Brickell 24 Feid, Yandel MANIFESTING 20-05 - EP PREVIEW 3:00"
+    },
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 25 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Ahí",
+      "canonicalUrl": "https://music.apple.com/us/song/ah%C3%AD/6796864746",
+      "creator": "KAROL G, Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6796864746",
+      "attributes": {
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "duration": "2:56",
+        "durationIso": "PT2M56S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "Ahí 26 KAROL G, Drake NO ME ARREPIENTO DE SENTIR TANTO PREVIEW 2:56"
+    },
+    {
+      "title": "PENXAMIENTOS DE MADRUGADA",
+      "canonicalUrl": "https://music.apple.com/us/song/penxamientos-de-madrugada/6812011561",
+      "creator": "Feid, Yandel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d6/4c/8fd64cc6-e58c-2edc-1615-238b433a1170/26UM1IM12670.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6812011561",
+      "attributes": {
+        "album": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "27",
+        "explicit": true
+      },
+      "evidenceText": "PENXAMIENTOS DE MADRUGADA 27 Feid, Yandel EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES PREVIEW 3:07"
+    },
+    {
+      "title": "CHÉVERE (premium_remix)",
+      "canonicalUrl": "https://music.apple.com/us/song/ch%C3%A9vere-premium-remix/1876626287",
+      "creator": "ARIA VEGA, Ryan Castro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/6e/c4/5b6ec421-c472-ea2f-c3e8-de63296355c0/5026854663586.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1876626287",
+      "attributes": {
+        "album": "CHÉVERE (premium_remix) - Single",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "CHÉVERE (premium_remix) 28 ARIA VEGA, Ryan Castro CHÉVERE (premium_remix) - Single PREVIEW 3:39"
+    },
+    {
+      "title": "NUEVA YORK",
+      "canonicalUrl": "https://music.apple.com/us/song/nueva-york/1817729942",
+      "creator": "Blessd, Los Money Makers, ProdMonja",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/8c/2f/f68c2fe6-8d21-ae3c-63ab-37c7dbe5d453/5021732824530.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1817729942",
+      "attributes": {
+        "album": "TRINIDAD BENDITA",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "29",
+        "explicit": true
+      },
+      "evidenceText": "NUEVA YORK 29 Blessd, Los Money Makers, ProdMonja TRINIDAD BENDITA PREVIEW 3:34"
+    },
+    {
+      "title": "Las mas bonitas son p#tas",
+      "canonicalUrl": "https://music.apple.com/us/song/las-mas-bonitas-son-p-tas/6784402416",
+      "creator": "Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/f2/82/46f28288-8e3d-d4cb-e73f-00863da4603b/820233902649.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6784402416",
+      "attributes": {
+        "album": "Las mas bonitas son p#tas - Single",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "30",
+        "explicit": true
+      },
+      "evidenceText": "Las mas bonitas son p#tas 30 Anuel AA Las mas bonitas son p#tas - Single PREVIEW 2:39"
+    },
+    {
+      "title": "Vete",
+      "canonicalUrl": "https://music.apple.com/us/song/vete/1500776923",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1500776923",
+      "attributes": {
+        "album": "YHLQMDLG",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "31",
+        "explicit": true
+      },
+      "evidenceText": "Vete 31 Bad Bunny YHLQMDLG PREVIEW 3:12"
+    },
+    {
+      "title": "50 MIL PIEX",
+      "canonicalUrl": "https://music.apple.com/us/song/50-mil-piex/6779441622",
+      "creator": "Feid, Granuja",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/09/08/90090855-c97a-2dc0-45a3-ff3ae7b55a72/26UMGIM76710.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6779441622",
+      "attributes": {
+        "album": "EL MOCO VERDE - EP",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "32",
+        "explicit": true
+      },
+      "evidenceText": "50 MIL PIEX 32 Feid, Granuja EL MOCO VERDE - EP PREVIEW 4:04"
+    },
+    {
+      "title": "Ganas de Ti",
+      "canonicalUrl": "https://music.apple.com/us/song/ganas-de-ti/1247228820",
+      "creator": "Arcángel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1247228820",
+      "attributes": {
+        "album": "El Fenómeno",
+        "duration": "2:54",
+        "durationIso": "PT2M54S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "Ganas de Ti 33 Arcángel El Fenómeno PREVIEW 2:54"
+    },
+    {
+      "title": "GAMINA",
+      "canonicalUrl": "https://music.apple.com/us/song/gamina/1883243453",
+      "creator": "Kris R., Los Money Makers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/26/c4/a726c40d-a4e9-2fc3-302c-5dc220bc808e/5026854860251.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1883243453",
+      "attributes": {
+        "album": "EL TRAP DE KOLOMBIA",
+        "duration": "2:26",
+        "durationIso": "PT2M26S",
+        "chartPosition": "34",
+        "explicit": true
+      },
+      "evidenceText": "GAMINA 34 Kris R., Los Money Makers EL TRAP DE KOLOMBIA PREVIEW 2:26"
+    },
+    {
+      "title": "VAMO A VEL",
+      "canonicalUrl": "https://music.apple.com/us/song/vamo-a-vel/6808400640",
+      "creator": "ROA, Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/66/11/50661123-1d80-1054-62f2-2e786fa631c3/26UM1IM14326.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6808400640",
+      "attributes": {
+        "album": "VAMO A VEL - Single",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "35",
+        "explicit": true
+      },
+      "evidenceText": "VAMO A VEL 35 ROA, Anuel AA VAMO A VEL - Single PREVIEW 4:00"
+    },
+    {
+      "title": "Hey Mor (feat. Feid)",
+      "canonicalUrl": "https://music.apple.com/us/song/hey-mor-feat-feid/1646180883",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/b1/35/46b135cc-592e-8b51-1e91-ac955d4200a0/196925396240.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1646180883",
+      "attributes": {
+        "album": "OzuTochi",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "Hey Mor (feat. Feid) 36 Ozuna OzuTochi PREVIEW 3:16"
+    },
+    {
+      "title": "LUNA",
+      "canonicalUrl": "https://music.apple.com/us/song/luna/1719170507",
+      "creator": "Feid, ATL Jacob",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1719170507",
+      "attributes": {
+        "album": "FERXXOCALIPSIS",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "LUNA 37 Feid, ATL Jacob FERXXOCALIPSIS PREVIEW 3:16"
+    },
+    {
+      "title": "La Plena (W Sound 05)",
+      "canonicalUrl": "https://music.apple.com/us/song/la-plena-w-sound-05/1796306971",
+      "creator": "W Sound, Beéle, Ovy On the Drums",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/45/82/f0458283-370b-26e6-c592-a66df10ab07d/5021732661593.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1796306971",
+      "attributes": {
+        "album": "La Plena (W Sound 05) - Single",
+        "duration": "2:30",
+        "durationIso": "PT2M30S",
+        "chartPosition": "38",
+        "explicit": true
+      },
+      "evidenceText": "La Plena (W Sound 05) 38 W Sound, Beéle, Ovy On the Drums La Plena (W Sound 05) - Single PREVIEW 2:30"
+    },
+    {
+      "title": "Safari (feat. Pharrell Williams, BIA & Sky)",
+      "canonicalUrl": "https://music.apple.com/us/song/safari-feat-pharrell-williams-bia-sky/1526901701",
+      "creator": "J Balvin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6b/5c/77/6b5c7743-5e90-52a4-23bb-b7a3de19a681/21UM1IM03179.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1526901701",
+      "attributes": {
+        "album": "Summer Vacation - EP",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "Safari (feat. Pharrell Williams, BIA & Sky) 39 J Balvin Summer Vacation - EP PREVIEW 3:25"
+    },
+    {
+      "title": "DE MEDALLO PA MOROVIS",
+      "canonicalUrl": "https://music.apple.com/us/song/de-medallo-pa-morovis/6808354779",
+      "creator": "FANTA ROSARIO, Kris R.",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/e9/3e/95e93e5f-8620-5f6b-02fd-6045e7016bae/1200220050437.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6808354779",
+      "attributes": {
+        "album": "LA AMENAZA",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "40",
+        "explicit": true
+      },
+      "evidenceText": "DE MEDALLO PA MOROVIS 40 FANTA ROSARIO, Kris R. LA AMENAZA PREVIEW 2:58"
+    },
+    {
+      "title": "Dile a El",
+      "canonicalUrl": "https://music.apple.com/us/song/dile-a-el/1536861744",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/85/36/3585365d-4678-0648-1bfd-76ea49ba8c9c/886448841388.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1536861744",
+      "attributes": {
+        "album": "Afrodisíaco",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "41",
+        "explicit": true
+      },
+      "evidenceText": "Dile a El 41 Rauw Alejandro Afrodisíaco PREVIEW 3:29"
+    },
+    {
+      "title": "Me Porto Bonito",
+      "canonicalUrl": "https://music.apple.com/us/song/me-porto-bonito/1622045634",
+      "creator": "Bad Bunny, Chencho Corleone",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1622045634",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "42",
+        "explicit": true
+      },
+      "evidenceText": "Me Porto Bonito 42 Bad Bunny, Chencho Corleone Un Verano Sin Ti PREVIEW 2:58"
+    },
+    {
+      "title": "Peli De Terror",
+      "canonicalUrl": "https://music.apple.com/us/song/peli-de-terror/6812855861",
+      "creator": "Køddy G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/e0/de/dee0ded7-ae75-154d-8c9e-be4e89d241c5/708208022137_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6812855861",
+      "attributes": {
+        "album": "Peli De Terror - Single",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "43",
+        "explicit": true
+      },
+      "evidenceText": "Peli De Terror 43 Køddy G Peli De Terror - Single PREVIEW 2:42"
+    },
+    {
+      "title": "GANAS REMIXXX (feat. De La Rose, Blessd)",
+      "canonicalUrl": "https://music.apple.com/us/song/ganas-remixxx-feat-de-la-rose-blessd/6810357183",
+      "creator": "Kris R., ROA, Clarent, Luar La L",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/b2/dd/17b2ddb6-d4f7-832b-7ccf-33a85982ec19/1200220093793.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6810357183",
+      "attributes": {
+        "album": "GANAS REMIXXX (feat. De La Rose, Blessd) - Single",
+        "duration": "8:01",
+        "durationIso": "PT8M1S",
+        "chartPosition": "44",
+        "explicit": true
+      },
+      "evidenceText": "GANAS REMIXXX (feat. De La Rose, Blessd) 44 Kris R., ROA, Clarent, Luar La L GANAS REMIXXX (feat. De La Rose, Blessd) - Single PREVIEW 8:01"
+    },
+    {
+      "title": "TIEMPO SIN VXRTX",
+      "canonicalUrl": "https://music.apple.com/us/song/tiempo-sin-vxrtx/6812011464",
+      "creator": "Feid, ICON",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d6/4c/8fd64cc6-e58c-2edc-1615-238b433a1170/26UM1IM12670.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6812011464",
+      "attributes": {
+        "album": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "45",
+        "explicit": true
+      },
+      "evidenceText": "TIEMPO SIN VXRTX 45 Feid, ICON EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES PREVIEW 2:37"
+    },
+    {
+      "title": "DÁKITI",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%A1kiti/1542103620",
+      "creator": "Bad Bunny, JHAYCO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1542103620",
+      "attributes": {
+        "album": "EL ÚLTIMO TOUR DEL MUNDO",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "46",
+        "explicit": true
+      },
+      "evidenceText": "DÁKITI 46 Bad Bunny, JHAYCO EL ÚLTIMO TOUR DEL MUNDO PREVIEW 3:25"
+    },
+    {
+      "title": "Se Preparó",
+      "canonicalUrl": "https://music.apple.com/us/song/se-prepar%C3%B3/1269286798",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/7c/1b/df7c1b32-0fca-94f0-866b-ba89e420ca04/697691884103.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1269286798",
+      "attributes": {
+        "album": "Odisea",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "47",
+        "explicit": false
+      },
+      "evidenceText": "Se Preparó 47 Ozuna Odisea PREVIEW 3:08"
+    },
+    {
+      "title": "Dichavate",
+      "canonicalUrl": "https://music.apple.com/us/song/dichavate/1865959223",
+      "creator": "Ya Ice Dilan, Rey Tony, DJ Honda, Helabusador",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/ea/be/a6eabeb7-b493-8920-2fcc-5209f43f335d/8605020139741.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1865959223",
+      "attributes": {
+        "album": "Dichavate - Single",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Dichavate 48 Ya Ice Dilan, Rey Tony, DJ Honda, Helabusador Dichavate - Single PREVIEW 4:06"
+    },
+    {
+      "title": "Si Antes Te Hubiera Conocido",
+      "canonicalUrl": "https://music.apple.com/us/song/si-antes-te-hubiera-conocido/1752031539",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1752031539",
+      "attributes": {
+        "album": "Si Antes Te Hubiera Conocido - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "Si Antes Te Hubiera Conocido 49 KAROL G Si Antes Te Hubiera Conocido - Single PREVIEW 3:15"
+    },
+    {
+      "title": "La María",
+      "canonicalUrl": "https://music.apple.com/us/song/la-mar%C3%ADa/1884130318",
+      "creator": "Luister La Voz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/f9/54/23f954f9-1261-ca75-ba73-08be52d82119/8447721172746.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1884130318",
+      "attributes": {
+        "album": "La María - Single",
+        "duration": "3:38",
+        "durationIso": "PT3M38S",
+        "chartPosition": "50",
+        "explicit": false
+      },
+      "evidenceText": "La María 50 Luister La Voz La María - Single PREVIEW 3:38"
+    },
+    {
+      "title": "CULE POCO (sirena_besarico_costeña)",
+      "canonicalUrl": "https://music.apple.com/us/song/cule-poco-sirena-besarico-coste%C3%B1a/1893480200",
+      "creator": "ARIA VEGA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/aa/04/92aa04b5-5d38-06be-9d7c-16f41d777a0b/827568006134.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1893480200",
+      "attributes": {
+        "album": "CULE POCO (sirena_besarico_costeña) - Single",
+        "duration": "2:20",
+        "durationIso": "PT2M20S",
+        "chartPosition": "51",
+        "explicit": false
+      },
+      "evidenceText": "CULE POCO (sirena_besarico_costeña) 51 ARIA VEGA CULE POCO (sirena_besarico_costeña) - Single PREVIEW 2:20"
+    },
+    {
+      "title": "CHORRITO PA LAS ANIMAS",
+      "canonicalUrl": "https://music.apple.com/us/song/chorrito-pa-las-animas/1657305688",
+      "creator": "Feid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cc/f5/7f/ccf57f57-249c-f3bc-ada4-d55315640999/22UM1IM37587.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1657305688",
+      "attributes": {
+        "album": "SIXDO - EP",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "52",
+        "explicit": true
+      },
+      "evidenceText": "CHORRITO PA LAS ANIMAS 52 Feid SIXDO - EP PREVIEW 2:48"
+    },
+    {
+      "title": "Pico Y Chao (W Sound 08)",
+      "canonicalUrl": "https://music.apple.com/us/song/pico-y-chao-w-sound-08/1882479567",
+      "creator": "W Sound, Kris R., Ovy On the Drums",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/e6/e8/ace6e85b-3fcc-39f1-34ab-3c153810a859/5026854835235.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1882479567",
+      "attributes": {
+        "album": "Pico Y Chao (W Sound 08) - Single",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "Pico Y Chao (W Sound 08) 53 W Sound, Kris R., Ovy On the Drums Pico Y Chao (W Sound 08) - Single PREVIEW 3:22"
+    },
+    {
+      "title": "Callaíta",
+      "canonicalUrl": "https://music.apple.com/us/song/calla%C3%ADta/1465503235",
+      "creator": "Bad Bunny, Tainy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/5d/7c/a85d7c43-777a-f2b7-5abc-1e4d59d8fe7c/193483903545.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1465503235",
+      "attributes": {
+        "album": "Callaíta - Single",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "54",
+        "explicit": true
+      },
+      "evidenceText": "Callaíta 54 Bad Bunny, Tainy Callaíta - Single PREVIEW 4:10"
+    },
+    {
+      "title": "EXCESOS",
+      "canonicalUrl": "https://music.apple.com/us/song/excesos/1712363845",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/e3/b7/21e3b74f-571b-07ce-567b-a2aa8274c7b2/196871548922.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1712363845",
+      "attributes": {
+        "album": "Pa las Baby's Y Belikeada",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "EXCESOS 55 Fuerza Regida Pa las Baby's Y Belikeada PREVIEW 3:07"
+    },
+    {
+      "title": "Hasta Que Dios Diga",
+      "canonicalUrl": "https://music.apple.com/us/song/hasta-que-dios-diga/1515739167",
+      "creator": "Anuel AA, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/95/c7/5095c702-2159-c3ac-be67-9a1c16cc0ed9/195081694399.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1515739167",
+      "attributes": {
+        "album": "Emmanuel",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "56",
+        "explicit": true
+      },
+      "evidenceText": "Hasta Que Dios Diga 56 Anuel AA, Bad Bunny Emmanuel PREVIEW 4:06"
+    },
+    {
+      "title": "SEJODIOTO",
+      "canonicalUrl": "https://music.apple.com/us/song/sejodioto/1586194354",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/6e/d3/396ed3df-c154-f562-e9e3-202361a1406a/21UM1IM11796.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1586194354",
+      "attributes": {
+        "album": "SEJODIOTO - Single",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "57",
+        "explicit": true
+      },
+      "evidenceText": "SEJODIOTO 57 KAROL G SEJODIOTO - Single PREVIEW 3:00"
+    },
+    {
+      "title": "BORRAXXO Te Esperaré",
+      "canonicalUrl": "https://music.apple.com/us/song/borraxxo-te-esperar%C3%A9/6812011438",
+      "creator": "Feid, Vicente García",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d6/4c/8fd64cc6-e58c-2edc-1615-238b433a1170/26UM1IM12670.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6812011438",
+      "attributes": {
+        "album": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "58",
+        "explicit": true
+      },
+      "evidenceText": "BORRAXXO Te Esperaré 58 Feid, Vicente García EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES PREVIEW 3:15"
+    },
+    {
+      "title": "GALACTICOS",
+      "canonicalUrl": "https://music.apple.com/us/song/galacticos/6807566045",
+      "creator": "Bigg Danny, El Americano 4KT, El Goldo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/4c/4b/d04c4b08-9e3b-8809-0bac-09609518a046/26UM1IM13035.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6807566045",
+      "attributes": {
+        "album": "GALACTICOS - Single",
+        "duration": "2:19",
+        "durationIso": "PT2M19S",
+        "chartPosition": "59",
+        "explicit": true
+      },
+      "evidenceText": "GALACTICOS 59 Bigg Danny, El Americano 4KT, El Goldo GALACTICOS - Single PREVIEW 2:19"
+    },
+    {
+      "title": "DILUVIO",
+      "canonicalUrl": "https://music.apple.com/us/song/diluvio/1695651429",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1695651429",
+      "attributes": {
+        "album": "PLAYA SATURNO",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "60",
+        "explicit": true
+      },
+      "evidenceText": "DILUVIO 60 Rauw Alejandro PLAYA SATURNO PREVIEW 3:17"
+    },
+    {
+      "title": "BOBADITA",
+      "canonicalUrl": "https://music.apple.com/us/song/bobadita/1847746133",
+      "creator": "Kris R., GeezyDee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/ec/7f/c3ec7ffb-1a17-c17d-3e5b-31d31847d4c3/5026854150680.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1847746133",
+      "attributes": {
+        "album": "BOBADITA - Single",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "61",
+        "explicit": true
+      },
+      "evidenceText": "BOBADITA 61 Kris R., GeezyDee BOBADITA - Single PREVIEW 4:04"
+    },
+    {
+      "title": "SORRY 4 THAT MUCH",
+      "canonicalUrl": "https://music.apple.com/us/song/sorry-4-that-much/1750132050",
+      "creator": "Feid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/20/ab/9c20ab01-62e6-239c-fcce-79dc1d711ac1/24UMGIM61720.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1750132050",
+      "attributes": {
+        "album": "SORRY 4 THAT MUCH - Single",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "62",
+        "explicit": true
+      },
+      "evidenceText": "SORRY 4 THAT MUCH 62 Feid SORRY 4 THAT MUCH - Single PREVIEW 3:27"
+    },
+    {
+      "title": "AMISTA",
+      "canonicalUrl": "https://music.apple.com/us/song/amista/1808057297",
+      "creator": "Blessd, Ovy On the Drums",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/22/2e/aa222e5f-869d-7c7e-08b8-f911c43a3a08/5021732773678.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1808057297",
+      "attributes": {
+        "album": "AMISTA - Single",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "63",
+        "explicit": true
+      },
+      "evidenceText": "AMISTA 63 Blessd, Ovy On the Drums AMISTA - Single PREVIEW 2:57"
+    },
+    {
+      "title": "QLONA",
+      "canonicalUrl": "https://music.apple.com/us/song/qlona/1699662671",
+      "creator": "KAROL G, Peso Pluma",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1699662671",
+      "attributes": {
+        "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "64",
+        "explicit": true
+      },
+      "evidenceText": "QLONA 64 KAROL G, Peso Pluma MAÑANA SERÁ BONITO (BICHOTA SEASON) PREVIEW 2:52"
+    },
+    {
+      "title": "11 PM",
+      "canonicalUrl": "https://music.apple.com/us/song/11-pm/1461912470",
+      "creator": "Maluma",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/09/c5/c2/09c5c2c4-b022-bcbe-a3ab-7e85e1d7084d/886447616321.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1461912470",
+      "attributes": {
+        "album": "11:11",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "11 PM 65 Maluma 11:11 PREVIEW 2:55"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 66 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "SORNERO",
+      "canonicalUrl": "https://music.apple.com/us/song/sornero/6779825193",
+      "creator": "Blessd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/a1/e5/33a1e588-73c9-9bf1-54eb-91275332dde2/1200214359645.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6779825193",
+      "attributes": {
+        "album": "EL PEOR HOMBRE DEL MUNDO",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "67",
+        "explicit": true
+      },
+      "evidenceText": "SORNERO 67 Blessd EL PEOR HOMBRE DEL MUNDO PREVIEW 2:52"
+    },
+    {
+      "title": "SUPERSTAR",
+      "canonicalUrl": "https://music.apple.com/us/song/superstar/1893786988",
+      "creator": "Blessd, Los Money Makers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/f4/42/82f44276-3f40-2cfa-6a07-9da6924851dd/827568007735.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1893786988",
+      "attributes": {
+        "album": "SUPERSTAR - Single",
+        "duration": "3:14",
+        "durationIso": "PT3M14S",
+        "chartPosition": "68",
+        "explicit": true
+      },
+      "evidenceText": "SUPERSTAR 68 Blessd, Los Money Makers SUPERSTAR - Single PREVIEW 3:14"
+    },
+    {
+      "title": "TUKI TUKI",
+      "canonicalUrl": "https://music.apple.com/us/song/tuki-tuki/1883243654",
+      "creator": "Kris R., Flame 火炎, GeezyDee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/26/c4/a726c40d-a4e9-2fc3-302c-5dc220bc808e/5026854860251.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1883243654",
+      "attributes": {
+        "album": "EL TRAP DE KOLOMBIA",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "69",
+        "explicit": true
+      },
+      "evidenceText": "TUKI TUKI 69 Kris R., Flame 火炎, GeezyDee EL TRAP DE KOLOMBIA PREVIEW 3:11"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 70 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "TOTOTO (+4)",
+      "canonicalUrl": "https://music.apple.com/us/song/tototo-4/6780660685",
+      "creator": "ARIA VEGA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/9c/6e/7b9c6ef8-dae8-0233-79da-efa41e56b7ce/1200214370190.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6780660685",
+      "attributes": {
+        "album": "TOTOTO (+4) - Single",
+        "duration": "2:18",
+        "durationIso": "PT2M18S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "TOTOTO (+4) 71 ARIA VEGA TOTOTO (+4) - Single PREVIEW 2:18"
+    },
+    {
+      "title": "Q U E V A S H A C E R H O Y ?",
+      "canonicalUrl": "https://music.apple.com/us/song/q-u-e-v-a-s-h-a-c-e-r-h-o-y/1760194559",
+      "creator": "Omar Courtz, De La Rose",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1760194559",
+      "attributes": {
+        "album": "PRIMERA MUSA",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "72",
+        "explicit": true
+      },
+      "evidenceText": "Q U E V A S H A C E R H O Y ? 72 Omar Courtz, De La Rose PRIMERA MUSA PREVIEW 3:44"
+    },
+    {
+      "title": "Loco",
+      "canonicalUrl": "https://music.apple.com/us/song/loco/1480935893",
+      "creator": "Beéle",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/69/93/b1/6993b13f-8bf4-a175-75dc-4c4b7e2260a9/859734687236_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1480935893",
+      "attributes": {
+        "album": "Loco - Single",
+        "duration": "3:24",
+        "durationIso": "PT3M24S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "Loco 73 Beéle Loco - Single PREVIEW 3:24"
+    },
+    {
+      "title": "SPICY (feat. Myke Towers)",
+      "canonicalUrl": "https://music.apple.com/us/song/spicy-feat-myke-towers/6782995063",
+      "creator": "Fronti, Brytiago",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/24/00/f5240059-6e6f-4917-3303-e5047bb86a02/820233819374.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6782995063",
+      "attributes": {
+        "album": "EL DIAMOND FOREVER",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "74",
+        "explicit": true
+      },
+      "evidenceText": "SPICY (feat. Myke Towers) 74 Fronti, Brytiago EL DIAMOND FOREVER PREVIEW 3:11"
+    },
+    {
+      "title": "Mi Refe",
+      "canonicalUrl": "https://music.apple.com/us/song/mi-refe/1780922407",
+      "creator": "Beéle, Ovy On the Drums",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/05/5c/50055c58-0020-4fc1-7ec3-973e94123c39/196872465983.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1780922407",
+      "attributes": {
+        "album": "Mi Refe - Single",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Mi Refe 75 Beéle, Ovy On the Drums Mi Refe - Single PREVIEW 2:39"
+    },
+    {
+      "title": "VeLDÁ",
+      "canonicalUrl": "https://music.apple.com/us/song/veld%C3%A1/1787022999",
+      "creator": "Bad Bunny, Omar Courtz, Dei V",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1787022999",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "76",
+        "explicit": true
+      },
+      "evidenceText": "VeLDÁ 76 Bad Bunny, Omar Courtz, Dei V DeBÍ TiRAR MáS FOToS PREVIEW 3:55"
+    },
+    {
+      "title": "Rio",
+      "canonicalUrl": "https://music.apple.com/us/song/rio/1790538474",
+      "creator": "J Balvin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/1e/77/361e77a4-84fb-adc3-fd39-d631037bd4af/25UMGIM02897.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1790538474",
+      "attributes": {
+        "album": "Rio - Single",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "Rio 77 J Balvin Rio - Single PREVIEW 3:08"
+    },
+    {
+      "title": "QUÉ LÍO",
+      "canonicalUrl": "https://music.apple.com/us/song/qu%C3%A9-l%C3%ADo/6764676568",
+      "creator": "Blessd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/8f/cc/b48fccb4-aaf0-913f-1dd6-bd4aa9c8ac2d/827568017680.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6764676568",
+      "attributes": {
+        "album": "QUÉ LÍO - Single",
+        "duration": "2:12",
+        "durationIso": "PT2M12S",
+        "chartPosition": "78",
+        "explicit": true
+      },
+      "evidenceText": "QUÉ LÍO 78 Blessd QUÉ LÍO - Single PREVIEW 2:12"
+    },
+    {
+      "title": "TQG",
+      "canonicalUrl": "https://music.apple.com/us/song/tqg/1670245868",
+      "creator": "KAROL G, Shakira",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1670245868",
+      "attributes": {
+        "album": "MAÑANA SERÁ BONITO",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "79",
+        "explicit": true
+      },
+      "evidenceText": "TQG 79 KAROL G, Shakira MAÑANA SERÁ BONITO PREVIEW 3:17"
+    },
+    {
+      "title": "POR SI MAÑANA NO ESTOY",
+      "canonicalUrl": "https://music.apple.com/us/song/por-si-ma%C3%B1ana-no-estoy/1877482849",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1877482849",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "4:24",
+        "durationIso": "PT4M24S",
+        "chartPosition": "80",
+        "explicit": true
+      },
+      "evidenceText": "POR SI MAÑANA NO ESTOY 80 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 4:24"
+    },
+    {
+      "title": "Se Le Ve",
+      "canonicalUrl": "https://music.apple.com/us/song/se-le-ve/6771939120",
+      "creator": "Kybba, Ryan Castro, Bad Gyal, Topboy TGR",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/cb/b6/adcbb697-9910-20ad-ed0e-3118a5abf419/1200214110185.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6771939120",
+      "attributes": {
+        "album": "Se Le Ve - Single",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "81",
+        "explicit": true
+      },
+      "evidenceText": "Se Le Ve 81 Kybba, Ryan Castro, Bad Gyal, Topboy TGR Se Le Ve - Single PREVIEW 2:39"
+    },
+    {
+      "title": "Con quién andará?",
+      "canonicalUrl": "https://music.apple.com/us/song/con-qui%C3%A9n-andar%C3%A1/6796864755",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6796864755",
+      "attributes": {
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "82",
+        "explicit": true
+      },
+      "evidenceText": "Con quién andará? 82 KAROL G NO ME ARREPIENTO DE SENTIR TANTO PREVIEW 3:01"
+    },
+    {
+      "title": "FERXXO 30",
+      "canonicalUrl": "https://music.apple.com/us/song/ferxxo-30/1710468053",
+      "creator": "Feid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ec/a4/03/eca40343-6eb4-157c-f98b-3984bb2acded/23UMGIM96645.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1710468053",
+      "attributes": {
+        "album": "MOR, No Le Temas a La Oscuridad",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "FERXXO 30 83 Feid MOR, No Le Temas a La Oscuridad PREVIEW 2:53"
+    },
+    {
+      "title": "Mentira",
+      "canonicalUrl": "https://music.apple.com/us/song/mentira/6797947735",
+      "creator": "Ryan Castro, Feid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/d4/f1/47d4f1e8-d866-07f9-cb6c-a5670cc963a4/196874661482.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6797947735",
+      "attributes": {
+        "album": "Mentira - Single",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "84",
+        "explicit": true
+      },
+      "evidenceText": "Mentira 84 Ryan Castro, Feid Mentira - Single PREVIEW 2:36"
+    },
+    {
+      "title": "SE LO JURO MOR",
+      "canonicalUrl": "https://music.apple.com/us/song/se-lo-juro-mor/1833057197",
+      "creator": "Feid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/bf/0b/10bf0b7a-bd1e-1abd-033a-0d38302210b8/25UM1IM19421.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1833057197",
+      "attributes": {
+        "album": "SE LO JURO MOR - Single",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "85",
+        "explicit": false
+      },
+      "evidenceText": "SE LO JURO MOR 85 Feid SE LO JURO MOR - Single PREVIEW 2:50"
+    },
+    {
+      "title": "TU SANCHO",
+      "canonicalUrl": "https://music.apple.com/us/song/tu-sancho/1804142885",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/0a/a3/510aa39f-7a41-b53c-70a0-6a0df60645bb/196872995978.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1804142885",
+      "attributes": {
+        "album": "111XPANTIA",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "86",
+        "explicit": true
+      },
+      "evidenceText": "TU SANCHO 86 Fuerza Regida 111XPANTIA PREVIEW 2:57"
+    },
+    {
+      "title": "Qué Pasaría...",
+      "canonicalUrl": "https://music.apple.com/us/song/qu%C3%A9-pasar%C3%ADa/1775462855",
+      "creator": "Rauw Alejandro, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1775462855",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "87",
+        "explicit": true
+      },
+      "evidenceText": "Qué Pasaría... 87 Rauw Alejandro, Bad Bunny Cosa Nuestra PREVIEW 3:11"
+    },
+    {
+      "title": "Khé?",
+      "canonicalUrl": "https://music.apple.com/us/song/kh%C3%A9/1775463293",
+      "creator": "Rauw Alejandro, Romeo Santos",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1775463293",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "Khé? 88 Rauw Alejandro, Romeo Santos Cosa Nuestra PREVIEW 3:26"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 89 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Te Estoy Correteando",
+      "canonicalUrl": "https://music.apple.com/us/song/te-estoy-correteando/6796842545",
+      "creator": "LATIN MAFIA, Fred again..",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/52/6e/90526e94-89c7-8387-458f-1972f7995d48/1200214495824.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "6796842545",
+      "attributes": {
+        "album": "9 months & 50 hours",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "Te Estoy Correteando 90 LATIN MAFIA, Fred again.. 9 months & 50 hours PREVIEW 3:13"
+    },
+    {
+      "title": "Little Demon",
+      "canonicalUrl": "https://music.apple.com/us/song/little-demon/1822642848",
+      "creator": "Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/0a/bf/510abf13-1223-7522-b5be-b8e78f36092c/199538005301.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1822642848",
+      "attributes": {
+        "album": "Little Demon - Single",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "Little Demon 91 Anuel AA Little Demon - Single PREVIEW 2:46"
+    },
+    {
+      "title": "Passoa",
+      "canonicalUrl": "https://music.apple.com/us/song/passoa/1761909202",
+      "creator": "JHAYCO, Kapo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/78/fd/3778fd46-790c-5ab0-cc98-25f17843148c/23UM1IM55597.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1761909202",
+      "attributes": {
+        "album": "Le Clique: Vida Rockstar (X)",
+        "duration": "5:09",
+        "durationIso": "PT5M9S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "Passoa 92 JHAYCO, Kapo Le Clique: Vida Rockstar (X) PREVIEW 5:09"
+    },
+    {
+      "title": "HOLLYWOOD",
+      "canonicalUrl": "https://music.apple.com/us/song/hollywood/1748016028",
+      "creator": "Peso Pluma, Estevan Plazola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1748016028",
+      "attributes": {
+        "album": "ÉXODO",
+        "duration": "4:44",
+        "durationIso": "PT4M44S",
+        "chartPosition": "93",
+        "explicit": true
+      },
+      "evidenceText": "HOLLYWOOD 93 Peso Pluma, Estevan Plazola ÉXODO PREVIEW 4:44"
+    },
+    {
+      "title": "BAILE INoLVIDABLE",
+      "canonicalUrl": "https://music.apple.com/us/song/baile-inolvidable/1787022842",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1787022842",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "6:07",
+        "durationIso": "PT6M7S",
+        "chartPosition": "94",
+        "explicit": true
+      },
+      "evidenceText": "BAILE INoLVIDABLE 94 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 6:07"
+    },
+    {
+      "title": "Marlboro Rojo",
+      "canonicalUrl": "https://music.apple.com/us/song/marlboro-rojo/1804142886",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/0a/a3/510aa39f-7a41-b53c-70a0-6a0df60645bb/196872995978.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1804142886",
+      "attributes": {
+        "album": "111XPANTIA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "95",
+        "explicit": true
+      },
+      "evidenceText": "Marlboro Rojo 95 Fuerza Regida 111XPANTIA PREVIEW 3:04"
+    },
+    {
+      "title": "Me Acostumbré (feat. Bad Bunny)",
+      "canonicalUrl": "https://music.apple.com/us/song/me-acostumbr%C3%A9-feat-bad-bunny/1224814422",
+      "creator": "Arcángel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/ec/f2/c4ecf24e-2b24-b71f-a885-a6293f830434/654827031824_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1224814422",
+      "attributes": {
+        "album": "Me Acostumbré (feat. Bad Bunny) - Single",
+        "duration": "4:23",
+        "durationIso": "PT4M23S",
+        "chartPosition": "96",
+        "explicit": true
+      },
+      "evidenceText": "Me Acostumbré (feat. Bad Bunny) 96 Arcángel Me Acostumbré (feat. Bad Bunny) - Single PREVIEW 4:23"
+    },
+    {
+      "title": "Chillax (feat. Ky-Mani Marley)",
+      "canonicalUrl": "https://music.apple.com/us/song/chillax-feat-ky-mani-marley/1047923256",
+      "creator": "Farruko",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/31/b2/b631b2ee-70e7-a59a-cf28-bb939873d013/mzm.qofgvzhf.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1047923256",
+      "attributes": {
+        "album": "Visionary",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "Chillax (feat. Ky-Mani Marley) 97 Farruko Visionary PREVIEW 3:17"
+    },
+    {
+      "title": "Todo De Ti",
+      "canonicalUrl": "https://music.apple.com/us/song/todo-de-ti/1567154924",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/d6/4d/24d64d11-dcba-a475-7a0f-87fbef4c6ba6/886449222681.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1567154924",
+      "attributes": {
+        "album": "Todo De Ti - Single",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "98",
+        "explicit": true
+      },
+      "evidenceText": "Todo De Ti 98 Rauw Alejandro Todo De Ti - Single PREVIEW 3:19"
+    },
+    {
+      "title": "LA VILLA",
+      "canonicalUrl": "https://music.apple.com/us/song/la-villa/1847678152",
+      "creator": "Ryan Castro, Kapo, Gangsta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/e8/71/c5e871e9-f37b-36a2-7c15-ebb6ba9d5528/196873698090.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1847678152",
+      "attributes": {
+        "album": "HOPI SENDÉ",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "99",
+        "explicit": true
+      },
+      "evidenceText": "LA VILLA 99 Ryan Castro, Kapo, Gangsta HOPI SENDÉ PREVIEW 3:12"
+    },
+    {
+      "title": "EL NENE",
+      "canonicalUrl": "https://music.apple.com/us/song/el-nene/1655229764",
+      "creator": "Anuel AA, Foreign Teck",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/2e/11/1d2e11eb-8ce0-55b5-4fdc-40d1a100b295/197187477456.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-colombia/pl.d116fa6286734b74acff3d38a740fe0d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Colombia",
+      "externalId": "1655229764",
+      "attributes": {
+        "album": "LLNM2",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "100",
+        "explicit": true
+      },
+      "evidenceText": "EL NENE 100 Anuel AA, Foreign Teck LLNM2 PREVIEW 3:00"
+    }
+  ]
+}
