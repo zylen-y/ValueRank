@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+  "collection": "Top 100: Czechia",
+  "fetchedAt": "2026-09-27T03:41:31.154Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "SuperStar (feat. Dollar Prync)",
+      "canonicalUrl": "https://music.apple.com/us/song/superstar-feat-dollar-prync/6794333524",
+      "creator": "Calin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/87/0e/1c870ef4-2536-eb78-8575-a993add11edd/1200214688608.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6794333524",
+      "attributes": {
+        "album": "Toxic Love - Single",
+        "duration": "1:45",
+        "durationIso": "PT1M45S",
+        "chartPosition": "1",
+        "explicit": true
+      },
+      "evidenceText": "SuperStar (feat. Dollar Prync) 1 Calin Toxic Love - Single PREVIEW 1:45"
+    },
+    {
+      "title": "KURVY V POZORU",
+      "canonicalUrl": "https://music.apple.com/us/song/kurvy-v-pozoru/6807108078",
+      "creator": "P T K, Eclipse",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/e4/1d/11e41d51-dff5-35a9-2b54-c96bf5287a27/4246298.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6807108078",
+      "attributes": {
+        "album": "KURVY V POZORU - Single",
+        "duration": "1:43",
+        "durationIso": "PT1M43S",
+        "chartPosition": "2",
+        "explicit": true
+      },
+      "evidenceText": "KURVY V POZORU 2 P T K, Eclipse KURVY V POZORU - Single PREVIEW 1:43"
+    },
+    {
+      "title": "Neříkej, co má se stát",
+      "canonicalUrl": "https://music.apple.com/us/song/ne%C5%99%C3%ADkej-co-m%C3%A1-se-st%C3%A1t/6777942033",
+      "creator": "Ewa Farna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/76/4a/0f764a15-0eec-77d3-eab5-72830f965eaf/26UMGIM73198.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6777942033",
+      "attributes": {
+        "album": "Neříkej, co má se stát - Single",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Neříkej, co má se stát 3 Ewa Farna Neříkej, co má se stát - Single PREVIEW 2:52"
+    },
+    {
+      "title": "Ain't In LA",
+      "canonicalUrl": "https://music.apple.com/us/song/aint-in-la/6792884101",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6792884101",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "4",
+        "explicit": true
+      },
+      "evidenceText": "Ain't In LA 4 ADÉLA PRIMA PREVIEW 3:04"
+    },
+    {
+      "title": "Luana",
+      "canonicalUrl": "https://music.apple.com/us/song/luana/6794333768",
+      "creator": "Calin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/87/0e/1c870ef4-2536-eb78-8575-a993add11edd/1200214688608.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6794333768",
+      "attributes": {
+        "album": "Toxic Love - Single",
+        "duration": "2:41",
+        "durationIso": "PT2M41S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "Luana 5 Calin Toxic Love - Single PREVIEW 2:41"
+    },
+    {
+      "title": "COUPÉ",
+      "canonicalUrl": "https://music.apple.com/us/song/coup%C3%A9/6779250390",
+      "creator": "Yzomandias, Sara Rikas",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250390",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "6",
+        "explicit": true
+      },
+      "evidenceText": "COUPÉ 6 Yzomandias, Sara Rikas EXIT U PALICE PREVIEW 2:50"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "7",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 7 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "PERPETUUM MOBILE",
+      "canonicalUrl": "https://music.apple.com/us/song/perpetuum-mobile/6767787758",
+      "creator": "Ewa Farna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/6d/ab/c16dabea-769b-963e-9e01-98c6cfaf8854/26UMGIM57102.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6767787758",
+      "attributes": {
+        "album": "PERPETUUM MOBILE - Single",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "8",
+        "explicit": false
+      },
+      "evidenceText": "PERPETUUM MOBILE 8 Ewa Farna PERPETUUM MOBILE - Single PREVIEW 3:27"
+    },
+    {
+      "title": "AMAMRAD",
+      "canonicalUrl": "https://music.apple.com/us/song/amamrad/6779250380",
+      "creator": "Yzomandias, Ektor",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250380",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "9",
+        "explicit": true
+      },
+      "evidenceText": "AMAMRAD 9 Yzomandias, Ektor EXIT U PALICE PREVIEW 3:13"
+    },
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "10",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 10 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Balkan Paradise (feat. CA$HANOVA BULHAR)",
+      "canonicalUrl": "https://music.apple.com/us/song/balkan-paradise-feat-ca%24hanova-bulhar/6802271377",
+      "creator": "Calin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/67/54/0067543a-c6a7-6143-3e14-7b7b9b52f380/1200214875794.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6802271377",
+      "attributes": {
+        "album": "Balkan Paradise (feat. CA$HANOVA BULHAR) - Single",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "11",
+        "explicit": true
+      },
+      "evidenceText": "Balkan Paradise (feat. CA$HANOVA BULHAR) 11 Calin Balkan Paradise (feat. CA$HANOVA BULHAR) - Single PREVIEW 2:50"
+    },
+    {
+      "title": "thank you based god",
+      "canonicalUrl": "https://music.apple.com/us/song/thank-you-based-god/6779250644",
+      "creator": "Yzomandias, Nik Tendo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250644",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "2:25",
+        "durationIso": "PT2M25S",
+        "chartPosition": "12",
+        "explicit": true
+      },
+      "evidenceText": "thank you based god 12 Yzomandias, Nik Tendo EXIT U PALICE PREVIEW 2:25"
+    },
+    {
+      "title": "Pistácie (feat. Sofian Medjmedj)",
+      "canonicalUrl": "https://music.apple.com/us/song/pist%C3%A1cie-feat-sofian-medjmedj/1782522465",
+      "creator": "Calin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/83/ba/4483bacb-1668-204c-dcc7-d4691539bcfc/5021732582980.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1782522465",
+      "attributes": {
+        "album": "Bieber Fever Tour Life",
+        "duration": "2:54",
+        "durationIso": "PT2M54S",
+        "chartPosition": "13",
+        "explicit": true
+      },
+      "evidenceText": "Pistácie (feat. Sofian Medjmedj) 13 Calin Bieber Fever Tour Life PREVIEW 2:54"
+    },
+    {
+      "title": "Pražský holky",
+      "canonicalUrl": "https://music.apple.com/us/song/pra%C5%BEsk%C3%BD-holky/6794333527",
+      "creator": "Calin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/87/0e/1c870ef4-2536-eb78-8575-a993add11edd/1200214688608.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6794333527",
+      "attributes": {
+        "album": "Toxic Love - Single",
+        "duration": "2:06",
+        "durationIso": "PT2M6S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "Pražský holky 14 Calin Toxic Love - Single PREVIEW 2:06"
+    },
+    {
+      "title": "POČKEJ w8",
+      "canonicalUrl": "https://music.apple.com/us/song/po%C4%8Dkej-w8/6806210658",
+      "creator": "Yzomandias, Nik Tendo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/08/b0/5808b0a8-5263-1676-c40b-8f327baba9da/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6806210658",
+      "attributes": {
+        "album": "Počkej (EUP SUMMER SEASON - PART II) - Single",
+        "duration": "2:04",
+        "durationIso": "PT2M4S",
+        "chartPosition": "15",
+        "explicit": true
+      },
+      "evidenceText": "POČKEJ w8 15 Yzomandias, Nik Tendo Počkej (EUP SUMMER SEASON - PART II) - Single PREVIEW 2:04"
+    },
+    {
+      "title": "Movin' To The Sun",
+      "canonicalUrl": "https://music.apple.com/us/song/movin-to-the-sun/6769070199",
+      "creator": "HUGEL, Imael Angel, Ultra Naté",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6769070199",
+      "attributes": {
+        "album": "Movin' To The Sun - Single",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "Movin' To The Sun 16 HUGEL, Imael Angel, Ultra Naté Movin' To The Sun - Single PREVIEW 2:22"
+    },
+    {
+      "title": "Vzpomeneš si?",
+      "canonicalUrl": "https://music.apple.com/us/song/vzpomene%C5%A1-si/1888964216",
+      "creator": "Ewa Farna, Mirai",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/9c/8f/069c8fca-39cf-9a27-2ba3-ad82590a21af/26UMGIM36386.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1888964216",
+      "attributes": {
+        "album": "Vzpomeneš si? - Single",
+        "duration": "3:23",
+        "durationIso": "PT3M23S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "Vzpomeneš si? 17 Ewa Farna, Mirai Vzpomeneš si? - Single PREVIEW 3:23"
+    },
+    {
+      "title": "french tip nails",
+      "canonicalUrl": "https://music.apple.com/us/song/french-tip-nails/6779250722",
+      "creator": "Yzomandias, Calin, Luca Brassi10x, Raphael",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250722",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "18",
+        "explicit": true
+      },
+      "evidenceText": "french tip nails 18 Yzomandias, Calin, Luca Brassi10x, Raphael EXIT U PALICE PREVIEW 2:38"
+    },
+    {
+      "title": "Jan Koller",
+      "canonicalUrl": "https://music.apple.com/us/song/jan-koller/6771172768",
+      "creator": "Mc Kenny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/e5/2d/90e52d4b-0b62-dc7e-b698-21f2b285540c/1686e0d8-53e9-4694-9a3d-ca67eb82f539.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6771172768",
+      "attributes": {
+        "album": "CITYBOYZ NEVER LOSE",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "19",
+        "explicit": true
+      },
+      "evidenceText": "Jan Koller 19 Mc Kenny CITYBOYZ NEVER LOSE PREVIEW 3:07"
+    },
+    {
+      "title": "dřív bylo líp",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C5%99%C3%ADv-bylo-l%C3%ADp/6779251008",
+      "creator": "Yzomandias, Viktor Sheen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779251008",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "20",
+        "explicit": true
+      },
+      "evidenceText": "dřív bylo líp 20 Yzomandias, Viktor Sheen EXIT U PALICE PREVIEW 3:43"
+    },
+    {
+      "title": "KENPACHI&YACHIRU",
+      "canonicalUrl": "https://music.apple.com/us/song/kenpachi-yachiru/1894797055",
+      "creator": "P T K",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/73/20/757320ab-34e0-a9f7-1e9d-5a1b691dc4e4/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1894797055",
+      "attributes": {
+        "album": "KENPACHI&YACHIRU - Single",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "21",
+        "explicit": true
+      },
+      "evidenceText": "KENPACHI&YACHIRU 21 P T K KENPACHI&YACHIRU - Single PREVIEW 2:43"
+    },
+    {
+      "title": "Až na měsíc (feat. Calin, Hasan & Nik Tendo)",
+      "canonicalUrl": "https://music.apple.com/us/song/a%C5%BE-na-m%C4%9Bs%C3%ADc-feat-calin-hasan-nik-tendo/1603464500",
+      "creator": "Viktor Sheen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/b0/53/36b053d7-f157-4404-ba97-cd0fb95c2a40/190295384760.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1603464500",
+      "attributes": {
+        "album": "Černobílej svět",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "22",
+        "explicit": true
+      },
+      "evidenceText": "Až na měsíc (feat. Calin, Hasan & Nik Tendo) 22 Viktor Sheen Černobílej svět PREVIEW 3:28"
+    },
+    {
+      "title": "Safír",
+      "canonicalUrl": "https://music.apple.com/us/song/saf%C3%ADr/1667502707",
+      "creator": "Calin, Viktor Sheen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5c/01/97/5c019729-9ebf-067d-6177-ec4b59065979/5054197525186.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1667502707",
+      "attributes": {
+        "album": "ROADTRIP",
+        "duration": "2:29",
+        "durationIso": "PT2M29S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "Safír 23 Calin, Viktor Sheen ROADTRIP PREVIEW 2:29"
+    },
+    {
+      "title": "WTF",
+      "canonicalUrl": "https://music.apple.com/us/song/wtf/6779250710",
+      "creator": "Yzomandias, P T K",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250710",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "2:19",
+        "durationIso": "PT2M19S",
+        "chartPosition": "24",
+        "explicit": true
+      },
+      "evidenceText": "WTF 24 Yzomandias, P T K EXIT U PALICE PREVIEW 2:19"
+    },
+    {
+      "title": "že nechci tě tady",
+      "canonicalUrl": "https://music.apple.com/us/song/%C5%BEe-nechci-t%C4%9B-tady/6779250698",
+      "creator": "Yzomandias, Calin, Hasan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250698",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "25",
+        "explicit": true
+      },
+      "evidenceText": "že nechci tě tady 25 Yzomandias, Calin, Hasan EXIT U PALICE PREVIEW 2:38"
+    },
+    {
+      "title": "No Sleep Gang",
+      "canonicalUrl": "https://music.apple.com/us/song/no-sleep-gang/1754929522",
+      "creator": "Yzomandias, P T K",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/0b/6d/640b6d9f-b9a7-c21f-1c0d-897683f2d33e/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1754929522",
+      "attributes": {
+        "album": "No Sleep Gang / Get Low - Single",
+        "duration": "2:44",
+        "durationIso": "PT2M44S",
+        "chartPosition": "26",
+        "explicit": true
+      },
+      "evidenceText": "No Sleep Gang 26 Yzomandias, P T K No Sleep Gang / Get Low - Single PREVIEW 2:44"
+    },
+    {
+      "title": "Painkillers",
+      "canonicalUrl": "https://music.apple.com/us/song/painkillers/1779312264",
+      "creator": "Yzomandias, P T K, Luca Brassi10x",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/a9/bd/32a9bd67-4468-1229-6495-d247357add13/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1779312264",
+      "attributes": {
+        "album": "Painkillers",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "27",
+        "explicit": true
+      },
+      "evidenceText": "Painkillers 27 Yzomandias, P T K, Luca Brassi10x Painkillers PREVIEW 3:36"
+    },
+    {
+      "title": "milujou mě nenávidět",
+      "canonicalUrl": "https://music.apple.com/us/song/milujou-m%C4%9B-nen%C3%A1vid%C4%9Bt/6779250370",
+      "creator": "Yzomandias",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250370",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "3:05",
+        "durationIso": "PT3M5S",
+        "chartPosition": "28",
+        "explicit": true
+      },
+      "evidenceText": "milujou mě nenávidět 28 Yzomandias EXIT U PALICE PREVIEW 3:05"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "29",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 29 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "30",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 30 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "31",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 31 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Dívej",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%ADvej/1667501507",
+      "creator": "Calin, Viktor Sheen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5c/01/97/5c019729-9ebf-067d-6177-ec4b59065979/5054197525186.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1667501507",
+      "attributes": {
+        "album": "ROADTRIP",
+        "duration": "2:35",
+        "durationIso": "PT2M35S",
+        "chartPosition": "32",
+        "explicit": false
+      },
+      "evidenceText": "Dívej 32 Calin, Viktor Sheen ROADTRIP PREVIEW 2:35"
+    },
+    {
+      "title": "Hannah Montana",
+      "canonicalUrl": "https://music.apple.com/us/song/hannah-montana/1613377400",
+      "creator": "Calin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/2b/37/fe2b3796-1cba-ce3e-5959-97b56d71ad0f/190296161483.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1613377400",
+      "attributes": {
+        "album": "POPSTAR",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "Hannah Montana 33 Calin POPSTAR PREVIEW 2:38"
+    },
+    {
+      "title": "Dai Dai",
+      "canonicalUrl": "https://music.apple.com/us/song/dai-dai/6768469976",
+      "creator": "Shakira, Burna Boy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6768469976",
+      "attributes": {
+        "album": "Dai Dai - Single",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "Dai Dai 34 Shakira, Burna Boy Dai Dai - Single PREVIEW 3:43"
+    },
+    {
+      "title": "Limbo",
+      "canonicalUrl": "https://music.apple.com/us/song/limbo/6795146741",
+      "creator": "Yzomandias, Dusan Vlk, P T K",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/cc/91/71cc91e1-b7aa-df79-db3f-789e9e47f1a4/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6795146741",
+      "attributes": {
+        "album": "Rockstar Lifestyle (EUP SUMMER SEASON - 1st DROP) - Single",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "35",
+        "explicit": true
+      },
+      "evidenceText": "Limbo 35 Yzomandias, Dusan Vlk, P T K Rockstar Lifestyle (EUP SUMMER SEASON - 1st DROP) - Single PREVIEW 3:18"
+    },
+    {
+      "title": "Jedna Dva",
+      "canonicalUrl": "https://music.apple.com/us/song/jedna-dva/1596449403",
+      "creator": "Yzomandias",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/3c/05/283c057d-3b46-5b2e-0405-cc02500fbbce/21UM1IM47072.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1596449403",
+      "attributes": {
+        "album": "Jedna Dva - Single",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "36",
+        "explicit": true
+      },
+      "evidenceText": "Jedna Dva 36 Yzomandias Jedna Dva - Single PREVIEW 3:18"
+    },
+    {
+      "title": "Virtuální drogy (feat. Calin)",
+      "canonicalUrl": "https://music.apple.com/us/song/virtu%C3%A1ln%C3%AD-drogy-feat-calin/1594405692",
+      "creator": "Viktor Sheen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1594405692",
+      "attributes": {
+        "album": "Příběhy a sny",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "37",
+        "explicit": true
+      },
+      "evidenceText": "Virtuální drogy (feat. Calin) 37 Viktor Sheen Příběhy a sny PREVIEW 3:34"
+    },
+    {
+      "title": "Na ostří nože",
+      "canonicalUrl": "https://music.apple.com/us/song/na-ost%C5%99%C3%AD-no%C5%BEe/1542227551",
+      "creator": "Ewa Farna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/c5/0d/b7c50db3-834a-cbb7-78b2-ab28651d80d5/20UM1IM07457.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1542227551",
+      "attributes": {
+        "album": "Singles & Specials",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "38",
+        "explicit": false
+      },
+      "evidenceText": "Na ostří nože 38 Ewa Farna Singles & Specials PREVIEW 3:43"
+    },
+    {
+      "title": "Talk2me",
+      "canonicalUrl": "https://music.apple.com/us/song/talk2me/1807503763",
+      "creator": "Sara Rikas, Yzomandias",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/86/55/a8865509-68c0-6073-98af-d3b7600c2c64/25UMGIM55300.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1807503763",
+      "attributes": {
+        "album": "Talk2me - Single",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "39",
+        "explicit": true
+      },
+      "evidenceText": "Talk2me 39 Sara Rikas, Yzomandias Talk2me - Single PREVIEW 2:43"
+    },
+    {
+      "title": "Stíny",
+      "canonicalUrl": "https://music.apple.com/us/song/st%C3%ADny/1594405608",
+      "creator": "Viktor Sheen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1594405608",
+      "attributes": {
+        "album": "Příběhy a sny",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "40",
+        "explicit": true
+      },
+      "evidenceText": "Stíny 40 Viktor Sheen Příběhy a sny PREVIEW 2:52"
+    },
+    {
+      "title": "Training Season",
+      "canonicalUrl": "https://music.apple.com/us/song/training-season/1727526894",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/89/15/828915ea-d716-61c4-3de7-ef00c1f800fb/5054197853630.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1727526894",
+      "attributes": {
+        "album": "Training Season - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "Training Season 41 Dua Lipa Training Season - Single PREVIEW 3:29"
+    },
+    {
+      "title": "máme toho moc",
+      "canonicalUrl": "https://music.apple.com/us/song/m%C3%A1me-toho-moc/6779250376",
+      "creator": "Yzomandias",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250376",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "42",
+        "explicit": true
+      },
+      "evidenceText": "máme toho moc 42 Yzomandias EXIT U PALICE PREVIEW 3:21"
+    },
+    {
+      "title": "Vodka není voda",
+      "canonicalUrl": "https://music.apple.com/us/song/vodka-nen%C3%AD-voda/1844333918",
+      "creator": "Lboy Bsc, Dorian, Freez247",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/bd/72/c4bd72f6-677a-a877-5ce0-1b1a8f6c83c6/25UM1IM54484.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1844333918",
+      "attributes": {
+        "album": "Napoleon",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "43",
+        "explicit": true
+      },
+      "evidenceText": "Vodka není voda 43 Lboy Bsc, Dorian, Freez247 Napoleon PREVIEW 3:26"
+    },
+    {
+      "title": "Bounce (feat. Yzomandias)",
+      "canonicalUrl": "https://music.apple.com/us/song/bounce-feat-yzomandias/1539755873",
+      "creator": "Calin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5d/5e/10/5d5e10a7-3457-035a-a353-fc4441b9a699/190295076511.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1539755873",
+      "attributes": {
+        "album": "Svědomí",
+        "duration": "2:40",
+        "durationIso": "PT2M40S",
+        "chartPosition": "44",
+        "explicit": true
+      },
+      "evidenceText": "Bounce (feat. Yzomandias) 44 Calin Svědomí PREVIEW 2:40"
+    },
+    {
+      "title": "Baby a Benzo",
+      "canonicalUrl": "https://music.apple.com/us/song/baby-a-benzo/1624479395",
+      "creator": "P T K, Yzomandias",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/23/2e/b1232e02-5eab-043f-8444-ea81197487e7/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1624479395",
+      "attributes": {
+        "album": "Baby a Benzo - Single",
+        "duration": "4:07",
+        "durationIso": "PT4M7S",
+        "chartPosition": "45",
+        "explicit": true
+      },
+      "evidenceText": "Baby a Benzo 45 P T K, Yzomandias Baby a Benzo - Single PREVIEW 4:07"
+    },
+    {
+      "title": "Rockstar Lifestyle",
+      "canonicalUrl": "https://music.apple.com/us/song/rockstar-lifestyle/6795146332",
+      "creator": "Yzomandias",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/cc/91/71cc91e1-b7aa-df79-db3f-789e9e47f1a4/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6795146332",
+      "attributes": {
+        "album": "Rockstar Lifestyle (EUP SUMMER SEASON - 1st DROP) - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "46",
+        "explicit": true
+      },
+      "evidenceText": "Rockstar Lifestyle 46 Yzomandias Rockstar Lifestyle (EUP SUMMER SEASON - 1st DROP) - Single PREVIEW 3:10"
+    },
+    {
+      "title": "Rozdělený světy",
+      "canonicalUrl": "https://music.apple.com/us/song/rozd%C4%9Blen%C3%BD-sv%C4%9Bty/1535027940",
+      "creator": "Viktor Sheen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/a9/56/aea956bc-bf10-c85f-a1b2-47f2631777a6/190295116163.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1535027940",
+      "attributes": {
+        "album": "Barvy",
+        "duration": "3:31",
+        "durationIso": "PT3M31S",
+        "chartPosition": "47",
+        "explicit": true
+      },
+      "evidenceText": "Rozdělený světy 47 Viktor Sheen Barvy PREVIEW 3:31"
+    },
+    {
+      "title": "SPHYNX",
+      "canonicalUrl": "https://music.apple.com/us/song/sphynx/6779250662",
+      "creator": "Yzomandias, Saul",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250662",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "48",
+        "explicit": true
+      },
+      "evidenceText": "SPHYNX 48 Yzomandias, Saul EXIT U PALICE PREVIEW 3:11"
+    },
+    {
+      "title": "Vítej mezi náma (feat. STEIN27)",
+      "canonicalUrl": "https://music.apple.com/us/song/v%C3%ADtej-mezi-n%C3%A1ma-feat-stein27/1782522453",
+      "creator": "Calin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/83/ba/4483bacb-1668-204c-dcc7-d4691539bcfc/5021732582980.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1782522453",
+      "attributes": {
+        "album": "Bieber Fever Tour Life",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "49",
+        "explicit": true
+      },
+      "evidenceText": "Vítej mezi náma (feat. STEIN27) 49 Calin Bieber Fever Tour Life PREVIEW 3:13"
+    },
+    {
+      "title": "KSN (feat. Ektor) [PINTLICH REMIX]",
+      "canonicalUrl": "https://music.apple.com/us/song/ksn-feat-ektor-pintlich-remix/1818177163",
+      "creator": "Yzomandias, P T K, Robin Zoot, Nik Tendo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/5c/a6/715ca60c-2bb3-9219-d482-b9a4e5dcc371/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1818177163",
+      "attributes": {
+        "album": "KSN (PINTLICH REMIX) - Single",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "50",
+        "explicit": true
+      },
+      "evidenceText": "KSN (feat. Ektor) [PINTLICH REMIX] 50 Yzomandias, P T K, Robin Zoot, Nik Tendo KSN (PINTLICH REMIX) - Single PREVIEW 3:08"
+    },
+    {
+      "title": "strach je malá smrt",
+      "canonicalUrl": "https://music.apple.com/us/song/strach-je-mal%C3%A1-smrt/6779250695",
+      "creator": "Yzomandias",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250695",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "1:45",
+        "durationIso": "PT1M45S",
+        "chartPosition": "51",
+        "explicit": true
+      },
+      "evidenceText": "strach je malá smrt 51 Yzomandias EXIT U PALICE PREVIEW 1:45"
+    },
+    {
+      "title": "Toulavej pes",
+      "canonicalUrl": "https://music.apple.com/us/song/toulavej-pes/6810683985",
+      "creator": "STEIN27",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8c/6b/178c6b52-24c7-e44f-a7d9-0c85f6ff253d/1200220100231.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6810683985",
+      "attributes": {
+        "album": "Toulavej pes - Single",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "52",
+        "explicit": true
+      },
+      "evidenceText": "Toulavej pes 52 STEIN27 Toulavej pes - Single PREVIEW 2:22"
+    },
+    {
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "canonicalUrl": "https://music.apple.com/us/song/beauty-and-a-beat-feat-nicki-minaj/1440650961",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1440650961",
+      "attributes": {
+        "album": "Believe (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "Beauty and a Beat (feat. Nicki Minaj) 53 Justin Bieber Believe (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "seneumimbavitbezdrog",
+      "canonicalUrl": "https://music.apple.com/us/song/seneumimbavitbezdrog/6779250703",
+      "creator": "Yzomandias, NobodyListen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250703",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "54",
+        "explicit": true
+      },
+      "evidenceText": "seneumimbavitbezdrog 54 Yzomandias, NobodyListen EXIT U PALICE PREVIEW 2:42"
+    },
+    {
+      "title": "ADHD POP",
+      "canonicalUrl": "https://music.apple.com/us/song/adhd-pop/6778434605",
+      "creator": "Ewa Farna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/21/e9/5221e9c7-6ccd-fdca-1d58-c74cb907fd04/26UMGIM74304.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6778434605",
+      "attributes": {
+        "album": "ADHD POP",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "ADHD POP 55 Ewa Farna ADHD POP PREVIEW 3:03"
+    },
+    {
+      "title": "Wonderwall (Remastered)",
+      "canonicalUrl": "https://music.apple.com/us/song/wonderwall-remastered/1821192766",
+      "creator": "Oasis",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/e3/0d/cee30d80-d3e7-66ae-de84-4b62d8bc3b4d/5051961151107.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1821192766",
+      "attributes": {
+        "album": "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "Wonderwall (Remastered) 56 Oasis (What's The Story) Morning Glory? (30th Anniversary Deluxe Edition) PREVIEW 4:18"
+    },
+    {
+      "title": "TINTED WINDOWS",
+      "canonicalUrl": "https://music.apple.com/us/song/tinted-windows/6770548171",
+      "creator": "P T K",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5c/a4/3a5ca4d1-cd35-06b6-d5a9-b7865ccbce94/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6770548171",
+      "attributes": {
+        "album": "KARAKORAM",
+        "duration": "2:27",
+        "durationIso": "PT2M27S",
+        "chartPosition": "57",
+        "explicit": true
+      },
+      "evidenceText": "TINTED WINDOWS 57 P T K KARAKORAM PREVIEW 2:27"
+    },
+    {
+      "title": "Ordinary",
+      "canonicalUrl": "https://music.apple.com/us/song/ordinary/1793663645",
+      "creator": "Alex Warren",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1793663645",
+      "attributes": {
+        "album": "Ordinary - Single",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "Ordinary 58 Alex Warren Ordinary - Single PREVIEW 3:06"
+    },
+    {
+      "title": "Dopamin",
+      "canonicalUrl": "https://music.apple.com/us/song/dopamin/1711135982",
+      "creator": "Viktor Sheen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/20/c8/1a20c887-27de-2a60-d3f0-d8bf51bb7ca2/5054197842733.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1711135982",
+      "attributes": {
+        "album": "Planeta opic",
+        "duration": "2:44",
+        "durationIso": "PT2M44S",
+        "chartPosition": "59",
+        "explicit": true
+      },
+      "evidenceText": "Dopamin 59 Viktor Sheen Planeta opic PREVIEW 2:44"
+    },
+    {
+      "title": "Strach",
+      "canonicalUrl": "https://music.apple.com/us/song/strach/1852065247",
+      "creator": "BUKA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/57/dd/7a57dda2-d390-1259-7630-c2045da3facc/5026854226569.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1852065247",
+      "attributes": {
+        "album": "Já, mé druhé já a Kristýna",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "60",
+        "explicit": true
+      },
+      "evidenceText": "Strach 60 BUKA Já, mé druhé já a Kristýna PREVIEW 3:25"
+    },
+    {
+      "title": "GÔŇO",
+      "canonicalUrl": "https://music.apple.com/us/song/g%C3%B4%C5%88o/1815796786",
+      "creator": "P T K",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/2c/cd/812ccdfc-6b8f-c23c-fd60-3f0308dc6203/5021732780669.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1815796786",
+      "attributes": {
+        "album": "Archive",
+        "duration": "2:13",
+        "durationIso": "PT2M13S",
+        "chartPosition": "61",
+        "explicit": true
+      },
+      "evidenceText": "GÔŇO 61 P T K Archive PREVIEW 2:13"
+    },
+    {
+      "title": "Cigarety",
+      "canonicalUrl": "https://music.apple.com/us/song/cigarety/1808178713",
+      "creator": "Sara Rikas, Matej Turcer",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/3d/ea/df3dea18-4c61-4392-9881-b5e82a095737/25UMGIM57133.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1808178713",
+      "attributes": {
+        "album": "Ja, Sára",
+        "duration": "4:41",
+        "durationIso": "PT4M41S",
+        "chartPosition": "62",
+        "explicit": false
+      },
+      "evidenceText": "Cigarety 62 Sara Rikas, Matej Turcer Ja, Sára PREVIEW 4:41"
+    },
+    {
+      "title": "PTK OG",
+      "canonicalUrl": "https://music.apple.com/us/song/ptk-og/1564413807",
+      "creator": "P T K",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/d9/00/a6d900c2-b431-ec58-baae-c4d1e2b86cce/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1564413807",
+      "attributes": {
+        "album": "Utopený v čase",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "63",
+        "explicit": true
+      },
+      "evidenceText": "PTK OG 63 P T K Utopený v čase PREVIEW 2:37"
+    },
+    {
+      "title": "Praha/Vídeň",
+      "canonicalUrl": "https://music.apple.com/us/song/praha-v%C3%ADde%C5%88/1585673430",
+      "creator": "Calin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/2f/fa/242ffa76-02b9-e260-7c8b-b2da486dde1a/190296444753.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1585673430",
+      "attributes": {
+        "album": "Praha/Vídeň - Single",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "Praha/Vídeň 64 Calin Praha/Vídeň - Single PREVIEW 2:42"
+    },
+    {
+      "title": "starej logic better",
+      "canonicalUrl": "https://music.apple.com/us/song/starej-logic-better/6779250634",
+      "creator": "Yzomandias",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250634",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "2:00",
+        "durationIso": "PT2M",
+        "chartPosition": "65",
+        "explicit": true
+      },
+      "evidenceText": "starej logic better 65 Yzomandias EXIT U PALICE PREVIEW 2:00"
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia/1833328840",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1833328840",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia 66 Taylor Swift The Life of a Showgirl PREVIEW 3:46"
+    },
+    {
+      "title": "Plastic",
+      "canonicalUrl": "https://music.apple.com/us/song/plastic/1535027938",
+      "creator": "Viktor Sheen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/a9/56/aea956bc-bf10-c85f-a1b2-47f2631777a6/190295116163.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1535027938",
+      "attributes": {
+        "album": "Barvy",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "67",
+        "explicit": true
+      },
+      "evidenceText": "Plastic 67 Viktor Sheen Barvy PREVIEW 3:15"
+    },
+    {
+      "title": "BAD TIMES",
+      "canonicalUrl": "https://music.apple.com/us/song/bad-times/1894224409",
+      "creator": "Imael Angel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1894224409",
+      "attributes": {
+        "album": "BAD TIMES - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "BAD TIMES 68 Imael Angel BAD TIMES - Single PREVIEW 2:48"
+    },
+    {
+      "title": "ONLY WAY OUT IS THROUGH THE S***S 2",
+      "canonicalUrl": "https://music.apple.com/us/song/only-way-out-is-through-the-s-s-2/6770548863",
+      "creator": "P T K",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5c/a4/3a5ca4d1-cd35-06b6-d5a9-b7865ccbce94/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6770548863",
+      "attributes": {
+        "album": "KARAKORAM",
+        "duration": "2:26",
+        "durationIso": "PT2M26S",
+        "chartPosition": "69",
+        "explicit": true
+      },
+      "evidenceText": "ONLY WAY OUT IS THROUGH THE S***S 2 69 P T K KARAKORAM PREVIEW 2:26"
+    },
+    {
+      "title": "Self Aware",
+      "canonicalUrl": "https://music.apple.com/us/song/self-aware/1877803360",
+      "creator": "Temper City",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/63/6e/ba636e4b-5c9a-e89c-87d3-1a9ab7773644/1084252.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1877803360",
+      "attributes": {
+        "album": "Self Aware - Single",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "Self Aware 70 Temper City Self Aware - Single PREVIEW 3:00"
+    },
+    {
+      "title": "Naběhnu na Byt",
+      "canonicalUrl": "https://music.apple.com/us/song/nab%C4%9Bhnu-na-byt/6809493612",
+      "creator": "Sanchez22, NAUME",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/49/07/79490746-56d1-d684-1944-f551ee920cdb/26UM1IM15240.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6809493612",
+      "attributes": {
+        "album": "Naběhnu na Byt - Single",
+        "duration": "2:23",
+        "durationIso": "PT2M23S",
+        "chartPosition": "71",
+        "explicit": true
+      },
+      "evidenceText": "Naběhnu na Byt 71 Sanchez22, NAUME Naběhnu na Byt - Single PREVIEW 2:23"
+    },
+    {
+      "title": "Loser",
+      "canonicalUrl": "https://music.apple.com/us/song/loser/1836226731",
+      "creator": "Tame Impala",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1836226731",
+      "attributes": {
+        "album": "Deadbeat",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "72",
+        "explicit": true
+      },
+      "evidenceText": "Loser 72 Tame Impala Deadbeat PREVIEW 3:43"
+    },
+    {
+      "title": "Hlasová zpráva",
+      "canonicalUrl": "https://music.apple.com/us/song/hlasov%C3%A1-zpr%C3%A1va/6778434622",
+      "creator": "Ewa Farna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/21/e9/5221e9c7-6ccd-fdca-1d58-c74cb907fd04/26UMGIM74304.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6778434622",
+      "attributes": {
+        "album": "ADHD POP",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "Hlasová zpráva 73 Ewa Farna ADHD POP PREVIEW 2:46"
+    },
+    {
+      "title": "the cure",
+      "canonicalUrl": "https://music.apple.com/us/song/the-cure/1889992123",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1889992123",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "74",
+        "explicit": true
+      },
+      "evidenceText": "the cure 74 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 4:57"
+    },
+    {
+      "title": "Nadstandard",
+      "canonicalUrl": "https://music.apple.com/us/song/nadstandard/1564414220",
+      "creator": "P T K",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/d9/00/a6d900c2-b431-ec58-baae-c4d1e2b86cce/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1564414220",
+      "attributes": {
+        "album": "Utopený v čase",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "75",
+        "explicit": true
+      },
+      "evidenceText": "Nadstandard 75 P T K Utopený v čase PREVIEW 3:33"
+    },
+    {
+      "title": "Léto s tebou",
+      "canonicalUrl": "https://music.apple.com/us/song/l%C3%A9to-s-tebou/6808593369",
+      "creator": "Sofian Medjmedj",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/ef/69/b3ef6901-6c88-a963-fddc-df6d7092e4a3/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6808593369",
+      "attributes": {
+        "album": "Léto s tebou - Single",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "76",
+        "explicit": false
+      },
+      "evidenceText": "Léto s tebou 76 Sofian Medjmedj Léto s tebou - Single PREVIEW 3:40"
+    },
+    {
+      "title": "Mr. Brightside",
+      "canonicalUrl": "https://music.apple.com/us/song/mr-brightside/1526194192",
+      "creator": "The Killers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1526194192",
+      "attributes": {
+        "album": "Hot Fuss",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "Mr. Brightside 77 The Killers Hot Fuss PREVIEW 3:42"
+    },
+    {
+      "title": "KARMA FOREVER",
+      "canonicalUrl": "https://music.apple.com/us/song/karma-forever/6779250638",
+      "creator": "Yzomandias",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250638",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "1:23",
+        "durationIso": "PT1M23S",
+        "chartPosition": "78",
+        "explicit": true
+      },
+      "evidenceText": "KARMA FOREVER 78 Yzomandias EXIT U PALICE PREVIEW 1:23"
+    },
+    {
+      "title": "Děvče v první řadě (feat. Ben Cristovao)",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C4%9Bv%C4%8De-v-prvn%C3%AD-%C5%99ad%C4%9B-feat-ben-cristovao/1579545882",
+      "creator": "Calin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/c2/e1/a0c2e178-7a6d-90ba-627c-b57da69480c4/190296505898.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1579545882",
+      "attributes": {
+        "album": "Děvče v první řadě (feat. Ben Cristovao) - Single",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "79",
+        "explicit": true
+      },
+      "evidenceText": "Děvče v první řadě (feat. Ben Cristovao) 79 Calin Děvče v první řadě (feat. Ben Cristovao) - Single PREVIEW 3:03"
+    },
+    {
+      "title": "Legendary Lovers",
+      "canonicalUrl": "https://music.apple.com/us/song/legendary-lovers/1440818912",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1440818912",
+      "attributes": {
+        "album": "PRISM (Deluxe Version)",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "80",
+        "explicit": false
+      },
+      "evidenceText": "Legendary Lovers 80 Katy Perry PRISM (Deluxe Version) PREVIEW 3:44"
+    },
+    {
+      "title": "New Rules",
+      "canonicalUrl": "https://music.apple.com/us/song/new-rules/1228739609",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1228739609",
+      "attributes": {
+        "album": "Dua Lipa (Deluxe)",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "81",
+        "explicit": false
+      },
+      "evidenceText": "New Rules 81 Dua Lipa Dua Lipa (Deluxe) PREVIEW 3:29"
+    },
+    {
+      "title": "BIG MAC",
+      "canonicalUrl": "https://music.apple.com/us/song/big-mac/6772316148",
+      "creator": "Ewa Farna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/ca/45/74ca4518-008a-110b-ce1e-25dfb1fac69c/26UMGIM67455.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6772316148",
+      "attributes": {
+        "album": "BIG MAC - Single",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "BIG MAC 82 Ewa Farna BIG MAC - Single PREVIEW 2:22"
+    },
+    {
+      "title": "Shape of You",
+      "canonicalUrl": "https://music.apple.com/us/song/shape-of-you/1193701392",
+      "creator": "Ed Sheeran",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1193701392",
+      "attributes": {
+        "album": "÷ (Deluxe)",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "Shape of You 83 Ed Sheeran ÷ (Deluxe) PREVIEW 3:53"
+    },
+    {
+      "title": "Kdo??",
+      "canonicalUrl": "https://music.apple.com/us/song/kdo/1874340633",
+      "creator": "Robin Zoot, BUKA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/ba/0a/1fba0ae6-dee7-05ee-10fd-51538827bae5/26UMGIM14727.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1874340633",
+      "attributes": {
+        "album": "Majitel",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "84",
+        "explicit": true
+      },
+      "evidenceText": "Kdo?? 84 Robin Zoot, BUKA Majitel PREVIEW 2:49"
+    },
+    {
+      "title": "persona non grata",
+      "canonicalUrl": "https://music.apple.com/us/song/persona-non-grata/6779250999",
+      "creator": "Yzomandias",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/58/8a/07588ab1-d65f-386a-1fc5-1b55c8044a82/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6779250999",
+      "attributes": {
+        "album": "EXIT U PALICE",
+        "duration": "3:05",
+        "durationIso": "PT3M5S",
+        "chartPosition": "85",
+        "explicit": true
+      },
+      "evidenceText": "persona non grata 85 Yzomandias EXIT U PALICE PREVIEW 3:05"
+    },
+    {
+      "title": "Narcos",
+      "canonicalUrl": "https://music.apple.com/us/song/narcos/1749128532",
+      "creator": "Hard Rico, Yzomandias",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/55/72/1955728f-c8ea-536e-74d4-adadaae10b86/24UMGIM60225.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1749128532",
+      "attributes": {
+        "album": "Narcos - Single",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "86",
+        "explicit": true
+      },
+      "evidenceText": "Narcos 86 Hard Rico, Yzomandias Narcos - Single PREVIEW 3:11"
+    },
+    {
+      "title": "Svaz českých bohémů",
+      "canonicalUrl": "https://music.apple.com/us/song/svaz-%C4%8Desk%C3%BDch-boh%C3%A9m%C5%AF/1352375440",
+      "creator": "Wohnout",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/93/5d/3c935d02-2909-18e5-3126-763fd7ba8219/190295678555.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1352375440",
+      "attributes": {
+        "album": "Našim klientům",
+        "duration": "4:16",
+        "durationIso": "PT4M16S",
+        "chartPosition": "87",
+        "explicit": false
+      },
+      "evidenceText": "Svaz českých bohémů 87 Wohnout Našim klientům PREVIEW 4:16"
+    },
+    {
+      "title": "In the End",
+      "canonicalUrl": "https://music.apple.com/us/song/in-the-end/590431785",
+      "creator": "LINKIN PARK",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "590431785",
+      "attributes": {
+        "album": "Hybrid Theory (Deluxe Edition)",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "In the End 88 LINKIN PARK Hybrid Theory (Deluxe Edition) PREVIEW 3:36"
+    },
+    {
+      "title": "Bad Vibe",
+      "canonicalUrl": "https://music.apple.com/us/song/bad-vibe/1582699222",
+      "creator": "P T K",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d1/63/47/d163476f-6950-7a1c-2dc6-bfc7da0b5a26/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1582699222",
+      "attributes": {
+        "album": "Bad Vibe",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "89",
+        "explicit": true
+      },
+      "evidenceText": "Bad Vibe 89 P T K Bad Vibe PREVIEW 3:18"
+    },
+    {
+      "title": "Mráz",
+      "canonicalUrl": "https://music.apple.com/us/song/mr%C3%A1z/1603464512",
+      "creator": "Viktor Sheen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/b0/53/36b053d7-f157-4404-ba97-cd0fb95c2a40/190295384760.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1603464512",
+      "attributes": {
+        "album": "Černobílej svět",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "90",
+        "explicit": true
+      },
+      "evidenceText": "Mráz 90 Viktor Sheen Černobílej svět PREVIEW 3:15"
+    },
+    {
+      "title": "stupid song",
+      "canonicalUrl": "https://music.apple.com/us/song/stupid-song/1889992115",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1889992115",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "stupid song 91 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:29"
+    },
+    {
+      "title": "Duse Do Vesmiru (feat. Klara Vytiskova)",
+      "canonicalUrl": "https://music.apple.com/us/song/duse-do-vesmiru-feat-klara-vytiskova/1443264911",
+      "creator": "Michal Hruza",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c7/db/bf/c7dbbf3b-a0bb-92e7-d4b9-edcd8f1bfc2c/00602537844098.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1443264911",
+      "attributes": {
+        "album": "Den",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "Duse Do Vesmiru (feat. Klara Vytiskova) 92 Michal Hruza Den PREVIEW 3:10"
+    },
+    {
+      "title": "Sweater Weather",
+      "canonicalUrl": "https://music.apple.com/us/song/sweater-weather/635016640",
+      "creator": "The Neighbourhood",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "635016640",
+      "attributes": {
+        "album": "I Love You.",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "93",
+        "explicit": false
+      },
+      "evidenceText": "Sweater Weather 93 The Neighbourhood I Love You. PREVIEW 4:00"
+    },
+    {
+      "title": "The Emptiness Machine",
+      "canonicalUrl": "https://music.apple.com/us/song/the-emptiness-machine/1766137051",
+      "creator": "LINKIN PARK",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1766137051",
+      "attributes": {
+        "album": "From Zero",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "94",
+        "explicit": true
+      },
+      "evidenceText": "The Emptiness Machine 94 LINKIN PARK From Zero PREVIEW 3:10"
+    },
+    {
+      "title": "Sunset",
+      "canonicalUrl": "https://music.apple.com/us/song/sunset/1707783997",
+      "creator": "Separ, Jerry Lee, P T K",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/6b/a1/a36ba1d8-2fc5-d2e4-7a3c-4208a9c22082/f5109eca-d33b-4eba-a235-0b3f7419b0b9.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1707783997",
+      "attributes": {
+        "album": "Sunset - Single",
+        "duration": "2:35",
+        "durationIso": "PT2M35S",
+        "chartPosition": "95",
+        "explicit": true
+      },
+      "evidenceText": "Sunset 95 Separ, Jerry Lee, P T K Sunset - Single PREVIEW 2:35"
+    },
+    {
+      "title": "Ona je se mnou",
+      "canonicalUrl": "https://music.apple.com/us/song/ona-je-se-mnou/6783925747",
+      "creator": "Hard Rico, P T K",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/69/f7/5669f74a-de83-929d-b937-dc8ef9eb2114/26UMGIM82940.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "6783925747",
+      "attributes": {
+        "album": "Focus",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "96",
+        "explicit": true
+      },
+      "evidenceText": "Ona je se mnou 96 Hard Rico, P T K Focus PREVIEW 3:29"
+    },
+    {
+      "title": "Beautiful Things",
+      "canonicalUrl": "https://music.apple.com/us/song/beautiful-things/1724488124",
+      "creator": "Benson Boone",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1724488124",
+      "attributes": {
+        "album": "Beautiful Things - Single",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "Beautiful Things 97 Benson Boone Beautiful Things - Single PREVIEW 3:00"
+    },
+    {
+      "title": "SI JE*LA",
+      "canonicalUrl": "https://music.apple.com/us/song/si-je-la/1837204042",
+      "creator": "Hard Rico",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/43/58/9b4358fe-c8e2-854f-2855-2e48ab2d4ca5/25UM1IM35028.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1837204042",
+      "attributes": {
+        "album": "SI JE*LA - Single",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "98",
+        "explicit": true
+      },
+      "evidenceText": "SI JE*LA 98 Hard Rico SI JE*LA - Single PREVIEW 3:27"
+    },
+    {
+      "title": "Numb",
+      "canonicalUrl": "https://music.apple.com/us/song/numb/590423552",
+      "creator": "LINKIN PARK",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "590423552",
+      "attributes": {
+        "album": "Meteora (Deluxe Edition)",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "99",
+        "explicit": false
+      },
+      "evidenceText": "Numb 99 LINKIN PARK Meteora (Deluxe Edition) PREVIEW 3:07"
+    },
+    {
+      "title": "Treat You Better",
+      "canonicalUrl": "https://music.apple.com/us/song/treat-you-better/1440892713",
+      "creator": "Shawn Mendes",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/57/e4/5c57e46a-0950-7ebd-8010-28453c1c0055/16UMGIM51723.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-czechia/pl.e447d9ba54254130a76143bf6fdfa65c",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Czechia",
+      "externalId": "1440892713",
+      "attributes": {
+        "album": "Illuminate (Deluxe)",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "100",
+        "explicit": false
+      },
+      "evidenceText": "Treat You Better 100 Shawn Mendes Illuminate (Deluxe) PREVIEW 3:07"
+    }
+  ]
+}

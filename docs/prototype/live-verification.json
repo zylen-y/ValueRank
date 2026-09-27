@@ -1,0 +1,130 @@
+{
+  "verifiedAt": "2026-09-26T09:10:13.587Z",
+  "kind": "live-provider-inference",
+  "runs": [
+    {
+      "runId": "b6e56cd8-3870-4fc4-a77a-6bcb9b027cd3",
+      "startedAt": "2026-09-26T08:36:44.537Z",
+      "finishedAt": "2026-09-26T08:36:57.316Z",
+      "processed": 1,
+      "errors": 0,
+      "source": {
+        "url": "https://vercel.com/i/what-is-jev",
+        "characters": 9130,
+        "sha256": "1006ed9435e6c175d985caafce6cea1fe351ea3c5bd7f4106efc35413545c154"
+      },
+      "analysis": {
+        "model": "xiaomi/mimo-v2.6-flash",
+        "concepts": 6,
+        "evidenceQuotes": 3,
+        "allQuotesMatch": true
+      },
+      "decision": {
+        "relevance": 0.48,
+        "novelty": 0.98,
+        "actionability": 0.51,
+        "source": "jev",
+        "provider": "openrouter",
+        "model": "typesafe/jev-1.13-20260917",
+        "profileVersion": 5,
+        "createdAt": "2026-09-26T08:36:57.313Z"
+      },
+      "score": 66.402,
+      "events": [
+        {
+          "stage": "llm",
+          "status": "completed",
+          "model": "xiaomi/mimo-v2.6-flash",
+          "tokens": 2664,
+          "durationMs": 12304,
+          "detail": "2 model steps; 6 concepts."
+        },
+        {
+          "stage": "source",
+          "status": "completed",
+          "detail": "9,130 characters · url-extraction"
+        },
+        {
+          "stage": "evidence",
+          "status": "completed",
+          "detail": "3 exact matches in the supplied text. This verifies quotation provenance, not all semantic claims."
+        },
+        {
+          "stage": "jev",
+          "status": "completed",
+          "model": "typesafe/jev-1.13-20260917",
+          "tokens": 2863,
+          "durationMs": 469,
+          "detail": "Via OpenRouter. Response probabilities validated in [0,1]. These are model estimates, not a calibration guarantee."
+        },
+        {
+          "stage": "rank",
+          "status": "completed",
+          "detail": "Profile version 5; utility blends typed judgments with explicit knowledge, preferences, and reading cost."
+        }
+      ]
+    },
+    {
+      "runId": "be429e42-a3cc-4af5-8a36-742e40e04329",
+      "startedAt": "2026-09-26T09:08:30.771Z",
+      "finishedAt": "2026-09-26T09:08:52.882Z",
+      "processed": 1,
+      "errors": 0,
+      "source": {
+        "url": "https://www.together.ai/blog/how-to-train-your-own-jev",
+        "characters": 9680,
+        "sha256": "7ded7730d4f56a030d37e47cfcc5b97a49efed036d692df54bb93ef43172326f"
+      },
+      "analysis": {
+        "model": "xiaomi/mimo-v2.6-flash",
+        "concepts": 6,
+        "evidenceQuotes": 3,
+        "allQuotesMatch": true
+      },
+      "decision": {
+        "relevance": 0.39,
+        "novelty": 0.98,
+        "actionability": 0.66,
+        "source": "jev",
+        "provider": "openrouter",
+        "model": "typesafe/jev-1.13-20260917",
+        "profileVersion": 5,
+        "createdAt": "2026-09-26T09:08:52.880Z"
+      },
+      "score": 57.912,
+      "events": [
+        {
+          "stage": "llm",
+          "status": "completed",
+          "model": "xiaomi/mimo-v2.6-flash",
+          "tokens": 3338,
+          "durationMs": 21627,
+          "detail": "2 model steps; 6 concepts."
+        },
+        {
+          "stage": "source",
+          "status": "completed",
+          "detail": "9,680 characters · url-extraction"
+        },
+        {
+          "stage": "evidence",
+          "status": "completed",
+          "detail": "3 exact matches in the supplied text. This verifies quotation provenance, not all semantic claims."
+        },
+        {
+          "stage": "jev",
+          "status": "completed",
+          "model": "typesafe/jev-1.13-20260917",
+          "tokens": 3473,
+          "durationMs": 479,
+          "detail": "Via OpenRouter. Response probabilities validated in [0,1]. These are model estimates, not a calibration guarantee."
+        },
+        {
+          "stage": "rank",
+          "status": "completed",
+          "detail": "Profile version 5; utility blends typed judgments with explicit knowledge, preferences, and reading cost."
+        }
+      ]
+    }
+  ]
+}

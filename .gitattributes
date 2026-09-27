@@ -1,0 +1,5 @@
+# Browser observations remain inspectable while application changes stay readable in PRs.
+demo/catalog-crawl/**/*.json linguist-generated=true
+demo/catalog-crawl/**/*.jsonl linguist-generated=true
+demo/catalog-crawl/**/evidence/*.txt linguist-generated=true
+docs/prototype/catalog*verification.json linguist-generated=true

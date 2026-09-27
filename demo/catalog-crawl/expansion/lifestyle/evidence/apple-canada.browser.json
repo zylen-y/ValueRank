@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+  "collection": "Top 100: Canada",
+  "fetchedAt": "2026-09-27T03:39:37.858Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 1 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 2 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 3 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 4 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Ashke",
+      "canonicalUrl": "https://music.apple.com/us/song/ashke/6814002647",
+      "creator": "Karan Aujla, MXRCI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/b9/74/74b974cc-a8e3-ab69-1675-65b29e5324d1/5064089826918_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6814002647",
+      "attributes": {
+        "album": "AUJLA SZN 1 - EP",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "Ashke 5 Karan Aujla, MXRCI AUJLA SZN 1 - EP PREVIEW 3:37"
+    },
+    {
+      "title": "Choosin' Texas",
+      "canonicalUrl": "https://music.apple.com/us/song/choosin-texas/1844932150",
+      "creator": "Ella Langley",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1844932150",
+      "attributes": {
+        "album": "Choosin' Texas - Single",
+        "duration": "3:52",
+        "durationIso": "PT3M52S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "Choosin' Texas 6 Ella Langley Choosin' Texas - Single PREVIEW 3:52"
+    },
+    {
+      "title": "Straight Up",
+      "canonicalUrl": "https://music.apple.com/us/song/straight-up/6814002652",
+      "creator": "Karan Aujla, MXRCI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/b9/74/74b974cc-a8e3-ab69-1675-65b29e5324d1/5064089826918_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6814002652",
+      "attributes": {
+        "album": "AUJLA SZN 1 - EP",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "Straight Up 7 Karan Aujla, MXRCI AUJLA SZN 1 - EP PREVIEW 3:34"
+    },
+    {
+      "title": "Last Thing You Need",
+      "canonicalUrl": "https://music.apple.com/us/song/last-thing-you-need/6812477290",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6812477290",
+      "attributes": {
+        "album": "Grand Theft Auto VI: The Album",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "8",
+        "explicit": false
+      },
+      "evidenceText": "Last Thing You Need 8 Morgan Wallen Grand Theft Auto VI: The Album PREVIEW 3:16"
+    },
+    {
+      "title": "Aujla Szn",
+      "canonicalUrl": "https://music.apple.com/us/song/aujla-szn/6814002664",
+      "creator": "Karan Aujla, MXRCI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/b9/74/74b974cc-a8e3-ab69-1675-65b29e5324d1/5064089826918_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6814002664",
+      "attributes": {
+        "album": "AUJLA SZN 1 - EP",
+        "duration": "3:38",
+        "durationIso": "PT3M38S",
+        "chartPosition": "9",
+        "explicit": false
+      },
+      "evidenceText": "Aujla Szn 9 Karan Aujla, MXRCI AUJLA SZN 1 - EP PREVIEW 3:38"
+    },
+    {
+      "title": "Real Bad Man",
+      "canonicalUrl": "https://music.apple.com/us/song/real-bad-man/6814002649",
+      "creator": "Karan Aujla",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/b9/74/74b974cc-a8e3-ab69-1675-65b29e5324d1/5064089826918_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6814002649",
+      "attributes": {
+        "album": "AUJLA SZN 1 - EP",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "10",
+        "explicit": false
+      },
+      "evidenceText": "Real Bad Man 10 Karan Aujla AUJLA SZN 1 - EP PREVIEW 2:49"
+    },
+    {
+      "title": "Rap Killa (feat. Azaad 4L)",
+      "canonicalUrl": "https://music.apple.com/us/song/rap-killa-feat-azaad-4l/6814002657",
+      "creator": "Karan Aujla, MXRCI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/b9/74/74b974cc-a8e3-ab69-1675-65b29e5324d1/5064089826918_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6814002657",
+      "attributes": {
+        "album": "AUJLA SZN 1 - EP",
+        "duration": "4:05",
+        "durationIso": "PT4M5S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "Rap Killa (feat. Azaad 4L) 11 Karan Aujla, MXRCI AUJLA SZN 1 - EP PREVIEW 4:05"
+    },
+    {
+      "title": "Been By Now",
+      "canonicalUrl": "https://music.apple.com/us/song/been-by-now/6792676860",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6792676860",
+      "attributes": {
+        "album": "Been By Now - Single",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "Been By Now 12 Morgan Wallen Been By Now - Single PREVIEW 3:33"
+    },
+    {
+      "title": "Janice STFU",
+      "canonicalUrl": "https://music.apple.com/us/song/janice-stfu/6769568596",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6769568596",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "13",
+        "explicit": true
+      },
+      "evidenceText": "Janice STFU 13 Drake ICEMAN PREVIEW 3:57"
+    },
+    {
+      "title": "Opalite",
+      "canonicalUrl": "https://music.apple.com/us/song/opalite/1833328845",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1833328845",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "Opalite 14 Taylor Swift The Life of a Showgirl PREVIEW 3:55"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "15",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 15 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "Boston",
+      "canonicalUrl": "https://music.apple.com/us/song/boston/1884403093",
+      "creator": "STELLA LEFTY",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1884403093",
+      "attributes": {
+        "album": "Boston - Single",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "Boston 16 STELLA LEFTY Boston - Single PREVIEW 2:50"
+    },
+    {
+      "title": "The Fate of Ophelia (Track by Track)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia-track-by-track/1843998667",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/74/44/3a74440e-a1c2-c2bc-22c4-c71bd4584ed1/25UM1IM53942.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1843998667",
+      "attributes": {
+        "album": "The Life of a Showgirl (Track by Track Version)",
+        "duration": "0:41",
+        "durationIso": "PT41S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia (Track by Track) 17 Taylor Swift The Life of a Showgirl (Track by Track Version) PREVIEW 0:41"
+    },
+    {
+      "title": "Kingdom of Fear",
+      "canonicalUrl": "https://music.apple.com/us/song/kingdom-of-fear/1887606227",
+      "creator": "Cameron Whitcomb",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/33/73/7e337333-0802-d7b5-8848-d20fdbdf993c/075679584731.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1887606227",
+      "attributes": {
+        "album": "Deep Water - EP",
+        "duration": "2:41",
+        "durationIso": "PT2M41S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "Kingdom of Fear 18 Cameron Whitcomb Deep Water - EP PREVIEW 2:41"
+    },
+    {
+      "title": "I Can't Love You Anymore",
+      "canonicalUrl": "https://music.apple.com/us/song/i-cant-love-you-anymore/6763091996",
+      "creator": "Ella Langley, Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6763091996",
+      "attributes": {
+        "album": "I Can't Love You Anymore - Single",
+        "duration": "3:48",
+        "durationIso": "PT3M48S",
+        "chartPosition": "19",
+        "explicit": false
+      },
+      "evidenceText": "I Can't Love You Anymore 19 Ella Langley, Morgan Wallen I Can't Love You Anymore - Single PREVIEW 3:48"
+    },
+    {
+      "title": "Elizabeth Taylor",
+      "canonicalUrl": "https://music.apple.com/us/song/elizabeth-taylor/1833328842",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1833328842",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "20",
+        "explicit": false
+      },
+      "evidenceText": "Elizabeth Taylor 20 Taylor Swift The Life of a Showgirl PREVIEW 3:28"
+    },
+    {
+      "title": "Be Her",
+      "canonicalUrl": "https://music.apple.com/us/song/be-her/1869436845",
+      "creator": "Ella Langley",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1869436845",
+      "attributes": {
+        "album": "Dandelion",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "Be Her 21 Ella Langley Dandelion PREVIEW 3:37"
+    },
+    {
+      "title": "Something in the Orange",
+      "canonicalUrl": "https://music.apple.com/us/song/something-in-the-orange/1620419734",
+      "creator": "Zach Bryan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d6/cd/d8/d6cdd86f-db67-ffc8-cd5e-26c4559686c3/054391903860.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1620419734",
+      "attributes": {
+        "album": "Something in the Orange - Single",
+        "duration": "3:48",
+        "durationIso": "PT3M48S",
+        "chartPosition": "22",
+        "explicit": false
+      },
+      "evidenceText": "Something in the Orange 22 Zach Bryan Something in the Orange - Single PREVIEW 3:48"
+    },
+    {
+      "title": "Take Me Back (Leave Me There)",
+      "canonicalUrl": "https://music.apple.com/us/song/take-me-back-leave-me-there/1892466278",
+      "creator": "Cody Johnson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/d9/7a/e2d97a87-6ec6-99de-9a1f-31b86ce6e7c4/093624826613.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1892466278",
+      "attributes": {
+        "album": "Banks Of The Trinity",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "Take Me Back (Leave Me There) 23 Cody Johnson Banks Of The Trinity PREVIEW 2:58"
+    },
+    {
+      "title": "I Had Some Help (feat. Morgan Wallen)",
+      "canonicalUrl": "https://music.apple.com/us/song/i-had-some-help-feat-morgan-wallen/1744439049",
+      "creator": "Post Malone",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1744439049",
+      "attributes": {
+        "album": "I Had Some Help (feat. Morgan Wallen) - Single",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "24",
+        "explicit": true
+      },
+      "evidenceText": "I Had Some Help (feat. Morgan Wallen) 24 Post Malone I Had Some Help (feat. Morgan Wallen) - Single PREVIEW 2:58"
+    },
+    {
+      "title": "Father Figure",
+      "canonicalUrl": "https://music.apple.com/us/song/father-figure/1833328847",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1833328847",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "25",
+        "explicit": true
+      },
+      "evidenceText": "Father Figure 25 Taylor Swift The Life of a Showgirl PREVIEW 3:32"
+    },
+    {
+      "title": "A Bar Song (Tipsy)",
+      "canonicalUrl": "https://music.apple.com/us/song/a-bar-song-tipsy/1737085899",
+      "creator": "Shaboozey",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1737085899",
+      "attributes": {
+        "album": "Where I've Been, Isn't Where I'm Going",
+        "duration": "2:51",
+        "durationIso": "PT2M51S",
+        "chartPosition": "26",
+        "explicit": true
+      },
+      "evidenceText": "A Bar Song (Tipsy) 26 Shaboozey Where I've Been, Isn't Where I'm Going PREVIEW 2:51"
+    },
+    {
+      "title": "stupid song",
+      "canonicalUrl": "https://music.apple.com/us/song/stupid-song/1889992115",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1889992115",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "27",
+        "explicit": false
+      },
+      "evidenceText": "stupid song 27 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:29"
+    },
+    {
+      "title": "Willing and Able",
+      "canonicalUrl": "https://music.apple.com/us/song/willing-and-able/6762757738",
+      "creator": "Noah Kahan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/aa/69/f9aa6992-40ca-a756-85ca-b27c48f7c720/26UMGIM02802.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6762757738",
+      "attributes": {
+        "album": "The Great Divide: The Last Of The Bugs",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "28",
+        "explicit": true
+      },
+      "evidenceText": "Willing and Able 28 Noah Kahan The Great Divide: The Last Of The Bugs PREVIEW 4:57"
+    },
+    {
+      "title": "Broken Window Serenade",
+      "canonicalUrl": "https://music.apple.com/us/song/broken-window-serenade/1813021660",
+      "creator": "Whiskey Myers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/cf/22/d0cf226c-607d-d97c-61d4-26eabde51f1d/886443002371_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1813021660",
+      "attributes": {
+        "album": "Firewater",
+        "duration": "5:46",
+        "durationIso": "PT5M46S",
+        "chartPosition": "29",
+        "explicit": false
+      },
+      "evidenceText": "Broken Window Serenade 29 Whiskey Myers Firewater PREVIEW 5:46"
+    },
+    {
+      "title": "Ordinary",
+      "canonicalUrl": "https://music.apple.com/us/song/ordinary/1793663645",
+      "creator": "Alex Warren",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1793663645",
+      "attributes": {
+        "album": "Ordinary - Single",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "30",
+        "explicit": false
+      },
+      "evidenceText": "Ordinary 30 Alex Warren Ordinary - Single PREVIEW 3:06"
+    },
+    {
+      "title": "Mr. Brightside",
+      "canonicalUrl": "https://music.apple.com/us/song/mr-brightside/1526194192",
+      "creator": "The Killers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1526194192",
+      "attributes": {
+        "album": "Hot Fuss",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "31",
+        "explicit": false
+      },
+      "evidenceText": "Mr. Brightside 31 The Killers Hot Fuss PREVIEW 3:42"
+    },
+    {
+      "title": "onsra",
+      "canonicalUrl": "https://music.apple.com/us/song/onsra/6808391428",
+      "creator": "comehelpglo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/3b/d6/233bd696-96a3-6255-1a55-a686e216fa6f/808391380721.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6808391428",
+      "attributes": {
+        "album": "onsra - Single",
+        "duration": "2:11",
+        "durationIso": "PT2M11S",
+        "chartPosition": "32",
+        "explicit": true
+      },
+      "evidenceText": "onsra 32 comehelpglo onsra - Single PREVIEW 2:11"
+    },
+    {
+      "title": "the cure",
+      "canonicalUrl": "https://music.apple.com/us/song/the-cure/1889992123",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1889992123",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "33",
+        "explicit": true
+      },
+      "evidenceText": "the cure 33 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 4:57"
+    },
+    {
+      "title": "Last Night",
+      "canonicalUrl": "https://music.apple.com/us/song/last-night/1818424212",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/eb/b3/82ebb3c6-2bd4-31fd-0eb9-57667f3590e1/00602455239419_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1818424212",
+      "attributes": {
+        "album": "One Thing At A Time",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "34",
+        "explicit": true
+      },
+      "evidenceText": "Last Night 34 Morgan Wallen One Thing At A Time PREVIEW 2:43"
+    },
+    {
+      "title": "Man I Need",
+      "canonicalUrl": "https://music.apple.com/us/song/man-i-need/1817609509",
+      "creator": "Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1817609509",
+      "attributes": {
+        "album": "The Art of Loving",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "35",
+        "explicit": false
+      },
+      "evidenceText": "Man I Need 35 Olivia Dean The Art of Loving PREVIEW 3:04"
+    },
+    {
+      "title": "Be By You",
+      "canonicalUrl": "https://music.apple.com/us/song/be-by-you/1862634805",
+      "creator": "Luke Combs",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/b6/e5/4cb6e5b1-2db0-88c0-f025-b79cad3b8fab/196873832111.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1862634805",
+      "attributes": {
+        "album": "The Way I Am",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "Be By You 36 Luke Combs The Way I Am PREVIEW 3:17"
+    },
+    {
+      "title": "Orbiter",
+      "canonicalUrl": "https://music.apple.com/us/song/orbiter/6762757958",
+      "creator": "Noah Kahan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/aa/69/f9aa6992-40ca-a756-85ca-b27c48f7c720/26UMGIM02802.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6762757958",
+      "attributes": {
+        "album": "The Great Divide: The Last Of The Bugs",
+        "duration": "4:46",
+        "durationIso": "PT4M46S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "Orbiter 37 Noah Kahan The Great Divide: The Last Of The Bugs PREVIEW 4:46"
+    },
+    {
+      "title": "Pink Skies",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-skies/1747842759",
+      "creator": "Zach Bryan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/25/58/a3255839-0068-40f0-9985-7603f061c30f/054391263575.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1747842759",
+      "attributes": {
+        "album": "Pink Skies - Single",
+        "duration": "3:14",
+        "durationIso": "PT3M14S",
+        "chartPosition": "38",
+        "explicit": false
+      },
+      "evidenceText": "Pink Skies 38 Zach Bryan Pink Skies - Single PREVIEW 3:14"
+    },
+    {
+      "title": "Tennessee Whiskey",
+      "canonicalUrl": "https://music.apple.com/us/song/tennessee-whiskey/1440827492",
+      "creator": "Chris Stapleton",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/4b/60/e24b6016-8278-bb18-cf5d-d44bf68371da/00602547223838.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1440827492",
+      "attributes": {
+        "album": "Traveller",
+        "duration": "4:53",
+        "durationIso": "PT4M53S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "Tennessee Whiskey 39 Chris Stapleton Traveller PREVIEW 4:53"
+    },
+    {
+      "title": "What I Want",
+      "canonicalUrl": "https://music.apple.com/us/song/what-i-want/1802103975",
+      "creator": "Morgan Wallen, Tate McRae",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1802103975",
+      "attributes": {
+        "album": "I’m The Problem",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "40",
+        "explicit": false
+      },
+      "evidenceText": "What I Want 40 Morgan Wallen, Tate McRae I’m The Problem PREVIEW 3:04"
+    },
+    {
+      "title": "Headlines",
+      "canonicalUrl": "https://music.apple.com/us/song/headlines/1440642731",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/fb/d3/74fbd365-bd52-23b4-604b-7f164407b0a9/00602527899107.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1440642731",
+      "attributes": {
+        "album": "Take Care (Deluxe Version)",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "41",
+        "explicit": true
+      },
+      "evidenceText": "Headlines 41 Drake Take Care (Deluxe Version) PREVIEW 3:55"
+    },
+    {
+      "title": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-life-of-a-showgirl-feat-sabrina-carpenter/1833329007",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1833329007",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "4:01",
+        "durationIso": "PT4M1S",
+        "chartPosition": "42",
+        "explicit": true
+      },
+      "evidenceText": "The Life of a Showgirl (feat. Sabrina Carpenter) 42 Taylor Swift The Life of a Showgirl PREVIEW 4:01"
+    },
+    {
+      "title": "Stick Season",
+      "canonicalUrl": "https://music.apple.com/us/song/stick-season/1632285403",
+      "creator": "Noah Kahan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8d/25/8e/8d258e09-7395-998f-23ed-82b0433b0518/22UMGIM71396.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1632285403",
+      "attributes": {
+        "album": "Stick Season - Single",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "43",
+        "explicit": false
+      },
+      "evidenceText": "Stick Season 43 Noah Kahan Stick Season - Single PREVIEW 3:02"
+    },
+    {
+      "title": "Ruin The Friendship",
+      "canonicalUrl": "https://music.apple.com/us/song/ruin-the-friendship/1833328849",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1833328849",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "Ruin The Friendship 44 Taylor Swift The Life of a Showgirl PREVIEW 3:40"
+    },
+    {
+      "title": "The Great Divide",
+      "canonicalUrl": "https://music.apple.com/us/song/the-great-divide/1872239886",
+      "creator": "Noah Kahan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/9c/40/9a9c40b0-0ef2-5bc5-6c25-250862e48f77/26UMGIM02802.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1872239886",
+      "attributes": {
+        "album": "The Great Divide",
+        "duration": "5:17",
+        "durationIso": "PT5M17S",
+        "chartPosition": "45",
+        "explicit": true
+      },
+      "evidenceText": "The Great Divide 45 Noah Kahan The Great Divide PREVIEW 5:17"
+    },
+    {
+      "title": "Actually Romantic",
+      "canonicalUrl": "https://music.apple.com/us/song/actually-romantic/1833328850",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1833328850",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "46",
+        "explicit": true
+      },
+      "evidenceText": "Actually Romantic 46 Taylor Swift The Life of a Showgirl PREVIEW 2:43"
+    },
+    {
+      "title": "weren't for the wind",
+      "canonicalUrl": "https://music.apple.com/us/song/werent-for-the-wind/1770160814",
+      "creator": "Ella Langley",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/f1/65/eff16551-2b83-202a-f923-a655a57c61b8/196872452563.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1770160814",
+      "attributes": {
+        "album": "still hungover",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "47",
+        "explicit": false
+      },
+      "evidenceText": "weren't for the wind 47 Ella Langley still hungover PREVIEW 3:13"
+    },
+    {
+      "title": "Fast Car",
+      "canonicalUrl": "https://music.apple.com/us/song/fast-car/1666738585",
+      "creator": "Luke Combs",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1666738585",
+      "attributes": {
+        "album": "Gettin' Old",
+        "duration": "4:25",
+        "durationIso": "PT4M25S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Fast Car 48 Luke Combs Gettin' Old PREVIEW 4:25"
+    },
+    {
+      "title": "I'm The Problem",
+      "canonicalUrl": "https://music.apple.com/us/song/im-the-problem/1802103970",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1802103970",
+      "attributes": {
+        "album": "I’m The Problem",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "I'm The Problem 49 Morgan Wallen I’m The Problem PREVIEW 2:57"
+    },
+    {
+      "title": "Eldest Daughter",
+      "canonicalUrl": "https://music.apple.com/us/song/eldest-daughter/1833328848",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1833328848",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "50",
+        "explicit": true
+      },
+      "evidenceText": "Eldest Daughter 50 Taylor Swift The Life of a Showgirl PREVIEW 4:06"
+    },
+    {
+      "title": "Just In Case",
+      "canonicalUrl": "https://music.apple.com/us/song/just-in-case/1802103977",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1802103977",
+      "attributes": {
+        "album": "I’m The Problem",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "51",
+        "explicit": false
+      },
+      "evidenceText": "Just In Case 51 Morgan Wallen I’m The Problem PREVIEW 2:46"
+    },
+    {
+      "title": "Wi$h Li$t",
+      "canonicalUrl": "https://music.apple.com/us/song/wi%24h-li%24t/1833328851",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1833328851",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "52",
+        "explicit": true
+      },
+      "evidenceText": "Wi$h Li$t 52 Taylor Swift The Life of a Showgirl PREVIEW 3:27"
+    },
+    {
+      "title": "28",
+      "canonicalUrl": "https://music.apple.com/us/song/28/1819829902",
+      "creator": "Zach Bryan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/2e/c1/f62ec15a-3294-0743-e80c-c5e890171a14/093624828730.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1819829902",
+      "attributes": {
+        "album": "The Great American Bar Scene",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "28 53 Zach Bryan The Great American Bar Scene PREVIEW 3:53"
+    },
+    {
+      "title": "Ain't In LA",
+      "canonicalUrl": "https://music.apple.com/us/song/aint-in-la/6792884101",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6792884101",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "54",
+        "explicit": true
+      },
+      "evidenceText": "Ain't In LA 54 ADÉLA PRIMA PREVIEW 3:04"
+    },
+    {
+      "title": "Sleepless in a Hotel Room",
+      "canonicalUrl": "https://music.apple.com/us/song/sleepless-in-a-hotel-room/1862634798",
+      "creator": "Luke Combs",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/b6/e5/4cb6e5b1-2db0-88c0-f025-b79cad3b8fab/196873832111.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1862634798",
+      "attributes": {
+        "album": "The Way I Am",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "Sleepless in a Hotel Room 55 Luke Combs The Way I Am PREVIEW 2:57"
+    },
+    {
+      "title": "Revival",
+      "canonicalUrl": "https://music.apple.com/us/song/revival/1542103756",
+      "creator": "Zach Bryan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/a2/80/01a2808f-8a15-fc76-235b-8e315085dc10/093624884538.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1542103756",
+      "attributes": {
+        "album": "Elisabeth",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "Revival 56 Zach Bryan Elisabeth PREVIEW 3:41"
+    },
+    {
+      "title": "Where the Wild Things Are",
+      "canonicalUrl": "https://music.apple.com/us/song/where-the-wild-things-are/1666738581",
+      "creator": "Luke Combs",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1666738581",
+      "attributes": {
+        "album": "Gettin' Old",
+        "duration": "3:59",
+        "durationIso": "PT3M59S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "Where the Wild Things Are 57 Luke Combs Gettin' Old PREVIEW 3:59"
+    },
+    {
+      "title": "Dreams",
+      "canonicalUrl": "https://music.apple.com/us/song/dreams/202272624",
+      "creator": "Fleetwood Mac",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "202272624",
+      "attributes": {
+        "album": "Greatest Hits",
+        "duration": "4:14",
+        "durationIso": "PT4M14S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "Dreams 58 Fleetwood Mac Greatest Hits PREVIEW 4:14"
+    },
+    {
+      "title": "CANCELLED!",
+      "canonicalUrl": "https://music.apple.com/us/song/cancelled/1833329003",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1833329003",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:31",
+        "durationIso": "PT3M31S",
+        "chartPosition": "59",
+        "explicit": true
+      },
+      "evidenceText": "CANCELLED! 59 Taylor Swift The Life of a Showgirl PREVIEW 3:31"
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia/1833328840",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1833328840",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "60",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia 60 Taylor Swift The Life of a Showgirl PREVIEW 3:46"
+    },
+    {
+      "title": "Don't We",
+      "canonicalUrl": "https://music.apple.com/us/song/dont-we/1802104400",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1802104400",
+      "attributes": {
+        "album": "I’m The Problem",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "61",
+        "explicit": false
+      },
+      "evidenceText": "Don't We 61 Morgan Wallen I’m The Problem PREVIEW 3:11"
+    },
+    {
+      "title": "Wood",
+      "canonicalUrl": "https://music.apple.com/us/song/wood/1833329002",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1833329002",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "2:30",
+        "durationIso": "PT2M30S",
+        "chartPosition": "62",
+        "explicit": true
+      },
+      "evidenceText": "Wood 62 Taylor Swift The Life of a Showgirl PREVIEW 2:30"
+    },
+    {
+      "title": "Burn, Burn, Burn",
+      "canonicalUrl": "https://music.apple.com/us/song/burn-burn-burn/1643976264",
+      "creator": "Zach Bryan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b4/e0/31/b4e03179-76e0-4c56-26e7-3637e84266b2/054391820549.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1643976264",
+      "attributes": {
+        "album": "Burn, Burn, Burn - Single",
+        "duration": "4:28",
+        "durationIso": "PT4M28S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "Burn, Burn, Burn 63 Zach Bryan Burn, Burn, Burn - Single PREVIEW 4:28"
+    },
+    {
+      "title": "Cowgirls (feat. ERNEST)",
+      "canonicalUrl": "https://music.apple.com/us/song/cowgirls-feat-ernest/1818426110",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/eb/b3/82ebb3c6-2bd4-31fd-0eb9-57667f3590e1/00602455239419_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1818426110",
+      "attributes": {
+        "album": "One Thing At A Time",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "Cowgirls (feat. ERNEST) 64 Morgan Wallen One Thing At A Time PREVIEW 3:01"
+    },
+    {
+      "title": "Beautiful Things",
+      "canonicalUrl": "https://music.apple.com/us/song/beautiful-things/1724488124",
+      "creator": "Benson Boone",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1724488124",
+      "attributes": {
+        "album": "Beautiful Things - Single",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "Beautiful Things 65 Benson Boone Beautiful Things - Single PREVIEW 3:00"
+    },
+    {
+      "title": "Doors",
+      "canonicalUrl": "https://music.apple.com/us/song/doors/1872239879",
+      "creator": "Noah Kahan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/9c/40/9a9c40b0-0ef2-5bc5-6c25-250862e48f77/26UMGIM02802.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1872239879",
+      "attributes": {
+        "album": "The Great Divide",
+        "duration": "3:51",
+        "durationIso": "PT3M51S",
+        "chartPosition": "66",
+        "explicit": true
+      },
+      "evidenceText": "Doors 66 Noah Kahan The Great Divide PREVIEW 3:51"
+    },
+    {
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "canonicalUrl": "https://music.apple.com/us/song/i-knew-it-i-knew-you-from-toy-story-5/6775527443",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6775527443",
+      "attributes": {
+        "album": "I Knew It, I Knew You (From \"Toy Story 5\") - Single",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "I Knew It, I Knew You (From \"Toy Story 5\") 67 Taylor Swift I Knew It, I Knew You (From \"Toy Story 5\") - Single PREVIEW 2:58"
+    },
+    {
+      "title": "Great Expectation",
+      "canonicalUrl": "https://music.apple.com/us/song/great-expectation/6769552411",
+      "creator": "SIENNA SPIRO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6769552411",
+      "attributes": {
+        "album": "Visitor (Deluxe)",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "Great Expectation 68 SIENNA SPIRO Visitor (Deluxe) PREVIEW 2:53"
+    },
+    {
+      "title": "Honey",
+      "canonicalUrl": "https://music.apple.com/us/song/honey/1833329004",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1833329004",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "69",
+        "explicit": true
+      },
+      "evidenceText": "Honey 69 Taylor Swift The Life of a Showgirl PREVIEW 3:01"
+    },
+    {
+      "title": "hate that i made you love me",
+      "canonicalUrl": "https://music.apple.com/us/song/hate-that-i-made-you-love-me/6763656876",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6763656876",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "hate that i made you love me 70 Ariana Grande petal PREVIEW 3:17"
+    },
+    {
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "canonicalUrl": "https://music.apple.com/us/song/beauty-and-a-beat-feat-nicki-minaj/1440650961",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1440650961",
+      "attributes": {
+        "album": "Believe (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "Beauty and a Beat (feat. Nicki Minaj) 71 Justin Bieber Believe (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "Iris",
+      "canonicalUrl": "https://music.apple.com/us/song/iris/267537169",
+      "creator": "The Goo Goo Dolls",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "267537169",
+      "attributes": {
+        "album": "Greatest Hits, Vol. One: The Singles",
+        "duration": "4:49",
+        "durationIso": "PT4M49S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "Iris 72 The Goo Goo Dolls Greatest Hits, Vol. One: The Singles PREVIEW 4:49"
+    },
+    {
+      "title": "No Broke Boys",
+      "canonicalUrl": "https://music.apple.com/us/song/no-broke-boys/1818761158",
+      "creator": "Disco Lines, Tinashe",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/c9/d3/7ac9d3d9-519a-3e67-ff4b-77de2458e0b9/075679605375.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1818761158",
+      "attributes": {
+        "album": "No Broke Boys - Single",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "73",
+        "explicit": true
+      },
+      "evidenceText": "No Broke Boys 73 Disco Lines, Tinashe No Broke Boys - Single PREVIEW 2:43"
+    },
+    {
+      "title": "Oklahoma Smokeshow",
+      "canonicalUrl": "https://music.apple.com/us/song/oklahoma-smokeshow/1633178998",
+      "creator": "Zach Bryan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/be/ea/e9/beeae98a-33a4-6e1d-6efc-b8dd098b0a2c/093624866459.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1633178998",
+      "attributes": {
+        "album": "Summertime Blues - EP",
+        "duration": "3:31",
+        "durationIso": "PT3M31S",
+        "chartPosition": "74",
+        "explicit": false
+      },
+      "evidenceText": "Oklahoma Smokeshow 74 Zach Bryan Summertime Blues - EP PREVIEW 3:31"
+    },
+    {
+      "title": "Thinkin’ Bout Me",
+      "canonicalUrl": "https://music.apple.com/us/song/thinkin-bout-me/1818425528",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/eb/b3/82ebb3c6-2bd4-31fd-0eb9-57667f3590e1/00602455239419_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1818425528",
+      "attributes": {
+        "album": "One Thing At A Time",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Thinkin’ Bout Me 75 Morgan Wallen One Thing At A Time PREVIEW 2:57"
+    },
+    {
+      "title": "Shabang",
+      "canonicalUrl": "https://music.apple.com/us/song/shabang/6769568598",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6769568598",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "76",
+        "explicit": true
+      },
+      "evidenceText": "Shabang 76 Drake ICEMAN PREVIEW 3:08"
+    },
+    {
+      "title": "Wonderwall (Remastered)",
+      "canonicalUrl": "https://music.apple.com/us/song/wonderwall-remastered/1525933490",
+      "creator": "Oasis",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1525933490",
+      "attributes": {
+        "album": "(What's The Story) Morning Glory? [Deluxe Remastered Edition]",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "Wonderwall (Remastered) 77 Oasis (What's The Story) Morning Glory? [Deluxe Remastered Edition] PREVIEW 4:18"
+    },
+    {
+      "title": "MISS MY DAWG",
+      "canonicalUrl": "https://music.apple.com/us/song/miss-my-dawg/6813244854",
+      "creator": "Yeat, Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/9e/e2/959ee283-8ef9-30d5-1422-595e08bc7517/26UM1IM20013.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6813244854",
+      "attributes": {
+        "album": "COCOON",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "78",
+        "explicit": true
+      },
+      "evidenceText": "MISS MY DAWG 78 Yeat, Drake COCOON PREVIEW 3:08"
+    },
+    {
+      "title": "I Remember Everything (feat. Kacey Musgraves)",
+      "canonicalUrl": "https://music.apple.com/us/song/i-remember-everything-feat-kacey-musgraves/1703217516",
+      "creator": "Zach Bryan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/36/7f/ce367f3d-2a4f-46ee-1434-e3fbb52f1fc8/093624849797.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1703217516",
+      "attributes": {
+        "album": "Zach Bryan",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "79",
+        "explicit": false
+      },
+      "evidenceText": "I Remember Everything (feat. Kacey Musgraves) 79 Zach Bryan Zach Bryan PREVIEW 3:47"
+    },
+    {
+      "title": "DAISIES",
+      "canonicalUrl": "https://music.apple.com/us/song/daisies/1825994649",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/09/36/f9093663-c05f-7f95-0a60-4e95d52fbb22/25UMGIM93915.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1825994649",
+      "attributes": {
+        "album": "SWAG",
+        "duration": "2:56",
+        "durationIso": "PT2M56S",
+        "chartPosition": "80",
+        "explicit": false
+      },
+      "evidenceText": "DAISIES 80 Justin Bieber SWAG PREVIEW 2:56"
+    },
+    {
+      "title": "Ran To Atlanta",
+      "canonicalUrl": "https://music.apple.com/us/song/ran-to-atlanta/6769568597",
+      "creator": "Drake, Future, Molly Santana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6769568597",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "4:07",
+        "durationIso": "PT4M7S",
+        "chartPosition": "81",
+        "explicit": true
+      },
+      "evidenceText": "Ran To Atlanta 81 Drake, Future, Molly Santana ICEMAN PREVIEW 4:07"
+    },
+    {
+      "title": "you look like you love me",
+      "canonicalUrl": "https://music.apple.com/us/song/you-look-like-you-love-me/1749121123",
+      "creator": "Ella Langley, Riley Green",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/33/40/62334080-6129-4d0c-086b-921cc956cb7a/196872090895.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1749121123",
+      "attributes": {
+        "album": "hungover",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "you look like you love me 82 Ella Langley, Riley Green hungover PREVIEW 3:44"
+    },
+    {
+      "title": "Wasted On You",
+      "canonicalUrl": "https://music.apple.com/us/song/wasted-on-you/1818469738",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/05/ab/6805abb2-10d1-35cb-aa84-71386b285b7d/00602435514642_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1818469738",
+      "attributes": {
+        "album": "Dangerous: The Double Album",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "Wasted On You 83 Morgan Wallen Dangerous: The Double Album PREVIEW 2:58"
+    },
+    {
+      "title": "Dead Fresh",
+      "canonicalUrl": "https://music.apple.com/us/song/dead-fresh/6790569133",
+      "creator": "Lil Baby",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6790569133",
+      "attributes": {
+        "album": "Dead Fresh - Single",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "84",
+        "explicit": true
+      },
+      "evidenceText": "Dead Fresh 84 Lil Baby Dead Fresh - Single PREVIEW 2:37"
+    },
+    {
+      "title": "Loving Life Again",
+      "canonicalUrl": "https://music.apple.com/us/song/loving-life-again/1869436847",
+      "creator": "Ella Langley",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1869436847",
+      "attributes": {
+        "album": "Dandelion",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "85",
+        "explicit": false
+      },
+      "evidenceText": "Loving Life Again 85 Ella Langley Dandelion PREVIEW 3:46"
+    },
+    {
+      "title": "Beautiful Crazy",
+      "canonicalUrl": "https://music.apple.com/us/song/beautiful-crazy/1376707066",
+      "creator": "Luke Combs",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f4/4b/59/f44b59a2-62c7-e9c7-df8b-4b8e7d772b41/886447048443.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1376707066",
+      "attributes": {
+        "album": "This One’s for You Too (Deluxe Edition)",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "Beautiful Crazy 86 Luke Combs This One’s for You Too (Deluxe Edition) PREVIEW 3:13"
+    },
+    {
+      "title": "Heading South",
+      "canonicalUrl": "https://music.apple.com/us/song/heading-south/1543055656",
+      "creator": "Zach Bryan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8e/1c/da/8e1cda1f-6367-f0f6-5cc3-931920c718a9/054391926623.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1543055656",
+      "attributes": {
+        "album": "Heading South - Single",
+        "duration": "2:51",
+        "durationIso": "PT2M51S",
+        "chartPosition": "87",
+        "explicit": true
+      },
+      "evidenceText": "Heading South 87 Zach Bryan Heading South - Single PREVIEW 2:51"
+    },
+    {
+      "title": "Jaded",
+      "canonicalUrl": "https://music.apple.com/us/song/jaded/6798042825",
+      "creator": "Koe Wetzel, Ella Langley",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/09/7e/c1097e38-0d2e-d389-2be7-0762979bb43a/ticket.easjqfbg.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6798042825",
+      "attributes": {
+        "album": "Jaded - Single",
+        "duration": "3:05",
+        "durationIso": "PT3M5S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "Jaded 88 Koe Wetzel, Ella Langley Jaded - Single PREVIEW 3:05"
+    },
+    {
+      "title": "Dai Dai",
+      "canonicalUrl": "https://music.apple.com/us/song/dai-dai/6768469976",
+      "creator": "Shakira, Burna Boy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6768469976",
+      "attributes": {
+        "album": "Dai Dai - Single",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "Dai Dai 89 Shakira, Burna Boy Dai Dai - Single PREVIEW 3:43"
+    },
+    {
+      "title": "drop dead",
+      "canonicalUrl": "https://music.apple.com/us/song/drop-dead/1889992113",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1889992113",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "drop dead 90 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:44"
+    },
+    {
+      "title": "Lose Control",
+      "canonicalUrl": "https://music.apple.com/us/song/lose-control/1691699836",
+      "creator": "Teddy Swims",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1691699836",
+      "attributes": {
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "Lose Control 91 Teddy Swims I've Tried Everything But Therapy (Part 1) PREVIEW 3:30"
+    },
+    {
+      "title": "Thunderstruck",
+      "canonicalUrl": "https://music.apple.com/us/song/thunderstruck/574051407",
+      "creator": "AC/DC",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/fc/c2/f8/fcc2f850-1d81-7440-c0a0-de7fcef1e911/dj.rrgizfic.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "574051407",
+      "attributes": {
+        "album": "The Razors Edge",
+        "duration": "4:52",
+        "durationIso": "PT4M52S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "Thunderstruck 92 AC/DC The Razors Edge PREVIEW 4:52"
+    },
+    {
+      "title": "Whisper My Name",
+      "canonicalUrl": "https://music.apple.com/us/song/whisper-my-name/6769568595",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6769568595",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "93",
+        "explicit": true
+      },
+      "evidenceText": "Whisper My Name 93 Drake ICEMAN PREVIEW 3:42"
+    },
+    {
+      "title": "She Got the Best of Me",
+      "canonicalUrl": "https://music.apple.com/us/song/she-got-the-best-of-me/1376707081",
+      "creator": "Luke Combs",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f4/4b/59/f44b59a2-62c7-e9c7-df8b-4b8e7d772b41/886447048443.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1376707081",
+      "attributes": {
+        "album": "This One’s for You Too (Deluxe Edition)",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "94",
+        "explicit": false
+      },
+      "evidenceText": "She Got the Best of Me 94 Luke Combs This One’s for You Too (Deluxe Edition) PREVIEW 3:03"
+    },
+    {
+      "title": "back to friends",
+      "canonicalUrl": "https://music.apple.com/us/song/back-to-friends/1786481197",
+      "creator": "sombr",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d5/ad/5dd5ad1b-fabf-9218-77f0-3adbfd5328ac/054391237118.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1786481197",
+      "attributes": {
+        "album": "back to friends - Single",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "95",
+        "explicit": false
+      },
+      "evidenceText": "back to friends 95 sombr back to friends - Single PREVIEW 3:19"
+    },
+    {
+      "title": "That’s So True",
+      "canonicalUrl": "https://music.apple.com/us/song/thats-so-true/1773474483",
+      "creator": "Gracie Abrams",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1773474483",
+      "attributes": {
+        "album": "The Secret of Us (Deluxe)",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "96",
+        "explicit": true
+      },
+      "evidenceText": "That’s So True 96 Gracie Abrams The Secret of Us (Deluxe) PREVIEW 2:46"
+    },
+    {
+      "title": "Ghostface Killah",
+      "canonicalUrl": "https://music.apple.com/us/song/ghostface-killah/6814478957",
+      "creator": "Sidhu Moose Wala, MXRCI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/ca/50/37ca5028-a2dc-975b-6366-6427c2b81761/5064089945930_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "6814478957",
+      "attributes": {
+        "album": "Ghostface Killah - Single",
+        "duration": "2:17",
+        "durationIso": "PT2M17S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "Ghostface Killah 97 Sidhu Moose Wala, MXRCI Ghostface Killah - Single PREVIEW 2:17"
+    },
+    {
+      "title": "Don't Stop Believin' (2024 Remaster)",
+      "canonicalUrl": "https://music.apple.com/us/song/dont-stop-believin-2024-remaster/169003415",
+      "creator": "Journey",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/2d/61/712d617d-f4a4-5904-1b11-d4b4b45c47c5/828768588925.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "169003415",
+      "attributes": {
+        "album": "Greatest Hits (2024 Remaster)",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "98",
+        "explicit": false
+      },
+      "evidenceText": "Don't Stop Believin' (2024 Remaster) 98 Journey Greatest Hits (2024 Remaster) PREVIEW 4:10"
+    },
+    {
+      "title": "Loser",
+      "canonicalUrl": "https://music.apple.com/us/song/loser/1836226731",
+      "creator": "Tame Impala",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1836226731",
+      "attributes": {
+        "album": "Deadbeat",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "99",
+        "explicit": true
+      },
+      "evidenceText": "Loser 99 Tame Impala Deadbeat PREVIEW 3:43"
+    },
+    {
+      "title": "Cinderella (feat. Ty Dolla $ign)",
+      "canonicalUrl": "https://music.apple.com/us/song/cinderella-feat-ty-dolla-%24ign/1137966332",
+      "creator": "Mac Miller",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/cc/4d/33cc4d85-e92a-b171-1b72-4dc882ce2359/093624918844.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Canada",
+      "externalId": "1137966332",
+      "attributes": {
+        "album": "The Divine Feminine",
+        "duration": "8:00",
+        "durationIso": "PT8M",
+        "chartPosition": "100",
+        "explicit": true
+      },
+      "evidenceText": "Cinderella (feat. Ty Dolla $ign) 100 Mac Miller The Divine Feminine PREVIEW 8:00"
+    }
+  ]
+}

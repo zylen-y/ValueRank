@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+  "collection": "Top 100: UK",
+  "fetchedAt": "2026-09-27T03:39:33.537Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 1 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 2 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 3 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 4 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Movin' To The Sun",
+      "canonicalUrl": "https://music.apple.com/us/song/movin-to-the-sun/6769070199",
+      "creator": "HUGEL, Imael Angel, Ultra Naté",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6769070199",
+      "attributes": {
+        "album": "Movin' To The Sun - Single",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "Movin' To The Sun 5 HUGEL, Imael Angel, Ultra Naté Movin' To The Sun - Single PREVIEW 2:22"
+    },
+    {
+      "title": "Man I Need",
+      "canonicalUrl": "https://music.apple.com/us/song/man-i-need/1817609509",
+      "creator": "Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1817609509",
+      "attributes": {
+        "album": "The Art of Loving",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "Man I Need 6 Olivia Dean The Art of Loving PREVIEW 3:04"
+    },
+    {
+      "title": "Choosin' Texas",
+      "canonicalUrl": "https://music.apple.com/us/song/choosin-texas/1844932150",
+      "creator": "Ella Langley",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1844932150",
+      "attributes": {
+        "album": "Choosin' Texas - Single",
+        "duration": "3:52",
+        "durationIso": "PT3M52S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "Choosin' Texas 7 Ella Langley Choosin' Texas - Single PREVIEW 3:52"
+    },
+    {
+      "title": "Rein Me In",
+      "canonicalUrl": "https://music.apple.com/us/song/rein-me-in/1820918468",
+      "creator": "Sam Fender, Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1820918468",
+      "attributes": {
+        "album": "Rein Me In - Single",
+        "duration": "5:39",
+        "durationIso": "PT5M39S",
+        "chartPosition": "8",
+        "explicit": true
+      },
+      "evidenceText": "Rein Me In 8 Sam Fender, Olivia Dean Rein Me In - Single PREVIEW 5:39"
+    },
+    {
+      "title": "Great Expectation",
+      "canonicalUrl": "https://music.apple.com/us/song/great-expectation/6769552411",
+      "creator": "SIENNA SPIRO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6769552411",
+      "attributes": {
+        "album": "Visitor (Deluxe)",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "9",
+        "explicit": false
+      },
+      "evidenceText": "Great Expectation 9 SIENNA SPIRO Visitor (Deluxe) PREVIEW 2:53"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "10",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 10 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "stupid song",
+      "canonicalUrl": "https://music.apple.com/us/song/stupid-song/1889992115",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1889992115",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "stupid song 11 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:29"
+    },
+    {
+      "title": "Boston",
+      "canonicalUrl": "https://music.apple.com/us/song/boston/1884403093",
+      "creator": "STELLA LEFTY",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1884403093",
+      "attributes": {
+        "album": "Boston - Single",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "Boston 12 STELLA LEFTY Boston - Single PREVIEW 2:50"
+    },
+    {
+      "title": "the cure",
+      "canonicalUrl": "https://music.apple.com/us/song/the-cure/1889992123",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1889992123",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "13",
+        "explicit": true
+      },
+      "evidenceText": "the cure 13 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 4:57"
+    },
+    {
+      "title": "Opalite",
+      "canonicalUrl": "https://music.apple.com/us/song/opalite/1833328845",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1833328845",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "Opalite 14 Taylor Swift The Life of a Showgirl PREVIEW 3:55"
+    },
+    {
+      "title": "Ordinary",
+      "canonicalUrl": "https://music.apple.com/us/song/ordinary/1793663645",
+      "creator": "Alex Warren",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1793663645",
+      "attributes": {
+        "album": "Ordinary - Single",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "15",
+        "explicit": false
+      },
+      "evidenceText": "Ordinary 15 Alex Warren Ordinary - Single PREVIEW 3:06"
+    },
+    {
+      "title": "Dai Dai",
+      "canonicalUrl": "https://music.apple.com/us/song/dai-dai/6768469976",
+      "creator": "Shakira, Burna Boy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6768469976",
+      "attributes": {
+        "album": "Dai Dai - Single",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "Dai Dai 16 Shakira, Burna Boy Dai Dai - Single PREVIEW 3:43"
+    },
+    {
+      "title": "Babydoll",
+      "canonicalUrl": "https://music.apple.com/us/song/babydoll/6794168373",
+      "creator": "Jamie Miller",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6794168373",
+      "attributes": {
+        "album": "Babydoll - Single",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "Babydoll 17 Jamie Miller Babydoll - Single PREVIEW 2:58"
+    },
+    {
+      "title": "Stop The Wedding!",
+      "canonicalUrl": "https://music.apple.com/us/song/stop-the-wedding/6795697687",
+      "creator": "Ashe",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6795697687",
+      "attributes": {
+        "album": "Stop The Wedding! - Single",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "Stop The Wedding! 18 Ashe Stop The Wedding! - Single PREVIEW 3:18"
+    },
+    {
+      "title": "My Body Isn't Ready",
+      "canonicalUrl": "https://music.apple.com/us/song/my-body-isnt-ready/6781074080",
+      "creator": "sombr",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6781074080",
+      "attributes": {
+        "album": "My Body Isn't Ready - Single",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "19",
+        "explicit": false
+      },
+      "evidenceText": "My Body Isn't Ready 19 sombr My Body Isn't Ready - Single PREVIEW 3:37"
+    },
+    {
+      "title": "Raindance",
+      "canonicalUrl": "https://music.apple.com/us/song/raindance/1847992612",
+      "creator": "Dave, Tems",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/49/24/9949241c-e52c-3018-eae8-c686013a7474/25UM1IM68216.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1847992612",
+      "attributes": {
+        "album": "The Boy Who Played the Harp",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "20",
+        "explicit": false
+      },
+      "evidenceText": "Raindance 20 Dave, Tems The Boy Who Played the Harp PREVIEW 3:39"
+    },
+    {
+      "title": "Mr. Brightside",
+      "canonicalUrl": "https://music.apple.com/us/song/mr-brightside/1526194192",
+      "creator": "The Killers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1526194192",
+      "attributes": {
+        "album": "Hot Fuss",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "Mr. Brightside 21 The Killers Hot Fuss PREVIEW 3:42"
+    },
+    {
+      "title": "Free Your Mind",
+      "canonicalUrl": "https://music.apple.com/us/song/free-your-mind/1884730735",
+      "creator": "Prospa, Sybil, Cloonee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/03/50/1e03508a-6c55-9da3-fd4c-2d181919d760/820200597014.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1884730735",
+      "attributes": {
+        "album": "Free Your Mind",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "22",
+        "explicit": false
+      },
+      "evidenceText": "Free Your Mind 22 Prospa, Sybil, Cloonee Free Your Mind PREVIEW 3:21"
+    },
+    {
+      "title": "hate that i made you love me",
+      "canonicalUrl": "https://music.apple.com/us/song/hate-that-i-made-you-love-me/6763656876",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6763656876",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "hate that i made you love me 23 Ariana Grande petal PREVIEW 3:17"
+    },
+    {
+      "title": "Wonderwall (Remastered)",
+      "canonicalUrl": "https://music.apple.com/us/song/wonderwall-remastered/1525933490",
+      "creator": "Oasis",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1525933490",
+      "attributes": {
+        "album": "(What's The Story) Morning Glory? [Deluxe Remastered Edition]",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "Wonderwall (Remastered) 24 Oasis (What's The Story) Morning Glory? [Deluxe Remastered Edition] PREVIEW 4:18"
+    },
+    {
+      "title": "Talk To You (feat. 54 Ultra)",
+      "canonicalUrl": "https://music.apple.com/us/song/talk-to-you-feat-54-ultra/1870514330",
+      "creator": "ANOTR",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1870514330",
+      "attributes": {
+        "album": "Talk To You (feat. 54 Ultra) - Single",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "Talk To You (feat. 54 Ultra) 25 ANOTR Talk To You (feat. 54 Ultra) - Single PREVIEW 3:11"
+    },
+    {
+      "title": "So Easy (To Fall In Love)",
+      "canonicalUrl": "https://music.apple.com/us/song/so-easy-to-fall-in-love/1817609507",
+      "creator": "Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1817609507",
+      "attributes": {
+        "album": "The Art of Loving",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "So Easy (To Fall In Love) 26 Olivia Dean The Art of Loving PREVIEW 2:49"
+    },
+    {
+      "title": "The Fate of Ophelia (Track by Track)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia-track-by-track/1843998667",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/74/44/3a74440e-a1c2-c2bc-22c4-c71bd4584ed1/25UM1IM53942.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1843998667",
+      "attributes": {
+        "album": "The Life of a Showgirl (Track by Track Version)",
+        "duration": "0:41",
+        "durationIso": "PT41S",
+        "chartPosition": "27",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia (Track by Track) 27 Taylor Swift The Life of a Showgirl (Track by Track Version) PREVIEW 0:41"
+    },
+    {
+      "title": "Nice To Each Other",
+      "canonicalUrl": "https://music.apple.com/us/song/nice-to-each-other/1814620247",
+      "creator": "Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1814620247",
+      "attributes": {
+        "album": "Nice To Each Other - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "Nice To Each Other 28 Olivia Dean Nice To Each Other - Single PREVIEW 3:29"
+    },
+    {
+      "title": "Janice STFU",
+      "canonicalUrl": "https://music.apple.com/us/song/janice-stfu/6769568596",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6769568596",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "29",
+        "explicit": true
+      },
+      "evidenceText": "Janice STFU 29 Drake ICEMAN PREVIEW 3:57"
+    },
+    {
+      "title": "Ain't In LA",
+      "canonicalUrl": "https://music.apple.com/us/song/aint-in-la/6792884101",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6792884101",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "30",
+        "explicit": true
+      },
+      "evidenceText": "Ain't In LA 30 ADÉLA PRIMA PREVIEW 3:04"
+    },
+    {
+      "title": "Iris",
+      "canonicalUrl": "https://music.apple.com/us/song/iris/267537169",
+      "creator": "The Goo Goo Dolls",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "267537169",
+      "attributes": {
+        "album": "Greatest Hits, Vol. One: The Singles",
+        "duration": "4:49",
+        "durationIso": "PT4M49S",
+        "chartPosition": "31",
+        "explicit": false
+      },
+      "evidenceText": "Iris 31 The Goo Goo Dolls Greatest Hits, Vol. One: The Singles PREVIEW 4:49"
+    },
+    {
+      "title": "Homewrecker",
+      "canonicalUrl": "https://music.apple.com/us/song/homewrecker/1871595253",
+      "creator": "sombr",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1871595253",
+      "attributes": {
+        "album": "Homewrecker - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "32",
+        "explicit": false
+      },
+      "evidenceText": "Homewrecker 32 sombr Homewrecker - Single PREVIEW 3:29"
+    },
+    {
+      "title": "Elizabeth Taylor",
+      "canonicalUrl": "https://music.apple.com/us/song/elizabeth-taylor/1833328842",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1833328842",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "Elizabeth Taylor 33 Taylor Swift The Life of a Showgirl PREVIEW 3:28"
+    },
+    {
+      "title": "WHERE IS MY HUSBAND!",
+      "canonicalUrl": "https://music.apple.com/us/song/where-is-my-husband/1838737598",
+      "creator": "RAYE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1838737598",
+      "attributes": {
+        "album": "WHERE IS MY HUSBAND! - Single",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "WHERE IS MY HUSBAND! 34 RAYE WHERE IS MY HUSBAND! - Single PREVIEW 3:17"
+    },
+    {
+      "title": "FEVER DREAM",
+      "canonicalUrl": "https://music.apple.com/us/song/fever-dream/1879983789",
+      "creator": "Alex Warren",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1879983789",
+      "attributes": {
+        "album": "FEVER DREAM - Single",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "35",
+        "explicit": false
+      },
+      "evidenceText": "FEVER DREAM 35 Alex Warren FEVER DREAM - Single PREVIEW 2:33"
+    },
+    {
+      "title": "On 2nite",
+      "canonicalUrl": "https://music.apple.com/us/song/on-2nite/6772312877",
+      "creator": "Silva Bumpa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/ee/af/50eeaf04-22c6-8a83-1fa7-12e8e8c08146/196874442296.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6772312877",
+      "attributes": {
+        "album": "On 2nite - Single",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "On 2nite 36 Silva Bumpa On 2nite - Single PREVIEW 2:38"
+    },
+    {
+      "title": "Don't Look Back in Anger (Remastered)",
+      "canonicalUrl": "https://music.apple.com/us/song/dont-look-back-in-anger-remastered/1525933492",
+      "creator": "Oasis",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1525933492",
+      "attributes": {
+        "album": "(What's The Story) Morning Glory? [Deluxe Remastered Edition]",
+        "duration": "4:49",
+        "durationIso": "PT4M49S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "Don't Look Back in Anger (Remastered) 37 Oasis (What's The Story) Morning Glory? [Deluxe Remastered Edition] PREVIEW 4:49"
+    },
+    {
+      "title": "American Girls",
+      "canonicalUrl": "https://music.apple.com/us/song/american-girls/1870984036",
+      "creator": "Harry Styles",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1870984036",
+      "attributes": {
+        "album": "Kiss All The Time. Disco, Occasionally.",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "38",
+        "explicit": false
+      },
+      "evidenceText": "American Girls 38 Harry Styles Kiss All The Time. Disco, Occasionally. PREVIEW 3:33"
+    },
+    {
+      "title": "iloveitiloveitiloveit",
+      "canonicalUrl": "https://music.apple.com/us/song/iloveitiloveitiloveit/1867034427",
+      "creator": "Bella Kay",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/12/71/ab12714b-1572-c7b0-27ff-2dfa3c860e6f/075679590756.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1867034427",
+      "attributes": {
+        "album": "iloveitiloveitiloveit - Single",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "39",
+        "explicit": true
+      },
+      "evidenceText": "iloveitiloveitiloveit 39 Bella Kay iloveitiloveitiloveit - Single PREVIEW 3:03"
+    },
+    {
+      "title": "Die On This Hill",
+      "canonicalUrl": "https://music.apple.com/us/song/die-on-this-hill/1841769602",
+      "creator": "SIENNA SPIRO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/53/d1/f053d15c-e4b0-7577-dc4d-2ab7d192e1b9/25UM1IM42518.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1841769602",
+      "attributes": {
+        "album": "Die On This Hill - Single",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "40",
+        "explicit": false
+      },
+      "evidenceText": "Die On This Hill 40 SIENNA SPIRO Die On This Hill - Single PREVIEW 3:37"
+    },
+    {
+      "title": "Billie Jean",
+      "canonicalUrl": "https://music.apple.com/us/song/billie-jean/269573364",
+      "creator": "Michael Jackson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "269573364",
+      "attributes": {
+        "album": "Thriller",
+        "duration": "4:53",
+        "durationIso": "PT4M53S",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "Billie Jean 41 Michael Jackson Thriller PREVIEW 4:53"
+    },
+    {
+      "title": "Dreams",
+      "canonicalUrl": "https://music.apple.com/us/song/dreams/202272624",
+      "creator": "Fleetwood Mac",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "202272624",
+      "attributes": {
+        "album": "Greatest Hits",
+        "duration": "4:14",
+        "durationIso": "PT4M14S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "Dreams 42 Fleetwood Mac Greatest Hits PREVIEW 4:14"
+    },
+    {
+      "title": "Training Season",
+      "canonicalUrl": "https://music.apple.com/us/song/training-season/1727526894",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/89/15/828915ea-d716-61c4-3de7-ef00c1f800fb/5054197853630.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1727526894",
+      "attributes": {
+        "album": "Training Season - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "43",
+        "explicit": false
+      },
+      "evidenceText": "Training Season 43 Dua Lipa Training Season - Single PREVIEW 3:29"
+    },
+    {
+      "title": "New Religion",
+      "canonicalUrl": "https://music.apple.com/us/song/new-religion/1878015314",
+      "creator": "Bebe Rexha, Faithless",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1878015314",
+      "attributes": {
+        "album": "New Religion - Single",
+        "duration": "2:54",
+        "durationIso": "PT2M54S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "New Religion 44 Bebe Rexha, Faithless New Religion - Single PREVIEW 2:54"
+    },
+    {
+      "title": "Beautiful Things",
+      "canonicalUrl": "https://music.apple.com/us/song/beautiful-things/1724488124",
+      "creator": "Benson Boone",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1724488124",
+      "attributes": {
+        "album": "Beautiful Things - Single",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "45",
+        "explicit": false
+      },
+      "evidenceText": "Beautiful Things 45 Benson Boone Beautiful Things - Single PREVIEW 3:00"
+    },
+    {
+      "title": "Loser",
+      "canonicalUrl": "https://music.apple.com/us/song/loser/1836226731",
+      "creator": "Tame Impala",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1836226731",
+      "attributes": {
+        "album": "Deadbeat",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "46",
+        "explicit": true
+      },
+      "evidenceText": "Loser 46 Tame Impala Deadbeat PREVIEW 3:43"
+    },
+    {
+      "title": "New Rules",
+      "canonicalUrl": "https://music.apple.com/us/song/new-rules/1228739609",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1228739609",
+      "attributes": {
+        "album": "Dua Lipa (Deluxe)",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "47",
+        "explicit": false
+      },
+      "evidenceText": "New Rules 47 Dua Lipa Dua Lipa (Deluxe) PREVIEW 3:29"
+    },
+    {
+      "title": "Be Her",
+      "canonicalUrl": "https://music.apple.com/us/song/be-her/1869436845",
+      "creator": "Ella Langley",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1869436845",
+      "attributes": {
+        "album": "Dandelion",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Be Her 48 Ella Langley Dandelion PREVIEW 3:37"
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia/1833328840",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1833328840",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia 49 Taylor Swift The Life of a Showgirl PREVIEW 3:46"
+    },
+    {
+      "title": "Midnight Sun",
+      "canonicalUrl": "https://music.apple.com/us/song/midnight-sun/1817499251",
+      "creator": "Zara Larsson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1d/2d/fb1d2d1c-0f79-53ad-ab9b-ac20918b5856/196873177199.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1817499251",
+      "attributes": {
+        "album": "Midnight Sun",
+        "duration": "3:09",
+        "durationIso": "PT3M9S",
+        "chartPosition": "50",
+        "explicit": false
+      },
+      "evidenceText": "Midnight Sun 50 Zara Larsson Midnight Sun PREVIEW 3:09"
+    },
+    {
+      "title": "bloodstream",
+      "canonicalUrl": "https://music.apple.com/us/song/bloodstream/6783576167",
+      "creator": "Alyssa Grace",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a7/ef/7fa7ef61-6e22-f30f-441c-e89e7ff4a79a/093624817147.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6783576167",
+      "attributes": {
+        "album": "spilling my guts",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "51",
+        "explicit": false
+      },
+      "evidenceText": "bloodstream 51 Alyssa Grace spilling my guts PREVIEW 2:57"
+    },
+    {
+      "title": "Father Figure",
+      "canonicalUrl": "https://music.apple.com/us/song/father-figure/1833328847",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1833328847",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "52",
+        "explicit": true
+      },
+      "evidenceText": "Father Figure 52 Taylor Swift The Life of a Showgirl PREVIEW 3:32"
+    },
+    {
+      "title": "12 to 12",
+      "canonicalUrl": "https://music.apple.com/us/song/12-to-12/1828036635",
+      "creator": "sombr",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/e4/44/19e44489-7f7b-3ca7-660f-98d44664bc3f/054391229144.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1828036635",
+      "attributes": {
+        "album": "12 to 12 - Single",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "12 to 12 53 sombr 12 to 12 - Single PREVIEW 4:02"
+    },
+    {
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "canonicalUrl": "https://music.apple.com/us/song/beauty-and-a-beat-feat-nicki-minaj/1440650961",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1440650961",
+      "attributes": {
+        "album": "Believe (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "54",
+        "explicit": false
+      },
+      "evidenceText": "Beauty and a Beat (feat. Nicki Minaj) 54 Justin Bieber Believe (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "Sign of the Times",
+      "canonicalUrl": "https://music.apple.com/us/song/sign-of-the-times/1226034393",
+      "creator": "Harry Styles",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1226034393",
+      "attributes": {
+        "album": "Harry Styles",
+        "duration": "5:40",
+        "durationIso": "PT5M40S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "Sign of the Times 55 Harry Styles Harry Styles PREVIEW 5:40"
+    },
+    {
+      "title": "Live Forever (Remastered)",
+      "canonicalUrl": "https://music.apple.com/us/song/live-forever-remastered/1525936196",
+      "creator": "Oasis",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/af/e3/00afe365-35f8-04cb-379a-e12abead71cd/5051961070132.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1525936196",
+      "attributes": {
+        "album": "Definitely Maybe (Deluxe Edition Remastered)",
+        "duration": "4:36",
+        "durationIso": "PT4M36S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "Live Forever (Remastered) 56 Oasis Definitely Maybe (Deluxe Edition Remastered) PREVIEW 4:36"
+    },
+    {
+      "title": "Perfect",
+      "canonicalUrl": "https://music.apple.com/us/song/perfect/1193701400",
+      "creator": "Ed Sheeran",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1193701400",
+      "attributes": {
+        "album": "÷ (Deluxe)",
+        "duration": "4:23",
+        "durationIso": "PT4M23S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "Perfect 57 Ed Sheeran ÷ (Deluxe) PREVIEW 4:23"
+    },
+    {
+      "title": "Jamaican (Bam Bam)",
+      "canonicalUrl": "https://music.apple.com/us/song/jamaican-bam-bam/1883679876",
+      "creator": "HUGEL, SOLTO (FR)",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1883679876",
+      "attributes": {
+        "album": "Jamaican (Bam Bam) - Single",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "Jamaican (Bam Bam) 58 HUGEL, SOLTO (FR) Jamaican (Bam Bam) - Single PREVIEW 2:36"
+    },
+    {
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "canonicalUrl": "https://music.apple.com/us/song/i-knew-it-i-knew-you-from-toy-story-5/6775527443",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6775527443",
+      "attributes": {
+        "album": "I Knew It, I Knew You (From \"Toy Story 5\") - Single",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "59",
+        "explicit": false
+      },
+      "evidenceText": "I Knew It, I Knew You (From \"Toy Story 5\") 59 Taylor Swift I Knew It, I Knew You (From \"Toy Story 5\") - Single PREVIEW 2:58"
+    },
+    {
+      "title": "Willing and Able",
+      "canonicalUrl": "https://music.apple.com/us/song/willing-and-able/6762757738",
+      "creator": "Noah Kahan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/aa/69/f9aa6992-40ca-a756-85ca-b27c48f7c720/26UMGIM02802.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6762757738",
+      "attributes": {
+        "album": "The Great Divide: The Last Of The Bugs",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "60",
+        "explicit": true
+      },
+      "evidenceText": "Willing and Able 60 Noah Kahan The Great Divide: The Last Of The Bugs PREVIEW 4:57"
+    },
+    {
+      "title": "Stick Season",
+      "canonicalUrl": "https://music.apple.com/us/song/stick-season/1632285403",
+      "creator": "Noah Kahan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8d/25/8e/8d258e09-7395-998f-23ed-82b0433b0518/22UMGIM71396.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1632285403",
+      "attributes": {
+        "album": "Stick Season - Single",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "61",
+        "explicit": false
+      },
+      "evidenceText": "Stick Season 61 Noah Kahan Stick Season - Single PREVIEW 3:02"
+    },
+    {
+      "title": "Hold On, We're Going Home (feat. Majid Jordan)",
+      "canonicalUrl": "https://music.apple.com/us/song/hold-on-were-going-home-feat-majid-jordan/1440829630",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1440829630",
+      "attributes": {
+        "album": "Nothing Was the Same (Deluxe)",
+        "duration": "3:51",
+        "durationIso": "PT3M51S",
+        "chartPosition": "62",
+        "explicit": false
+      },
+      "evidenceText": "Hold On, We're Going Home (feat. Majid Jordan) 62 Drake Nothing Was the Same (Deluxe) PREVIEW 3:51"
+    },
+    {
+      "title": "Lush Life",
+      "canonicalUrl": "https://music.apple.com/us/song/lush-life/1201058113",
+      "creator": "Zara Larsson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/e6/3b/74e63bb4-d593-f926-85c7-df3ca43fcf3f/886446183473.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1201058113",
+      "attributes": {
+        "album": "So Good",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "Lush Life 63 Zara Larsson So Good PREVIEW 3:20"
+    },
+    {
+      "title": "Champagne Supernova (Remastered)",
+      "canonicalUrl": "https://music.apple.com/us/song/champagne-supernova-remastered/1525933850",
+      "creator": "Oasis",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1525933850",
+      "attributes": {
+        "album": "(What's The Story) Morning Glory? [Deluxe Remastered Edition]",
+        "duration": "7:29",
+        "durationIso": "PT7M29S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "Champagne Supernova (Remastered) 64 Oasis (What's The Story) Morning Glory? [Deluxe Remastered Edition] PREVIEW 7:29"
+    },
+    {
+      "title": "The Chain",
+      "canonicalUrl": "https://music.apple.com/us/song/the-chain/651880159",
+      "creator": "Fleetwood Mac",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2a/eb/dc/2aebdc18-c2c0-0fdd-fb85-07538a925700/603497925766.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "651880159",
+      "attributes": {
+        "album": "Rumours (Super Deluxe Edition)",
+        "duration": "4:30",
+        "durationIso": "PT4M30S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "The Chain 65 Fleetwood Mac Rumours (Super Deluxe Edition) PREVIEW 4:30"
+    },
+    {
+      "title": "That’s So True",
+      "canonicalUrl": "https://music.apple.com/us/song/thats-so-true/1773474483",
+      "creator": "Gracie Abrams",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1773474483",
+      "attributes": {
+        "album": "The Secret of Us (Deluxe)",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "66",
+        "explicit": true
+      },
+      "evidenceText": "That’s So True 66 Gracie Abrams The Secret of Us (Deluxe) PREVIEW 2:46"
+    },
+    {
+      "title": "drop dead",
+      "canonicalUrl": "https://music.apple.com/us/song/drop-dead/1889992113",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1889992113",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "drop dead 67 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:44"
+    },
+    {
+      "title": "Castle on the Hill",
+      "canonicalUrl": "https://music.apple.com/us/song/castle-on-the-hill/1193701328",
+      "creator": "Ed Sheeran",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1193701328",
+      "attributes": {
+        "album": "÷ (Deluxe)",
+        "duration": "4:21",
+        "durationIso": "PT4M21S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "Castle on the Hill 68 Ed Sheeran ÷ (Deluxe) PREVIEW 4:21"
+    },
+    {
+      "title": "Pure",
+      "canonicalUrl": "https://music.apple.com/us/song/pure/6769552686",
+      "creator": "SIENNA SPIRO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6769552686",
+      "attributes": {
+        "album": "Visitor (Deluxe)",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "69",
+        "explicit": false
+      },
+      "evidenceText": "Pure 69 SIENNA SPIRO Visitor (Deluxe) PREVIEW 3:39"
+    },
+    {
+      "title": "Animal",
+      "canonicalUrl": "https://music.apple.com/us/song/animal/1891779776",
+      "creator": "KATSEYE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/28/92/e22892a7-fe88-72cf-ecba-691030dfcf7e/26UMGIM41151.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1891779776",
+      "attributes": {
+        "album": "WILD - EP",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "Animal 70 KATSEYE WILD - EP PREVIEW 2:38"
+    },
+    {
+      "title": "Into You",
+      "canonicalUrl": "https://music.apple.com/us/song/into-you/1568020292",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6e/40/14/6e401443-8c15-2f21-4d2c-effe972c3838/16UMGIM30042.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1568020292",
+      "attributes": {
+        "album": "Dangerous Woman (Bonus Tracks Edition)",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "Into You 71 Ariana Grande Dangerous Woman (Bonus Tracks Edition) PREVIEW 4:04"
+    },
+    {
+      "title": "Golden",
+      "canonicalUrl": "https://music.apple.com/us/song/golden/1820264150",
+      "creator": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1820264150",
+      "attributes": {
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "duration": "3:14",
+        "durationIso": "PT3M14S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "Golden 72 HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast KPop Demon Hunters (Soundtrack from the Netflix Film) PREVIEW 3:14"
+    },
+    {
+      "title": "Lose Control",
+      "canonicalUrl": "https://music.apple.com/us/song/lose-control/1691699836",
+      "creator": "Teddy Swims",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1691699836",
+      "attributes": {
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "Lose Control 73 Teddy Swims I've Tried Everything But Therapy (Part 1) PREVIEW 3:30"
+    },
+    {
+      "title": "Good Girl",
+      "canonicalUrl": "https://music.apple.com/us/song/good-girl/6785909848",
+      "creator": "Cloonee, Prospa, Tristan Henry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/f2/2f/0bf22fd7-ef5d-cb6a-91ce-40d54aff5b85/13180.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6785909848",
+      "attributes": {
+        "album": "Good Girl - Single",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "74",
+        "explicit": false
+      },
+      "evidenceText": "Good Girl 74 Cloonee, Prospa, Tristan Henry Good Girl - Single PREVIEW 3:01"
+    },
+    {
+      "title": "Viva La Vida",
+      "canonicalUrl": "https://music.apple.com/us/song/viva-la-vida/1122773680",
+      "creator": "Coldplay",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1122773680",
+      "attributes": {
+        "album": "Viva La Vida or Death and All His Friends",
+        "duration": "4:01",
+        "durationIso": "PT4M1S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Viva La Vida 75 Coldplay Viva La Vida or Death and All His Friends PREVIEW 4:01"
+    },
+    {
+      "title": "A Couple Minutes",
+      "canonicalUrl": "https://music.apple.com/us/song/a-couple-minutes/1817609514",
+      "creator": "Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1817609514",
+      "attributes": {
+        "album": "The Art of Loving",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "76",
+        "explicit": false
+      },
+      "evidenceText": "A Couple Minutes 76 Olivia Dean The Art of Loving PREVIEW 3:32"
+    },
+    {
+      "title": "Sue me",
+      "canonicalUrl": "https://music.apple.com/us/song/sue-me/1826575254",
+      "creator": "Audrey Hobert",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/22/e9/4f22e913-135c-4381-71e6-943166042ac0/196873025001.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1826575254",
+      "attributes": {
+        "album": "Who's the Clown?",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "77",
+        "explicit": true
+      },
+      "evidenceText": "Sue me 77 Audrey Hobert Who's the Clown? PREVIEW 2:50"
+    },
+    {
+      "title": "Shape of You",
+      "canonicalUrl": "https://music.apple.com/us/song/shape-of-you/1193701392",
+      "creator": "Ed Sheeran",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1193701392",
+      "attributes": {
+        "album": "÷ (Deluxe)",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "78",
+        "explicit": false
+      },
+      "evidenceText": "Shape of You 78 Ed Sheeran ÷ (Deluxe) PREVIEW 3:53"
+    },
+    {
+      "title": "Last Thing You Need",
+      "canonicalUrl": "https://music.apple.com/us/song/last-thing-you-need/6812477290",
+      "creator": "Morgan Wallen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6812477290",
+      "attributes": {
+        "album": "Grand Theft Auto VI: The Album",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "79",
+        "explicit": false
+      },
+      "evidenceText": "Last Thing You Need 79 Morgan Wallen Grand Theft Auto VI: The Album PREVIEW 3:16"
+    },
+    {
+      "title": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-life-of-a-showgirl-feat-sabrina-carpenter/1833329007",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1833329007",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "4:01",
+        "durationIso": "PT4M1S",
+        "chartPosition": "80",
+        "explicit": true
+      },
+      "evidenceText": "The Life of a Showgirl (feat. Sabrina Carpenter) 80 Taylor Swift The Life of a Showgirl PREVIEW 4:01"
+    },
+    {
+      "title": "One Kiss",
+      "canonicalUrl": "https://music.apple.com/us/song/one-kiss/1364709436",
+      "creator": "Calvin Harris, Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/91/2a/7b/912a7bdb-c2f6-b887-9392-49728fece0df/886447044360.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1364709436",
+      "attributes": {
+        "album": "One Kiss - Single",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "81",
+        "explicit": false
+      },
+      "evidenceText": "One Kiss 81 Calvin Harris, Dua Lipa One Kiss - Single PREVIEW 3:34"
+    },
+    {
+      "title": "Naive",
+      "canonicalUrl": "https://music.apple.com/us/song/naive/1442991302",
+      "creator": "The Kooks",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d0/ca/50/d0ca50f0-4ad1-590f-9c0c-f83051496b1b/17UMGIM81124.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1442991302",
+      "attributes": {
+        "album": "The Best of... So Far (Deluxe)",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "Naive 82 The Kooks The Best of... So Far (Deluxe) PREVIEW 3:25"
+    },
+    {
+      "title": "Orbiter",
+      "canonicalUrl": "https://music.apple.com/us/song/orbiter/6762757958",
+      "creator": "Noah Kahan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/aa/69/f9aa6992-40ca-a756-85ca-b27c48f7c720/26UMGIM02802.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "6762757958",
+      "attributes": {
+        "album": "The Great Divide: The Last Of The Bugs",
+        "duration": "4:46",
+        "durationIso": "PT4M46S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "Orbiter 83 Noah Kahan The Great Divide: The Last Of The Bugs PREVIEW 4:46"
+    },
+    {
+      "title": "Sex On Fire",
+      "canonicalUrl": "https://music.apple.com/us/song/sex-on-fire/290303003",
+      "creator": "Kings of Leon",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/74/25/4c/74254c8b-e03d-44e8-304d-4cde508b8cfb/dj.swemfdrr.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "290303003",
+      "attributes": {
+        "album": "Only By the Night",
+        "duration": "3:23",
+        "durationIso": "PT3M23S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "Sex On Fire 84 Kings of Leon Only By the Night PREVIEW 3:23"
+    },
+    {
+      "title": "Do I Wanna Know?",
+      "canonicalUrl": "https://music.apple.com/us/song/do-i-wanna-know/663097965",
+      "creator": "Arctic Monkeys",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/9c/b5/699cb5d6-115c-ff73-9d26-e57ea4350d72/887828031795.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "663097965",
+      "attributes": {
+        "album": "AM",
+        "duration": "4:32",
+        "durationIso": "PT4M32S",
+        "chartPosition": "85",
+        "explicit": false
+      },
+      "evidenceText": "Do I Wanna Know? 85 Arctic Monkeys AM PREVIEW 4:32"
+    },
+    {
+      "title": "ocean eyes",
+      "canonicalUrl": "https://music.apple.com/us/song/ocean-eyes/1440899467",
+      "creator": "Billie Eilish",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1440899467",
+      "attributes": {
+        "album": "dont smile at me",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "ocean eyes 86 Billie Eilish dont smile at me PREVIEW 3:20"
+    },
+    {
+      "title": "Someone You Loved",
+      "canonicalUrl": "https://music.apple.com/us/song/someone-you-loved/1441539154",
+      "creator": "Lewis Capaldi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/f7/af/05f7af37-526e-5e6e-e4cd-9e4bc3da0756/18UMGIM52528.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1441539154",
+      "attributes": {
+        "album": "Breach - EP",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "87",
+        "explicit": false
+      },
+      "evidenceText": "Someone You Loved 87 Lewis Capaldi Breach - EP PREVIEW 3:02"
+    },
+    {
+      "title": "Dog Days Are Over",
+      "canonicalUrl": "https://music.apple.com/us/song/dog-days-are-over/1470593922",
+      "creator": "Florence + the Machine",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/f6/4d/b7f64deb-fb74-95aa-81e6-729e5cc38ce8/09UMGIM14223.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1470593922",
+      "attributes": {
+        "album": "Lungs (Digital Deluxe Version)",
+        "duration": "4:12",
+        "durationIso": "PT4M12S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "Dog Days Are Over 88 Florence + the Machine Lungs (Digital Deluxe Version) PREVIEW 4:12"
+    },
+    {
+      "title": "Baby Steps",
+      "canonicalUrl": "https://music.apple.com/us/song/baby-steps/1817609513",
+      "creator": "Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1817609513",
+      "attributes": {
+        "album": "The Art of Loving",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "Baby Steps 89 Olivia Dean The Art of Loving PREVIEW 3:17"
+    },
+    {
+      "title": "Galway Girl",
+      "canonicalUrl": "https://music.apple.com/us/song/galway-girl/1193701436",
+      "creator": "Ed Sheeran",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1193701436",
+      "attributes": {
+        "album": "÷ (Deluxe)",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "Galway Girl 90 Ed Sheeran ÷ (Deluxe) PREVIEW 2:50"
+    },
+    {
+      "title": "Go Your Own Way",
+      "canonicalUrl": "https://music.apple.com/us/song/go-your-own-way/651880157",
+      "creator": "Fleetwood Mac",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2a/eb/dc/2aebdc18-c2c0-0fdd-fb85-07538a925700/603497925766.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "651880157",
+      "attributes": {
+        "album": "Rumours (Super Deluxe Edition)",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "Go Your Own Way 91 Fleetwood Mac Rumours (Super Deluxe Edition) PREVIEW 3:43"
+    },
+    {
+      "title": "Ruin The Friendship",
+      "canonicalUrl": "https://music.apple.com/us/song/ruin-the-friendship/1833328849",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1833328849",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "Ruin The Friendship 92 Taylor Swift The Life of a Showgirl PREVIEW 3:40"
+    },
+    {
+      "title": "Creep",
+      "canonicalUrl": "https://music.apple.com/us/song/creep/1097862231",
+      "creator": "Radiohead",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/a4/ec/78a4ec7b-c6d6-c9c8-441b-660486e56a89/634904077969.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1097862231",
+      "attributes": {
+        "album": "Pablo Honey",
+        "duration": "3:58",
+        "durationIso": "PT3M58S",
+        "chartPosition": "93",
+        "explicit": true
+      },
+      "evidenceText": "Creep 93 Radiohead Pablo Honey PREVIEW 3:58"
+    },
+    {
+      "title": "Espresso",
+      "canonicalUrl": "https://music.apple.com/us/song/espresso/1740212434",
+      "creator": "Sabrina Carpenter",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1740212434",
+      "attributes": {
+        "album": "Espresso - Single",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "94",
+        "explicit": true
+      },
+      "evidenceText": "Espresso 94 Sabrina Carpenter Espresso - Single PREVIEW 2:55"
+    },
+    {
+      "title": "A Bar Song (Tipsy)",
+      "canonicalUrl": "https://music.apple.com/us/song/a-bar-song-tipsy/1737085899",
+      "creator": "Shaboozey",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1737085899",
+      "attributes": {
+        "album": "Where I've Been, Isn't Where I'm Going",
+        "duration": "2:51",
+        "durationIso": "PT2M51S",
+        "chartPosition": "95",
+        "explicit": true
+      },
+      "evidenceText": "A Bar Song (Tipsy) 95 Shaboozey Where I've Been, Isn't Where I'm Going PREVIEW 2:51"
+    },
+    {
+      "title": "White Noise For Babies",
+      "canonicalUrl": "https://music.apple.com/us/song/white-noise-for-babies/370852475",
+      "creator": "White Noise",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f1/dc/26/f1dc26be-52e4-1841-6315-bed85e378814/mzi.tnqrjxwg.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "370852475",
+      "attributes": {
+        "album": "White Noise",
+        "duration": "30:03",
+        "durationIso": "PT30M3S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "White Noise For Babies 96 White Noise White Noise PREVIEW 30:03"
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "canonicalUrl": "https://music.apple.com/us/song/smells-like-teen-spirit/1440783625",
+      "creator": "Nirvana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1440783625",
+      "attributes": {
+        "album": "Nevermind",
+        "duration": "5:01",
+        "durationIso": "PT5M1S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "Smells Like Teen Spirit 97 Nirvana Nevermind PREVIEW 5:01"
+    },
+    {
+      "title": "How Deep Is Your Love",
+      "canonicalUrl": "https://music.apple.com/us/song/how-deep-is-your-love/1001677305",
+      "creator": "Calvin Harris, Disciples",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/5c/85/045c85d9-94cb-a9c7-f39b-aa5b7e803c04/dj.dkdebfmh.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1001677305",
+      "attributes": {
+        "album": "How Deep Is Your Love - Single",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "98",
+        "explicit": false
+      },
+      "evidenceText": "How Deep Is Your Love 98 Calvin Harris, Disciples How Deep Is Your Love - Single PREVIEW 3:32"
+    },
+    {
+      "title": "Doors",
+      "canonicalUrl": "https://music.apple.com/us/song/doors/1872239879",
+      "creator": "Noah Kahan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/9c/40/9a9c40b0-0ef2-5bc5-6c25-250862e48f77/26UMGIM02802.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1872239879",
+      "attributes": {
+        "album": "The Great Divide",
+        "duration": "3:51",
+        "durationIso": "PT3M51S",
+        "chartPosition": "99",
+        "explicit": true
+      },
+      "evidenceText": "Doors 99 Noah Kahan The Great Divide PREVIEW 3:51"
+    },
+    {
+      "title": "Actually Romantic",
+      "canonicalUrl": "https://music.apple.com/us/song/actually-romantic/1833328850",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: UK",
+      "externalId": "1833328850",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "100",
+        "explicit": true
+      },
+      "evidenceText": "Actually Romantic 100 Taylor Swift The Life of a Showgirl PREVIEW 2:43"
+    }
+  ]
+}

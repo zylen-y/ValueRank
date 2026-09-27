@@ -1,0 +1,6 @@
+- heading "잠시만 기다려 주세요" [level=1, ref=e1]
+- Iframe "Widget containing a Cloudflare security challenge" [ref=e2]
+  - checkbox "Verify you are human" [checked=false, ref=e6]
+  - link "Cloudflare, opens in a new tab" [ref=e3]
+  - link "Privacy, opens in a new tab" [ref=e4]
+  - link "Help, opens in a new tab" [ref=e5]

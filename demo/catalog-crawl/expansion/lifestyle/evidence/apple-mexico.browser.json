@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+  "collection": "Top 100: Mexico",
+  "fetchedAt": "2026-09-27T03:39:42.022Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "OLIVIA LA FLAKA",
+      "canonicalUrl": "https://music.apple.com/us/song/olivia-la-flaka/6814967656",
+      "creator": "Natanael Cano, Tito Double P, Victor Mendivil, Ovi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/b4/32/70b4321e-d887-b60c-c413-50513d7a5585/196874816158.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6814967656",
+      "attributes": {
+        "album": "OLIVIA LA FLAKA - Single",
+        "duration": "5:36",
+        "durationIso": "PT5M36S",
+        "chartPosition": "1",
+        "explicit": true
+      },
+      "evidenceText": "OLIVIA LA FLAKA 1 Natanael Cano, Tito Double P, Victor Mendivil, Ovi OLIVIA LA FLAKA - Single PREVIEW 5:36"
+    },
+    {
+      "title": "BbY WOW",
+      "canonicalUrl": "https://music.apple.com/us/song/bby-wow/6796864754",
+      "creator": "KAROL G, Judeline, rusowsky",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6796864754",
+      "attributes": {
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "BbY WOW 2 KAROL G, Judeline, rusowsky NO ME ARREPIENTO DE SENTIR TANTO PREVIEW 3:45"
+    },
+    {
+      "title": "RIKI",
+      "canonicalUrl": "https://music.apple.com/us/song/riki/6795731291",
+      "creator": "Neton Vega",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/27/8a/fa278a65-c906-322a-b26a-352e59e50f6f/1963624838673_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6795731291",
+      "attributes": {
+        "album": "RIKI - Single",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "RIKI 3 Neton Vega RIKI - Single PREVIEW 3:03"
+    },
+    {
+      "title": "TU SANCHO",
+      "canonicalUrl": "https://music.apple.com/us/song/tu-sancho/1804142885",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/0a/a3/510aa39f-7a41-b53c-70a0-6a0df60645bb/196872995978.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1804142885",
+      "attributes": {
+        "album": "111XPANTIA",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "4",
+        "explicit": true
+      },
+      "evidenceText": "TU SANCHO 4 Fuerza Regida 111XPANTIA PREVIEW 2:57"
+    },
+    {
+      "title": "Te Estoy Correteando",
+      "canonicalUrl": "https://music.apple.com/us/song/te-estoy-correteando/6796842545",
+      "creator": "LATIN MAFIA, Fred again..",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/52/6e/90526e94-89c7-8387-458f-1972f7995d48/1200214495824.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6796842545",
+      "attributes": {
+        "album": "9 months & 50 hours",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "Te Estoy Correteando 5 LATIN MAFIA, Fred again.. 9 months & 50 hours PREVIEW 3:13"
+    },
+    {
+      "title": "Yonaguni",
+      "canonicalUrl": "https://music.apple.com/us/song/yonaguni/1570323056",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1570323056",
+      "attributes": {
+        "album": "Yonaguni - Single",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "6",
+        "explicit": true
+      },
+      "evidenceText": "Yonaguni 6 Bad Bunny Yonaguni - Single PREVIEW 3:26"
+    },
+    {
+      "title": "EXCESOS",
+      "canonicalUrl": "https://music.apple.com/us/song/excesos/1712363845",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/e3/b7/21e3b74f-571b-07ce-567b-a2aa8274c7b2/196871548922.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1712363845",
+      "attributes": {
+        "album": "Pa las Baby's Y Belikeada",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "EXCESOS 7 Fuerza Regida Pa las Baby's Y Belikeada PREVIEW 3:07"
+    },
+    {
+      "title": "gervonta",
+      "canonicalUrl": "https://music.apple.com/us/song/gervonta/1783250950",
+      "creator": "Peso Pluma",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/ed/a6/39eda6fa-33fc-76da-238e-454c5ad8b73c/199066114025.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1783250950",
+      "attributes": {
+        "album": "gervonta - Single",
+        "duration": "2:47",
+        "durationIso": "PT2M47S",
+        "chartPosition": "8",
+        "explicit": true
+      },
+      "evidenceText": "gervonta 8 Peso Pluma gervonta - Single PREVIEW 2:47"
+    },
+    {
+      "title": "Mar Azul",
+      "canonicalUrl": "https://music.apple.com/us/song/mar-azul/6797946321",
+      "creator": "Natanael Cano",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/4f/81/b94f81a4-00f3-4cc1-3257-0fdc763cdb9e/196874661499.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6797946321",
+      "attributes": {
+        "album": "Natanael Cano, Vol.1",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "9",
+        "explicit": false
+      },
+      "evidenceText": "Mar Azul 9 Natanael Cano Natanael Cano, Vol.1 PREVIEW 3:41"
+    },
+    {
+      "title": "HOLLYWOOD",
+      "canonicalUrl": "https://music.apple.com/us/song/hollywood/1748016028",
+      "creator": "Peso Pluma, Estevan Plazola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1748016028",
+      "attributes": {
+        "album": "ÉXODO",
+        "duration": "4:44",
+        "durationIso": "PT4M44S",
+        "chartPosition": "10",
+        "explicit": true
+      },
+      "evidenceText": "HOLLYWOOD 10 Peso Pluma, Estevan Plazola ÉXODO PREVIEW 4:44"
+    },
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 11 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Marlboro Rojo",
+      "canonicalUrl": "https://music.apple.com/us/song/marlboro-rojo/1804142886",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/0a/a3/510aa39f-7a41-b53c-70a0-6a0df60645bb/196872995978.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1804142886",
+      "attributes": {
+        "album": "111XPANTIA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "12",
+        "explicit": true
+      },
+      "evidenceText": "Marlboro Rojo 12 Fuerza Regida 111XPANTIA PREVIEW 3:04"
+    },
+    {
+      "title": "King of Watches",
+      "canonicalUrl": "https://music.apple.com/us/song/king-of-watches/6770710132",
+      "creator": "Omar Camacho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/03/1f/80031f12-fb82-924b-48c1-2c34dda8b95e/1200214033859.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6770710132",
+      "attributes": {
+        "album": "Nunca Voy a Morir",
+        "duration": "2:27",
+        "durationIso": "PT2M27S",
+        "chartPosition": "13",
+        "explicit": true
+      },
+      "evidenceText": "King of Watches 13 Omar Camacho Nunca Voy a Morir PREVIEW 2:27"
+    },
+    {
+      "title": "Efecto",
+      "canonicalUrl": "https://music.apple.com/us/song/efecto/1622045954",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1622045954",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "14",
+        "explicit": true
+      },
+      "evidenceText": "Efecto 14 Bad Bunny Un Verano Sin Ti PREVIEW 3:33"
+    },
+    {
+      "title": "ANSIEDAD",
+      "canonicalUrl": "https://music.apple.com/us/song/ansiedad/1804142884",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/0a/a3/510aa39f-7a41-b53c-70a0-6a0df60645bb/196872995978.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1804142884",
+      "attributes": {
+        "album": "111XPANTIA",
+        "duration": "2:31",
+        "durationIso": "PT2M31S",
+        "chartPosition": "15",
+        "explicit": true
+      },
+      "evidenceText": "ANSIEDAD 15 Fuerza Regida 111XPANTIA PREVIEW 2:31"
+    },
+    {
+      "title": "SUPERESTRELLA",
+      "canonicalUrl": "https://music.apple.com/us/song/superestrella/1814146675",
+      "creator": "Aitana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1814146675",
+      "attributes": {
+        "album": "CUARTO AZUL",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "16",
+        "explicit": true
+      },
+      "evidenceText": "SUPERESTRELLA 16 Aitana CUARTO AZUL PREVIEW 3:03"
+    },
+    {
+      "title": "PIÉNSALO",
+      "canonicalUrl": "https://music.apple.com/us/song/pi%C3%A9nsalo/1709356909",
+      "creator": "Junior H",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/13/2c/d3132c40-fb9c-e02e-50d8-cd66c24f4020/5054197834332.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1709356909",
+      "attributes": {
+        "album": "$AD BOYZ 4 LIFE II",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "17",
+        "explicit": true
+      },
+      "evidenceText": "PIÉNSALO 17 Junior H $AD BOYZ 4 LIFE II PREVIEW 4:00"
+    },
+    {
+      "title": "Dandy Hats",
+      "canonicalUrl": "https://music.apple.com/us/song/dandy-hats/6790503589",
+      "creator": "El Rabbanito",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/8a/47/778a471d-f657-8a9e-0816-e82a9e83ac7a/1099.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6790503589",
+      "attributes": {
+        "album": "Dandy Hats - Single",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "Dandy Hats 18 El Rabbanito Dandy Hats - Single PREVIEW 2:50"
+    },
+    {
+      "title": "NEL",
+      "canonicalUrl": "https://music.apple.com/us/song/nel/1759045296",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1759045296",
+      "attributes": {
+        "album": "PERO NO TE ENAMORES",
+        "duration": "2:29",
+        "durationIso": "PT2M29S",
+        "chartPosition": "19",
+        "explicit": true
+      },
+      "evidenceText": "NEL 19 Fuerza Regida PERO NO TE ENAMORES PREVIEW 2:29"
+    },
+    {
+      "title": "Por Esos Ojos",
+      "canonicalUrl": "https://music.apple.com/us/song/por-esos-ojos/1811903397",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/8a/7b/848a7b8e-c817-97ae-1f43-1b11d9a23530/196873013855.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1811903397",
+      "attributes": {
+        "album": "111XPANTIA (Deluxe)",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "20",
+        "explicit": true
+      },
+      "evidenceText": "Por Esos Ojos 20 Fuerza Regida 111XPANTIA (Deluxe) PREVIEW 3:08"
+    },
+    {
+      "title": "ME JALO",
+      "canonicalUrl": "https://music.apple.com/us/song/me-jalo/1786262012",
+      "creator": "Fuerza Regida, Grupo Frontera",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/96/9e/ba969e5d-857d-bbda-08e2-edc08642d188/196872772869.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1786262012",
+      "attributes": {
+        "album": "MALA MÍA - EP",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "21",
+        "explicit": true
+      },
+      "evidenceText": "ME JALO 21 Fuerza Regida, Grupo Frontera MALA MÍA - EP PREVIEW 3:32"
+    },
+    {
+      "title": "Ojitos Lindos",
+      "canonicalUrl": "https://music.apple.com/us/song/ojitos-lindos/1622045962",
+      "creator": "Bad Bunny, Bomba Estéreo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1622045962",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "22",
+        "explicit": false
+      },
+      "evidenceText": "Ojitos Lindos 22 Bad Bunny, Bomba Estéreo Un Verano Sin Ti PREVIEW 4:18"
+    },
+    {
+      "title": "Y LLORO",
+      "canonicalUrl": "https://music.apple.com/us/song/y-lloro/1709356377",
+      "creator": "Junior H",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/13/2c/d3132c40-fb9c-e02e-50d8-cd66c24f4020/5054197834332.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1709356377",
+      "attributes": {
+        "album": "$AD BOYZ 4 LIFE II",
+        "duration": "2:59",
+        "durationIso": "PT2M59S",
+        "chartPosition": "23",
+        "explicit": true
+      },
+      "evidenceText": "Y LLORO 23 Junior H $AD BOYZ 4 LIFE II PREVIEW 2:59"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 24 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "LA CHERRY",
+      "canonicalUrl": "https://music.apple.com/us/song/la-cherry/1709356257",
+      "creator": "Junior H",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/13/2c/d3132c40-fb9c-e02e-50d8-cd66c24f4020/5054197834332.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1709356257",
+      "attributes": {
+        "album": "$AD BOYZ 4 LIFE II",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "25",
+        "explicit": true
+      },
+      "evidenceText": "LA CHERRY 25 Junior H $AD BOYZ 4 LIFE II PREVIEW 3:32"
+    },
+    {
+      "title": "LADY GAGA",
+      "canonicalUrl": "https://music.apple.com/us/song/lady-gaga/1694412892",
+      "creator": "Peso Pluma, Gabito Ballesteros, Junior H",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/72/77/a77277f4-9b2e-0890-4707-31c1ac394c66/197189111396.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1694412892",
+      "attributes": {
+        "album": "GÉNESIS",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "26",
+        "explicit": true
+      },
+      "evidenceText": "LADY GAGA 26 Peso Pluma, Gabito Ballesteros, Junior H GÉNESIS PREVIEW 3:32"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "27",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 27 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Vete",
+      "canonicalUrl": "https://music.apple.com/us/song/vete/1500776923",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1500776923",
+      "attributes": {
+        "album": "YHLQMDLG",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "28",
+        "explicit": true
+      },
+      "evidenceText": "Vete 28 Bad Bunny YHLQMDLG PREVIEW 3:12"
+    },
+    {
+      "title": "TÚ NAME",
+      "canonicalUrl": "https://music.apple.com/us/song/t%C3%BA-name/1728939096",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/39/db/2e39db39-bf85-df59-c4c5-22391beeacf8/196871825177.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1728939096",
+      "attributes": {
+        "album": "Dolido Pero No Arrepentido - EP",
+        "duration": "2:32",
+        "durationIso": "PT2M32S",
+        "chartPosition": "29",
+        "explicit": false
+      },
+      "evidenceText": "TÚ NAME 29 Fuerza Regida Dolido Pero No Arrepentido - EP PREVIEW 2:32"
+    },
+    {
+      "title": "EL LOKERON",
+      "canonicalUrl": "https://music.apple.com/us/song/el-lokeron/1761412372",
+      "creator": "Tito Double P",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1761412372",
+      "attributes": {
+        "album": "INCÓMODO",
+        "duration": "2:25",
+        "durationIso": "PT2M25S",
+        "chartPosition": "30",
+        "explicit": true
+      },
+      "evidenceText": "EL LOKERON 30 Tito Double P INCÓMODO PREVIEW 2:25"
+    },
+    {
+      "title": "KOKO",
+      "canonicalUrl": "https://music.apple.com/us/song/koko/1877482633",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1877482633",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "31",
+        "explicit": true
+      },
+      "evidenceText": "KOKO 31 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 3:15"
+    },
+    {
+      "title": "Nalguita y Teta",
+      "canonicalUrl": "https://music.apple.com/us/song/nalguita-y-teta/1887113850",
+      "creator": "Neton Vega",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/94/07/3d94072e-4694-fdc5-2b3d-2b81f2f95b64/1963624427341_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1887113850",
+      "attributes": {
+        "album": "Nalguita y Teta - Single",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "32",
+        "explicit": false
+      },
+      "evidenceText": "Nalguita y Teta 32 Neton Vega Nalguita y Teta - Single PREVIEW 3:07"
+    },
+    {
+      "title": "Disfruto Lo Malo",
+      "canonicalUrl": "https://music.apple.com/us/song/disfruto-lo-malo/1485388192",
+      "creator": "Natanael Cano",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/75/58/f97558cf-9cce-0923-42df-196cc93c901a/050742369545_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1485388192",
+      "attributes": {
+        "album": "Corridos Tumbados",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "Disfruto Lo Malo 33 Natanael Cano Corridos Tumbados PREVIEW 3:07"
+    },
+    {
+      "title": "Table Dance",
+      "canonicalUrl": "https://music.apple.com/us/song/table-dance/1872036896",
+      "creator": "La Santa Grifa, Chino El Don",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/75/b1/8a75b1f5-4037-7303-5925-318166afc8e4/5063857371865_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1872036896",
+      "attributes": {
+        "album": "Table Dance - Single",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "34",
+        "explicit": true
+      },
+      "evidenceText": "Table Dance 34 La Santa Grifa, Chino El Don Table Dance - Single PREVIEW 4:04"
+    },
+    {
+      "title": "Cuando No Era Cantante (Remix)",
+      "canonicalUrl": "https://music.apple.com/us/song/cuando-no-era-cantante-remix/6793698180",
+      "creator": "El Bogueto, Anuel AA, Fuerza Regida, Yung Beef",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/43/a1/7443a10d-3fb6-3030-684d-7282a35a32f9/229593.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6793698180",
+      "attributes": {
+        "album": "Cuando No Era Cantante (Remix) - Single",
+        "duration": "5:27",
+        "durationIso": "PT5M27S",
+        "chartPosition": "35",
+        "explicit": true
+      },
+      "evidenceText": "Cuando No Era Cantante (Remix) 35 El Bogueto, Anuel AA, Fuerza Regida, Yung Beef Cuando No Era Cantante (Remix) - Single PREVIEW 5:27"
+    },
+    {
+      "title": "Loco",
+      "canonicalUrl": "https://music.apple.com/us/song/loco/1785305536",
+      "creator": "Neton Vega",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/ca/a6/40caa6f8-62ad-ef9a-23da-8a6bb24aff6c/1963622794339_cover.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1785305536",
+      "attributes": {
+        "album": "Loco - Single",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "Loco 36 Neton Vega Loco - Single PREVIEW 3:06"
+    },
+    {
+      "title": "daño",
+      "canonicalUrl": "https://music.apple.com/us/song/da%C3%B1o/1861943162",
+      "creator": "Peso Pluma, Tito Double P",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/47/a9/e347a9c6-1cf0-6154-3976-b9dd615e2a83/199806514993.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1861943162",
+      "attributes": {
+        "album": "DINASTÍA",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "37",
+        "explicit": true
+      },
+      "evidenceText": "daño 37 Peso Pluma, Tito Double P DINASTÍA PREVIEW 3:17"
+    },
+    {
+      "title": "DÁKITI",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%A1kiti/1542103620",
+      "creator": "Bad Bunny, JHAYCO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1542103620",
+      "attributes": {
+        "album": "EL ÚLTIMO TOUR DEL MUNDO",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "38",
+        "explicit": true
+      },
+      "evidenceText": "DÁKITI 38 Bad Bunny, JHAYCO EL ÚLTIMO TOUR DEL MUNDO PREVIEW 3:25"
+    },
+    {
+      "title": "Tu Boda",
+      "canonicalUrl": "https://music.apple.com/us/song/tu-boda/1769510706",
+      "creator": "Oscar Maydon, Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f4/2b/e0f42b78-81c3-81a3-aefb-bad4927c21c7/196872471342.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1769510706",
+      "attributes": {
+        "album": "Tu Boda - Single",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "39",
+        "explicit": true
+      },
+      "evidenceText": "Tu Boda 39 Oscar Maydon, Fuerza Regida Tu Boda - Single PREVIEW 3:45"
+    },
+    {
+      "title": "LA PATRULLA",
+      "canonicalUrl": "https://music.apple.com/us/song/la-patrulla/1748015823",
+      "creator": "Peso Pluma, Neton Vega",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1748015823",
+      "attributes": {
+        "album": "ÉXODO",
+        "duration": "2:10",
+        "durationIso": "PT2M10S",
+        "chartPosition": "40",
+        "explicit": true
+      },
+      "evidenceText": "LA PATRULLA 40 Peso Pluma, Neton Vega ÉXODO PREVIEW 2:10"
+    },
+    {
+      "title": "Callaíta",
+      "canonicalUrl": "https://music.apple.com/us/song/calla%C3%ADta/1465503235",
+      "creator": "Bad Bunny, Tainy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/5d/7c/a85d7c43-777a-f2b7-5abc-1e4d59d8fe7c/193483903545.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1465503235",
+      "attributes": {
+        "album": "Callaíta - Single",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "41",
+        "explicit": true
+      },
+      "evidenceText": "Callaíta 41 Bad Bunny, Tainy Callaíta - Single PREVIEW 4:10"
+    },
+    {
+      "title": "Más Altas Que Bajadas",
+      "canonicalUrl": "https://music.apple.com/us/song/m%C3%A1s-altas-que-bajadas/1694995919",
+      "creator": "Natanael Cano",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/a6/ac/15a6ac39-7d03-d487-a20f-97c7edaeba08/5054197720758.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1694995919",
+      "attributes": {
+        "album": "Nata Montana",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "42",
+        "explicit": true
+      },
+      "evidenceText": "Más Altas Que Bajadas 42 Natanael Cano Nata Montana PREVIEW 3:13"
+    },
+    {
+      "title": "La Fórmula",
+      "canonicalUrl": "https://music.apple.com/us/song/la-f%C3%B3rmula/6780591971",
+      "creator": "El Rabbanito",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/d0/b0/45d0b0cd-cc20-40aa-ef3a-01dcaf8d961a/1072.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6780591971",
+      "attributes": {
+        "album": "La Fórmula - Single",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "43",
+        "explicit": true
+      },
+      "evidenceText": "La Fórmula 43 El Rabbanito La Fórmula - Single PREVIEW 2:38"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 44 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Mente Positiva",
+      "canonicalUrl": "https://music.apple.com/us/song/mente-positiva/1514900063",
+      "creator": "Junior H",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b4/a2/b5/b4a2b595-cc68-4809-28f1-14da8bfec643/195081681160.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1514900063",
+      "attributes": {
+        "album": "Atrapado en un Sueño (Deluxe)",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "45",
+        "explicit": true
+      },
+      "evidenceText": "Mente Positiva 45 Junior H Atrapado en un Sueño (Deluxe) PREVIEW 3:12"
+    },
+    {
+      "title": "Dónde estás",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%B3nde-est%C3%A1s/6807134201",
+      "creator": "Barbas, Omar Camacho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/a9/32/b5a932c8-8c14-3011-528b-7fd019196782/823375409649_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6807134201",
+      "attributes": {
+        "album": "Dónde estás - Single",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "46",
+        "explicit": true
+      },
+      "evidenceText": "Dónde estás 46 Barbas, Omar Camacho Dónde estás - Single PREVIEW 2:39"
+    },
+    {
+      "title": "LAS MORRAS",
+      "canonicalUrl": "https://music.apple.com/us/song/las-morras/1694412810",
+      "creator": "Peso Pluma, Blessd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/72/77/a77277f4-9b2e-0890-4707-31c1ac394c66/197189111396.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1694412810",
+      "attributes": {
+        "album": "GÉNESIS",
+        "duration": "2:35",
+        "durationIso": "PT2M35S",
+        "chartPosition": "47",
+        "explicit": true
+      },
+      "evidenceText": "LAS MORRAS 47 Peso Pluma, Blessd GÉNESIS PREVIEW 2:35"
+    },
+    {
+      "title": "Me Porto Bonito",
+      "canonicalUrl": "https://music.apple.com/us/song/me-porto-bonito/1622045634",
+      "creator": "Bad Bunny, Chencho Corleone",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1622045634",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "48",
+        "explicit": true
+      },
+      "evidenceText": "Me Porto Bonito 48 Bad Bunny, Chencho Corleone Un Verano Sin Ti PREVIEW 2:58"
+    },
+    {
+      "title": "Duele el Amor",
+      "canonicalUrl": "https://music.apple.com/us/song/duele-el-amor/724394889",
+      "creator": "Aleks Syntek",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/39/c1/f8/39c1f82e-95d6-82f5-5e5c-136da2e91bed/00724359497051.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "724394889",
+      "attributes": {
+        "album": "Mundo Lite",
+        "duration": "4:35",
+        "durationIso": "PT4M35S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "Duele el Amor 49 Aleks Syntek Mundo Lite PREVIEW 4:35"
+    },
+    {
+      "title": "Brillarosa",
+      "canonicalUrl": "https://music.apple.com/us/song/brillarosa/1728939092",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/39/db/2e39db39-bf85-df59-c4c5-22391beeacf8/196871825177.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1728939092",
+      "attributes": {
+        "album": "Dolido Pero No Arrepentido - EP",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "50",
+        "explicit": false
+      },
+      "evidenceText": "Brillarosa 50 Fuerza Regida Dolido Pero No Arrepentido - EP PREVIEW 2:49"
+    },
+    {
+      "title": "Pacas De Billetes",
+      "canonicalUrl": "https://music.apple.com/us/song/pacas-de-billetes/1694997864",
+      "creator": "Natanael Cano",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/a6/ac/15a6ac39-7d03-d487-a20f-97c7edaeba08/5054197720758.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1694997864",
+      "attributes": {
+        "album": "Nata Montana",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "51",
+        "explicit": true
+      },
+      "evidenceText": "Pacas De Billetes 51 Natanael Cano Nata Montana PREVIEW 3:08"
+    },
+    {
+      "title": "Mi Vida Mi Muerte",
+      "canonicalUrl": "https://music.apple.com/us/song/mi-vida-mi-muerte/1788137706",
+      "creator": "Neton Vega",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/47/79/5e4779d4-a883-b1f0-97b2-5f07a6c43a9f/1963622828386_cover.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1788137706",
+      "attributes": {
+        "album": "Mi Vida Mi Muerte - Single",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "52",
+        "explicit": false
+      },
+      "evidenceText": "Mi Vida Mi Muerte 52 Neton Vega Mi Vida Mi Muerte - Single PREVIEW 2:55"
+    },
+    {
+      "title": "Madonna",
+      "canonicalUrl": "https://music.apple.com/us/song/madonna/1734325495",
+      "creator": "Natanael Cano, Oscar Maydon",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7c/77/32/7c7732f5-3ba1-2e02-8706-b5e7d147350c/5021732251541.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1734325495",
+      "attributes": {
+        "album": "Madonna - Single",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "53",
+        "explicit": true
+      },
+      "evidenceText": "Madonna 53 Natanael Cano, Oscar Maydon Madonna - Single PREVIEW 3:07"
+    },
+    {
+      "title": "Mía",
+      "canonicalUrl": "https://music.apple.com/us/song/m%C3%ADa/1825941882",
+      "creator": "Victor Mendivil, Gabito Ballesteros",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/e6/ba/58e6ba6c-b71f-18eb-ff54-2379de166970/1963623506573_cover.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1825941882",
+      "attributes": {
+        "album": "Tutankamon",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "54",
+        "explicit": true
+      },
+      "evidenceText": "Mía 54 Victor Mendivil, Gabito Ballesteros Tutankamon PREVIEW 3:33"
+    },
+    {
+      "title": "Asquerosamente Rico",
+      "canonicalUrl": "https://music.apple.com/us/song/asquerosamente-rico/1814736418",
+      "creator": "Oscar Maydon, Peso Pluma",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/cd/bc/98cdbccc-335e-ead7-739a-0bba28b9b6af/196873187563.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1814736418",
+      "attributes": {
+        "album": "Rico o Muerto, Vol. 1",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "55",
+        "explicit": true
+      },
+      "evidenceText": "Asquerosamente Rico 55 Oscar Maydon, Peso Pluma Rico o Muerto, Vol. 1 PREVIEW 3:15"
+    },
+    {
+      "title": "Como Jordan",
+      "canonicalUrl": "https://music.apple.com/us/song/como-jordan/1608887407",
+      "creator": "Junior H",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/33/97/1133978a-d03c-2c62-c712-8e2567bbd666/190296227486.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1608887407",
+      "attributes": {
+        "album": "Mi Vida En Un Cigarro 2",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "Como Jordan 56 Junior H Mi Vida En Un Cigarro 2 PREVIEW 3:45"
+    },
+    {
+      "title": "DOS DÍAS",
+      "canonicalUrl": "https://music.apple.com/us/song/dos-d%C3%ADas/1761412603",
+      "creator": "Tito Double P, Peso Pluma",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1761412603",
+      "attributes": {
+        "album": "INCÓMODO",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "57",
+        "explicit": true
+      },
+      "evidenceText": "DOS DÍAS 57 Tito Double P, Peso Pluma INCÓMODO PREVIEW 2:33"
+    },
+    {
+      "title": "LA CANCIÓN",
+      "canonicalUrl": "https://music.apple.com/us/song/la-canci%C3%B3n/1470146813",
+      "creator": "J Balvin, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1470146813",
+      "attributes": {
+        "album": "OASIS",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "LA CANCIÓN 58 J Balvin, Bad Bunny OASIS PREVIEW 4:02"
+    },
+    {
+      "title": "Si No Quieres No",
+      "canonicalUrl": "https://music.apple.com/us/song/si-no-quieres-no/1733069730",
+      "creator": "Luis R Conriquez, Neton Vega",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a4/f9/58/a4f95869-c2cc-0615-237f-7e2a45ede2c3/1963621990404_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1733069730",
+      "attributes": {
+        "album": "Si No Quieres No - Single",
+        "duration": "2:27",
+        "durationIso": "PT2M27S",
+        "chartPosition": "59",
+        "explicit": false
+      },
+      "evidenceText": "Si No Quieres No 59 Luis R Conriquez, Neton Vega Si No Quieres No - Single PREVIEW 2:27"
+    },
+    {
+      "title": "BAILE INoLVIDABLE",
+      "canonicalUrl": "https://music.apple.com/us/song/baile-inolvidable/1787022842",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1787022842",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "6:07",
+        "durationIso": "PT6M7S",
+        "chartPosition": "60",
+        "explicit": true
+      },
+      "evidenceText": "BAILE INoLVIDABLE 60 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 6:07"
+    },
+    {
+      "title": "Dile a El",
+      "canonicalUrl": "https://music.apple.com/us/song/dile-a-el/1536861744",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/85/36/3585365d-4678-0648-1bfd-76ea49ba8c9c/886448841388.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1536861744",
+      "attributes": {
+        "album": "Afrodisíaco",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "61",
+        "explicit": true
+      },
+      "evidenceText": "Dile a El 61 Rauw Alejandro Afrodisíaco PREVIEW 3:29"
+    },
+    {
+      "title": "Qué Onda",
+      "canonicalUrl": "https://music.apple.com/us/song/qu%C3%A9-onda/1705125233",
+      "creator": "Calle 24, Chino Pacas, Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/32/72/2c327216-8562-911a-f6e8-5c268f55afd6/717340552815_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1705125233",
+      "attributes": {
+        "album": "Qué Onda - Single",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "62",
+        "explicit": true
+      },
+      "evidenceText": "Qué Onda 62 Calle 24, Chino Pacas, Fuerza Regida Qué Onda - Single PREVIEW 3:11"
+    },
+    {
+      "title": "Qué Pasaría...",
+      "canonicalUrl": "https://music.apple.com/us/song/qu%C3%A9-pasar%C3%ADa/1775462855",
+      "creator": "Rauw Alejandro, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1775462855",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "63",
+        "explicit": true
+      },
+      "evidenceText": "Qué Pasaría... 63 Rauw Alejandro, Bad Bunny Cosa Nuestra PREVIEW 3:11"
+    },
+    {
+      "title": "Ayúdame",
+      "canonicalUrl": "https://music.apple.com/us/song/ay%C3%BAdame/1880109891",
+      "creator": "LOS DOS DE TAMAULIPAS",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/bf/0c/f0bf0c32-fdb6-312a-b703-e2f30f2c1b0d/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1880109891",
+      "attributes": {
+        "album": "Ayúdame - Single",
+        "duration": "2:41",
+        "durationIso": "PT2M41S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "Ayúdame 64 LOS DOS DE TAMAULIPAS Ayúdame - Single PREVIEW 2:41"
+    },
+    {
+      "title": "M&M",
+      "canonicalUrl": "https://music.apple.com/us/song/m-m/1793946427",
+      "creator": "Neton Vega",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/b8/7b/bfb87bdf-9da6-880f-0fca-f74f22135f5b/1963622918315_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1793946427",
+      "attributes": {
+        "album": "Mi Vida Mi Muerte",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "M&M 65 Neton Vega Mi Vida Mi Muerte PREVIEW 2:46"
+    },
+    {
+      "title": "Pvta Luna",
+      "canonicalUrl": "https://music.apple.com/us/song/pvta-luna/1838021973",
+      "creator": "Neton Vega",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/32/6f/56326f4d-a310-6ed8-ef13-3a0659556780/1963623763280_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1838021973",
+      "attributes": {
+        "album": "Pvta Luna - Single",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "Pvta Luna 66 Neton Vega Pvta Luna - Single PREVIEW 3:18"
+    },
+    {
+      "title": "DEMENCIA",
+      "canonicalUrl": "https://music.apple.com/us/song/demencia/1876715333",
+      "creator": "Junior H, Gael Valenzuela",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/01/31/ff013190-3956-b78b-2387-4c08ff846c57/ticket.bjhwaepu.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1876715333",
+      "attributes": {
+        "album": "DEPR</3$$ED MFKZ",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "DEMENCIA 67 Junior H, Gael Valenzuela DEPR</3$$ED MFKZ PREVIEW 3:41"
+    },
+    {
+      "title": "Martes 13",
+      "canonicalUrl": "https://music.apple.com/us/song/martes-13/1745762986",
+      "creator": "Luis R Conriquez",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/33/c0/5133c085-1756-8420-0230-5cb9b3798763/198588057797.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1745762986",
+      "attributes": {
+        "album": "Martes 13 - Single",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "68",
+        "explicit": true
+      },
+      "evidenceText": "Martes 13 68 Luis R Conriquez Martes 13 - Single PREVIEW 2:43"
+    },
+    {
+      "title": "Khé?",
+      "canonicalUrl": "https://music.apple.com/us/song/kh%C3%A9/1775463293",
+      "creator": "Rauw Alejandro, Romeo Santos",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1775463293",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "69",
+        "explicit": false
+      },
+      "evidenceText": "Khé? 69 Rauw Alejandro, Romeo Santos Cosa Nuestra PREVIEW 3:26"
+    },
+    {
+      "title": "4x4",
+      "canonicalUrl": "https://music.apple.com/us/song/4x4/6770744379",
+      "creator": "Omar Camacho, Victor Mendivil, Angel Almaguer, $HUPE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/92/b5/0392b552-dca6-ada7-cdcc-befc95d49d89/1200214033910.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6770744379",
+      "attributes": {
+        "album": "4x4 - Single",
+        "duration": "4:48",
+        "durationIso": "PT4M48S",
+        "chartPosition": "70",
+        "explicit": true
+      },
+      "evidenceText": "4x4 70 Omar Camacho, Victor Mendivil, Angel Almaguer, $HUPE 4x4 - Single PREVIEW 4:48"
+    },
+    {
+      "title": "Brillo",
+      "canonicalUrl": "https://music.apple.com/us/song/brillo/1616672572",
+      "creator": "Natanael Cano",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/26/32/3c26323f-a8e8-844d-eccb-aa15186a461d/5054197142550.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1616672572",
+      "attributes": {
+        "album": "NataKong",
+        "duration": "2:34",
+        "durationIso": "PT2M34S",
+        "chartPosition": "71",
+        "explicit": true
+      },
+      "evidenceText": "Brillo 71 Natanael Cano NataKong PREVIEW 2:34"
+    },
+    {
+      "title": "RARI",
+      "canonicalUrl": "https://music.apple.com/us/song/rari/1801066726",
+      "creator": "Peso Pluma",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/94/ab/9a94abf3-26ca-c6ea-27fd-1df120127bdb/199066910412.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1801066726",
+      "attributes": {
+        "album": "RARI - Single",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "72",
+        "explicit": true
+      },
+      "evidenceText": "RARI 72 Peso Pluma RARI - Single PREVIEW 2:33"
+    },
+    {
+      "title": "PUES YA NI PEDO",
+      "canonicalUrl": "https://music.apple.com/us/song/pues-ya-ni-pedo/1892534101",
+      "creator": "Chuyin, Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/12/38/6b123892-cb1d-b99b-4eb2-9bccce467a6d/823375110088_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1892534101",
+      "attributes": {
+        "album": "Los Locos Nunca Mueren",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "73",
+        "explicit": true
+      },
+      "evidenceText": "PUES YA NI PEDO 73 Chuyin, Fuerza Regida Los Locos Nunca Mueren PREVIEW 3:21"
+    },
+    {
+      "title": "dopamina",
+      "canonicalUrl": "https://music.apple.com/us/song/dopamina/1861943104",
+      "creator": "Peso Pluma, Tito Double P",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/47/a9/e347a9c6-1cf0-6154-3976-b9dd615e2a83/199806514993.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1861943104",
+      "attributes": {
+        "album": "DINASTÍA",
+        "duration": "3:05",
+        "durationIso": "PT3M5S",
+        "chartPosition": "74",
+        "explicit": true
+      },
+      "evidenceText": "dopamina 74 Peso Pluma, Tito Double P DINASTÍA PREVIEW 3:05"
+    },
+    {
+      "title": "Si Antes Te Hubiera Conocido",
+      "canonicalUrl": "https://music.apple.com/us/song/si-antes-te-hubiera-conocido/1752031539",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1752031539",
+      "attributes": {
+        "album": "Si Antes Te Hubiera Conocido - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Si Antes Te Hubiera Conocido 75 KAROL G Si Antes Te Hubiera Conocido - Single PREVIEW 3:15"
+    },
+    {
+      "title": "DILUVIO",
+      "canonicalUrl": "https://music.apple.com/us/song/diluvio/1695651429",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1695651429",
+      "attributes": {
+        "album": "PLAYA SATURNO",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "76",
+        "explicit": true
+      },
+      "evidenceText": "DILUVIO 76 Rauw Alejandro PLAYA SATURNO PREVIEW 3:17"
+    },
+    {
+      "title": "ESCÁPATE",
+      "canonicalUrl": "https://music.apple.com/us/song/esc%C3%A1pate/1761412893",
+      "creator": "Tito Double P, Chino Pacas",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1761412893",
+      "attributes": {
+        "album": "INCÓMODO",
+        "duration": "2:24",
+        "durationIso": "PT2M24S",
+        "chartPosition": "77",
+        "explicit": true
+      },
+      "evidenceText": "ESCÁPATE 77 Tito Double P, Chino Pacas INCÓMODO PREVIEW 2:24"
+    },
+    {
+      "title": "Q U E V A S H A C E R H O Y ?",
+      "canonicalUrl": "https://music.apple.com/us/song/q-u-e-v-a-s-h-a-c-e-r-h-o-y/1760194559",
+      "creator": "Omar Courtz, De La Rose",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1760194559",
+      "attributes": {
+        "album": "PRIMERA MUSA",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "78",
+        "explicit": true
+      },
+      "evidenceText": "Q U E V A S H A C E R H O Y ? 78 Omar Courtz, De La Rose PRIMERA MUSA PREVIEW 3:44"
+    },
+    {
+      "title": "tuffluv - A COLORS SHOW",
+      "canonicalUrl": "https://music.apple.com/us/song/tuffluv-a-colors-show/6805425221",
+      "creator": "Nsqk",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/d5/ec/c1d5ec72-2050-dace-6a2c-a4c1820a94db/840054916502.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6805425221",
+      "attributes": {
+        "album": "tuffluv - A COLORS SHOW - Single",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "79",
+        "explicit": false
+      },
+      "evidenceText": "tuffluv - A COLORS SHOW 79 Nsqk tuffluv - A COLORS SHOW - Single PREVIEW 2:50"
+    },
+    {
+      "title": "3",
+      "canonicalUrl": "https://music.apple.com/us/song/3/1793946421",
+      "creator": "Neton Vega",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/b8/7b/bfb87bdf-9da6-880f-0fca-f74f22135f5b/1963622918315_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1793946421",
+      "attributes": {
+        "album": "Mi Vida Mi Muerte",
+        "duration": "2:54",
+        "durationIso": "PT2M54S",
+        "chartPosition": "80",
+        "explicit": false
+      },
+      "evidenceText": "3 80 Neton Vega Mi Vida Mi Muerte PREVIEW 2:54"
+    },
+    {
+      "title": "EoO",
+      "canonicalUrl": "https://music.apple.com/us/song/eoo/1787023929",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1787023929",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:24",
+        "durationIso": "PT3M24S",
+        "chartPosition": "81",
+        "explicit": true
+      },
+      "evidenceText": "EoO 81 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 3:24"
+    },
+    {
+      "title": "MOJABI GHOST",
+      "canonicalUrl": "https://music.apple.com/us/song/mojabi-ghost/1709197783",
+      "creator": "Tainy, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ad/da/1f/adda1f4a-f2d3-fe31-c965-e0753d2990ad/196922654572_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1709197783",
+      "attributes": {
+        "album": "DATA",
+        "duration": "3:52",
+        "durationIso": "PT3M52S",
+        "chartPosition": "82",
+        "explicit": true
+      },
+      "evidenceText": "MOJABI GHOST 82 Tainy, Bad Bunny DATA PREVIEW 3:52"
+    },
+    {
+      "title": "Todo De Ti",
+      "canonicalUrl": "https://music.apple.com/us/song/todo-de-ti/1567154924",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/d6/4d/24d64d11-dcba-a475-7a0f-87fbef4c6ba6/886449222681.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1567154924",
+      "attributes": {
+        "album": "Todo De Ti - Single",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "83",
+        "explicit": true
+      },
+      "evidenceText": "Todo De Ti 83 Rauw Alejandro Todo De Ti - Single PREVIEW 3:19"
+    },
+    {
+      "title": "Frecuencia",
+      "canonicalUrl": "https://music.apple.com/us/song/frecuencia/1817706421",
+      "creator": "Los Dareyes De La Sierra",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/c0/e9/d8c0e92f-0976-18e1-066d-dc1446234136/199350238130.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1817706421",
+      "attributes": {
+        "album": "Redención (Deluxe)",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "84",
+        "explicit": true
+      },
+      "evidenceText": "Frecuencia 84 Los Dareyes De La Sierra Redención (Deluxe) PREVIEW 3:10"
+    },
+    {
+      "title": "Por Amarte Así",
+      "canonicalUrl": "https://music.apple.com/us/song/por-amarte-as%C3%AD/6797945955",
+      "creator": "Natanael Cano",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/4f/81/b94f81a4-00f3-4cc1-3257-0fdc763cdb9e/196874661499.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6797945955",
+      "attributes": {
+        "album": "Natanael Cano, Vol.1",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "85",
+        "explicit": false
+      },
+      "evidenceText": "Por Amarte Así 85 Natanael Cano Natanael Cano, Vol.1 PREVIEW 3:22"
+    },
+    {
+      "title": "Morena",
+      "canonicalUrl": "https://music.apple.com/us/song/morena/1793946422",
+      "creator": "Neton Vega, Peso Pluma",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/b8/7b/bfb87bdf-9da6-880f-0fca-f74f22135f5b/1963622918315_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1793946422",
+      "attributes": {
+        "album": "Mi Vida Mi Muerte",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "Morena 86 Neton Vega, Peso Pluma Mi Vida Mi Muerte PREVIEW 3:13"
+    },
+    {
+      "title": "Me Paseo",
+      "canonicalUrl": "https://music.apple.com/us/song/me-paseo/1825941788",
+      "creator": "Victor Mendivil, Oscar Maydon",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/e6/ba/58e6ba6c-b71f-18eb-ff54-2379de166970/1963623506573_cover.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1825941788",
+      "attributes": {
+        "album": "Tutankamon",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "87",
+        "explicit": true
+      },
+      "evidenceText": "Me Paseo 87 Victor Mendivil, Oscar Maydon Tutankamon PREVIEW 3:37"
+    },
+    {
+      "title": "caperuza",
+      "canonicalUrl": "https://music.apple.com/us/song/caperuza/1804142893",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/0a/a3/510aa39f-7a41-b53c-70a0-6a0df60645bb/196872995978.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1804142893",
+      "attributes": {
+        "album": "111XPANTIA",
+        "duration": "2:59",
+        "durationIso": "PT2M59S",
+        "chartPosition": "88",
+        "explicit": true
+      },
+      "evidenceText": "caperuza 88 Fuerza Regida 111XPANTIA PREVIEW 2:59"
+    },
+    {
+      "title": "2+2",
+      "canonicalUrl": "https://music.apple.com/us/song/2-2/6770744296",
+      "creator": "Omar Camacho, Victor Mendivil",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/91/66/5d916678-68de-968c-381a-f81680bfa78b/1200214033996.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6770744296",
+      "attributes": {
+        "album": "2+2 - Single",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "89",
+        "explicit": true
+      },
+      "evidenceText": "2+2 89 Omar Camacho, Victor Mendivil 2+2 - Single PREVIEW 3:18"
+    },
+    {
+      "title": "Ráfagas al Viento",
+      "canonicalUrl": "https://music.apple.com/us/song/r%C3%A1fagas-al-viento/1745359525",
+      "creator": "Victor Mendivil",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/8a/8b/4e8a8b26-dc4a-e7a9-6989-8a9b438affbe/1963622187001_cover.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1745359525",
+      "attributes": {
+        "album": "Ráfagas al Viento - Single",
+        "duration": "2:41",
+        "durationIso": "PT2M41S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "Ráfagas al Viento 90 Victor Mendivil Ráfagas al Viento - Single PREVIEW 2:41"
+    },
+    {
+      "title": "RELOJ",
+      "canonicalUrl": "https://music.apple.com/us/song/reloj/1748016030",
+      "creator": "Peso Pluma, Ivan Cornejo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1748016030",
+      "attributes": {
+        "album": "ÉXODO",
+        "duration": "3:52",
+        "durationIso": "PT3M52S",
+        "chartPosition": "91",
+        "explicit": true
+      },
+      "evidenceText": "RELOJ 91 Peso Pluma, Ivan Cornejo ÉXODO PREVIEW 3:52"
+    },
+    {
+      "title": "Presidente",
+      "canonicalUrl": "https://music.apple.com/us/song/presidente/1770138800",
+      "creator": "Gabito Ballesteros, Natanael Cano, Neton Vega, Luis R Conriquez",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/bf/2a/ccbf2acd-f114-01f8-2882-283a2159821c/198704166716_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1770138800",
+      "attributes": {
+        "album": "Presidente - Single",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "92",
+        "explicit": true
+      },
+      "evidenceText": "Presidente 92 Gabito Ballesteros, Natanael Cano, Neton Vega, Luis R Conriquez Presidente - Single PREVIEW 3:01"
+    },
+    {
+      "title": "Gramos",
+      "canonicalUrl": "https://music.apple.com/us/song/gramos/6778980248",
+      "creator": "Jimmy Guzman",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/23/00/252300ff-7afd-ad4f-2a45-b37b2245737b/820233740678.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6778980248",
+      "attributes": {
+        "album": "Intuición",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "93",
+        "explicit": true
+      },
+      "evidenceText": "Gramos 93 Jimmy Guzman Intuición PREVIEW 2:36"
+    },
+    {
+      "title": "TÓXICOS",
+      "canonicalUrl": "https://music.apple.com/us/song/t%C3%B3xicos/1891769896",
+      "creator": "Calle 24",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/62/5b/e4625b86-f8db-94df-6f4a-9072ae0c62d2/823375107002_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1891769896",
+      "attributes": {
+        "album": "ETERNO",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "94",
+        "explicit": true
+      },
+      "evidenceText": "TÓXICOS 94 Calle 24 ETERNO PREVIEW 3:03"
+    },
+    {
+      "title": "neo roneo",
+      "canonicalUrl": "https://music.apple.com/us/song/neo-roneo/1761885875",
+      "creator": "rusowsky, LATIN MAFIA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/92/a7/0392a738-9c23-4d9b-ce73-60a514fb5b08/054391249197.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1761885875",
+      "attributes": {
+        "album": "neo roneo - Single",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "95",
+        "explicit": false
+      },
+      "evidenceText": "neo roneo 95 rusowsky, LATIN MAFIA neo roneo - Single PREVIEW 2:46"
+    },
+    {
+      "title": "COQUETA",
+      "canonicalUrl": "https://music.apple.com/us/song/coqueta/1786262016",
+      "creator": "Fuerza Regida, Grupo Frontera",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/96/9e/ba969e5d-857d-bbda-08e2-edc08642d188/196872772869.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1786262016",
+      "attributes": {
+        "album": "MALA MÍA - EP",
+        "duration": "4:01",
+        "durationIso": "PT4M1S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "COQUETA 96 Fuerza Regida, Grupo Frontera MALA MÍA - EP PREVIEW 4:01"
+    },
+    {
+      "title": "Condenados",
+      "canonicalUrl": "https://music.apple.com/us/song/condenados/6796112916",
+      "creator": "Grupo Feroz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/b4/17/b5b41722-6250-7c32-c298-245b0f381568/612735134891_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "6796112916",
+      "attributes": {
+        "album": "Condenados - Single",
+        "duration": "2:47",
+        "durationIso": "PT2M47S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "Condenados 97 Grupo Feroz Condenados - Single PREVIEW 2:47"
+    },
+    {
+      "title": "VeLDÁ",
+      "canonicalUrl": "https://music.apple.com/us/song/veld%C3%A1/1787022999",
+      "creator": "Bad Bunny, Omar Courtz, Dei V",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1787022999",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "98",
+        "explicit": true
+      },
+      "evidenceText": "VeLDÁ 98 Bad Bunny, Omar Courtz, Dei V DeBÍ TiRAR MáS FOToS PREVIEW 3:55"
+    },
+    {
+      "title": "Déjame Entrar",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%A9jame-entrar/1775462852",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1775462852",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "4:14",
+        "durationIso": "PT4M14S",
+        "chartPosition": "99",
+        "explicit": true
+      },
+      "evidenceText": "Déjame Entrar 99 Rauw Alejandro Cosa Nuestra PREVIEW 4:14"
+    },
+    {
+      "title": "AMARGURA",
+      "canonicalUrl": "https://music.apple.com/us/song/amargura/1670246089",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Mexico",
+      "externalId": "1670246089",
+      "attributes": {
+        "album": "MAÑANA SERÁ BONITO",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "100",
+        "explicit": true
+      },
+      "evidenceText": "AMARGURA 100 KAROL G MAÑANA SERÁ BONITO PREVIEW 2:50"
+    }
+  ]
+}

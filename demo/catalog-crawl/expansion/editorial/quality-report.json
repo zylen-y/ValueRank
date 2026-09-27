@@ -1,0 +1,151 @@
+{
+  "auditedAt": "2026-09-27T03:49:20.409Z",
+  "sources": [
+    {
+      "sourceId": "arxiv",
+      "validSchema": true,
+      "everyItemMatchesBrowserEvidence": true,
+      "uniqueItems": 2920,
+      "additionalVsOriginal": 2668,
+      "visibleCards": 3200,
+      "evidencePages": 16,
+      "collectionCount": 4,
+      "imageCount": 0,
+      "collections": [
+        {
+          "id": "arxiv-computer-vision",
+          "title": "Computer vision",
+          "count": 800
+        },
+        {
+          "id": "arxiv-reinforcement-learning-expanded",
+          "title": "Reinforcement learning · extended",
+          "count": 800
+        },
+        {
+          "id": "arxiv-natural-language-processing",
+          "title": "Natural language processing",
+          "count": 800
+        },
+        {
+          "id": "arxiv-robotics",
+          "title": "Robotics & embodied systems",
+          "count": 800
+        }
+      ]
+    },
+    {
+      "sourceId": "standard-ebooks",
+      "validSchema": true,
+      "everyItemMatchesBrowserEvidence": true,
+      "uniqueItems": 1522,
+      "additionalVsOriginal": 1133,
+      "visibleCards": 1522,
+      "evidencePages": 32,
+      "collectionCount": 20,
+      "imageCount": 1522,
+      "collections": [
+        {
+          "id": "standard-ebooks-catalog",
+          "title": "Classic books · full discovery shelf",
+          "count": 1522
+        },
+        {
+          "id": "standard-ebooks-fiction",
+          "title": "Fiction",
+          "count": 911
+        },
+        {
+          "id": "standard-ebooks-horror",
+          "title": "Horror",
+          "count": 34
+        },
+        {
+          "id": "standard-ebooks-science-fiction",
+          "title": "Science Fiction",
+          "count": 100
+        },
+        {
+          "id": "standard-ebooks-shorts",
+          "title": "Shorts",
+          "count": 151
+        },
+        {
+          "id": "standard-ebooks-poetry",
+          "title": "Poetry",
+          "count": 81
+        },
+        {
+          "id": "standard-ebooks-nonfiction",
+          "title": "Nonfiction",
+          "count": 133
+        },
+        {
+          "id": "standard-ebooks-spirituality",
+          "title": "Spirituality",
+          "count": 37
+        },
+        {
+          "id": "standard-ebooks-philosophy",
+          "title": "Philosophy",
+          "count": 86
+        },
+        {
+          "id": "standard-ebooks-drama",
+          "title": "Drama",
+          "count": 115
+        },
+        {
+          "id": "standard-ebooks-travel",
+          "title": "Travel",
+          "count": 29
+        },
+        {
+          "id": "standard-ebooks-adventure",
+          "title": "Adventure",
+          "count": 137
+        },
+        {
+          "id": "standard-ebooks-childrens",
+          "title": "Children’s",
+          "count": 84
+        },
+        {
+          "id": "standard-ebooks-mystery",
+          "title": "Mystery",
+          "count": 136
+        },
+        {
+          "id": "standard-ebooks-comedy",
+          "title": "Comedy",
+          "count": 75
+        },
+        {
+          "id": "standard-ebooks-satire",
+          "title": "Satire",
+          "count": 44
+        },
+        {
+          "id": "standard-ebooks-autobiography",
+          "title": "Autobiography",
+          "count": 36
+        },
+        {
+          "id": "standard-ebooks-fantasy",
+          "title": "Fantasy",
+          "count": 70
+        },
+        {
+          "id": "standard-ebooks-memoir",
+          "title": "Memoir",
+          "count": 29
+        },
+        {
+          "id": "standard-ebooks-biography",
+          "title": "Biography",
+          "count": 7
+        }
+      ]
+    }
+  ]
+}

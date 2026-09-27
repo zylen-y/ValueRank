@@ -1,0 +1,854 @@
+{
+  "url": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+  "title": "Browse Standard Ebooks, page 3 - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover",
+  "heading": "Browse Ebooks",
+  "observedAt": "2026-09-27T00:12:20.816Z",
+  "itemCount": 40,
+  "items": [
+    {
+      "attributes": {
+        "readingEase": 75.3,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 70609
+      },
+      "creator": "George Dilnot",
+      "description": "70,609 words • 75.3 reading ease Fiction Mystery",
+      "externalId": "george-dilnot/the-lazy-detective",
+      "imageUrl": "https://standardebooks.org/images/covers/george-dilnot_the-lazy-detective/0fba04c222781a5c30b3ed4fec91aa74329ae919/cover@2x.jpg",
+      "title": "The Lazy Detective",
+      "url": "https://standardebooks.org/ebooks/george-dilnot/the-lazy-detective",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.24,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 59286
+      },
+      "creator": "Ronald A. Knox",
+      "description": "59,286 words • 71.24 reading ease Fiction Mystery",
+      "externalId": "ronald-a-knox/the-viaduct-murder",
+      "imageUrl": "https://standardebooks.org/images/covers/ronald-a-knox_the-viaduct-murder/09e72ed510c74c7ee28eaf91f4d2718fcf5e6899/cover@2x.jpg",
+      "title": "The Viaduct Murder",
+      "url": "https://standardebooks.org/ebooks/ronald-a-knox/the-viaduct-murder",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.39,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 69136
+      },
+      "creator": "Freeman Wills Crofts",
+      "description": "69,136 words • 74.39 reading ease Fiction Mystery",
+      "externalId": "freeman-wills-crofts/the-box-office-murders",
+      "imageUrl": "https://standardebooks.org/images/covers/freeman-wills-crofts_the-box-office-murders/4caea7dbda647eb639ed8ab2505c75832fe622fa/cover@2x.jpg",
+      "title": "The Box Office Murders",
+      "url": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.39,
+        "subjects": "Mystery",
+        "wordCount": 81368
+      },
+      "creator": "Mignon G. Eberhart",
+      "description": "81,368 words • 74.39 reading ease Mystery",
+      "externalId": "mignon-g-eberhart/the-patient-in-room-18",
+      "imageUrl": "https://standardebooks.org/images/covers/mignon-g-eberhart_the-patient-in-room-18/ac254fdeb1e9ea5685e217f10de52996c377eb25/cover@2x.jpg",
+      "title": "The Patient in Room 18",
+      "url": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.56,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 62926
+      },
+      "creator": "Carolyn Wells",
+      "description": "62,926 words • 72.56 reading ease Fiction Mystery",
+      "externalId": "carolyn-wells/the-clue",
+      "imageUrl": "https://standardebooks.org/images/covers/carolyn-wells_the-clue/35629b7fbe9f5cd8aa605bc637232be069382254/cover@2x.jpg",
+      "title": "The Clue",
+      "url": "https://standardebooks.org/ebooks/carolyn-wells/the-clue",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 75.71,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 70640
+      },
+      "creator": "J. J. Connington",
+      "description": "70,640 words • 75.71 reading ease Fiction Mystery",
+      "externalId": "j-j-connington/tragedy-at-ravensthorpe",
+      "imageUrl": "https://standardebooks.org/images/covers/j-j-connington_tragedy-at-ravensthorpe/d64ce3e3b2f12d0c44d7b7abfe6c925938e1bfdd/cover@2x.jpg",
+      "title": "Tragedy at Ravensthorpe",
+      "url": "https://standardebooks.org/ebooks/j-j-connington/tragedy-at-ravensthorpe",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.14,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 65386
+      },
+      "creator": "Ronald A. Knox",
+      "description": "65,386 words • 71.14 reading ease Fiction Mystery",
+      "externalId": "ronald-a-knox/the-footsteps-at-the-lock",
+      "imageUrl": "https://standardebooks.org/images/covers/ronald-a-knox_the-footsteps-at-the-lock/5fdc934d535f599d6b6a7e9931e8046c81d1a01d/cover@2x.jpg",
+      "title": "The Footsteps at the Lock",
+      "url": "https://standardebooks.org/ebooks/ronald-a-knox/the-footsteps-at-the-lock",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.19,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 73400
+      },
+      "creator": "J. S. Fletcher",
+      "description": "73,400 words • 74.19 reading ease Fiction Mystery",
+      "externalId": "j-s-fletcher/the-middle-of-things",
+      "imageUrl": "https://standardebooks.org/images/covers/j-s-fletcher_the-middle-of-things/5b5b7f46bb28c6922e2332a78bd5f02c2843262c/cover@2x.jpg",
+      "title": "The Middle of Things",
+      "url": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-of-things",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.78,
+        "subjects": "Mystery",
+        "wordCount": 43003
+      },
+      "creator": "Israel Zangwill",
+      "description": "43,003 words • 73.78 reading ease Mystery",
+      "externalId": "israel-zangwill/the-big-bow-mystery",
+      "imageUrl": "https://standardebooks.org/images/covers/israel-zangwill_the-big-bow-mystery/27446a505788b58d11c2936b26481ae8f7575106/cover@2x.jpg",
+      "title": "The Big Bow Mystery",
+      "url": "https://standardebooks.org/ebooks/israel-zangwill/the-big-bow-mystery",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 66.33,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 81963
+      },
+      "creator": "S. S. Van Dine",
+      "description": "81,963 words • 66.33 reading ease Fiction Mystery",
+      "externalId": "s-s-van-dine/the-canary-murder-case",
+      "imageUrl": "https://standardebooks.org/images/covers/s-s-van-dine_the-canary-murder-case/02c0349fd00c5050ff0b938db8a62bd3c129a3db/cover@2x.jpg",
+      "title": "The Canary Murder Case",
+      "url": "https://standardebooks.org/ebooks/s-s-van-dine/the-canary-murder-case",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.37,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 50675
+      },
+      "creator": "Edgar Wallace",
+      "description": "50,675 words • 73.37 reading ease Fiction Mystery",
+      "externalId": "edgar-wallace/kate-plus-10",
+      "imageUrl": "https://standardebooks.org/images/covers/edgar-wallace_kate-plus-10/07c0b45acea6f37f378b6935433629c4fa2ba4c0/cover@2x.jpg",
+      "title": "Kate Plus 10",
+      "url": "https://standardebooks.org/ebooks/edgar-wallace/kate-plus-10",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.39,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 73093
+      },
+      "creator": "J. S. Fletcher",
+      "description": "73,093 words • 74.39 reading ease Fiction Mystery",
+      "externalId": "j-s-fletcher/the-middle-temple-murder",
+      "imageUrl": "https://standardebooks.org/images/covers/j-s-fletcher_the-middle-temple-murder/d409ae602014c30b8378680df24d18de05195d21/cover@2x.jpg",
+      "title": "The Middle Temple Murder",
+      "url": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-temple-murder",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.47,
+        "subjects": "Fiction, Mystery",
+        "translation": "Translated by Holt & Williams",
+        "wordCount": 104061
+      },
+      "creator": "Émile Gaboriau",
+      "description": "Translated by Holt & Williams 104,061 words • 73.47 reading ease Fiction Mystery",
+      "externalId": "emile-gaboriau/the-mystery-of-orcival/holt-williams",
+      "imageUrl": "https://standardebooks.org/images/covers/emile-gaboriau_the-mystery-of-orcival_holt-williams/0e5baece3cff239f30b95099dfcfd3509eadaa10/cover@2x.jpg",
+      "title": "The Mystery of Orcival",
+      "url": "https://standardebooks.org/ebooks/emile-gaboriau/the-mystery-of-orcival/holt-williams",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.08,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 64644
+      },
+      "creator": "Edgar Wallace",
+      "description": "64,644 words • 74.08 reading ease Fiction Mystery",
+      "externalId": "edgar-wallace/the-crimson-circle",
+      "imageUrl": "https://standardebooks.org/images/covers/edgar-wallace_the-crimson-circle/ebf7763ab656024ec01dcb16833b8cd87f5fb385/cover@2x.jpg",
+      "title": "The Crimson Circle",
+      "url": "https://standardebooks.org/ebooks/edgar-wallace/the-crimson-circle",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.26,
+        "subjects": "Mystery",
+        "wordCount": 67294
+      },
+      "creator": "Ronald A. Knox",
+      "description": "67,294 words • 72.26 reading ease Mystery",
+      "externalId": "ronald-a-knox/the-three-taps",
+      "imageUrl": "https://standardebooks.org/images/covers/ronald-a-knox_the-three-taps/d3777e61601b8a9c1ab2d7e57fa99e17930041f3/cover@2x.jpg",
+      "title": "The Three Taps",
+      "url": "https://standardebooks.org/ebooks/ronald-a-knox/the-three-taps",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.24,
+        "subjects": "Mystery",
+        "wordCount": 78403
+      },
+      "creator": "R. Austin Freeman",
+      "description": "78,403 words • 71.24 reading ease Mystery",
+      "externalId": "r-austin-freeman/the-mystery-of-31-new-inn",
+      "imageUrl": "https://standardebooks.org/images/covers/r-austin-freeman_the-mystery-of-31-new-inn/43da299a1b94e0f7098cb36acf6bd4ad515732ce/cover@2x.jpg",
+      "title": "The Mystery of 31, New Inn",
+      "url": "https://standardebooks.org/ebooks/r-austin-freeman/the-mystery-of-31-new-inn",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.69,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 84583
+      },
+      "creator": "J. J. Connington",
+      "description": "84,583 words • 74.69 reading ease Fiction Mystery",
+      "externalId": "j-j-connington/mystery-at-lynden-sands",
+      "imageUrl": "https://standardebooks.org/images/covers/j-j-connington_mystery-at-lynden-sands/64855fcc9d9834279d5142cfcb038c1928ee6310/cover@2x.jpg",
+      "title": "Mystery at Lynden Sands",
+      "url": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 75,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 75427
+      },
+      "creator": "Freeman Wills Crofts",
+      "description": "75,427 words • 75 reading ease Fiction Mystery",
+      "externalId": "freeman-wills-crofts/the-sea-mystery",
+      "imageUrl": "https://standardebooks.org/images/covers/freeman-wills-crofts_the-sea-mystery/a12fbb656df13c04beba58c8372d1eddde452105/cover@2x.jpg",
+      "title": "The Sea Mystery",
+      "url": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 79.16,
+        "subjects": "Fiction, Mystery, Shorts",
+        "wordCount": 53911
+      },
+      "creator": "H. C. Bailey",
+      "description": "53,911 words • 79.16 reading ease Fiction Mystery Shorts",
+      "externalId": "h-c-bailey/call-mr-fortune",
+      "imageUrl": "https://standardebooks.org/images/covers/h-c-bailey_call-mr-fortune/d8c03f8cab14d71dc0d24f9f96cd5a0ec64273fc/cover@2x.jpg",
+      "title": "Call Mr. Fortune",
+      "url": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 84.78,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 41422
+      },
+      "creator": "Walter S. Masterman",
+      "description": "41,422 words • 84.78 reading ease Fiction Mystery",
+      "externalId": "walter-s-masterman/the-wrong-letter",
+      "imageUrl": "https://standardebooks.org/images/covers/walter-s-masterman_the-wrong-letter/ec6440100ca6e0a9f1e310b41f7df5a68a4e8e10/cover@2x.jpg",
+      "title": "The Wrong Letter",
+      "url": "https://standardebooks.org/ebooks/walter-s-masterman/the-wrong-letter",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.68,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 67827
+      },
+      "creator": "John T. McIntyre",
+      "description": "67,827 words • 73.68 reading ease Fiction Mystery",
+      "externalId": "john-t-mcintyre/ashton-kirk-investigator",
+      "imageUrl": "https://standardebooks.org/images/covers/john-t-mcintyre_ashton-kirk-investigator/b96a51665e8d7ed96bf18de39283fe3b6b2737cd/cover@2x.jpg",
+      "title": "Ashton-Kirk, Investigator",
+      "url": "https://standardebooks.org/ebooks/john-t-mcintyre/ashton-kirk-investigator",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.17,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 84498
+      },
+      "creator": "Freeman Wills Crofts",
+      "description": "84,498 words • 73.17 reading ease Fiction Mystery",
+      "externalId": "freeman-wills-crofts/the-ponson-case",
+      "imageUrl": "https://standardebooks.org/images/covers/freeman-wills-crofts_the-ponson-case/80232c4367fc0c3f72a16198ee408c7a1511d76a/cover@2x.jpg",
+      "title": "The Ponson Case",
+      "url": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-ponson-case",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 68.7,
+        "subjects": "Mystery",
+        "wordCount": 70495
+      },
+      "creator": "R. Austin Freeman",
+      "description": "70,495 words • 68.7 reading ease Mystery",
+      "externalId": "r-austin-freeman/the-red-thumbmark",
+      "imageUrl": "https://standardebooks.org/images/covers/r-austin-freeman_the-red-thumbmark/34f97f4f0c0a55deffce9a06a858e42fda214136/cover@2x.jpg",
+      "title": "The Red Thumbmark",
+      "url": "https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.47,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 109390
+      },
+      "creator": "Frances Noyes Hart",
+      "description": "109,390 words • 73.47 reading ease Fiction Mystery",
+      "externalId": "frances-noyes-hart/the-bellamy-trial",
+      "imageUrl": "https://standardebooks.org/images/covers/frances-noyes-hart_the-bellamy-trial/988df48bced01845897098119a3e1b177a19d11f/cover@2x.jpg",
+      "title": "The Bellamy Trial",
+      "url": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.46,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 88541
+      },
+      "creator": "Freeman Wills Crofts",
+      "description": "88,541 words • 72.46 reading ease Fiction Mystery",
+      "externalId": "freeman-wills-crofts/the-starvel-hollow-tragedy",
+      "imageUrl": "https://standardebooks.org/images/covers/freeman-wills-crofts_the-starvel-hollow-tragedy/be187e1a4d7de19a486267438e77da6174ca34d5/cover@2x.jpg",
+      "title": "The Starvel Hollow Tragedy",
+      "url": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-starvel-hollow-tragedy",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.97,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 76210
+      },
+      "creator": "J. S. Fletcher",
+      "description": "76,210 words • 72.97 reading ease Fiction Mystery",
+      "externalId": "j-s-fletcher/the-borough-treasurer",
+      "imageUrl": "https://standardebooks.org/images/covers/j-s-fletcher_the-borough-treasurer/198cf308f2e3b2c5f1aafd7ee7834b861bfc0945/cover@2x.jpg",
+      "title": "The Borough Treasurer",
+      "url": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.79,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 73131
+      },
+      "creator": "J. S. Fletcher",
+      "description": "73,131 words • 74.79 reading ease Fiction Mystery",
+      "externalId": "j-s-fletcher/the-charing-cross-mystery",
+      "imageUrl": "https://standardebooks.org/images/covers/j-s-fletcher_the-charing-cross-mystery/c6609e82fd92cf711432da09797ee05f7865b3df/cover@2x.jpg",
+      "title": "The Charing Cross Mystery",
+      "url": "https://standardebooks.org/ebooks/j-s-fletcher/the-charing-cross-mystery",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.88,
+        "subjects": "Fiction, Mystery",
+        "translation": "Translated by Vizetelly and Company",
+        "wordCount": 123767
+      },
+      "creator": "Émile Gaboriau",
+      "description": "Translated by Vizetelly and Company 123,767 words • 73.88 reading ease Fiction Mystery",
+      "externalId": "emile-gaboriau/the-lerouge-case/vizetelly-and-company",
+      "imageUrl": "https://standardebooks.org/images/covers/emile-gaboriau_the-lerouge-case_vizetelly-and-company/1008ec07e29d5d66d682f6b55a504e5509ea4aba/cover@2x.jpg",
+      "title": "The Lerouge Case",
+      "url": "https://standardebooks.org/ebooks/emile-gaboriau/the-lerouge-case/vizetelly-and-company",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.42,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 73383
+      },
+      "creator": "Philip MacDonald",
+      "description": "73,383 words • 76.42 reading ease Fiction Mystery",
+      "externalId": "philip-macdonald/the-rasp",
+      "imageUrl": "https://standardebooks.org/images/covers/philip-macdonald_the-rasp/f3f5cfb1e9af0d2a4e5795be6e6981c2c964710c/cover@2x.jpg",
+      "title": "The Rasp",
+      "url": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 84.37,
+        "subjects": "Mystery",
+        "wordCount": 58893
+      },
+      "creator": "Andre Norton",
+      "description": "58,893 words • 84.37 reading ease Mystery",
+      "externalId": "andre-norton/ralestone-luck",
+      "imageUrl": "https://standardebooks.org/images/covers/andre-norton_ralestone-luck/d8b7ff34eaa8cfb7cadd3b0277938dabec2f993b/cover@2x.jpg",
+      "title": "Ralestone Luck",
+      "url": "https://standardebooks.org/ebooks/andre-norton/ralestone-luck",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.08,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 67199
+      },
+      "creator": "H. Beam Piper",
+      "description": "67,199 words • 74.08 reading ease Fiction Mystery",
+      "externalId": "h-beam-piper/murder-in-the-gunroom",
+      "imageUrl": "https://standardebooks.org/images/covers/h-beam-piper_murder-in-the-gunroom/c9954076d3925b29f493a115f5bd5ac9ab65803d/cover@2x.jpg",
+      "title": "Murder in the Gunroom",
+      "url": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 80.11,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 88518
+      },
+      "creator": "Guy Boothby",
+      "description": "88,518 words • 80.11 reading ease Fiction Mystery",
+      "externalId": "guy-boothby/a-bid-for-fortune",
+      "imageUrl": "https://standardebooks.org/images/covers/guy-boothby_a-bid-for-fortune/5d91bdb3c42493466918ed2d215de6293419ed47/cover@2x.jpg",
+      "title": "A Bid for Fortune",
+      "url": "https://standardebooks.org/ebooks/guy-boothby/a-bid-for-fortune",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.56,
+        "subjects": "Fiction, Mystery",
+        "translation": "Translated by Laura E. Kendall",
+        "wordCount": 249891
+      },
+      "creator": "Émile Gaboriau",
+      "description": "Translated by Laura E. Kendall 249,891 words • 72.56 reading ease Fiction Mystery",
+      "externalId": "emile-gaboriau/monsieur-lecoq/laura-e-kendall",
+      "imageUrl": "https://standardebooks.org/images/covers/emile-gaboriau_monsieur-lecoq_laura-e-kendall/cd76d126c9d47ef37fffdae1a63ccd43acb977fd/cover@2x.jpg",
+      "title": "Monsieur Lecoq",
+      "url": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 70.33,
+        "subjects": "Fiction, Mystery",
+        "translation": "Translated by Charles Scribner’s Sons",
+        "wordCount": 204077
+      },
+      "creator": "Émile Gaboriau",
+      "description": "Translated by Charles Scribner’s Sons 204,077 words • 70.33 reading ease Fiction Mystery",
+      "externalId": "emile-gaboriau/the-slaves-of-paris/charles-scribners-sons",
+      "imageUrl": "https://standardebooks.org/images/covers/emile-gaboriau_the-slaves-of-paris_charles-scribners-sons/0fcef16a4aefc799ab9f32680528a53996c9f5c0/cover@2x.jpg",
+      "title": "The Slaves of Paris",
+      "url": "https://standardebooks.org/ebooks/emile-gaboriau/the-slaves-of-paris/charles-scribners-sons",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.19,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 84288
+      },
+      "creator": "Fred M. White",
+      "description": "84,288 words • 74.19 reading ease Fiction Mystery",
+      "externalId": "fred-m-white/the-midnight-guest",
+      "imageUrl": "https://standardebooks.org/images/covers/fred-m-white_the-midnight-guest/887f4e8f051fd51c472f48df073f8082f787fafc/cover@2x.jpg",
+      "title": "The Midnight Guest",
+      "url": "https://standardebooks.org/ebooks/fred-m-white/the-midnight-guest",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.79,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 64634
+      },
+      "creator": "Mary Roberts Rinehart",
+      "description": "64,634 words • 74.79 reading ease Fiction Mystery",
+      "externalId": "mary-roberts-rinehart/the-man-in-lower-ten",
+      "imageUrl": "https://standardebooks.org/images/covers/mary-roberts-rinehart_the-man-in-lower-ten/ea3d2ef70c93fc0daaccc5984bc5439ddd855794/cover@2x.jpg",
+      "title": "The Man in Lower Ten",
+      "url": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-man-in-lower-ten",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 83.46,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 73496
+      },
+      "creator": "Alan Sullivan",
+      "description": "73,496 words • 83.46 reading ease Fiction Mystery",
+      "externalId": "alan-sullivan/the-jade-god",
+      "imageUrl": "https://standardebooks.org/images/covers/alan-sullivan_the-jade-god/877b3de1a5c7e0861b870e8dbb6de7d26eabfcd4/cover@2x.jpg",
+      "title": "The Jade God",
+      "url": "https://standardebooks.org/ebooks/alan-sullivan/the-jade-god",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.78,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 72460
+      },
+      "creator": "J. S. Fletcher",
+      "description": "72,460 words • 73.78 reading ease Fiction Mystery",
+      "externalId": "j-s-fletcher/the-talleyrand-maxim",
+      "imageUrl": "https://standardebooks.org/images/covers/j-s-fletcher_the-talleyrand-maxim/07224059ef3abce7e5707a75cae1bde5cdfab42e/cover@2x.jpg",
+      "title": "The Talleyrand Maxim",
+      "url": "https://standardebooks.org/ebooks/j-s-fletcher/the-talleyrand-maxim",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.66,
+        "subjects": "Fiction, Mystery",
+        "translation": "Translated by James R. Osgood & Co.",
+        "wordCount": 145498
+      },
+      "creator": "Émile Gaboriau",
+      "description": "Translated by James R. Osgood & Co. 145,498 words • 72.66 reading ease Fiction Mystery",
+      "externalId": "emile-gaboriau/file-no-113/james-r-osgood-co",
+      "imageUrl": "https://standardebooks.org/images/covers/emile-gaboriau_file-no-113_james-r-osgood-co/cf5d72a4c5339c5daa98113e743b7c2d2d3dd182/cover@2x.jpg",
+      "title": "File No. 113",
+      "url": "https://standardebooks.org/ebooks/emile-gaboriau/file-no-113/james-r-osgood-co",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.58,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 74385
+      },
+      "creator": "J. S. Fletcher",
+      "description": "74,385 words • 73.58 reading ease Fiction Mystery",
+      "externalId": "j-s-fletcher/scarhaven-keep",
+      "imageUrl": "https://standardebooks.org/images/covers/j-s-fletcher_scarhaven-keep/456f3803f2de3d2aefe3cf291b045ac9c0526d44/cover@2x.jpg",
+      "title": "Scarhaven Keep",
+      "url": "https://standardebooks.org/ebooks/j-s-fletcher/scarhaven-keep",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    }
+  ]
+}

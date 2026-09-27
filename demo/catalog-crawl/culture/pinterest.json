@@ -1,0 +1,13 @@
+{
+  "source": {
+    "id": "pinterest",
+    "label": "Pinterest",
+    "homeUrl": "https://www.pinterest.com/",
+    "kind": "pinterest",
+    "status": "blocked",
+    "checkedAt": "2026-09-27T00:09:17.766Z",
+    "note": "The public search page displayed a mandatory login dialog. Collection stopped at the access barrier; no hidden pin payloads or private content were extracted."
+  },
+  "collections": [],
+  "items": []
+}

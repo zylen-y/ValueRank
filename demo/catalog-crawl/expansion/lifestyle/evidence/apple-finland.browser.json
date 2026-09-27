@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+  "collection": "Top 100: Finland",
+  "fetchedAt": "2026-09-27T03:41:49.066Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Ei riidellä enää*",
+      "canonicalUrl": "https://music.apple.com/us/song/ei-riidell%C3%A4-en%C3%A4%C3%A4/6805542749",
+      "creator": "Cledos",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/63/31/bd633194-d449-96fa-ef04-37450f4eb9dd/1200214944506.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6805542749",
+      "attributes": {
+        "album": "Ei riidellä enää* - Single",
+        "duration": "2:41",
+        "durationIso": "PT2M41S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "Ei riidellä enää* 1 Cledos Ei riidellä enää* - Single PREVIEW 2:41"
+    },
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 2 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 3 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 4 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 5 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Väärä nainen",
+      "canonicalUrl": "https://music.apple.com/us/song/v%C3%A4%C3%A4r%C3%A4-nainen/6794335301",
+      "creator": "Ida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/8a/e9/7b8ae986-16ec-8f16-5216-88cb5c7f2a02/1200214680848.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6794335301",
+      "attributes": {
+        "album": "Väärä nainen - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "Väärä nainen 6 Ida Väärä nainen - Single PREVIEW 3:15"
+    },
+    {
+      "title": "PALOKUNTA",
+      "canonicalUrl": "https://music.apple.com/us/song/palokunta/6791792725",
+      "creator": "Dw",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/68/89/ef688981-fbcb-e12e-edde-b0464ff2c583/26UMGIM72402.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6791792725",
+      "attributes": {
+        "album": "PALOKUNTA - Single",
+        "duration": "2:19",
+        "durationIso": "PT2M19S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "PALOKUNTA 7 Dw PALOKUNTA - Single PREVIEW 2:19"
+    },
+    {
+      "title": "Asento",
+      "canonicalUrl": "https://music.apple.com/us/song/asento/6807085012",
+      "creator": "Averagekidluke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/7f/61/077f613f-b6cf-7c90-c4bd-c2decac449e2/1200220036493.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6807085012",
+      "attributes": {
+        "album": "Asento - Single",
+        "duration": "2:34",
+        "durationIso": "PT2M34S",
+        "chartPosition": "8",
+        "explicit": false
+      },
+      "evidenceText": "Asento 8 Averagekidluke Asento - Single PREVIEW 2:34"
+    },
+    {
+      "title": "Eilinen",
+      "canonicalUrl": "https://music.apple.com/us/song/eilinen/6778493116",
+      "creator": "Isac Elliot, Ares",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/d3/15/2dd315c4-2822-a5ea-c6d3-9b648f8a484e/1200214315092.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6778493116",
+      "attributes": {
+        "album": "Eilinen - Single",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "9",
+        "explicit": false
+      },
+      "evidenceText": "Eilinen 9 Isac Elliot, Ares Eilinen - Single PREVIEW 3:00"
+    },
+    {
+      "title": "Juon sut pois (Vain elämää kausi 17)",
+      "canonicalUrl": "https://music.apple.com/us/song/juon-sut-pois-vain-el%C3%A4m%C3%A4%C3%A4-kausi-17/6805171365",
+      "creator": "Ares, Bizi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/1d/ba/f91dba9e-2f29-f8f0-2f0b-68283e80a067/1200214953850.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6805171365",
+      "attributes": {
+        "album": "Juon sut pois (Vain elämää kausi 17) - Single",
+        "duration": "2:45",
+        "durationIso": "PT2M45S",
+        "chartPosition": "10",
+        "explicit": false
+      },
+      "evidenceText": "Juon sut pois (Vain elämää kausi 17) 10 Ares, Bizi Juon sut pois (Vain elämää kausi 17) - Single PREVIEW 2:45"
+    },
+    {
+      "title": "Ain't In LA",
+      "canonicalUrl": "https://music.apple.com/us/song/aint-in-la/6792884101",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6792884101",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "11",
+        "explicit": true
+      },
+      "evidenceText": "Ain't In LA 11 ADÉLA PRIMA PREVIEW 3:04"
+    },
+    {
+      "title": "Liekki",
+      "canonicalUrl": "https://music.apple.com/us/song/liekki/6812311286",
+      "creator": "Mirella",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/5a/a4/c25aa4b3-3073-7ebf-dbd2-c475557cb09d/26UM1IM17976.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6812311286",
+      "attributes": {
+        "album": "Liekki - Single",
+        "duration": "3:24",
+        "durationIso": "PT3M24S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "Liekki 12 Mirella Liekki - Single PREVIEW 3:24"
+    },
+    {
+      "title": "Mannerheim (feat. Turisti)",
+      "canonicalUrl": "https://music.apple.com/us/song/mannerheim-feat-turisti/1875333897",
+      "creator": "Isac Elliot",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/57/a8/1057a862-fead-b700-68c8-109865a1ef00/5026854661155.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1875333897",
+      "attributes": {
+        "album": "Mansion Music",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "13",
+        "explicit": true
+      },
+      "evidenceText": "Mannerheim (feat. Turisti) 13 Isac Elliot Mansion Music PREVIEW 2:48"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "14",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 14 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "Ai Että",
+      "canonicalUrl": "https://music.apple.com/us/song/ai-ett%C3%A4/1835920235",
+      "creator": "Isac Elliot",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/a1/6c/f7a16c14-dcec-76c9-1a27-17c473e40ebf/5021732964540.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1835920235",
+      "attributes": {
+        "album": "Ai Että - Single",
+        "duration": "2:41",
+        "durationIso": "PT2M41S",
+        "chartPosition": "15",
+        "explicit": false
+      },
+      "evidenceText": "Ai Että 15 Isac Elliot Ai Että - Single PREVIEW 2:41"
+    },
+    {
+      "title": "Kaiken Varalta",
+      "canonicalUrl": "https://music.apple.com/us/song/kaiken-varalta/6778803771",
+      "creator": "Isac Elliot",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/e9/ee/cfe9eee9-cda7-2f20-428c-a63daa363a9c/1200214328382.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6778803771",
+      "attributes": {
+        "album": "Kaiken Varalta - Single",
+        "duration": "2:40",
+        "durationIso": "PT2M40S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "Kaiken Varalta 16 Isac Elliot Kaiken Varalta - Single PREVIEW 2:40"
+    },
+    {
+      "title": "+-0 (feat. Averagekidluke & Turisti)",
+      "canonicalUrl": "https://music.apple.com/us/song/0-feat-averagekidluke-turisti/1868742940",
+      "creator": "Ares",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/0d/fe/ab0dfe33-48b8-e91c-98bb-1df835c00a83/5026854521008.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1868742940",
+      "attributes": {
+        "album": "Aris",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "+-0 (feat. Averagekidluke & Turisti) 17 Ares Aris PREVIEW 3:53"
+    },
+    {
+      "title": "m0ti0n",
+      "canonicalUrl": "https://music.apple.com/us/song/m0ti0n/1881333174",
+      "creator": "louna0nline",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/fe/99/1dfe99be-5fb4-a8f3-3628-37f2f31b25ad/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1881333174",
+      "attributes": {
+        "album": "m0ti0n - Single",
+        "duration": "2:27",
+        "durationIso": "PT2M27S",
+        "chartPosition": "18",
+        "explicit": true
+      },
+      "evidenceText": "m0ti0n 18 louna0nline m0ti0n - Single PREVIEW 2:27"
+    },
+    {
+      "title": "Make up your mind",
+      "canonicalUrl": "https://music.apple.com/us/song/make-up-your-mind/1851418417",
+      "creator": "Mirella, Averagekidluke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/c6/96/ffc696c4-8d83-c2f4-2e66-68873b2345a8/25UM1IM76897.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1851418417",
+      "attributes": {
+        "album": "Make up your mind - Single",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "19",
+        "explicit": false
+      },
+      "evidenceText": "Make up your mind 19 Mirella, Averagekidluke Make up your mind - Single PREVIEW 3:08"
+    },
+    {
+      "title": "Menestys on paras tapa kostaa",
+      "canonicalUrl": "https://music.apple.com/us/song/menestys-on-paras-tapa-kostaa/1783614069",
+      "creator": "Ares",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/7e/62/0c7e62fe-4bb2-9364-9f28-bc35a4754027/5021732587183.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1783614069",
+      "attributes": {
+        "album": "Menestys on paras tapa kostaa - Single",
+        "duration": "2:45",
+        "durationIso": "PT2M45S",
+        "chartPosition": "20",
+        "explicit": true
+      },
+      "evidenceText": "Menestys on paras tapa kostaa 20 Ares Menestys on paras tapa kostaa - Single PREVIEW 2:45"
+    },
+    {
+      "title": "Älä kato mua noin",
+      "canonicalUrl": "https://music.apple.com/us/song/%C3%A4l%C3%A4-kato-mua-noin/6798898548",
+      "creator": "helmi marleena",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/a0/34/eda034a7-454c-0eb1-12e6-74fc05aff956/26UMGIM74182.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6798898548",
+      "attributes": {
+        "album": "Pilasit vuodet, pilasit biisit",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "Älä kato mua noin 21 helmi marleena Pilasit vuodet, pilasit biisit PREVIEW 3:46"
+    },
+    {
+      "title": "Taikuri",
+      "canonicalUrl": "https://music.apple.com/us/song/taikuri/1768755250",
+      "creator": "Turisti",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/af/b9/15afb991-2b1c-c5c0-ad4e-2a95c6b9740d/5021732487315.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1768755250",
+      "attributes": {
+        "album": "ROADMAN",
+        "duration": "2:56",
+        "durationIso": "PT2M56S",
+        "chartPosition": "22",
+        "explicit": true
+      },
+      "evidenceText": "Taikuri 22 Turisti ROADMAN PREVIEW 2:56"
+    },
+    {
+      "title": "Sinfoniaa",
+      "canonicalUrl": "https://music.apple.com/us/song/sinfoniaa/6774244369",
+      "creator": "Isac Elliot",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/25/3f/e3253f71-7f62-dda4-1913-0a73e04830e4/1200214247652.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6774244369",
+      "attributes": {
+        "album": "Sinfoniaa - Single",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "Sinfoniaa 23 Isac Elliot Sinfoniaa - Single PREVIEW 3:07"
+    },
+    {
+      "title": "Sydän on rikki",
+      "canonicalUrl": "https://music.apple.com/us/song/syd%C3%A4n-on-rikki/1850977484",
+      "creator": "Aliisa Syrjä",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/83/51/22835115-7663-d615-fd4d-96548923647f/5026854196312.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1850977484",
+      "attributes": {
+        "album": "Sydän on rikki - Single",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "Sydän on rikki 24 Aliisa Syrjä Sydän on rikki - Single PREVIEW 3:01"
+    },
+    {
+      "title": "Juhannusvalssi",
+      "canonicalUrl": "https://music.apple.com/us/song/juhannusvalssi/6764760267",
+      "creator": "helmi marleena",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/ef/c0/3defc074-dd47-3d2f-bd2d-714535ed402a/26UMGIM53097.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6764760267",
+      "attributes": {
+        "album": "Juhannusvalssi - Single",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "Juhannusvalssi 25 helmi marleena Juhannusvalssi - Single PREVIEW 3:44"
+    },
+    {
+      "title": "10!",
+      "canonicalUrl": "https://music.apple.com/us/song/10/6766909881",
+      "creator": "keiju, MOMO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/8c/de/2c8cde30-6f45-8de3-1e4c-bf108c9d6792/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6766909881",
+      "attributes": {
+        "album": "PIIKA",
+        "duration": "2:28",
+        "durationIso": "PT2M28S",
+        "chartPosition": "26",
+        "explicit": true
+      },
+      "evidenceText": "10! 26 keiju, MOMO PIIKA PREVIEW 2:28"
+    },
+    {
+      "title": "Ikävä, kyllä (feat. Bizi)",
+      "canonicalUrl": "https://music.apple.com/us/song/ik%C3%A4v%C3%A4-kyll%C3%A4-feat-bizi/1868742956",
+      "creator": "Ares",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/0d/fe/ab0dfe33-48b8-e91c-98bb-1df835c00a83/5026854521008.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1868742956",
+      "attributes": {
+        "album": "Aris",
+        "duration": "2:54",
+        "durationIso": "PT2M54S",
+        "chartPosition": "27",
+        "explicit": false
+      },
+      "evidenceText": "Ikävä, kyllä (feat. Bizi) 27 Ares Aris PREVIEW 2:54"
+    },
+    {
+      "title": "Kansallisaarre (feat. Mirella)",
+      "canonicalUrl": "https://music.apple.com/us/song/kansallisaarre-feat-mirella/6778016175",
+      "creator": "OLGA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/dd/ca/62ddca11-241f-3781-5272-4826e4ee9458/6430068447242.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6778016175",
+      "attributes": {
+        "album": "#Yolo - EP",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "Kansallisaarre (feat. Mirella) 28 OLGA #Yolo - EP PREVIEW 2:33"
+    },
+    {
+      "title": "Kirja",
+      "canonicalUrl": "https://music.apple.com/us/song/kirja/6805000628",
+      "creator": "Ahti",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/35/63/6e3563e7-4093-d5e7-53d6-1bce60046a05/1200214943240.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6805000628",
+      "attributes": {
+        "album": "Mikä muutti kaiken",
+        "duration": "2:30",
+        "durationIso": "PT2M30S",
+        "chartPosition": "29",
+        "explicit": false
+      },
+      "evidenceText": "Kirja 29 Ahti Mikä muutti kaiken PREVIEW 2:30"
+    },
+    {
+      "title": "Tuhlaajapoika (feat. Sara Bee)",
+      "canonicalUrl": "https://music.apple.com/us/song/tuhlaajapoika-feat-sara-bee/6764875412",
+      "creator": "ANI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/94/ec/7c94ec06-f110-270f-774c-5c3a559b3577/827568017093.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6764875412",
+      "attributes": {
+        "album": "Tuhlaajapoika (feat. Sara Bee) - Single",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "30",
+        "explicit": false
+      },
+      "evidenceText": "Tuhlaajapoika (feat. Sara Bee) 30 ANI Tuhlaajapoika (feat. Sara Bee) - Single PREVIEW 3:18"
+    },
+    {
+      "title": "Beyonce",
+      "canonicalUrl": "https://music.apple.com/us/song/beyonce/1844813282",
+      "creator": "Turisti",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/f7/91/70f791a8-28d0-59f0-155c-72e413d925b1/5026854100425.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1844813282",
+      "attributes": {
+        "album": "Magic City",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "31",
+        "explicit": false
+      },
+      "evidenceText": "Beyonce 31 Turisti Magic City PREVIEW 2:58"
+    },
+    {
+      "title": "Uskomaton (feat. Sara Bee)",
+      "canonicalUrl": "https://music.apple.com/us/song/uskomaton-feat-sara-bee/6767605982",
+      "creator": "Elastinen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/c7/0a/c1c70a68-863a-d74b-8675-e9194e6cea57/827568024510.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6767605982",
+      "attributes": {
+        "album": "Uskomaton (feat. Sara Bee) - Single",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "32",
+        "explicit": true
+      },
+      "evidenceText": "Uskomaton (feat. Sara Bee) 32 Elastinen Uskomaton (feat. Sara Bee) - Single PREVIEW 2:43"
+    },
+    {
+      "title": "Sade Osuu Ikkunaan",
+      "canonicalUrl": "https://music.apple.com/us/song/sade-osuu-ikkunaan/1884979088",
+      "creator": "Bizi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/a8/a7/10a8a704-bdf4-9ead-4459-e4933dad358c/6430068446986.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1884979088",
+      "attributes": {
+        "album": "Sä Olit Oikees",
+        "duration": "3:14",
+        "durationIso": "PT3M14S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "Sade Osuu Ikkunaan 33 Bizi Sä Olit Oikees PREVIEW 3:14"
+    },
+    {
+      "title": "Kiireinen nainen (feat. ibe)",
+      "canonicalUrl": "https://music.apple.com/us/song/kiireinen-nainen-feat-ibe/1707517766",
+      "creator": "Turisti",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/72/c5/f672c58c-3912-78da-95aa-34e1c390373d/5054197818417.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1707517766",
+      "attributes": {
+        "album": "Kiireinen nainen (feat. ibe) - Single",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "Kiireinen nainen (feat. ibe) 34 Turisti Kiireinen nainen (feat. ibe) - Single PREVIEW 3:04"
+    },
+    {
+      "title": "On / Off",
+      "canonicalUrl": "https://music.apple.com/us/song/on-off/1762680743",
+      "creator": "Averagekidluke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/5e/a2/cc5ea230-31c8-7b45-4ea0-4e9386068b6a/5021732466440.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1762680743",
+      "attributes": {
+        "album": "YUNO",
+        "duration": "2:15",
+        "durationIso": "PT2M15S",
+        "chartPosition": "35",
+        "explicit": true
+      },
+      "evidenceText": "On / Off 35 Averagekidluke YUNO PREVIEW 2:15"
+    },
+    {
+      "title": "Mun City (feat. Elastinen)",
+      "canonicalUrl": "https://music.apple.com/us/song/mun-city-feat-elastinen/6763585699",
+      "creator": "Turisti",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/8a/1b/a18a1bf6-2eb9-04e9-0bab-a7ec06b334e3/827568014122.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6763585699",
+      "attributes": {
+        "album": "Mun City (feat. Elastinen) - Single",
+        "duration": "2:14",
+        "durationIso": "PT2M14S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "Mun City (feat. Elastinen) 36 Turisti Mun City (feat. Elastinen) - Single PREVIEW 2:14"
+    },
+    {
+      "title": "hate that i made you love me",
+      "canonicalUrl": "https://music.apple.com/us/song/hate-that-i-made-you-love-me/6763656876",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6763656876",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "hate that i made you love me 37 Ariana Grande petal PREVIEW 3:17"
+    },
+    {
+      "title": "Mikä muutti kaiken",
+      "canonicalUrl": "https://music.apple.com/us/song/mik%C3%A4-muutti-kaiken/6805000616",
+      "creator": "Ahti",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/35/63/6e3563e7-4093-d5e7-53d6-1bce60046a05/1200214943240.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6805000616",
+      "attributes": {
+        "album": "Mikä muutti kaiken",
+        "duration": "3:58",
+        "durationIso": "PT3M58S",
+        "chartPosition": "38",
+        "explicit": true
+      },
+      "evidenceText": "Mikä muutti kaiken 38 Ahti Mikä muutti kaiken PREVIEW 3:58"
+    },
+    {
+      "title": "Palamaan",
+      "canonicalUrl": "https://music.apple.com/us/song/palamaan/1875333913",
+      "creator": "Isac Elliot, Mirella",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/57/a8/1057a862-fead-b700-68c8-109865a1ef00/5026854661155.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1875333913",
+      "attributes": {
+        "album": "Mansion Music",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "Palamaan 39 Isac Elliot, Mirella Mansion Music PREVIEW 3:25"
+    },
+    {
+      "title": "The Fate of Ophelia (Track by Track)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia-track-by-track/1843998667",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/74/44/3a74440e-a1c2-c2bc-22c4-c71bd4584ed1/25UM1IM53942.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1843998667",
+      "attributes": {
+        "album": "The Life of a Showgirl (Track by Track Version)",
+        "duration": "0:41",
+        "durationIso": "PT41S",
+        "chartPosition": "40",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia (Track by Track) 40 Taylor Swift The Life of a Showgirl (Track by Track Version) PREVIEW 0:41"
+    },
+    {
+      "title": "Dai Dai",
+      "canonicalUrl": "https://music.apple.com/us/song/dai-dai/6768469976",
+      "creator": "Shakira, Burna Boy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6768469976",
+      "attributes": {
+        "album": "Dai Dai - Single",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "Dai Dai 41 Shakira, Burna Boy Dai Dai - Single PREVIEW 3:43"
+    },
+    {
+      "title": "ENEMMÄ (feat. Cledos)",
+      "canonicalUrl": "https://music.apple.com/us/song/enemm%C3%A4-feat-cledos/6802612998",
+      "creator": "Dw",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/60/17/9b60177d-df1b-f8df-a584-38f61505af46/26UM1IM07247.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6802612998",
+      "attributes": {
+        "album": "ENEMMÄ (feat. Cledos) - Single",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "ENEMMÄ (feat. Cledos) 42 Dw ENEMMÄ (feat. Cledos) - Single PREVIEW 2:38"
+    },
+    {
+      "title": "the cure",
+      "canonicalUrl": "https://music.apple.com/us/song/the-cure/1889992123",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1889992123",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "43",
+        "explicit": true
+      },
+      "evidenceText": "the cure 43 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 4:57"
+    },
+    {
+      "title": "Tahdon",
+      "canonicalUrl": "https://music.apple.com/us/song/tahdon/1844218935",
+      "creator": "louna0nline",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/7a/35/c17a3509-5fcd-1eab-553a-1d9871772cd7/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1844218935",
+      "attributes": {
+        "album": "WEB - EP",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "Tahdon 44 louna0nline WEB - EP PREVIEW 3:18"
+    },
+    {
+      "title": "kevät tulee kun sä palaat",
+      "canonicalUrl": "https://music.apple.com/us/song/kev%C3%A4t-tulee-kun-s%C3%A4-palaat/6777247711",
+      "creator": "louna0nline",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/23/3c/5a233ceb-4693-6c88-4895-d531f40c0a38/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6777247711",
+      "attributes": {
+        "album": "kevät tulee kun sä palaat - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "45",
+        "explicit": false
+      },
+      "evidenceText": "kevät tulee kun sä palaat 45 louna0nline kevät tulee kun sä palaat - Single PREVIEW 3:15"
+    },
+    {
+      "title": "Opalite",
+      "canonicalUrl": "https://music.apple.com/us/song/opalite/1833328845",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1833328845",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "46",
+        "explicit": false
+      },
+      "evidenceText": "Opalite 46 Taylor Swift The Life of a Showgirl PREVIEW 3:55"
+    },
+    {
+      "title": "Kaikki Kunnos",
+      "canonicalUrl": "https://music.apple.com/us/song/kaikki-kunnos/6813249204",
+      "creator": "Sliki, Korelon",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/6f/7e/776f7e1a-689a-825a-245c-c9dd4b7e6c3d/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6813249204",
+      "attributes": {
+        "album": "Kaikki Kunnos - Single",
+        "duration": "2:40",
+        "durationIso": "PT2M40S",
+        "chartPosition": "47",
+        "explicit": true
+      },
+      "evidenceText": "Kaikki Kunnos 47 Sliki, Korelon Kaikki Kunnos - Single PREVIEW 2:40"
+    },
+    {
+      "title": "Movin' To The Sun",
+      "canonicalUrl": "https://music.apple.com/us/song/movin-to-the-sun/6769070199",
+      "creator": "HUGEL, Imael Angel, Ultra Naté",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6769070199",
+      "attributes": {
+        "album": "Movin' To The Sun - Single",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Movin' To The Sun 48 HUGEL, Imael Angel, Ultra Naté Movin' To The Sun - Single PREVIEW 2:22"
+    },
+    {
+      "title": "Lightskinboy (feat. Sexmane)",
+      "canonicalUrl": "https://music.apple.com/us/song/lightskinboy-feat-sexmane/1746314081",
+      "creator": "Turisti",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/17/15/5e1715d3-620b-8859-ce89-d51caf9221e6/5021732381910.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1746314081",
+      "attributes": {
+        "album": "Lightskinboy (feat. Sexmane) - Single",
+        "duration": "2:26",
+        "durationIso": "PT2M26S",
+        "chartPosition": "49",
+        "explicit": true
+      },
+      "evidenceText": "Lightskinboy (feat. Sexmane) 49 Turisti Lightskinboy (feat. Sexmane) - Single PREVIEW 2:26"
+    },
+    {
+      "title": "Vois kelle vaan tapahtuu",
+      "canonicalUrl": "https://music.apple.com/us/song/vois-kelle-vaan-tapahtuu/6806314642",
+      "creator": "Aliisa Syrjä",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/19/12/b91912cc-54e5-d3f8-e437-308cd1246ad5/1200214976972.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6806314642",
+      "attributes": {
+        "album": "Vois kelle vaan tapahtuu",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "50",
+        "explicit": false
+      },
+      "evidenceText": "Vois kelle vaan tapahtuu 50 Aliisa Syrjä Vois kelle vaan tapahtuu PREVIEW 3:00"
+    },
+    {
+      "title": "stupid song",
+      "canonicalUrl": "https://music.apple.com/us/song/stupid-song/1889992115",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1889992115",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "51",
+        "explicit": false
+      },
+      "evidenceText": "stupid song 51 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:29"
+    },
+    {
+      "title": "MEININKI (feat. Ares, Jore & Zpoppa, Turisti & WILLEM)",
+      "canonicalUrl": "https://music.apple.com/us/song/meininki-feat-ares-jore-zpoppa-turisti-willem/1819359606",
+      "creator": "Averagekidluke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/9c/54/fd9c5475-4c1f-6293-84b6-b723b482e75e/5021732838346.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1819359606",
+      "attributes": {
+        "album": "DENIM",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "52",
+        "explicit": true
+      },
+      "evidenceText": "MEININKI (feat. Ares, Jore & Zpoppa, Turisti & WILLEM) 52 Averagekidluke DENIM PREVIEW 3:21"
+    },
+    {
+      "title": "Mä",
+      "canonicalUrl": "https://music.apple.com/us/song/m%C3%A4/6798898557",
+      "creator": "helmi marleena",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/a0/34/eda034a7-454c-0eb1-12e6-74fc05aff956/26UMGIM74182.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6798898557",
+      "attributes": {
+        "album": "Pilasit vuodet, pilasit biisit",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "Mä 53 helmi marleena Pilasit vuodet, pilasit biisit PREVIEW 3:13"
+    },
+    {
+      "title": "Liike on lääke",
+      "canonicalUrl": "https://music.apple.com/us/song/liike-on-l%C3%A4%C3%A4ke/1804187478",
+      "creator": "Turisti",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/75/a4/4a75a48e-7c29-fed2-bde9-1442cf152281/5021732755568.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1804187478",
+      "attributes": {
+        "album": "Liike on lääke - Single",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "54",
+        "explicit": true
+      },
+      "evidenceText": "Liike on lääke 54 Turisti Liike on lääke - Single PREVIEW 2:52"
+    },
+    {
+      "title": "En kerro kellekään",
+      "canonicalUrl": "https://music.apple.com/us/song/en-kerro-kellek%C3%A4%C3%A4n/6798898769",
+      "creator": "helmi marleena",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/a0/34/eda034a7-454c-0eb1-12e6-74fc05aff956/26UMGIM74182.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6798898769",
+      "attributes": {
+        "album": "Pilasit vuodet, pilasit biisit",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "En kerro kellekään 55 helmi marleena Pilasit vuodet, pilasit biisit PREVIEW 2:50"
+    },
+    {
+      "title": "Janice STFU",
+      "canonicalUrl": "https://music.apple.com/us/song/janice-stfu/6769568596",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6769568596",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "56",
+        "explicit": true
+      },
+      "evidenceText": "Janice STFU 56 Drake ICEMAN PREVIEW 3:57"
+    },
+    {
+      "title": "Elizabeth Taylor",
+      "canonicalUrl": "https://music.apple.com/us/song/elizabeth-taylor/1833328842",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1833328842",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "Elizabeth Taylor 57 Taylor Swift The Life of a Showgirl PREVIEW 3:28"
+    },
+    {
+      "title": "Toisessa Elämässä",
+      "canonicalUrl": "https://music.apple.com/us/song/toisessa-ela-ma-ssa/1804901848",
+      "creator": "Lauri Haav",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/ce/eb/0dceebe1-c6f2-360f-9a53-a79337f81483/6430068445491.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1804901848",
+      "attributes": {
+        "album": "Toisessa Elämässä - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "58",
+        "explicit": true
+      },
+      "evidenceText": "Toisessa Elämässä 58 Lauri Haav Toisessa Elämässä - Single PREVIEW 3:29"
+    },
+    {
+      "title": "Toivon sulle pelkkää hyvää",
+      "canonicalUrl": "https://music.apple.com/us/song/toivon-sulle-pelkk%C3%A4%C3%A4-hyv%C3%A4%C3%A4/6798898549",
+      "creator": "helmi marleena",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/a0/34/eda034a7-454c-0eb1-12e6-74fc05aff956/26UMGIM74182.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6798898549",
+      "attributes": {
+        "album": "Pilasit vuodet, pilasit biisit",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "59",
+        "explicit": false
+      },
+      "evidenceText": "Toivon sulle pelkkää hyvää 59 helmi marleena Pilasit vuodet, pilasit biisit PREVIEW 2:39"
+    },
+    {
+      "title": "Animal",
+      "canonicalUrl": "https://music.apple.com/us/song/animal/1891779776",
+      "creator": "KATSEYE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/28/92/e22892a7-fe88-72cf-ecba-691030dfcf7e/26UMGIM41151.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1891779776",
+      "attributes": {
+        "album": "WILD - EP",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "60",
+        "explicit": false
+      },
+      "evidenceText": "Animal 60 KATSEYE WILD - EP PREVIEW 2:38"
+    },
+    {
+      "title": "Loser",
+      "canonicalUrl": "https://music.apple.com/us/song/loser/1836226731",
+      "creator": "Tame Impala",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1836226731",
+      "attributes": {
+        "album": "Deadbeat",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "61",
+        "explicit": true
+      },
+      "evidenceText": "Loser 61 Tame Impala Deadbeat PREVIEW 3:43"
+    },
+    {
+      "title": "Join Me In Death",
+      "canonicalUrl": "https://music.apple.com/us/song/join-me-in-death/1710222901",
+      "creator": "HIM",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/b1/ca/d6b1ca57-b133-3324-b857-47ea01c60302/0654436035206.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1710222901",
+      "attributes": {
+        "album": "Razorblade Romance (Deluxe Remastered Edition)",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "62",
+        "explicit": false
+      },
+      "evidenceText": "Join Me In Death 62 HIM Razorblade Romance (Deluxe Remastered Edition) PREVIEW 3:36"
+    },
+    {
+      "title": "Perhonen",
+      "canonicalUrl": "https://music.apple.com/us/song/perhonen/1885141583",
+      "creator": "Lauri Haav",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/66/d5/c466d5a6-e137-a325-6b12-be6ac9564742/6430068446962.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1885141583",
+      "attributes": {
+        "album": "Perhonen - Single",
+        "duration": "3:38",
+        "durationIso": "PT3M38S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "Perhonen 63 Lauri Haav Perhonen - Single PREVIEW 3:38"
+    },
+    {
+      "title": "Sisko ja sen veli",
+      "canonicalUrl": "https://music.apple.com/us/song/sisko-ja-sen-veli/1874039602",
+      "creator": "Ahti",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/40/fe/c440fe2b-f002-f327-1c72-9c1c6a59ff10/5026854633824.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1874039602",
+      "attributes": {
+        "album": "Sisko ja sen veli - Single",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "Sisko ja sen veli 64 Ahti Sisko ja sen veli - Single PREVIEW 3:08"
+    },
+    {
+      "title": "Timanttei",
+      "canonicalUrl": "https://music.apple.com/us/song/timanttei/1721431952",
+      "creator": "Mirella",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/55/be/0d55bef3-3606-8c34-6615-7587a7e51335/23UM1IM65059.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1721431952",
+      "attributes": {
+        "album": "Timanttei - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "Timanttei 65 Mirella Timanttei - Single PREVIEW 3:29"
+    },
+    {
+      "title": "Choosin' Texas",
+      "canonicalUrl": "https://music.apple.com/us/song/choosin-texas/1844932150",
+      "creator": "Ella Langley",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1844932150",
+      "attributes": {
+        "album": "Choosin' Texas - Single",
+        "duration": "3:52",
+        "durationIso": "PT3M52S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "Choosin' Texas 66 Ella Langley Choosin' Texas - Single PREVIEW 3:52"
+    },
+    {
+      "title": "Luotathan",
+      "canonicalUrl": "https://music.apple.com/us/song/luotathan/1746731643",
+      "creator": "Mirella, Lauri Haav",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/52/9e/62529e4d-cd6b-4ce1-f847-77f6ff6efc37/24UMGIM55894.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1746731643",
+      "attributes": {
+        "album": "Luotathan - Single",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "Luotathan 67 Mirella, Lauri Haav Luotathan - Single PREVIEW 3:20"
+    },
+    {
+      "title": "Into You",
+      "canonicalUrl": "https://music.apple.com/us/song/into-you/1568020292",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6e/40/14/6e401443-8c15-2f21-4d2c-effe972c3838/16UMGIM30042.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1568020292",
+      "attributes": {
+        "album": "Dangerous Woman (Bonus Tracks Edition)",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "Into You 68 Ariana Grande Dangerous Woman (Bonus Tracks Edition) PREVIEW 4:04"
+    },
+    {
+      "title": "Oispa meil aikaa",
+      "canonicalUrl": "https://music.apple.com/us/song/oispa-meil-aikaa/6798898770",
+      "creator": "helmi marleena",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/a0/34/eda034a7-454c-0eb1-12e6-74fc05aff956/26UMGIM74182.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6798898770",
+      "attributes": {
+        "album": "Pilasit vuodet, pilasit biisit",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "69",
+        "explicit": false
+      },
+      "evidenceText": "Oispa meil aikaa 69 helmi marleena Pilasit vuodet, pilasit biisit PREVIEW 3:26"
+    },
+    {
+      "title": "Stateside (with Zara Larsson)",
+      "canonicalUrl": "https://music.apple.com/us/song/stateside-with-zara-larsson/1843595808",
+      "creator": "PinkPantheress",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/d2/bb/b0d2bb76-41a2-1bb1-586c-107b63e4181d/5026854077819.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1843595808",
+      "attributes": {
+        "album": "Fancy Some More?",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "Stateside (with Zara Larsson) 70 PinkPantheress Fancy Some More? PREVIEW 3:04"
+    },
+    {
+      "title": "Vihaa mua",
+      "canonicalUrl": "https://music.apple.com/us/song/vihaa-mua/1819359608",
+      "creator": "Averagekidluke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/9c/54/fd9c5475-4c1f-6293-84b6-b723b482e75e/5021732838346.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1819359608",
+      "attributes": {
+        "album": "DENIM",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "Vihaa mua 71 Averagekidluke DENIM PREVIEW 2:48"
+    },
+    {
+      "title": "superstar",
+      "canonicalUrl": "https://music.apple.com/us/song/superstar/6805235900",
+      "creator": "ibe",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/d4/ea/46d4eae5-8613-3888-420c-ea5b4b698348/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6805235900",
+      "attributes": {
+        "album": "superstar - Single",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "superstar 72 ibe superstar - Single PREVIEW 2:57"
+    },
+    {
+      "title": "Timantit On Ikuisia",
+      "canonicalUrl": "https://music.apple.com/us/song/timantit-on-ikuisia/680640762",
+      "creator": "Cheek",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/f7/a2/63/f7a2638a-af22-754e-95b0-68d148b369a7/825646415793.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "680640762",
+      "attributes": {
+        "album": "Timantit On Ikuisia - Single",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "Timantit On Ikuisia 73 Cheek Timantit On Ikuisia - Single PREVIEW 3:40"
+    },
+    {
+      "title": "Mua Ei Voi Pelastaa",
+      "canonicalUrl": "https://music.apple.com/us/song/mua-ei-voi-pelastaa/1802751746",
+      "creator": "Lauri Haav",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/9d/ba/2a9dbacb-d628-fcd3-079b-a066e56cd778/6430068443756.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1802751746",
+      "attributes": {
+        "album": "Aino",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "74",
+        "explicit": false
+      },
+      "evidenceText": "Mua Ei Voi Pelastaa 74 Lauri Haav Aino PREVIEW 3:04"
+    },
+    {
+      "title": "Blinding Lights",
+      "canonicalUrl": "https://music.apple.com/us/song/blinding-lights/1488408568",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1488408568",
+      "attributes": {
+        "album": "Blinding Lights - Single",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Blinding Lights 75 The Weeknd Blinding Lights - Single PREVIEW 3:21"
+    },
+    {
+      "title": "Kokonainen",
+      "canonicalUrl": "https://music.apple.com/us/song/kokonainen/1751958867",
+      "creator": "Ares",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/00/03/390003b0-47ce-2563-a2f2-1fc67bd605d8/5021732411518.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1751958867",
+      "attributes": {
+        "album": "Kokonainen - Single",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "76",
+        "explicit": true
+      },
+      "evidenceText": "Kokonainen 76 Ares Kokonainen - Single PREVIEW 2:39"
+    },
+    {
+      "title": "Ikävä kotiin (Vain elämää kausi 17)",
+      "canonicalUrl": "https://music.apple.com/us/song/ik%C3%A4v%C3%A4-kotiin-vain-el%C3%A4m%C3%A4%C3%A4-kausi-17/6809904713",
+      "creator": "Ares, Lukas Leon",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/46/7f/15467f56-b04f-e090-a354-18a939edba88/1200220082537.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6809904713",
+      "attributes": {
+        "album": "Ikävä kotiin (Vain elämää kausi 17) - Single",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "77",
+        "explicit": true
+      },
+      "evidenceText": "Ikävä kotiin (Vain elämää kausi 17) 77 Ares, Lukas Leon Ikävä kotiin (Vain elämää kausi 17) - Single PREVIEW 3:02"
+    },
+    {
+      "title": "Ehkä Joskus",
+      "canonicalUrl": "https://music.apple.com/us/song/ehk%C3%A4-joskus/6799951097",
+      "creator": "Korelon, Ares",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/a6/ad/d0a6ad9f-bc93-dc75-970c-437ffb7d7cf5/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6799951097",
+      "attributes": {
+        "album": "Ehkä Joskus - Single",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "78",
+        "explicit": false
+      },
+      "evidenceText": "Ehkä Joskus 78 Korelon, Ares Ehkä Joskus - Single PREVIEW 2:38"
+    },
+    {
+      "title": "Diva",
+      "canonicalUrl": "https://music.apple.com/us/song/diva/1777810477",
+      "creator": "Averagekidluke",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/d9/20/80d92029-9721-67be-3fe7-d748f47a07a9/5021732542021.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1777810477",
+      "attributes": {
+        "album": "Diva - Single",
+        "duration": "2:31",
+        "durationIso": "PT2M31S",
+        "chartPosition": "79",
+        "explicit": false
+      },
+      "evidenceText": "Diva 79 Averagekidluke Diva - Single PREVIEW 2:31"
+    },
+    {
+      "title": "Great Expectation",
+      "canonicalUrl": "https://music.apple.com/us/song/great-expectation/6769552411",
+      "creator": "SIENNA SPIRO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6769552411",
+      "attributes": {
+        "album": "Visitor (Deluxe)",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "80",
+        "explicit": false
+      },
+      "evidenceText": "Great Expectation 80 SIENNA SPIRO Visitor (Deluxe) PREVIEW 2:53"
+    },
+    {
+      "title": "Danceteria Afterhours",
+      "canonicalUrl": "https://music.apple.com/us/song/danceteria-afterhours/6812516294",
+      "creator": "Madonna, Charli xcx",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/ea/f2/41eaf245-956f-0f32-8d9f-a409a9ae6ed0/054391208811.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6812516294",
+      "attributes": {
+        "album": "Danceteria Afterhours - Single",
+        "duration": "3:50",
+        "durationIso": "PT3M50S",
+        "chartPosition": "81",
+        "explicit": true
+      },
+      "evidenceText": "Danceteria Afterhours 81 Madonna, Charli xcx Danceteria Afterhours - Single PREVIEW 3:50"
+    },
+    {
+      "title": "Valokuvii",
+      "canonicalUrl": "https://music.apple.com/us/song/valokuvii/6777171174",
+      "creator": "Jami Faltin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/0b/bb/340bbb82-7db1-21fa-a82f-417cfcc328f6/196874504871.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6777171174",
+      "attributes": {
+        "album": "Valokuvii - Single",
+        "duration": "2:12",
+        "durationIso": "PT2M12S",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "Valokuvii 82 Jami Faltin Valokuvii - Single PREVIEW 2:12"
+    },
+    {
+      "title": "Poikaystävä",
+      "canonicalUrl": "https://music.apple.com/us/song/poikayst%C3%A4v%C3%A4/1880327233",
+      "creator": "Korelon, Sara Bee",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/04/0b/7b040bb9-0401-547f-bedc-6994c59acf48/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1880327233",
+      "attributes": {
+        "album": "Poikaystävä - Single",
+        "duration": "2:19",
+        "durationIso": "PT2M19S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "Poikaystävä 83 Korelon, Sara Bee Poikaystävä - Single PREVIEW 2:19"
+    },
+    {
+      "title": "Hootie Frutti",
+      "canonicalUrl": "https://music.apple.com/us/song/hootie-frutti/1891779777",
+      "creator": "KATSEYE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/28/92/e22892a7-fe88-72cf-ecba-691030dfcf7e/26UMGIM41151.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1891779777",
+      "attributes": {
+        "album": "WILD - EP",
+        "duration": "2:20",
+        "durationIso": "PT2M20S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "Hootie Frutti 84 KATSEYE WILD - EP PREVIEW 2:20"
+    },
+    {
+      "title": "Billie Jean",
+      "canonicalUrl": "https://music.apple.com/us/song/billie-jean/269573364",
+      "creator": "Michael Jackson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "269573364",
+      "attributes": {
+        "album": "Thriller",
+        "duration": "4:53",
+        "durationIso": "PT4M53S",
+        "chartPosition": "85",
+        "explicit": false
+      },
+      "evidenceText": "Billie Jean 85 Michael Jackson Thriller PREVIEW 4:53"
+    },
+    {
+      "title": "Ihmisten Edessä",
+      "canonicalUrl": "https://music.apple.com/us/song/ihmisten-edess%C3%A4/263501556",
+      "creator": "Jenni Vartiainen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/44/de/d4/mzi.dlsxaolj.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "263501556",
+      "attributes": {
+        "album": "Ihmisten Edessä",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "Ihmisten Edessä 86 Jenni Vartiainen Ihmisten Edessä PREVIEW 3:32"
+    },
+    {
+      "title": "Makso Mitä Makso (feat. Sexmane)",
+      "canonicalUrl": "https://music.apple.com/us/song/makso-mit%C3%A4-makso-feat-sexmane/1642327565",
+      "creator": "Isac Elliot",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f5/5e/44/f55e4429-e991-5bff-63c3-c606a3c46785/22UMGIM96343.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1642327565",
+      "attributes": {
+        "album": "Makso Mitä Makso (feat. Sexmane) - Single",
+        "duration": "2:45",
+        "durationIso": "PT2M45S",
+        "chartPosition": "87",
+        "explicit": false
+      },
+      "evidenceText": "Makso Mitä Makso (feat. Sexmane) 87 Isac Elliot Makso Mitä Makso (feat. Sexmane) - Single PREVIEW 2:45"
+    },
+    {
+      "title": "Maailma on mun",
+      "canonicalUrl": "https://music.apple.com/us/song/maailma-on-mun/6768267156",
+      "creator": "Minttu",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/19/49/d7194939-0047-9c1c-2f4c-8111ac32672d/26UMGIM56884.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6768267156",
+      "attributes": {
+        "album": "Maailma on mun",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "Maailma on mun 88 Minttu Maailma on mun PREVIEW 2:38"
+    },
+    {
+      "title": "White Noise 90 Minutes",
+      "canonicalUrl": "https://music.apple.com/us/song/white-noise-90-minutes/1183326285",
+      "creator": "White Noise",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/af/0e/4d/af0e4d89-5d75-c592-a8ee-2997c2757c3a/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1183326285",
+      "attributes": {
+        "album": "White Noise 90 Minutes",
+        "duration": "1:30:15",
+        "durationIso": "PT1H30M15S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "White Noise 90 Minutes 89 White Noise White Noise 90 Minutes PREVIEW 1:30:15"
+    },
+    {
+      "title": "Kuka Hitto Sen Päättää",
+      "canonicalUrl": "https://music.apple.com/us/song/kuka-hitto-sen-pa-a-tta-a/1890223377",
+      "creator": "Lauri Haav",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/c8/2e/3fc82ec0-51f1-0098-3ab4-e446ca512aa6/6430068447013.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1890223377",
+      "attributes": {
+        "album": "No Haav No Love",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "Kuka Hitto Sen Päättää 90 Lauri Haav No Haav No Love PREVIEW 2:57"
+    },
+    {
+      "title": "Four Seasons (feat. Averagekidluke)",
+      "canonicalUrl": "https://music.apple.com/us/song/four-seasons-feat-averagekidluke/1875333901",
+      "creator": "Isac Elliot",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/57/a8/1057a862-fead-b700-68c8-109865a1ef00/5026854661155.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1875333901",
+      "attributes": {
+        "album": "Mansion Music",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "Four Seasons (feat. Averagekidluke) 91 Isac Elliot Mansion Music PREVIEW 3:03"
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia/1833328840",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1833328840",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia 92 Taylor Swift The Life of a Showgirl PREVIEW 3:46"
+    },
+    {
+      "title": "Lapsuuden sankarille (Vain elämää kausi 17)",
+      "canonicalUrl": "https://music.apple.com/us/song/lapsuuden-sankarille-vain-el%C3%A4m%C3%A4%C3%A4-kausi-17/6807939600",
+      "creator": "Ares, Jami Faltin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/58/bd/5f58bdae-2110-87bc-8836-78bfd523fcfa/1200220048991.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6807939600",
+      "attributes": {
+        "album": "Lapsuuden sankarille (Vain elämää kausi 17) - Single",
+        "duration": "2:16",
+        "durationIso": "PT2M16S",
+        "chartPosition": "93",
+        "explicit": false
+      },
+      "evidenceText": "Lapsuuden sankarille (Vain elämää kausi 17) 93 Ares, Jami Faltin Lapsuuden sankarille (Vain elämää kausi 17) - Single PREVIEW 2:16"
+    },
+    {
+      "title": "Tippa-T",
+      "canonicalUrl": "https://music.apple.com/us/song/tippa-t/1869074622",
+      "creator": "Turisti, Elastinen",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/73/11/ab731143-ed53-6be2-040f-b6077a3b0611/196429011076.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1869074622",
+      "attributes": {
+        "album": "Tippa-T - Single",
+        "duration": "2:16",
+        "durationIso": "PT2M16S",
+        "chartPosition": "94",
+        "explicit": true
+      },
+      "evidenceText": "Tippa-T 94 Turisti, Elastinen Tippa-T - Single PREVIEW 2:16"
+    },
+    {
+      "title": "Wonderwall (Remastered)",
+      "canonicalUrl": "https://music.apple.com/us/song/wonderwall-remastered/1525933490",
+      "creator": "Oasis",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1525933490",
+      "attributes": {
+        "album": "(What's The Story) Morning Glory? [Deluxe Remastered Edition]",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "95",
+        "explicit": false
+      },
+      "evidenceText": "Wonderwall (Remastered) 95 Oasis (What's The Story) Morning Glory? [Deluxe Remastered Edition] PREVIEW 4:18"
+    },
+    {
+      "title": "HERTTUA",
+      "canonicalUrl": "https://music.apple.com/us/song/herttua/6766909882",
+      "creator": "keiju",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/8c/de/2c8cde30-6f45-8de3-1e4c-bf108c9d6792/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6766909882",
+      "attributes": {
+        "album": "PIIKA",
+        "duration": "2:19",
+        "durationIso": "PT2M19S",
+        "chartPosition": "96",
+        "explicit": true
+      },
+      "evidenceText": "HERTTUA 96 keiju PIIKA PREVIEW 2:19"
+    },
+    {
+      "title": "Stadi (Alicia)",
+      "canonicalUrl": "https://music.apple.com/us/song/stadi-alicia/1802761869",
+      "creator": "OLGA, Isac Elliot",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/5c/d4/cb5cd422-52cc-664c-3f14-2732f648e6ac/6430068444852.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1802761869",
+      "attributes": {
+        "album": "Stadi (Alicia) - Single",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "Stadi (Alicia) 97 OLGA, Isac Elliot Stadi (Alicia) - Single PREVIEW 2:22"
+    },
+    {
+      "title": "Bass Persuades",
+      "canonicalUrl": "https://music.apple.com/us/song/bass-persuades/6807197459",
+      "creator": "Miley Cyrus",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "6807197459",
+      "attributes": {
+        "album": "Bass Persuades",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "98",
+        "explicit": false
+      },
+      "evidenceText": "Bass Persuades 98 Miley Cyrus Bass Persuades PREVIEW 3:22"
+    },
+    {
+      "title": "Totuus sattuu (with Pehmoaino)",
+      "canonicalUrl": "https://music.apple.com/us/song/totuus-sattuu-with-pehmoaino/1840451761",
+      "creator": "Ares",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/03/27/a20327ab-3edf-9e77-b0e3-70b67d759309/5021732986481.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "1840451761",
+      "attributes": {
+        "album": "Totuus sattuu (with Pehmoaino) - Single",
+        "duration": "2:45",
+        "durationIso": "PT2M45S",
+        "chartPosition": "99",
+        "explicit": false
+      },
+      "evidenceText": "Totuus sattuu (with Pehmoaino) 99 Ares Totuus sattuu (with Pehmoaino) - Single PREVIEW 2:45"
+    },
+    {
+      "title": "Sweater Weather",
+      "canonicalUrl": "https://music.apple.com/us/song/sweater-weather/635016640",
+      "creator": "The Neighbourhood",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-finland/pl.acea41a017664a8ebcd5aa1622aecc88",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Finland",
+      "externalId": "635016640",
+      "attributes": {
+        "album": "I Love You.",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "100",
+        "explicit": false
+      },
+      "evidenceText": "Sweater Weather 100 The Neighbourhood I Love You. PREVIEW 4:00"
+    }
+  ]
+}

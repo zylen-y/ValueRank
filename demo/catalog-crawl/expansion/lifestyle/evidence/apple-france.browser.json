@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+  "collection": "Top 100: France",
+  "fetchedAt": "2026-09-27T03:39:59.752Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Fille à Papa",
+      "canonicalUrl": "https://music.apple.com/us/song/fille-a-papa/6809781929",
+      "creator": "Vacra, La Rvfleuze",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/50/f0/8350f0d2-eb4f-c247-5294-b5bdcb550c7e/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809781929",
+      "attributes": {
+        "album": "Fille à Papa - Single",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "1",
+        "explicit": true
+      },
+      "evidenceText": "Fille à Papa 1 Vacra, La Rvfleuze Fille à Papa - Single PREVIEW 2:49"
+    },
+    {
+      "title": "Mélo Décalé",
+      "canonicalUrl": "https://music.apple.com/us/song/m%C3%A9lo-d%C3%A9cal%C3%A9/6775967738",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/7b/bf/0c7bbfe2-0a42-02ce-e4b4-3e065023cf05/ticket.kplujxum.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6775967738",
+      "attributes": {
+        "album": "Mélo Décalé - Single",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "2",
+        "explicit": true
+      },
+      "evidenceText": "Mélo Décalé 2 Tiakola Mélo Décalé - Single PREVIEW 2:36"
+    },
+    {
+      "title": "cœur De Pirate",
+      "canonicalUrl": "https://music.apple.com/us/song/c%C5%93ur-de-pirate/6809755020",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809755020",
+      "attributes": {
+        "album": "WpointM",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "3",
+        "explicit": true
+      },
+      "evidenceText": "cœur De Pirate 3 Tiakola WpointM PREVIEW 3:00"
+    },
+    {
+      "title": "Bottega",
+      "canonicalUrl": "https://music.apple.com/us/song/bottega/6809755017",
+      "creator": "Tiakola, Kuluna, TVLM, Nooche",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809755017",
+      "attributes": {
+        "album": "WpointM",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "4",
+        "explicit": true
+      },
+      "evidenceText": "Bottega 4 Tiakola, Kuluna, TVLM, Nooche WpointM PREVIEW 4:10"
+    },
+    {
+      "title": "Les misérables",
+      "canonicalUrl": "https://music.apple.com/us/song/les-mis%C3%A9rables/6809754890",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809754890",
+      "attributes": {
+        "album": "WpointM",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "5",
+        "explicit": true
+      },
+      "evidenceText": "Les misérables 5 Tiakola WpointM PREVIEW 3:11"
+    },
+    {
+      "title": "Mode de vie",
+      "canonicalUrl": "https://music.apple.com/us/song/mode-de-vie/6809755014",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809755014",
+      "attributes": {
+        "album": "WpointM",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "6",
+        "explicit": true
+      },
+      "evidenceText": "Mode de vie 6 Tiakola WpointM PREVIEW 3:10"
+    },
+    {
+      "title": "Sicario",
+      "canonicalUrl": "https://music.apple.com/us/song/sicario/6778036498",
+      "creator": "Timal",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/9c/01/5a9c01ba-cb38-aea7-bc6c-20088e6e4be7/8721555380783.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6778036498",
+      "attributes": {
+        "album": "Sicario - Single",
+        "duration": "2:29",
+        "durationIso": "PT2M29S",
+        "chartPosition": "7",
+        "explicit": true
+      },
+      "evidenceText": "Sicario 7 Timal Sicario - Single PREVIEW 2:29"
+    },
+    {
+      "title": "Sans toi",
+      "canonicalUrl": "https://music.apple.com/us/song/sans-toi/6809755024",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809755024",
+      "attributes": {
+        "album": "WpointM",
+        "duration": "3:31",
+        "durationIso": "PT3M31S",
+        "chartPosition": "8",
+        "explicit": true
+      },
+      "evidenceText": "Sans toi 8 Tiakola WpointM PREVIEW 3:31"
+    },
+    {
+      "title": "Best",
+      "canonicalUrl": "https://music.apple.com/us/song/best/6809755019",
+      "creator": "Tiakola, Rema",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809755019",
+      "attributes": {
+        "album": "WpointM",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "9",
+        "explicit": true
+      },
+      "evidenceText": "Best 9 Tiakola, Rema WpointM PREVIEW 3:42"
+    },
+    {
+      "title": "Juda",
+      "canonicalUrl": "https://music.apple.com/us/song/juda/6809755018",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809755018",
+      "attributes": {
+        "album": "WpointM",
+        "duration": "2:19",
+        "durationIso": "PT2M19S",
+        "chartPosition": "10",
+        "explicit": true
+      },
+      "evidenceText": "Juda 10 Tiakola WpointM PREVIEW 2:19"
+    },
+    {
+      "title": "Caméléon",
+      "canonicalUrl": "https://music.apple.com/us/song/cam%C3%A9l%C3%A9on/6809755037",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809755037",
+      "attributes": {
+        "album": "WpointM",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "11",
+        "explicit": true
+      },
+      "evidenceText": "Caméléon 11 Tiakola WpointM PREVIEW 3:20"
+    },
+    {
+      "title": "Vrai OG",
+      "canonicalUrl": "https://music.apple.com/us/song/vrai-og/6812419611",
+      "creator": "Tiakola, Bné",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/14/56/0b1456ed-636d-2e9d-d503-4f279a12c97f/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6812419611",
+      "attributes": {
+        "album": "Vrai OG - Single",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "12",
+        "explicit": true
+      },
+      "evidenceText": "Vrai OG 12 Tiakola, Bné Vrai OG - Single PREVIEW 3:37"
+    },
+    {
+      "title": "La Nocturne",
+      "canonicalUrl": "https://music.apple.com/us/song/la-nocturne/6812420993",
+      "creator": "Tiakola, Theodora",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/3a/2f/203a2f5e-6e22-833e-566c-015380e2bfde/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6812420993",
+      "attributes": {
+        "album": "La Nocturne - Single",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "13",
+        "explicit": true
+      },
+      "evidenceText": "La Nocturne 13 Tiakola, Theodora La Nocturne - Single PREVIEW 3:41"
+    },
+    {
+      "title": "WpointM",
+      "canonicalUrl": "https://music.apple.com/us/song/wpointm/6809755027",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809755027",
+      "attributes": {
+        "album": "WpointM",
+        "duration": "4:29",
+        "durationIso": "PT4M29S",
+        "chartPosition": "14",
+        "explicit": true
+      },
+      "evidenceText": "WpointM 14 Tiakola WpointM PREVIEW 4:29"
+    },
+    {
+      "title": "Jet Lag",
+      "canonicalUrl": "https://music.apple.com/us/song/jet-lag/6812423869",
+      "creator": "Tiakola, Jorja Smith",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/37/b6/ca37b664-4acf-f456-32fa-e9b35f1075e9/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6812423869",
+      "attributes": {
+        "album": "Jet Lag - Single",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "15",
+        "explicit": true
+      },
+      "evidenceText": "Jet Lag 15 Tiakola, Jorja Smith Jet Lag - Single PREVIEW 3:01"
+    },
+    {
+      "title": "Savage",
+      "canonicalUrl": "https://music.apple.com/us/song/savage/6764352462",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/a3/9a/54a39a27-7d66-7c6d-5c3e-145bdda3dff3/827568014375.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6764352462",
+      "attributes": {
+        "album": "Savage - Single",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "16",
+        "explicit": true
+      },
+      "evidenceText": "Savage 16 Tiakola Savage - Single PREVIEW 3:25"
+    },
+    {
+      "title": "Baraque au Bled",
+      "canonicalUrl": "https://music.apple.com/us/song/baraque-au-bled/6809810379",
+      "creator": "Djadja & Dinaz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/91/98/049198a7-752e-1e23-cd23-50a0aaa50cad/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809810379",
+      "attributes": {
+        "album": "Matière Noire",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "17",
+        "explicit": true
+      },
+      "evidenceText": "Baraque au Bled 17 Djadja & Dinaz Matière Noire PREVIEW 2:55"
+    },
+    {
+      "title": "Sexy Nana",
+      "canonicalUrl": "https://music.apple.com/us/song/sexy-nana/6764794375",
+      "creator": "Aya Nakamura, La Rvfleuze",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/9b/d9/c59bd986-4569-6ddd-85f7-a8f1a705a3bf/827568017949.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6764794375",
+      "attributes": {
+        "album": "Sexy Nana - Single",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "Sexy Nana 18 Aya Nakamura, La Rvfleuze Sexy Nana - Single PREVIEW 2:36"
+    },
+    {
+      "title": "Maladie",
+      "canonicalUrl": "https://music.apple.com/us/song/maladie/6773272827",
+      "creator": "Mauvais Djo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/8d/af/3f8daf0f-e8ae-1d9c-4aa9-b643bc0e214f/825723440175.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6773272827",
+      "attributes": {
+        "album": "Maladie - Single",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "19",
+        "explicit": false
+      },
+      "evidenceText": "Maladie 19 Mauvais Djo Maladie - Single PREVIEW 3:12"
+    },
+    {
+      "title": "La vie d’un Homme",
+      "canonicalUrl": "https://music.apple.com/us/song/la-vie-dun-homme/6809755039",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809755039",
+      "attributes": {
+        "album": "WpointM",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "20",
+        "explicit": true
+      },
+      "evidenceText": "La vie d’un Homme 20 Tiakola WpointM PREVIEW 3:43"
+    },
+    {
+      "title": "La pétasse",
+      "canonicalUrl": "https://music.apple.com/us/song/la-p%C3%A9tasse/6773813572",
+      "creator": "Aya Nakamura",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/a6/48/c0a6489f-3952-720b-a2ed-a96a28e2aa26/1200214235055.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6773813572",
+      "attributes": {
+        "album": "Destinée Supremacy",
+        "duration": "2:30",
+        "durationIso": "PT2M30S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "La pétasse 21 Aya Nakamura Destinée Supremacy PREVIEW 2:30"
+    },
+    {
+      "title": "AF1 NOUVO",
+      "canonicalUrl": "https://music.apple.com/us/song/af1-nouvo/6809755042",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809755042",
+      "attributes": {
+        "album": "WpointM",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "22",
+        "explicit": true
+      },
+      "evidenceText": "AF1 NOUVO 22 Tiakola WpointM PREVIEW 3:02"
+    },
+    {
+      "title": "Cote à la hausse",
+      "canonicalUrl": "https://music.apple.com/us/song/cote-%C3%A0-la-hausse/1779575735",
+      "creator": "Bouss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/10/2f/cd102f76-3cce-326b-9424-911ad3bff588/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1779575735",
+      "attributes": {
+        "album": "Et si j'échoue ?",
+        "duration": "2:56",
+        "durationIso": "PT2M56S",
+        "chartPosition": "23",
+        "explicit": true
+      },
+      "evidenceText": "Cote à la hausse 23 Bouss Et si j'échoue ? PREVIEW 2:56"
+    },
+    {
+      "title": "Uber",
+      "canonicalUrl": "https://music.apple.com/us/song/uber/6778879023",
+      "creator": "Franglish, KeBlack, Mauvais Djo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/8c/ba/0d8cba40-8c78-b2b6-4d33-8dad8ef244f4/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6778879023",
+      "attributes": {
+        "album": "ENERGY",
+        "duration": "2:41",
+        "durationIso": "PT2M41S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "Uber 24 Franglish, KeBlack, Mauvais Djo ENERGY PREVIEW 2:41"
+    },
+    {
+      "title": "À l'aise (feat. L2B, MC YOSHI, Mauvais Djo & Kokosvoice)",
+      "canonicalUrl": "https://music.apple.com/us/song/%C3%A0-laise-feat-l2b-mc-yoshi-mauvais-djo-kokosvoice/1885121091",
+      "creator": "TRIANGLE DES BERMUDES",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/92/3f/ee923fb3-6225-ff37-e01c-24abc403a8f6/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1885121091",
+      "attributes": {
+        "album": "404 (feat. Kokosvoice, MC YOSHI & Mauvais Djo)",
+        "duration": "2:59",
+        "durationIso": "PT2M59S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "À l'aise (feat. L2B, MC YOSHI, Mauvais Djo & Kokosvoice) 25 TRIANGLE DES BERMUDES 404 (feat. Kokosvoice, MC YOSHI & Mauvais Djo) PREVIEW 2:59"
+    },
+    {
+      "title": "Wagyu",
+      "canonicalUrl": "https://music.apple.com/us/song/wagyu/6797643256",
+      "creator": "Mauvais Djo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/94/bd/8094bde3-4562-a052-e4fb-8a284c230a56/885288177596.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6797643256",
+      "attributes": {
+        "album": "Wagyu - Single",
+        "duration": "1:57",
+        "durationIso": "PT1M57S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "Wagyu 26 Mauvais Djo Wagyu - Single PREVIEW 1:57"
+    },
+    {
+      "title": "Winter Melo Music",
+      "canonicalUrl": "https://music.apple.com/us/song/winter-melo-music/6813151949",
+      "creator": "Tiakola, Leto",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/89/9a/44899a9b-878e-2078-474a-95857ec0422f/1200220075881.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6813151949",
+      "attributes": {
+        "album": "WpointM - 93120 - EP",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "27",
+        "explicit": true
+      },
+      "evidenceText": "Winter Melo Music 27 Tiakola, Leto WpointM - 93120 - EP PREVIEW 2:48"
+    },
+    {
+      "title": "Mission",
+      "canonicalUrl": "https://music.apple.com/us/song/mission/6809755260",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809755260",
+      "attributes": {
+        "album": "WpointM",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "28",
+        "explicit": true
+      },
+      "evidenceText": "Mission 28 Tiakola WpointM PREVIEW 3:47"
+    },
+    {
+      "title": "Cleopatre",
+      "canonicalUrl": "https://music.apple.com/us/song/cleopatre/6813151957",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/89/9a/44899a9b-878e-2078-474a-95857ec0422f/1200220075881.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6813151957",
+      "attributes": {
+        "album": "WpointM - 93120 - EP",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "29",
+        "explicit": true
+      },
+      "evidenceText": "Cleopatre 29 Tiakola WpointM - 93120 - EP PREVIEW 2:37"
+    },
+    {
+      "title": "Upa Solide",
+      "canonicalUrl": "https://music.apple.com/us/song/upa-solide/6813151948",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/89/9a/44899a9b-878e-2078-474a-95857ec0422f/1200220075881.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6813151948",
+      "attributes": {
+        "album": "WpointM - 93120 - EP",
+        "duration": "2:00",
+        "durationIso": "PT2M",
+        "chartPosition": "30",
+        "explicit": true
+      },
+      "evidenceText": "Upa Solide 30 Tiakola WpointM - 93120 - EP PREVIEW 2:00"
+    },
+    {
+      "title": "Séminaire",
+      "canonicalUrl": "https://music.apple.com/us/song/s%C3%A9minaire/6771573593",
+      "creator": "Bello&Dallas",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/ac/d3/89acd385-08b3-b34a-fda3-eee3125a41d5/1200214051945.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6771573593",
+      "attributes": {
+        "album": "Sarah B.",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "31",
+        "explicit": true
+      },
+      "evidenceText": "Séminaire 31 Bello&Dallas Sarah B. PREVIEW 2:33"
+    },
+    {
+      "title": "melodrama",
+      "canonicalUrl": "https://music.apple.com/us/song/melodrama/1840188177",
+      "creator": "disiz, Theodora",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/d7/46/bcd7465a-b33a-53e2-f7a6-f4880ffbb185/196873615851.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1840188177",
+      "attributes": {
+        "album": "melodrama - Single",
+        "duration": "2:56",
+        "durationIso": "PT2M56S",
+        "chartPosition": "32",
+        "explicit": false
+      },
+      "evidenceText": "melodrama 32 disiz, Theodora melodrama - Single PREVIEW 2:56"
+    },
+    {
+      "title": "Pilé",
+      "canonicalUrl": "https://music.apple.com/us/song/pil%C3%A9/6795085890",
+      "creator": "Mauvais Djo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/1b/cb/341bcbf6-b64e-b7e8-13b3-cb06e23621fd/885288157451.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6795085890",
+      "attributes": {
+        "album": "L'undertaker, Pt. 1 - EP",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "Pilé 33 Mauvais Djo L'undertaker, Pt. 1 - EP PREVIEW 2:36"
+    },
+    {
+      "title": "Sur paname",
+      "canonicalUrl": "https://music.apple.com/us/song/sur-paname/1565402015",
+      "creator": "Ninho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/e2/93/5ce2935c-cd63-bcf4-0d47-a948a2923761/5060899072439_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1565402015",
+      "attributes": {
+        "album": "Art de rue (Réédition)",
+        "duration": "2:25",
+        "durationIso": "PT2M25S",
+        "chartPosition": "34",
+        "explicit": true
+      },
+      "evidenceText": "Sur paname 34 Ninho Art de rue (Réédition) PREVIEW 2:25"
+    },
+    {
+      "title": "Tout en Gucci",
+      "canonicalUrl": "https://music.apple.com/us/song/tout-en-gucci/1536468983",
+      "creator": "Ninho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/34/9a/4d/349a4d91-1354-932b-4dd4-17fd8ba25a7b/190295127442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1536468983",
+      "attributes": {
+        "album": "M.I.L.S 3 (Réédition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "35",
+        "explicit": true
+      },
+      "evidenceText": "Tout en Gucci 35 Ninho M.I.L.S 3 (Réédition) PREVIEW 3:47"
+    },
+    {
+      "title": "BIR HAKEIM",
+      "canonicalUrl": "https://music.apple.com/us/song/bir-hakeim/6811892826",
+      "creator": "Cherry Pie",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/06/e6/1206e6ca-3700-b4a3-61f8-c5323423adbd/1200220128129.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6811892826",
+      "attributes": {
+        "album": "BIR HAKEIM - Single",
+        "duration": "4:03",
+        "durationIso": "PT4M3S",
+        "chartPosition": "36",
+        "explicit": true
+      },
+      "evidenceText": "BIR HAKEIM 36 Cherry Pie BIR HAKEIM - Single PREVIEW 4:03"
+    },
+    {
+      "title": "VIVE LA MONNAIE",
+      "canonicalUrl": "https://music.apple.com/us/song/vive-la-monnaie/6791127322",
+      "creator": "GIMS, Mauvais Djo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/a1/ec/9da1ec57-d4bb-28fc-7e61-5fa0e9cecb52/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6791127322",
+      "attributes": {
+        "album": "VIVE LA MONNAIE - Single",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "VIVE LA MONNAIE 37 GIMS, Mauvais Djo VIVE LA MONNAIE - Single PREVIEW 3:04"
+    },
+    {
+      "title": "Dis-moi - Nouvelle École",
+      "canonicalUrl": "https://music.apple.com/us/song/dis-moi-nouvelle-%C3%A9cole/6793949307",
+      "creator": "Nayte, Nouvelle École",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/88/54/e0885435-470e-5919-3fe0-0c61ffb54200/810123169528.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6793949307",
+      "attributes": {
+        "album": "Nayte | Nouvelle École | Saison 5 (Série Netflix) - Single",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "38",
+        "explicit": false
+      },
+      "evidenceText": "Dis-moi - Nouvelle École 38 Nayte, Nouvelle École Nayte | Nouvelle École | Saison 5 (Série Netflix) - Single PREVIEW 2:38"
+    },
+    {
+      "title": "Wu Tang Clan",
+      "canonicalUrl": "https://music.apple.com/us/song/wu-tang-clan/6813151954",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/89/9a/44899a9b-878e-2078-474a-95857ec0422f/1200220075881.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6813151954",
+      "attributes": {
+        "album": "WpointM - 93120 - EP",
+        "duration": "2:12",
+        "durationIso": "PT2M12S",
+        "chartPosition": "39",
+        "explicit": true
+      },
+      "evidenceText": "Wu Tang Clan 39 Tiakola WpointM - 93120 - EP PREVIEW 2:12"
+    },
+    {
+      "title": "Pocahontas",
+      "canonicalUrl": "https://music.apple.com/us/song/pocahontas/1879523794",
+      "creator": "PLK",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/16/d8/2e16d80e-bcc5-8990-74a2-d1768ee23330/3596975053396_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1879523794",
+      "attributes": {
+        "album": "Grand Garçon",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "40",
+        "explicit": true
+      },
+      "evidenceText": "Pocahontas 40 PLK Grand Garçon PREVIEW 2:48"
+    },
+    {
+      "title": "Allo +33",
+      "canonicalUrl": "https://music.apple.com/us/song/allo-33/6813151956",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/89/9a/44899a9b-878e-2078-474a-95857ec0422f/1200220075881.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6813151956",
+      "attributes": {
+        "album": "WpointM - 93120 - EP",
+        "duration": "2:59",
+        "durationIso": "PT2M59S",
+        "chartPosition": "41",
+        "explicit": true
+      },
+      "evidenceText": "Allo +33 41 Tiakola WpointM - 93120 - EP PREVIEW 2:59"
+    },
+    {
+      "title": "Balek (feat. Aya Nakamura, MC YOSHI, Mauvais Djo & Kokosvoice)",
+      "canonicalUrl": "https://music.apple.com/us/song/balek-feat-aya-nakamura-mc-yoshi-mauvais-djo-kokosvoice/1885121096",
+      "creator": "TRIANGLE DES BERMUDES",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/92/3f/ee923fb3-6225-ff37-e01c-24abc403a8f6/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1885121096",
+      "attributes": {
+        "album": "404 (feat. Kokosvoice, MC YOSHI & Mauvais Djo)",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "Balek (feat. Aya Nakamura, MC YOSHI, Mauvais Djo & Kokosvoice) 42 TRIANGLE DES BERMUDES 404 (feat. Kokosvoice, MC YOSHI & Mauvais Djo) PREVIEW 2:57"
+    },
+    {
+      "title": "Dis-moi que tu m'aimes",
+      "canonicalUrl": "https://music.apple.com/us/song/dis-moi-que-tu-maimes/1157195547",
+      "creator": "Ninho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/31/63/2e316368-53ec-7021-fa5f-719cc36de925/190295937270.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1157195547",
+      "attributes": {
+        "album": "M.I.L.S",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "43",
+        "explicit": true
+      },
+      "evidenceText": "Dis-moi que tu m'aimes 43 Ninho M.I.L.S PREVIEW 3:18"
+    },
+    {
+      "title": "Pineapple",
+      "canonicalUrl": "https://music.apple.com/us/song/pineapple/1889302578",
+      "creator": "Leto",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/d8/0e/bfd80e60-e940-f27d-6d59-d66f7bb97e55/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1889302578",
+      "attributes": {
+        "album": "Pineapple - Single",
+        "duration": "2:40",
+        "durationIso": "PT2M40S",
+        "chartPosition": "44",
+        "explicit": true
+      },
+      "evidenceText": "Pineapple 44 Leto Pineapple - Single PREVIEW 2:40"
+    },
+    {
+      "title": "Olivia Valere",
+      "canonicalUrl": "https://music.apple.com/us/song/olivia-valere/6778819038",
+      "creator": "Lagui",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/97/1f/f7971f48-9077-87e4-1c64-aeed8bb47f69/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6778819038",
+      "attributes": {
+        "album": "En Croix",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "45",
+        "explicit": true
+      },
+      "evidenceText": "Olivia Valere 45 Lagui En Croix PREVIEW 2:46"
+    },
+    {
+      "title": "Jefe",
+      "canonicalUrl": "https://music.apple.com/us/song/jefe/1597121344",
+      "creator": "Ninho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/b4/53/5db45349-6035-32c8-1faf-0c7e47d62d22/190296368370.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1597121344",
+      "attributes": {
+        "album": "Jefe",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "46",
+        "explicit": true
+      },
+      "evidenceText": "Jefe 46 Ninho Jefe PREVIEW 2:57"
+    },
+    {
+      "title": "CARTIER SANTOS",
+      "canonicalUrl": "https://music.apple.com/us/song/cartier-santos/1757803302",
+      "creator": "SDM",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1757803302",
+      "attributes": {
+        "album": "A LA VIE A LA MORT",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "47",
+        "explicit": true
+      },
+      "evidenceText": "CARTIER SANTOS 47 SDM A LA VIE A LA MORT PREVIEW 3:03"
+    },
+    {
+      "title": "Triste everyday",
+      "canonicalUrl": "https://music.apple.com/us/song/triste-everyday/1854190356",
+      "creator": "Jul",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/bb/14/23bb14d4-5498-516d-d332-7967f197a8e5/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1854190356",
+      "attributes": {
+        "album": "TP sur TP",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "48",
+        "explicit": true
+      },
+      "evidenceText": "Triste everyday 48 Jul TP sur TP PREVIEW 3:21"
+    },
+    {
+      "title": "Tu connais",
+      "canonicalUrl": "https://music.apple.com/us/song/tu-connais/1707807608",
+      "creator": "Werenoi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/08/86/0e0886d9-8d0b-1f89-43c6-3a00f6572d25/dj.qqadwfea.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1707807608",
+      "attributes": {
+        "album": "Telegram 2",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "49",
+        "explicit": true
+      },
+      "evidenceText": "Tu connais 49 Werenoi Telegram 2 PREVIEW 2:49"
+    },
+    {
+      "title": "VVS",
+      "canonicalUrl": "https://music.apple.com/us/song/vvs/1597121648",
+      "creator": "Ninho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/b4/53/5db45349-6035-32c8-1faf-0c7e47d62d22/190296368370.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1597121648",
+      "attributes": {
+        "album": "Jefe",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "50",
+        "explicit": true
+      },
+      "evidenceText": "VVS 50 Ninho Jefe PREVIEW 3:07"
+    },
+    {
+      "title": "Scarface",
+      "canonicalUrl": "https://music.apple.com/us/song/scarface/1581451369",
+      "creator": "Werenoi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/43/2b/d5432b88-1bd1-762c-5b53-90583bd107ce/886449508563.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1581451369",
+      "attributes": {
+        "album": "Scarface - Single",
+        "duration": "2:26",
+        "durationIso": "PT2M26S",
+        "chartPosition": "51",
+        "explicit": true
+      },
+      "evidenceText": "Scarface 51 Werenoi Scarface - Single PREVIEW 2:26"
+    },
+    {
+      "title": "Mopao aye (feat. MC YOSHI, Mauvais Djo & Kokosvoice)",
+      "canonicalUrl": "https://music.apple.com/us/song/mopao-aye-feat-mc-yoshi-mauvais-djo-kokosvoice/1885121104",
+      "creator": "TRIANGLE DES BERMUDES",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/92/3f/ee923fb3-6225-ff37-e01c-24abc403a8f6/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1885121104",
+      "attributes": {
+        "album": "404 (feat. Kokosvoice, MC YOSHI & Mauvais Djo)",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "52",
+        "explicit": false
+      },
+      "evidenceText": "Mopao aye (feat. MC YOSHI, Mauvais Djo & Kokosvoice) 52 TRIANGLE DES BERMUDES 404 (feat. Kokosvoice, MC YOSHI & Mauvais Djo) PREVIEW 3:18"
+    },
+    {
+      "title": "De l'autre côté (feat. Nekfeu)",
+      "canonicalUrl": "https://music.apple.com/us/song/de-lautre-c%C3%B4t%C3%A9-feat-nekfeu/1302388764",
+      "creator": "Ninho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/6c/c7/3b/6cc73bbb-563b-2dc9-4c9b-5880eac6bf73/190295820558.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1302388764",
+      "attributes": {
+        "album": "Comme prévu",
+        "duration": "3:49",
+        "durationIso": "PT3M49S",
+        "chartPosition": "53",
+        "explicit": true
+      },
+      "evidenceText": "De l'autre côté (feat. Nekfeu) 53 Ninho Comme prévu PREVIEW 3:49"
+    },
+    {
+      "title": "Jalouse",
+      "canonicalUrl": "https://music.apple.com/us/song/jalouse/1807047391",
+      "creator": "Werenoi, SDM, Vacra",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/c2/8e/5dc28e8c-ec22-9fdf-1c80-7b6df8567fbb/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1807047391",
+      "attributes": {
+        "album": "Diamant Noir",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "54",
+        "explicit": true
+      },
+      "evidenceText": "Jalouse 54 Werenoi, SDM, Vacra Diamant Noir PREVIEW 3:12"
+    },
+    {
+      "title": "La faille",
+      "canonicalUrl": "https://music.apple.com/us/song/la-faille/1698139210",
+      "creator": "Jul",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ea/24/83/ea24830c-365a-c13f-2852-1bf879c0fac6/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1698139210",
+      "attributes": {
+        "album": "C'est quand qu'il s'éteint ?",
+        "duration": "4:51",
+        "durationIso": "PT4M51S",
+        "chartPosition": "55",
+        "explicit": true
+      },
+      "evidenceText": "La faille 55 Jul C'est quand qu'il s'éteint ? PREVIEW 4:51"
+    },
+    {
+      "title": "Pic et pic, alcool et drame",
+      "canonicalUrl": "https://music.apple.com/us/song/pic-et-pic-alcool-et-drame/1666539188",
+      "creator": "Jul",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/85/03/9c/85039c38-c34c-23e6-427c-f5fbd27d5208/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1666539188",
+      "attributes": {
+        "album": "Demain ça ira",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "56",
+        "explicit": true
+      },
+      "evidenceText": "Pic et pic, alcool et drame 56 Jul Demain ça ira PREVIEW 3:16"
+    },
+    {
+      "title": "Laboratoire",
+      "canonicalUrl": "https://music.apple.com/us/song/laboratoire/1768971934",
+      "creator": "Werenoi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/a9/84/9fa984bb-ad87-63b3-e34d-b6febc47e920/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1768971934",
+      "attributes": {
+        "album": "Carré",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "57",
+        "explicit": true
+      },
+      "evidenceText": "Laboratoire 57 Werenoi Carré PREVIEW 2:42"
+    },
+    {
+      "title": "Argent Sale - A COLORS SHOW",
+      "canonicalUrl": "https://music.apple.com/us/song/argent-sale-a-colors-show/1876522627",
+      "creator": "La Rvfleuze",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/b6/1b/56b61bba-5faf-a1bd-48d1-e50249488e03/5026854693255.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1876522627",
+      "attributes": {
+        "album": "Argent Sale - A COLORS SHOW - Single",
+        "duration": "2:44",
+        "durationIso": "PT2M44S",
+        "chartPosition": "58",
+        "explicit": true
+      },
+      "evidenceText": "Argent Sale - A COLORS SHOW 58 La Rvfleuze Argent Sale - A COLORS SHOW - Single PREVIEW 2:44"
+    },
+    {
+      "title": "Biff pas d'love",
+      "canonicalUrl": "https://music.apple.com/us/song/biff-pas-dlove/1821403900",
+      "creator": "Bouss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/84/7f/37847fe5-12b0-4b25-cbb1-86bbd586df91/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1821403900",
+      "attributes": {
+        "album": "Et si j'échoue ??",
+        "duration": "2:34",
+        "durationIso": "PT2M34S",
+        "chartPosition": "59",
+        "explicit": true
+      },
+      "evidenceText": "Biff pas d'love 59 Bouss Et si j'échoue ?? PREVIEW 2:34"
+    },
+    {
+      "title": "Seul ennemi",
+      "canonicalUrl": "https://music.apple.com/us/song/seul-ennemi/6813151960",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/89/9a/44899a9b-878e-2078-474a-95857ec0422f/1200220075881.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6813151960",
+      "attributes": {
+        "album": "WpointM - 93120 - EP",
+        "duration": "2:31",
+        "durationIso": "PT2M31S",
+        "chartPosition": "60",
+        "explicit": true
+      },
+      "evidenceText": "Seul ennemi 60 Tiakola WpointM - 93120 - EP PREVIEW 2:31"
+    },
+    {
+      "title": "Il pleut des balles (feat. SDM)",
+      "canonicalUrl": "https://music.apple.com/us/song/il-pleut-des-balles-feat-sdm/1749948531",
+      "creator": "Jul",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/db/3d/33db3d03-7776-6c5c-c0c2-f0c6893f81ee/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1749948531",
+      "attributes": {
+        "album": "Mise à jour",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "61",
+        "explicit": true
+      },
+      "evidenceText": "Il pleut des balles (feat. SDM) 61 Jul Mise à jour PREVIEW 2:52"
+    },
+    {
+      "title": "Jamais rentré - Nouvelle École x CUPRA (feat. OZZY)",
+      "canonicalUrl": "https://music.apple.com/us/song/jamais-rentr%C3%A9-nouvelle-%C3%A9cole-x-cupra-feat-ozzy/6798613294",
+      "creator": "Nouvelle École, YANAMKO, ANS, Nayte, MISCHA, Typhee, KYNN, Base 221",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/88/02/6e880253-09ea-82ef-4c47-f3dc689913f7/810123169580.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6798613294",
+      "attributes": {
+        "album": "Jamais rentré - Nouvelle École x CUPRA (feat. OZZY) - Single",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "62",
+        "explicit": true
+      },
+      "evidenceText": "Jamais rentré - Nouvelle École x CUPRA (feat. OZZY) 62 Nouvelle École, YANAMKO, ANS, Nayte, MISCHA, Typhee, KYNN, Base 221 Jamais rentré - Nouvelle École x CUPRA (feat. OZZY) - Single PREVIEW 3:30"
+    },
+    {
+      "title": "4",
+      "canonicalUrl": "https://music.apple.com/us/song/4/6812266085",
+      "creator": "Mauvais Djo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/7a/dd/987add4e-71b9-6911-db56-6fabdde97e92/26UM1IM08423.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6812266085",
+      "attributes": {
+        "album": "4 - Single",
+        "duration": "2:20",
+        "durationIso": "PT2M20S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "4 63 Mauvais Djo 4 - Single PREVIEW 2:20"
+    },
+    {
+      "title": "J'oublie tout",
+      "canonicalUrl": "https://music.apple.com/us/song/joublie-tout/799176215",
+      "creator": "Jul",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/52/1b/66/521b6644-19b6-2c93-e484-ac815d3ec027/3700187655792.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "799176215",
+      "attributes": {
+        "album": "Dans ma paranoïa",
+        "duration": "5:16",
+        "durationIso": "PT5M16S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "J'oublie tout 64 Jul Dans ma paranoïa PREVIEW 5:16"
+    },
+    {
+      "title": "J'fais plaisir à la zone (feat. SDM)",
+      "canonicalUrl": "https://music.apple.com/us/song/jfais-plaisir-%C3%A0-la-zone-feat-sdm/1719591445",
+      "creator": "Jul",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/87/f3/4487f3c5-14ba-a9ae-1341-a2567cb58065/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1719591445",
+      "attributes": {
+        "album": "La route est longue",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "65",
+        "explicit": true
+      },
+      "evidenceText": "J'fais plaisir à la zone (feat. SDM) 65 Jul La route est longue PREVIEW 3:03"
+    },
+    {
+      "title": "Printemps",
+      "canonicalUrl": "https://music.apple.com/us/song/printemps/1839231523",
+      "creator": "Bouss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/44/1c/9c441cf1-bade-0837-140b-e81b5171d689/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1839231523",
+      "attributes": {
+        "album": "Printemps - Single",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "66",
+        "explicit": true
+      },
+      "evidenceText": "Printemps 66 Bouss Printemps - Single PREVIEW 3:21"
+    },
+    {
+      "title": "LOVE YOU",
+      "canonicalUrl": "https://music.apple.com/us/song/love-you/1843093191",
+      "creator": "Nono La Grinta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/7f/d3/767fd320-2b8c-8dba-c9c8-652dc698de79/5026854071961.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1843093191",
+      "attributes": {
+        "album": "LOVE YOU - Single",
+        "duration": "2:27",
+        "durationIso": "PT2M27S",
+        "chartPosition": "67",
+        "explicit": true
+      },
+      "evidenceText": "LOVE YOU 67 Nono La Grinta LOVE YOU - Single PREVIEW 2:27"
+    },
+    {
+      "title": "Pétunias",
+      "canonicalUrl": "https://music.apple.com/us/song/p%C3%A9tunias/1771385253",
+      "creator": "Werenoi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/9b/05/c89b0549-bea5-4c63-6faa-57a6e3fc1f7a/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1771385253",
+      "attributes": {
+        "album": "Pyramide",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "68",
+        "explicit": true
+      },
+      "evidenceText": "Pétunias 68 Werenoi Pyramide PREVIEW 3:30"
+    },
+    {
+      "title": "SO MAWA (feat. Mauvais Djo)",
+      "canonicalUrl": "https://music.apple.com/us/song/so-mawa-feat-mauvais-djo/6778368490",
+      "creator": "R2",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/64/ba/e564ba05-957a-c401-2d12-dc8cb24b2a35/196874505724.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6778368490",
+      "attributes": {
+        "album": "JEUNE&INNOCENT - EP",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "69",
+        "explicit": true
+      },
+      "evidenceText": "SO MAWA (feat. Mauvais Djo) 69 R2 JEUNE&INNOCENT - EP PREVIEW 3:25"
+    },
+    {
+      "title": "J'ai tout su",
+      "canonicalUrl": "https://music.apple.com/us/song/jai-tout-su/1666538899",
+      "creator": "Jul",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/95/87/af/9587aff4-2ad6-422d-0cba-9e6bf4759304/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1666538899",
+      "attributes": {
+        "album": "Extraterrestre",
+        "duration": "3:09",
+        "durationIso": "PT3M9S",
+        "chartPosition": "70",
+        "explicit": true
+      },
+      "evidenceText": "J'ai tout su 70 Jul Extraterrestre PREVIEW 3:09"
+    },
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 71 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Adriano",
+      "canonicalUrl": "https://music.apple.com/us/song/adriano/6798672012",
+      "creator": "Niska",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/65/9a/96659a48-aedb-5b80-c65b-8b664187a2f7/199538123173.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6798672012",
+      "attributes": {
+        "album": "Adriano - Single",
+        "duration": "2:24",
+        "durationIso": "PT2M24S",
+        "chartPosition": "72",
+        "explicit": true
+      },
+      "evidenceText": "Adriano 72 Niska Adriano - Single PREVIEW 2:24"
+    },
+    {
+      "title": "Dai Dai",
+      "canonicalUrl": "https://music.apple.com/us/song/dai-dai/6768469976",
+      "creator": "Shakira, Burna Boy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6768469976",
+      "attributes": {
+        "album": "Dai Dai - Single",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "Dai Dai 73 Shakira, Burna Boy Dai Dai - Single PREVIEW 3:43"
+    },
+    {
+      "title": "Oh qu'elle est belle (feat. Dystinct)",
+      "canonicalUrl": "https://music.apple.com/us/song/oh-quelle-est-belle-feat-dystinct/1725805782",
+      "creator": "Jul",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/6b/1d/746b1d95-e103-32a4-a3d0-e00b37acec8b/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1725805782",
+      "attributes": {
+        "album": "Décennie",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "74",
+        "explicit": true
+      },
+      "evidenceText": "Oh qu'elle est belle (feat. Dystinct) 74 Jul Décennie PREVIEW 3:40"
+    },
+    {
+      "title": "Belvedere",
+      "canonicalUrl": "https://music.apple.com/us/song/belvedere/6800657997",
+      "creator": "Bello&Dallas",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/9a/62/1c9a625e-f238-29ba-e2fa-134d4ce5227c/1200214827908.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6800657997",
+      "attributes": {
+        "album": "Belvedere - Single",
+        "duration": "2:03",
+        "durationIso": "PT2M3S",
+        "chartPosition": "75",
+        "explicit": true
+      },
+      "evidenceText": "Belvedere 75 Bello&Dallas Belvedere - Single PREVIEW 2:03"
+    },
+    {
+      "title": "Jamaican (Bam Bam)",
+      "canonicalUrl": "https://music.apple.com/us/song/jamaican-bam-bam/1883679876",
+      "creator": "HUGEL, SOLTO (FR)",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1883679876",
+      "attributes": {
+        "album": "Jamaican (Bam Bam) - Single",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "76",
+        "explicit": false
+      },
+      "evidenceText": "Jamaican (Bam Bam) 76 HUGEL, SOLTO (FR) Jamaican (Bam Bam) - Single PREVIEW 2:36"
+    },
+    {
+      "title": "Deliciosa",
+      "canonicalUrl": "https://music.apple.com/us/song/deliciosa/6805917691",
+      "creator": "Josas",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/06/c8/8f06c852-d1b5-d214-9031-b07687e07555/26UM1IM10221.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6805917691",
+      "attributes": {
+        "album": "Deliciosa - Single",
+        "duration": "2:45",
+        "durationIso": "PT2M45S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "Deliciosa 77 Josas Deliciosa - Single PREVIEW 2:45"
+    },
+    {
+      "title": "J'fais mes affaires",
+      "canonicalUrl": "https://music.apple.com/us/song/jfais-mes-affaires/1666673877",
+      "creator": "Djadja & Dinaz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/98/20/ec/9820ec45-0578-aebe-bb2d-ec123794d805/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1666673877",
+      "attributes": {
+        "album": "On s'promet",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "78",
+        "explicit": true
+      },
+      "evidenceText": "J'fais mes affaires 78 Djadja & Dinaz On s'promet PREVIEW 3:34"
+    },
+    {
+      "title": "Un Poco",
+      "canonicalUrl": "https://music.apple.com/us/song/un-poco/1363233595",
+      "creator": "Ninho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/b2/07/5cb2071c-cd33-db0c-9228-2add489c24b1/190295644376.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1363233595",
+      "attributes": {
+        "album": "M.I.L.S 2.0",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "79",
+        "explicit": true
+      },
+      "evidenceText": "Un Poco 79 Ninho M.I.L.S 2.0 PREVIEW 3:08"
+    },
+    {
+      "title": "Poney",
+      "canonicalUrl": "https://music.apple.com/us/song/poney/1807046921",
+      "creator": "Werenoi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/c2/8e/5dc28e8c-ec22-9fdf-1c80-7b6df8567fbb/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1807046921",
+      "attributes": {
+        "album": "Diamant Noir",
+        "duration": "3:50",
+        "durationIso": "PT3M50S",
+        "chartPosition": "80",
+        "explicit": true
+      },
+      "evidenceText": "Poney 80 Werenoi Diamant Noir PREVIEW 3:50"
+    },
+    {
+      "title": "Coco",
+      "canonicalUrl": "https://music.apple.com/us/song/coco/1755595701",
+      "creator": "Ninho, Niska",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/ac/86/96ac86cd-459e-d601-6eae-9cc29abedfc3/5021732433527.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1755595701",
+      "attributes": {
+        "album": "Coco - Single",
+        "duration": "2:28",
+        "durationIso": "PT2M28S",
+        "chartPosition": "81",
+        "explicit": true
+      },
+      "evidenceText": "Coco 81 Ninho, Niska Coco - Single PREVIEW 2:28"
+    },
+    {
+      "title": "PARISIENNE",
+      "canonicalUrl": "https://music.apple.com/us/song/parisienne/1830026308",
+      "creator": "GIMS, La Mano 1.9",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/ac/47/66ac4753-fd40-2681-cea6-eecfbd39ec2f/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1830026308",
+      "attributes": {
+        "album": "PARISIENNE - Single",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "PARISIENNE 82 GIMS, La Mano 1.9 PARISIENNE - Single PREVIEW 2:38"
+    },
+    {
+      "title": "Full",
+      "canonicalUrl": "https://music.apple.com/us/song/full/1888240351",
+      "creator": "Bilouki",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/17/99/2c179902-ae43-c7fc-8ef7-bc8b526c9e4c/196874255674.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1888240351",
+      "attributes": {
+        "album": "24 KARA",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "83",
+        "explicit": true
+      },
+      "evidenceText": "Full 83 Bilouki 24 KARA PREVIEW 2:43"
+    },
+    {
+      "title": "Macaroni (feat. Ninho)",
+      "canonicalUrl": "https://music.apple.com/us/song/macaroni-feat-ninho/1525245745",
+      "creator": "Leto",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/70/bb/1a70bbdf-fb56-713f-4e9e-1f2dcb4a1868/190295172381.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1525245745",
+      "attributes": {
+        "album": "100 visages",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "84",
+        "explicit": true
+      },
+      "evidenceText": "Macaroni (feat. Ninho) 84 Leto 100 visages PREVIEW 3:43"
+    },
+    {
+      "title": "Phénoménal",
+      "canonicalUrl": "https://music.apple.com/us/song/ph%C3%A9nom%C3%A9nal/1807290316",
+      "creator": "Jul",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/3c/85/653c8567-ade9-4de8-592d-3688c4d4d00f/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1807290316",
+      "attributes": {
+        "album": "Phénoménal - Single",
+        "duration": "3:24",
+        "durationIso": "PT3M24S",
+        "chartPosition": "85",
+        "explicit": true
+      },
+      "evidenceText": "Phénoménal 85 Jul Phénoménal - Single PREVIEW 3:24"
+    },
+    {
+      "title": "Je pense à toi",
+      "canonicalUrl": "https://music.apple.com/us/song/je-pense-%C3%A0-toi/1839850249",
+      "creator": "Guy2Bezbar",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/90/cd/9990cdb6-5ad8-8326-b04b-6380dd1ff118/196873564012.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1839850249",
+      "attributes": {
+        "album": "Jeunesse Dorée",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "86",
+        "explicit": true
+      },
+      "evidenceText": "Je pense à toi 86 Guy2Bezbar Jeunesse Dorée PREVIEW 2:52"
+    },
+    {
+      "title": "La vie qu'on mène",
+      "canonicalUrl": "https://music.apple.com/us/song/la-vie-quon-m%C3%A8ne/1453399179",
+      "creator": "Ninho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/c5/ea/abc5eab6-1a33-3910-6f96-3954d76c5815/190295460259.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1453399179",
+      "attributes": {
+        "album": "Destin",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "87",
+        "explicit": false
+      },
+      "evidenceText": "La vie qu'on mène 87 Ninho Destin PREVIEW 3:13"
+    },
+    {
+      "title": "Génération impolie",
+      "canonicalUrl": "https://music.apple.com/us/song/g%C3%A9n%C3%A9ration-impolie/1844802677",
+      "creator": "Franglish, KeBlack",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/85/69/ec856968-27c1-4f1b-bfdb-f17117fc2ee1/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1844802677",
+      "attributes": {
+        "album": "Génération impolie - Single",
+        "duration": "2:21",
+        "durationIso": "PT2M21S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "Génération impolie 88 Franglish, KeBlack Génération impolie - Single PREVIEW 2:21"
+    },
+    {
+      "title": "POUSSETTE - Nouvelle École",
+      "canonicalUrl": "https://music.apple.com/us/song/poussette-nouvelle-%C3%A9cole/6793961583",
+      "creator": "Typhee, Nouvelle École",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/69/d3/2669d337-9412-3898-0646-00d61679b7a9/810123169566.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6793961583",
+      "attributes": {
+        "album": "Typhee | Nouvelle École | Saison 5 (Série Netflix) - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "POUSSETTE - Nouvelle École 89 Typhee, Nouvelle École Typhee | Nouvelle École | Saison 5 (Série Netflix) - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Namek (feat. Omah Lay)",
+      "canonicalUrl": "https://music.apple.com/us/song/namek-feat-omah-lay/1676114524",
+      "creator": "Jul",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/98/ec/7098ec71-c59e-e6f5-a336-1ed1288df3a6/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1676114524",
+      "attributes": {
+        "album": "Cœur blanc",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "90",
+        "explicit": true
+      },
+      "evidenceText": "Namek (feat. Omah Lay) 90 Jul Cœur blanc PREVIEW 3:06"
+    },
+    {
+      "title": "ELLE VOULAIT",
+      "canonicalUrl": "https://music.apple.com/us/song/elle-voulait/1876322589",
+      "creator": "RnBoi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/a8/5e/bda85e57-34dc-50fa-a77d-a35e9f9e3d66/5056556174882_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1876322589",
+      "attributes": {
+        "album": "My Eyes Only - Flashback",
+        "duration": "2:25",
+        "durationIso": "PT2M25S",
+        "chartPosition": "91",
+        "explicit": true
+      },
+      "evidenceText": "ELLE VOULAIT 91 RnBoi My Eyes Only - Flashback PREVIEW 2:25"
+    },
+    {
+      "title": "Meuda",
+      "canonicalUrl": "https://music.apple.com/us/song/meuda/1621517615",
+      "creator": "Tiakola",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4d/83/55/4d835585-8eb5-d3cf-341a-1266a5cd0b55/196589070982.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1621517615",
+      "attributes": {
+        "album": "Mélo",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "92",
+        "explicit": true
+      },
+      "evidenceText": "Meuda 92 Tiakola Mélo PREVIEW 2:33"
+    },
+    {
+      "title": "Déstabilisé",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%A9stabilis%C3%A9/1666674806",
+      "creator": "Djadja & Dinaz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1d/ab/14/1dab1496-752f-7c44-8c5d-1f704f2f6baf/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1666674806",
+      "attributes": {
+        "album": "Dans l'arène",
+        "duration": "4:16",
+        "durationIso": "PT4M16S",
+        "chartPosition": "93",
+        "explicit": true
+      },
+      "evidenceText": "Déstabilisé 93 Djadja & Dinaz Dans l'arène PREVIEW 4:16"
+    },
+    {
+      "title": "RENÉ CAOVILLA",
+      "canonicalUrl": "https://music.apple.com/us/song/ren%C3%A9-caovilla/1887890033",
+      "creator": "Gambi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/b4/cc/4eb4cceb-f15e-7801-ca9c-0a0a02f347d3/5026854956237.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1887890033",
+      "attributes": {
+        "album": "RENÉ CAOVILLA - Single",
+        "duration": "2:17",
+        "durationIso": "PT2M17S",
+        "chartPosition": "94",
+        "explicit": true
+      },
+      "evidenceText": "RENÉ CAOVILLA 94 Gambi RENÉ CAOVILLA - Single PREVIEW 2:17"
+    },
+    {
+      "title": "Train de vie (feat. PLK)",
+      "canonicalUrl": "https://music.apple.com/us/song/train-de-vie-feat-plk/1507944449",
+      "creator": "Leto",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d8/3f/51/d83f51a9-fbac-b5b5-52e9-ca173de00cac/190295228132.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1507944449",
+      "attributes": {
+        "album": "Virus: avant l'album - EP",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "95",
+        "explicit": true
+      },
+      "evidenceText": "Train de vie (feat. PLK) 95 Leto Virus: avant l'album - EP PREVIEW 3:07"
+    },
+    {
+      "title": "Allo Doudou",
+      "canonicalUrl": "https://music.apple.com/us/song/allo-doudou/6778832963",
+      "creator": "Niska, litleboy lsbeats767, Miimii KDS",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/dc/06/b9dc061f-aa9c-31e1-b3e2-177767cd3ada/1200214333348.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6778832963",
+      "attributes": {
+        "album": "Allo Doudou - Single",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "96",
+        "explicit": true
+      },
+      "evidenceText": "Allo Doudou 96 Niska, litleboy lsbeats767, Miimii KDS Allo Doudou - Single PREVIEW 2:50"
+    },
+    {
+      "title": "Pas Jalouse",
+      "canonicalUrl": "https://music.apple.com/us/song/pas-jalouse/1814404239",
+      "creator": "Bamby, Kerchak",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/79/e1/5e79e1d2-b06a-36b3-b6a2-306edc71fcba/25UMGIM86462.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1814404239",
+      "attributes": {
+        "album": "Pas Jalouse - Single",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "Pas Jalouse 97 Bamby, Kerchak Pas Jalouse - Single PREVIEW 2:36"
+    },
+    {
+      "title": "Le Bruit du Silence",
+      "canonicalUrl": "https://music.apple.com/us/song/le-bruit-du-silence/6809810376",
+      "creator": "Djadja & Dinaz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/91/98/049198a7-752e-1e23-cd23-50a0aaa50cad/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "6809810376",
+      "attributes": {
+        "album": "Matière Noire",
+        "duration": "2:23",
+        "durationIso": "PT2M23S",
+        "chartPosition": "98",
+        "explicit": true
+      },
+      "evidenceText": "Le Bruit du Silence 98 Djadja & Dinaz Matière Noire PREVIEW 2:23"
+    },
+    {
+      "title": "AVEC MOI",
+      "canonicalUrl": "https://music.apple.com/us/song/avec-moi/1863361439",
+      "creator": "RnBoi, Nono La Grinta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/53/33/f4533320-33fb-9b28-0305-6f75d767a7af/5056556173762_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1863361439",
+      "attributes": {
+        "album": "AVEC MOI - Single",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "99",
+        "explicit": true
+      },
+      "evidenceText": "AVEC MOI 99 RnBoi, Nono La Grinta AVEC MOI - Single PREVIEW 3:02"
+    },
+    {
+      "title": "Pyramide (feat. Damso)",
+      "canonicalUrl": "https://music.apple.com/us/song/pyramide-feat-damso/1771383805",
+      "creator": "Werenoi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/9b/05/c89b0549-bea5-4c63-6faa-57a6e3fc1f7a/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: France",
+      "externalId": "1771383805",
+      "attributes": {
+        "album": "Pyramide",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "100",
+        "explicit": true
+      },
+      "evidenceText": "Pyramide (feat. Damso) 100 Werenoi Pyramide PREVIEW 3:28"
+    }
+  ]
+}

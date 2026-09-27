@@ -1,0 +1,4085 @@
+{
+  "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+  "collection": "Marques Brownlee · Videos",
+  "fetchedAt": "2026-09-27T03:44:27.884Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Xiaomi 18 Pro Max: They've Done It Again!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DkUuOr21v4s",
+      "externalId": "DkUuOr21v4s",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/DkUuOr21v4s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA03vHuCupthAdsM6Sqk-8tjZRlOQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:56",
+        "metadata": "8.4M 2d ago"
+      },
+      "evidenceText": "11:56 Xiaomi 18 Pro Max: They've Done It Again! 8.4M 2d ago"
+    },
+    {
+      "title": "The Apple Watch Has a Problem",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pOX1l1edBME",
+      "externalId": "pOX1l1edBME",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/pOX1l1edBME/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBV9FNJJcH22S8zBFnmYApPu_IEyw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:06",
+        "metadata": "4.5M 4d ago"
+      },
+      "evidenceText": "15:06 The Apple Watch Has a Problem 4.5M 4d ago"
+    },
+    {
+      "title": "iPhone 18 Pro Review: All About that Chip",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ohqxP8EEumo",
+      "externalId": "ohqxP8EEumo",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/ohqxP8EEumo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAhfSSisFpT6UEaFvKsnFj-ge70DA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:36",
+        "metadata": "11M 10d ago"
+      },
+      "evidenceText": "16:36 iPhone 18 Pro Review: All About that Chip 11M 10d ago"
+    },
+    {
+      "title": "iPhone Duo: What We Missed!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
+      "externalId": "6D__H_DO2Xk",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:37",
+        "metadata": "12M 2w ago"
+      },
+      "evidenceText": "10:37 iPhone Duo: What We Missed! 12M 2w ago"
+    },
+    {
+      "title": "iPhone 18 Pro/Duo Impressions: Mogged",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
+      "externalId": "Od6M0AXpcxQ",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "17:14",
+        "metadata": "27M 2w ago"
+      },
+      "evidenceText": "17:14 iPhone 18 Pro/Duo Impressions: Mogged 27M 2w ago"
+    },
+    {
+      "title": "Google Pixel 11/Pro Review: Poker Face",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ANmTVYkEtLw",
+      "externalId": "ANmTVYkEtLw",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:28",
+        "metadata": "4.9M 3w ago"
+      },
+      "evidenceText": "12:28 Google Pixel 11/Pro Review: Poker Face 4.9M 3w ago"
+    },
+    {
+      "title": "I Made a Bet with Tesla",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fo-uubnajWM",
+      "externalId": "fo-uubnajWM",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:06",
+        "metadata": "5.3M 3w ago"
+      },
+      "evidenceText": "11:06 I Made a Bet with Tesla 5.3M 3w ago"
+    },
+    {
+      "title": "The Truth About the Bezelless Concept Phone",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ngPkbaZliaU",
+      "externalId": "ngPkbaZliaU",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "6:29",
+        "metadata": "6.3M 1mo ago"
+      },
+      "evidenceText": "6:29 The Truth About the Bezelless Concept Phone 6.3M 1mo ago"
+    },
+    {
+      "title": "I Said Yes to Every Email for a Month! (Again)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mfmdXPT7nAM",
+      "externalId": "mfmdXPT7nAM",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "30:51",
+        "metadata": "5.5M 1mo ago"
+      },
+      "evidenceText": "30:51 I Said Yes to Every Email for a Month! (Again) 5.5M 1mo ago"
+    },
+    {
+      "title": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
+      "canonicalUrl": "https://www.youtube.com/watch?v=o4SSoURPODY",
+      "externalId": "o4SSoURPODY",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:14",
+        "metadata": "3.7M 1mo ago"
+      },
+      "evidenceText": "11:14 Google Pixel 11/Pro/Fold Impressions: It Is What It Is 3.7M 1mo ago"
+    },
+    {
+      "title": "Galaxy Z Fold 8 Review: Honeymoon's Over",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Z6z_feacXW8",
+      "externalId": "Z6z_feacXW8",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:36",
+        "metadata": "5.6M 1mo ago"
+      },
+      "evidenceText": "11:36 Galaxy Z Fold 8 Review: Honeymoon's Over 5.6M 1mo ago"
+    },
+    {
+      "title": "Framework 13 Pro: The Modular Laptop is Real!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
+      "externalId": "_xjxwl1zLMc",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:49",
+        "metadata": "3.8M 1mo ago"
+      },
+      "evidenceText": "12:49 Framework 13 Pro: The Modular Laptop is Real! 3.8M 1mo ago"
+    },
+    {
+      "title": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
+      "externalId": "8Hx2yvWSgs0",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDxImJlcr-OSkEMrC2E_LKE-UB8YQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:23",
+        "metadata": "4.9M 2mo ago"
+      },
+      "evidenceText": "9:23 Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought! 4.9M 2mo ago"
+    },
+    {
+      "title": "iOS 27 Hands-On: Top 5 New Features!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_oRgdlJUD18",
+      "externalId": "_oRgdlJUD18",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/_oRgdlJUD18/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLACew0KoNpYfOGdbjbdwF0Sl04v6A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:19",
+        "metadata": "8.1M 2mo ago"
+      },
+      "evidenceText": "15:19 iOS 27 Hands-On: Top 5 New Features! 8.1M 2mo ago"
+    },
+    {
+      "title": "Apple Lost the AI Race",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eWKY0OnPByg",
+      "externalId": "eWKY0OnPByg",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/eWKY0OnPByg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAxQA4pRWKa2YHjKatfElBbDu2zTA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "7:04",
+        "metadata": "2.2M 2mo ago"
+      },
+      "evidenceText": "7:04 Apple Lost the AI Race 2.2M 2mo ago"
+    },
+    {
+      "title": "Nothing Phone 4b: They Can't Say It!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DUgPFNRmsCQ",
+      "externalId": "DUgPFNRmsCQ",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/DUgPFNRmsCQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCI9WI-ZYIFdETLXKUB12OMtTvLAA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:21",
+        "metadata": "2.5M 2mo ago"
+      },
+      "evidenceText": "10:21 Nothing Phone 4b: They Can't Say It! 2.5M 2mo ago"
+    },
+    {
+      "title": "The Best Car I've Ever Driven: McLaren W1",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7KRabLH7jcE",
+      "externalId": "7KRabLH7jcE",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/7KRabLH7jcE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBI67YAwedhSCXuSv4xo7FG2dbfqg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:31",
+        "metadata": "Marques Brownleeand Auto Focus2.1M2mo ago"
+      },
+      "evidenceText": "16:31 The Best Car I've Ever Driven: McLaren W1 Marques Brownlee and Auto Focus 2.1M 2mo ago"
+    },
+    {
+      "title": "Antigravity A1: A New Take on Drones!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZpF6IE0rdxA",
+      "externalId": "ZpF6IE0rdxA",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/ZpF6IE0rdxA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDGJ0boLM_TQPiROhPng9GSG4zq3Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:10",
+        "metadata": "2.4M 2mo ago"
+      },
+      "evidenceText": "10:10 Antigravity A1: A New Take on Drones! 2.4M 2mo ago"
+    },
+    {
+      "title": "Top 5 Android 17 Features: I Swear It's New!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QrT4S9i3agE",
+      "externalId": "QrT4S9i3agE",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/QrT4S9i3agE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBqHL8jWLCbVCkkdDE5uEmY91Q_Vw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:24",
+        "metadata": "2.2M 3mo ago"
+      },
+      "evidenceText": "9:24 Top 5 Android 17 Features: I Swear It's New! 2.2M 3mo ago"
+    },
+    {
+      "title": "The Most Interesting Displays In The World!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=WOzcFkld6_g",
+      "externalId": "WOzcFkld6_g",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/WOzcFkld6_g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBWQ9YZiMpo6DDqbjRx91H25R6vLA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:57",
+        "metadata": "2.8M 3mo ago"
+      },
+      "evidenceText": "15:57 The Most Interesting Displays In The World! 2.8M 3mo ago"
+    },
+    {
+      "title": "WWDC 2026 Impressions: Yeah, That's About Right",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_gCXmKjDecU",
+      "externalId": "_gCXmKjDecU",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/_gCXmKjDecU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDpHgpu7HMCr0exQcdYAR__5H3MGg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:28",
+        "metadata": "4.2M 3mo ago"
+      },
+      "evidenceText": "16:28 WWDC 2026 Impressions: Yeah, That's About Right 4.2M 3mo ago"
+    },
+    {
+      "title": "The Hidden Tech Behind an NBA Broadcast!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mk_wdHePbtQ",
+      "externalId": "mk_wdHePbtQ",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:03",
+        "metadata": "2.4M 3mo ago"
+      },
+      "evidenceText": "11:03 The Hidden Tech Behind an NBA Broadcast! 2.4M 3mo ago"
+    },
+    {
+      "title": "The Truth About the \"Whoop Killer\"",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9GSDvO0LFFE",
+      "externalId": "9GSDvO0LFFE",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "17:42",
+        "metadata": "5.7M 4mo ago"
+      },
+      "evidenceText": "17:42 The Truth About the \"Whoop Killer\" 5.7M 4mo ago"
+    },
+    {
+      "title": "“The Biggest Android Update Ever”",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eFeDpUVEy48",
+      "externalId": "eFeDpUVEy48",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:59",
+        "metadata": "4.6M 4mo ago"
+      },
+      "evidenceText": "12:59 “The Biggest Android Update Ever” 4.6M 4mo ago"
+    },
+    {
+      "title": "Why New Smartphone Cameras Feel Worse",
+      "canonicalUrl": "https://www.youtube.com/watch?v=coX4duwUCpw",
+      "externalId": "coX4duwUCpw",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/coX4duwUCpw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_hpSMwnevWSbUu7rfcy272KirjQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "7:23",
+        "metadata": "3.9M 4mo ago"
+      },
+      "evidenceText": "7:23 Why New Smartphone Cameras Feel Worse 3.9M 4mo ago"
+    },
+    {
+      "title": "My Take on The New Apple",
+      "canonicalUrl": "https://www.youtube.com/watch?v=i9TvUGeTltE",
+      "externalId": "i9TvUGeTltE",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/i9TvUGeTltE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAEP6oh_3s9AE5WJePYHheq8S7bUg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:09",
+        "metadata": "5.2M 4mo ago"
+      },
+      "evidenceText": "11:09 My Take on The New Apple 5.2M 4mo ago"
+    },
+    {
+      "title": "Glass is glass",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7YrdI7h2XoY",
+      "externalId": "7YrdI7h2XoY",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/7YrdI7h2XoY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAyX30SL9YBTnhPkKgaSbc9jdzZuA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "4:46",
+        "metadata": "4M 5mo ago"
+      },
+      "evidenceText": "4:46 Glass is glass 4M 5mo ago"
+    },
+    {
+      "title": "So This is Peak Smartphone",
+      "canonicalUrl": "https://www.youtube.com/watch?v=c347oYQO57A",
+      "externalId": "c347oYQO57A",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/c347oYQO57A/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBuTapgR3_rLYZ5jErw1EV8Fbvu2Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:17",
+        "metadata": "5.6M 5mo ago"
+      },
+      "evidenceText": "13:17 So This is Peak Smartphone 5.6M 5mo ago"
+    },
+    {
+      "title": "The Unreleased Rollable Smartphone!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5aS-8QCRdGE",
+      "externalId": "5aS-8QCRdGE",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/5aS-8QCRdGE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDzYzy9qDDjpehnTLCmvD3NQyXi8Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:59",
+        "metadata": "2.4M 5mo ago"
+      },
+      "evidenceText": "9:59 The Unreleased Rollable Smartphone! 2.4M 5mo ago"
+    },
+    {
+      "title": "Bluey Phone Review",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Hc0aqOEU2w8",
+      "externalId": "Hc0aqOEU2w8",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/Hc0aqOEU2w8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBLEO_Rhx-NoawfuAPxzn-c-4OUxw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "4:23",
+        "metadata": "4.1M 5mo ago"
+      },
+      "evidenceText": "4:23 Bluey Phone Review 4.1M 5mo ago"
+    },
+    {
+      "title": "So This is Peak Foldable",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eFUB_jL_XcM",
+      "externalId": "eFUB_jL_XcM",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/eFUB_jL_XcM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJA5H_g-prOe2m_B8yUilIqA9MlQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:47",
+        "metadata": "6.9M 5mo ago"
+      },
+      "evidenceText": "10:47 So This is Peak Foldable 6.9M 5mo ago"
+    },
+    {
+      "title": "The Windows Laptop Problem",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eXa2ndhmatI",
+      "externalId": "eXa2ndhmatI",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/eXa2ndhmatI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB5K6Q22m5Gq5396E9Y5-u-D3X0hw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:49",
+        "metadata": "5.8M 6mo ago"
+      },
+      "evidenceText": "10:49 The Windows Laptop Problem 5.8M 6mo ago"
+    },
+    {
+      "title": "Nothing Phone 4A/Pro Review: I Have a Theory",
+      "canonicalUrl": "https://www.youtube.com/watch?v=D4QyStJWgCc",
+      "externalId": "D4QyStJWgCc",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/D4QyStJWgCc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBJ8uL7cT2Mpm5TX2a9la1d6d1xug",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:04",
+        "metadata": "3.6M 6mo ago"
+      },
+      "evidenceText": "12:04 Nothing Phone 4A/Pro Review: I Have a Theory 3.6M 6mo ago"
+    },
+    {
+      "title": "Reviewing Everything on my Desk! (2026)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=j2rszuZ-9PY",
+      "externalId": "j2rszuZ-9PY",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:31",
+        "metadata": "2.3M 6mo ago"
+      },
+      "evidenceText": "15:31 Reviewing Everything on my Desk! (2026) 2.3M 6mo ago"
+    },
+    {
+      "title": "Macbook Neo Review: Better than you Think!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=iGeXGdYE7UE",
+      "externalId": "iGeXGdYE7UE",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:53",
+        "metadata": "6.2M 6mo ago"
+      },
+      "evidenceText": "12:53 Macbook Neo Review: Better than you Think! 6.2M 6mo ago"
+    },
+    {
+      "title": "Apple Studio Display XDR Review: We're All Pros Now!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yWI33R4xyIc",
+      "externalId": "yWI33R4xyIc",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:42",
+        "metadata": "2M 6mo ago"
+      },
+      "evidenceText": "10:42 Apple Studio Display XDR Review: We're All Pros Now! 2M 6mo ago"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra Review: There's a Catch",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nfHRMqqO578",
+      "externalId": "nfHRMqqO578",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:36",
+        "metadata": "4.3M 6mo ago"
+      },
+      "evidenceText": "12:36 Samsung Galaxy S26 Ultra Review: There's a Catch 4.3M 6mo ago"
+    },
+    {
+      "title": "Macbook Neo Impressions: Reincarnated!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kBX5WH9b4M4",
+      "externalId": "kBX5WH9b4M4",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:48",
+        "metadata": "7.3M 6mo ago"
+      },
+      "evidenceText": "8:48 Macbook Neo Impressions: Reincarnated! 7.3M 6mo ago"
+    },
+    {
+      "title": "Samsung Galaxy Buds 4 Pro Review: Better than AirPods!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wRaDbRjVrc4",
+      "externalId": "wRaDbRjVrc4",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:51",
+        "metadata": "2.8M 6mo ago"
+      },
+      "evidenceText": "8:51 Samsung Galaxy Buds 4 Pro Review: Better than AirPods! 2.8M 6mo ago"
+    },
+    {
+      "title": "Samsung Galaxy S26/Ultra Impressions: 1 Crazy Display Feature!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FRI78tq9Eik",
+      "externalId": "FRI78tq9Eik",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/FRI78tq9Eik/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC7TDXjblre3muWMsDxh2XHHRytOA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:10",
+        "metadata": "4.4M 7mo ago"
+      },
+      "evidenceText": "9:10 Samsung Galaxy S26/Ultra Impressions: 1 Crazy Display Feature! 4.4M 7mo ago"
+    },
+    {
+      "title": "Google Pixel 10A Impressions: (Never) Seen This Before",
+      "canonicalUrl": "https://www.youtube.com/watch?v=iCSg_ul3G2w",
+      "externalId": "iCSg_ul3G2w",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/iCSg_ul3G2w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCe1vhy94rRWyUefPVsZW3rLSsz6g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:31",
+        "metadata": "3.6M 7mo ago"
+      },
+      "evidenceText": "8:31 Google Pixel 10A Impressions: (Never) Seen This Before 3.6M 7mo ago"
+    },
+    {
+      "title": "The Problem with these Smartphone Batteries",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zPAY2VxfFBk",
+      "externalId": "zPAY2VxfFBk",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/zPAY2VxfFBk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcbLb0imVa_bbzwcFtARWi8lPnSg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:32",
+        "metadata": "2.3M 7mo ago"
+      },
+      "evidenceText": "8:32 The Problem with these Smartphone Batteries 2.3M 7mo ago"
+    },
+    {
+      "title": "The Downfall of OnePlus will be Studied",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vZdbbN3FCzE",
+      "externalId": "vZdbbN3FCzE",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/vZdbbN3FCzE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBMY6GSUU7u5SwksmqlLZVmDGdmIw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:04",
+        "metadata": "5.1M 8mo ago"
+      },
+      "evidenceText": "15:04 The Downfall of OnePlus will be Studied 5.1M 8mo ago"
+    },
+    {
+      "title": "Xiaomi 17 Ultra - More Camera than Phone!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DqAKQwagCDg",
+      "externalId": "DqAKQwagCDg",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/DqAKQwagCDg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCPj7BxEVRLER4nrWnzK0uOqFN4Ng",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:05",
+        "metadata": "4.2M 8mo ago"
+      },
+      "evidenceText": "12:05 Xiaomi 17 Ultra - More Camera than Phone! 4.2M 8mo ago"
+    },
+    {
+      "title": "The New Siri is... Google (Explained)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TVsounscj4U",
+      "externalId": "TVsounscj4U",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/TVsounscj4U/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCPqqKSTnXCy8DgMleVsI6t8JBGWg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:23",
+        "metadata": "4M 8mo ago"
+      },
+      "evidenceText": "8:23 The New Siri is... Google (Explained) 4M 8mo ago"
+    },
+    {
+      "title": "The Problem with this “Ultra Luxury” Smartphone",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HLUamwXQ218",
+      "externalId": "HLUamwXQ218",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/HLUamwXQ218/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAWWlhFnEvqNRLju0t7Oi8zbckyIA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:32",
+        "metadata": "3.3M 8mo ago"
+      },
+      "evidenceText": "15:32 The Problem with this “Ultra Luxury” Smartphone 3.3M 8mo ago"
+    },
+    {
+      "title": "I shrunk down into an M5 chip",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Jh9pFp1oM7E",
+      "externalId": "Jh9pFp1oM7E",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/Jh9pFp1oM7E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBYjAMj9syG9yu0ocGvTjDjqKUQ2Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:52",
+        "metadata": "Marques Brownleeand Epic Spaceman4M9mo ago"
+      },
+      "evidenceText": "11:52 I shrunk down into an M5 chip Marques Brownlee and Epic Spaceman 4M 9mo ago"
+    },
+    {
+      "title": "Every Mistake I Made in 2025",
+      "canonicalUrl": "https://www.youtube.com/watch?v=v-sCZN3FbR0",
+      "externalId": "v-sCZN3FbR0",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/v-sCZN3FbR0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBwow2EiDsFI-lR7JkbGaJxes2iTg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:45",
+        "metadata": "1.3M 9mo ago"
+      },
+      "evidenceText": "13:45 Every Mistake I Made in 2025 1.3M 9mo ago"
+    },
+    {
+      "title": "Samsung Galaxy Z Tri Fold Impressions: NOW It Makes Sense!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=trsHTKqmZOk",
+      "externalId": "trsHTKqmZOk",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/trsHTKqmZOk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBh3aUueT49I_7Ai_sJBT9prhJknA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:05",
+        "metadata": "4.8M 9mo ago"
+      },
+      "evidenceText": "13:05 Samsung Galaxy Z Tri Fold Impressions: NOW It Makes Sense! 4.8M 9mo ago"
+    },
+    {
+      "title": "Smartphone Awards 2025!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sfyL4BswUeE",
+      "externalId": "sfyL4BswUeE",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/sfyL4BswUeE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBDy0c0t49xoXSD17nlkvlQtIiY5A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "32:38",
+        "metadata": "5.9M 9mo ago"
+      },
+      "evidenceText": "32:38 Smartphone Awards 2025! 5.9M 9mo ago"
+    },
+    {
+      "title": "Driving Xiaomi's Electric Car: Are we Cooked?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Mb6H7trzMfI",
+      "externalId": "Mb6H7trzMfI",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/Mb6H7trzMfI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCEI573xGXGb2R0GZRYrNJ4ZQB-w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "17:25",
+        "metadata": "11M 9mo ago"
+      },
+      "evidenceText": "17:25 Driving Xiaomi's Electric Car: Are we Cooked? 11M 9mo ago"
+    },
+    {
+      "title": "\"Siri Isn't That Bad\"",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Qqyp00JPJZI",
+      "externalId": "Qqyp00JPJZI",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "18:48",
+        "metadata": "2M 9mo ago"
+      },
+      "evidenceText": "18:48 \"Siri Isn't That Bad\" 2M 9mo ago"
+    },
+    {
+      "title": "What's on my Phone 2026!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KW21q_7U6Ao",
+      "externalId": "KW21q_7U6Ao",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:10",
+        "metadata": "2.8M 10mo ago"
+      },
+      "evidenceText": "13:10 What's on my Phone 2026! 2.8M 10mo ago"
+    },
+    {
+      "title": "Dope Tech: STILL so good!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RvP-uVNwnXo",
+      "externalId": "RvP-uVNwnXo",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:54",
+        "metadata": "4.3M 10mo ago"
+      },
+      "evidenceText": "16:54 Dope Tech: STILL so good! 4.3M 10mo ago"
+    },
+    {
+      "title": "OnePlus 15 Review: This is Not Normal!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2MdQWo9fHZs",
+      "externalId": "2MdQWo9fHZs",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/2MdQWo9fHZs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCYHpFEkYXggDHouVS0DpWpzSUugA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:52",
+        "metadata": "6.3M 10mo ago"
+      },
+      "evidenceText": "12:52 OnePlus 15 Review: This is Not Normal! 6.3M 10mo ago"
+    },
+    {
+      "title": "The Problem with this Humanoid Robot",
+      "canonicalUrl": "https://www.youtube.com/watch?v=j31dmodZ-5c",
+      "externalId": "j31dmodZ-5c",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/j31dmodZ-5c/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5hZIxM3AGaXf_-C09y0p8mjEr0Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:12",
+        "metadata": "6.9M 10mo ago"
+      },
+      "evidenceText": "16:12 The Problem with this Humanoid Robot 6.9M 10mo ago"
+    },
+    {
+      "title": "What's Going on with Apple Vision Pro?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rU9aqBv0YdY",
+      "externalId": "rU9aqBv0YdY",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/rU9aqBv0YdY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCnaCiNzDCsHR-l4WX9xH2Kmrv1yw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:38",
+        "metadata": "5.4M 11mo ago"
+      },
+      "evidenceText": "10:38 What's Going on with Apple Vision Pro? 5.4M 11mo ago"
+    },
+    {
+      "title": "Xiaomi 17 Pro Max: An iPhone... But Better!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eou_g_cYCew",
+      "externalId": "eou_g_cYCew",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/eou_g_cYCew/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBhG6Ke_5FYhZ3aY0vILxlE2JmyiQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:52",
+        "metadata": "7.5M 11mo ago"
+      },
+      "evidenceText": "11:52 Xiaomi 17 Pro Max: An iPhone... But Better! 7.5M 11mo ago"
+    },
+    {
+      "title": "Google Pixel Pro Fold Review: Not Compatible!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Tl8RS0sR-qA",
+      "externalId": "Tl8RS0sR-qA",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/Tl8RS0sR-qA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDSejlUifwDQxlczNxmf3_Q8Q-WAg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:11",
+        "metadata": "4.9M 11mo ago"
+      },
+      "evidenceText": "8:11 Google Pixel Pro Fold Review: Not Compatible! 4.9M 11mo ago"
+    },
+    {
+      "title": "iPhone 17 Review: No Asterisks!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rng_yUSwrgU",
+      "externalId": "rng_yUSwrgU",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/rng_yUSwrgU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCKeLN6dqbDcurwnQPHMJk-h7IbA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:20",
+        "metadata": "6.8M 11mo ago"
+      },
+      "evidenceText": "11:20 iPhone 17 Review: No Asterisks! 6.8M 11mo ago"
+    },
+    {
+      "title": "iPhone 17 Pro Review: Paradox in a Box!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=q0aFOxT6TNw",
+      "externalId": "q0aFOxT6TNw",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/q0aFOxT6TNw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBYo08L1ZWNjWEr570PDDJZwi40Hg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:22",
+        "metadata": "7.3M 1y ago"
+      },
+      "evidenceText": "12:22 iPhone 17 Pro Review: Paradox in a Box! 7.3M 1y ago"
+    },
+    {
+      "title": "iPhone Air Review: Beauty is Pain",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tDARtYjUiHs",
+      "externalId": "tDARtYjUiHs",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/tDARtYjUiHs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBzfXrz2tl8VgdARPUfxHlo8Np1Cg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:21",
+        "metadata": "6.8M 1y ago"
+      },
+      "evidenceText": "16:21 iPhone Air Review: Beauty is Pain 6.8M 1y ago"
+    },
+    {
+      "title": "Wait... Smart Glasses are Suddenly Good?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7gtc1DW2Tgo",
+      "externalId": "7gtc1DW2Tgo",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/7gtc1DW2Tgo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAMNBWb5iRpKQ76M2omG0VqV7UnLA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:31",
+        "metadata": "8.4M 1y ago"
+      },
+      "evidenceText": "11:31 Wait... Smart Glasses are Suddenly Good? 8.4M 1y ago"
+    },
+    {
+      "title": "iPhone 17/Pro/Air Unboxing: 1 Hot Take!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=s0EbxhQYeCA",
+      "externalId": "s0EbxhQYeCA",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:17",
+        "metadata": "7.8M 1y ago"
+      },
+      "evidenceText": "13:17 iPhone 17/Pro/Air Unboxing: 1 Hot Take! 7.8M 1y ago"
+    },
+    {
+      "title": "AirPods Pro 3 Review: I Understand It Now!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GB0b6KFZVq0",
+      "externalId": "GB0b6KFZVq0",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:50",
+        "metadata": "7.5M 1y ago"
+      },
+      "evidenceText": "11:50 AirPods Pro 3 Review: I Understand It Now! 7.5M 1y ago"
+    },
+    {
+      "title": "iPhone 17/Pro/Air Impressions: Spot the Red Flags!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=idEAABFzpfg",
+      "externalId": "idEAABFzpfg",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "14:50",
+        "metadata": "14M 1y ago"
+      },
+      "evidenceText": "14:50 iPhone 17/Pro/Air Impressions: Spot the Red Flags! 14M 1y ago"
+    },
+    {
+      "title": "Pixel 10/Pro Review: Good News and Bad News!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=i63u-iAnhuk",
+      "externalId": "i63u-iAnhuk",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "20:20",
+        "metadata": "5.3M 1y ago"
+      },
+      "evidenceText": "20:20 Pixel 10/Pro Review: Good News and Bad News! 5.3M 1y ago"
+    },
+    {
+      "title": "Switching from iPhone to Android",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eCR17sBh-Qw",
+      "externalId": "eCR17sBh-Qw",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:08",
+        "metadata": "6.2M 1y ago"
+      },
+      "evidenceText": "9:08 Switching from iPhone to Android 6.2M 1y ago"
+    },
+    {
+      "title": "Google Pixel 10/Pro/Fold Impressions: Magnets!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=269OsrzG3Ew",
+      "externalId": "269OsrzG3Ew",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:41",
+        "metadata": "5.5M 1y ago"
+      },
+      "evidenceText": "15:41 Google Pixel 10/Pro/Fold Impressions: Magnets! 5.5M 1y ago"
+    },
+    {
+      "title": "Top 5 Sports Tech I Actually Use!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-7X5KukvABc",
+      "externalId": "-7X5KukvABc",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/-7X5KukvABc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAWl0_3Cl9vDGBA5gmyF9N6qTdyMA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:21",
+        "metadata": "1.7M 1y ago"
+      },
+      "evidenceText": "11:21 Top 5 Sports Tech I Actually Use! 1.7M 1y ago"
+    },
+    {
+      "title": "Investigating the Tesla Robotaxi!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=We2ZD0-IXPM",
+      "externalId": "We2ZD0-IXPM",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/We2ZD0-IXPM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBWHOjl23hKbXfbdBWfOlZkr45WOw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "17:14",
+        "metadata": "3.5M 1y ago"
+      },
+      "evidenceText": "17:14 Investigating the Tesla Robotaxi! 3.5M 1y ago"
+    },
+    {
+      "title": "iPadOS 26: Ready for Laptop Duty?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=AphNalSmvlk",
+      "externalId": "AphNalSmvlk",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/AphNalSmvlk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA40GDgLqulrKFDCy1ECWlsV-Fmdg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:31",
+        "metadata": "4.8M 1y ago"
+      },
+      "evidenceText": "11:31 iPadOS 26: Ready for Laptop Duty? 4.8M 1y ago"
+    },
+    {
+      "title": "iOS 26 Hands-On: Liquid Glass!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FXrcFeuYtq8",
+      "externalId": "FXrcFeuYtq8",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/FXrcFeuYtq8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAzyvQbmUyd4Jx7IuBntfIj_2u57g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "14:21",
+        "metadata": "7.8M 1y ago"
+      },
+      "evidenceText": "14:21 iOS 26 Hands-On: Liquid Glass! 7.8M 1y ago"
+    },
+    {
+      "title": "Samsung Z Fold/Flip 7 Impressions: Major Upgrades!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=bMou1qUMHC4",
+      "externalId": "bMou1qUMHC4",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/bMou1qUMHC4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDon_ZHBUXEDpL1Je4Kw_Vf2epu-w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:40",
+        "metadata": "5.7M 1y ago"
+      },
+      "evidenceText": "11:40 Samsung Z Fold/Flip 7 Impressions: Major Upgrades! 5.7M 1y ago"
+    },
+    {
+      "title": "Nothing Phone 3 Review: They Lied!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4KbrxIpQgkM",
+      "externalId": "4KbrxIpQgkM",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/4KbrxIpQgkM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCcbuoabpGeAUhuPEAR8qYteehebA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:38",
+        "metadata": "4.2M 1y ago"
+      },
+      "evidenceText": "15:38 Nothing Phone 3 Review: They Lied! 4.2M 1y ago"
+    },
+    {
+      "title": "My Nintendo Switch 2 Review (Doesn't Matter?)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-NNCca97v98",
+      "externalId": "-NNCca97v98",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/-NNCca97v98/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBUzYu3SxNruO0gK-OGGRXdm8Ny5Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:17",
+        "metadata": "3.8M 1y ago"
+      },
+      "evidenceText": "13:17 My Nintendo Switch 2 Review (Doesn't Matter?) 3.8M 1y ago"
+    },
+    {
+      "title": "Nothing Headphone 1 Review: As Good as They Look?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=A94RrC8Mg0o",
+      "externalId": "A94RrC8Mg0o",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/A94RrC8Mg0o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB60CFD9rBggp6R2uWEb9cGpwmvBg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:16",
+        "metadata": "4M 1y ago"
+      },
+      "evidenceText": "11:16 Nothing Headphone 1 Review: As Good as They Look? 4M 1y ago"
+    },
+    {
+      "title": "The Android Tablet Problem",
+      "canonicalUrl": "https://www.youtube.com/watch?v=alDhOLhbkbY",
+      "externalId": "alDhOLhbkbY",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/alDhOLhbkbY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDVvizC8i5hnPjfZ_W86uETcbK5bA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:37",
+        "metadata": "5.9M 1y ago"
+      },
+      "evidenceText": "9:37 The Android Tablet Problem 5.9M 1y ago"
+    },
+    {
+      "title": "WWDC 2025 Impressions: Liquid Glass!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1E3tv_3D95g",
+      "externalId": "1E3tv_3D95g",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/1E3tv_3D95g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLByTqVN20WptoAjsR6Q4YV-M46mWw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "18:23",
+        "metadata": "7.5M 1y ago"
+      },
+      "evidenceText": "18:23 WWDC 2025 Impressions: Liquid Glass! 7.5M 1y ago"
+    },
+    {
+      "title": "One Plus 13S Review: What's the S For?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eLusurjBcCs",
+      "externalId": "eLusurjBcCs",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/eLusurjBcCs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBOD8148EQ5iGTi-Pwc9YHSNQsAqw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:33",
+        "metadata": "2.5M 1y ago"
+      },
+      "evidenceText": "10:33 One Plus 13S Review: What's the S For? 2.5M 1y ago"
+    },
+    {
+      "title": "Nintendo Switch 2 Unboxing & First Gameplay!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=N_ZmHYF6-xM",
+      "externalId": "N_ZmHYF6-xM",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/N_ZmHYF6-xM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCUzLMmBC8vz55iO_F9r2GLDu1HXQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:04",
+        "metadata": "6.8M 1y ago"
+      },
+      "evidenceText": "16:04 Nintendo Switch 2 Unboxing & First Gameplay! 6.8M 1y ago"
+    },
+    {
+      "title": "Galaxy S25 Edge and the Thin Phone Problem",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5nKLu2CSxx8",
+      "externalId": "5nKLu2CSxx8",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:01",
+        "metadata": "3.1M 1y ago"
+      },
+      "evidenceText": "10:01 Galaxy S25 Edge and the Thin Phone Problem 3.1M 1y ago"
+    },
+    {
+      "title": "Top 5 Android 16 Features: Big Visuals!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=j7W2v_FmCuE",
+      "externalId": "j7W2v_FmCuE",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:37",
+        "metadata": "2.9M 1y ago"
+      },
+      "evidenceText": "11:37 Top 5 Android 16 Features: Big Visuals! 2.9M 1y ago"
+    },
+    {
+      "title": "Why Apple, Samsung and Google Need Each Other",
+      "canonicalUrl": "https://www.youtube.com/watch?v=jXJODqfaJto",
+      "externalId": "jXJODqfaJto",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:37",
+        "metadata": "3.9M 1y ago"
+      },
+      "evidenceText": "10:37 Why Apple, Samsung and Google Need Each Other 3.9M 1y ago"
+    },
+    {
+      "title": "Sony WH-1000XM6 Review: Back on the Throne!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XbXXKhfvSF0",
+      "externalId": "XbXXKhfvSF0",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/XbXXKhfvSF0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5tc7DCxzr5-0GJetnFTDA9GFPRQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:17",
+        "metadata": "4.9M 1y ago"
+      },
+      "evidenceText": "9:17 Sony WH-1000XM6 Review: Back on the Throne! 4.9M 1y ago"
+    },
+    {
+      "title": "Samsung Galaxy S25 Edge Impressions: Nobody Asked!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yWBz2qZJ8zY",
+      "externalId": "yWBz2qZJ8zY",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/yWBz2qZJ8zY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCyDGGQy-IHrWEFx8IUmp2Zm61NCA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "7:06",
+        "metadata": "4.3M 1y ago"
+      },
+      "evidenceText": "7:06 Samsung Galaxy S25 Edge Impressions: Nobody Asked! 4.3M 1y ago"
+    },
+    {
+      "title": "CMF Phone 2 Pro: Budget Phone of the Year!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=hIzjHBwjGCk",
+      "externalId": "hIzjHBwjGCk",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/hIzjHBwjGCk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCpdB8HIEAJPaf_fjyY4z4MNwQQKQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:31",
+        "metadata": "2.3M 1y ago"
+      },
+      "evidenceText": "10:31 CMF Phone 2 Pro: Budget Phone of the Year! 2.3M 1y ago"
+    },
+    {
+      "title": "I Have A Problem with the Light Phone III",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HdTCDxX-UnQ",
+      "externalId": "HdTCDxX-UnQ",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/HdTCDxX-UnQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBubsPR3B1D7OzYVDw3nXb54oJaOA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "14:23",
+        "metadata": "3.2M 1y ago"
+      },
+      "evidenceText": "14:23 I Have A Problem with the Light Phone III 3.2M 1y ago"
+    },
+    {
+      "title": "Reviewing a Bionic Hand!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VTs8wnMsh0k",
+      "externalId": "VTs8wnMsh0k",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/VTs8wnMsh0k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLATGTMJ8C7xTik5C79EqA3-HtphnA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:44",
+        "metadata": "2.6M 1y ago"
+      },
+      "evidenceText": "11:44 Reviewing a Bionic Hand! 2.6M 1y ago"
+    },
+    {
+      "title": "Oppo Find X8 Ultra: The Bar's Been Raised!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=p24qhUFIe68",
+      "externalId": "p24qhUFIe68",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/p24qhUFIe68/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAeUPoUBXGoHP9Zhn5hgYT88Ad1pg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:59",
+        "metadata": "3M 1y ago"
+      },
+      "evidenceText": "10:59 Oppo Find X8 Ultra: The Bar's Been Raised! 3M 1y ago"
+    },
+    {
+      "title": "Nintendo Switch 2 Impressions: One Big Asterisk!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=K3CR6RiWS2U",
+      "externalId": "K3CR6RiWS2U",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/K3CR6RiWS2U/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDr7k2hPTPpTn0rOQ5omkTnds9Ybw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "14:45",
+        "metadata": "6.9M 1y ago"
+      },
+      "evidenceText": "14:45 Nintendo Switch 2 Impressions: One Big Asterisk! 6.9M 1y ago"
+    },
+    {
+      "title": "Apple's AI Crisis: Explained!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=hz6oys4Eem4",
+      "externalId": "hz6oys4Eem4",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/hz6oys4Eem4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBNi2qb7kwm3xI3tVvFnqbVPrlyTg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:52",
+        "metadata": "8.4M 1y ago"
+      },
+      "evidenceText": "16:52 Apple's AI Crisis: Explained! 8.4M 1y ago"
+    },
+    {
+      "title": "The Truth about Drone Deliveries!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=88yQTzlmsiA",
+      "externalId": "88yQTzlmsiA",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/88yQTzlmsiA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD1ZxmvhiSJzNQ1VQOxfr0ZM0QjZg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:45",
+        "metadata": "3.1M 1y ago"
+      },
+      "evidenceText": "16:45 The Truth about Drone Deliveries! 3.1M 1y ago"
+    },
+    {
+      "title": "Google Pixel 9A Impressions: One Great Spec!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SUeQvl7IOV4",
+      "externalId": "SUeQvl7IOV4",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "6:50",
+        "metadata": "3.3M 1y ago"
+      },
+      "evidenceText": "6:50 Google Pixel 9A Impressions: One Great Spec! 3.3M 1y ago"
+    },
+    {
+      "title": "M4 Macbook Air Review: Too Easy!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Uwmp16aSgdk",
+      "externalId": "Uwmp16aSgdk",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:16",
+        "metadata": "7.1M 1y ago"
+      },
+      "evidenceText": "8:16 M4 Macbook Air Review: Too Easy! 7.1M 1y ago"
+    },
+    {
+      "title": "Nothing Phone 3a/Pro: Now Do a Flagship!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eRdMxQ1zVPo",
+      "externalId": "eRdMxQ1zVPo",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:17",
+        "metadata": "4.5M 1y ago"
+      },
+      "evidenceText": "10:17 Nothing Phone 3a/Pro: Now Do a Flagship! 4.5M 1y ago"
+    },
+    {
+      "title": "iPhone 16e Review: Who Are You?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qF4vZxbSmjo",
+      "externalId": "qF4vZxbSmjo",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "14:40",
+        "metadata": "8.8M 1y ago"
+      },
+      "evidenceText": "14:40 iPhone 16e Review: Who Are You? 8.8M 1y ago"
+    },
+    {
+      "title": "Are Foldables Cooked?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NECBCxEFMCo",
+      "externalId": "NECBCxEFMCo",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:00",
+        "metadata": "4.8M 1y ago"
+      },
+      "evidenceText": "11:00 Are Foldables Cooked? 4.8M 1y ago"
+    },
+    {
+      "title": "Every Phone Should Copy This!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FmmUAhE6MxU",
+      "externalId": "FmmUAhE6MxU",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:22",
+        "metadata": "2.7M 1y ago"
+      },
+      "evidenceText": "9:22 Every Phone Should Copy This! 2.7M 1y ago"
+    },
+    {
+      "title": "PowerBeats Pro 2 Review: Still Better than AirPods!?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6zHFNjK-QiQ",
+      "externalId": "6zHFNjK-QiQ",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/6zHFNjK-QiQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA9pxR73T08kOITgro8_xuK2HjYfw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:10",
+        "metadata": "2.9M 1y ago"
+      },
+      "evidenceText": "10:10 PowerBeats Pro 2 Review: Still Better than AirPods!? 2.9M 1y ago"
+    },
+    {
+      "title": "Samsung Galaxy S25 Ultra Review: The Tables Have Turned!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=a4NJNdHqs_I",
+      "externalId": "a4NJNdHqs_I",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/a4NJNdHqs_I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB0kOutrcxHsU1mxsnMcA4czA9l4w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "14:23",
+        "metadata": "6M 1y ago"
+      },
+      "evidenceText": "14:23 Samsung Galaxy S25 Ultra Review: The Tables Have Turned! 6M 1y ago"
+    },
+    {
+      "title": "I Tried Samsung's Secret Android XR Headset!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=az5QL_NLBvg",
+      "externalId": "az5QL_NLBvg",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/az5QL_NLBvg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4HKS67ZuQbnox-RZ1sf2BadRbdg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:49",
+        "metadata": "3M 1y ago"
+      },
+      "evidenceText": "11:49 I Tried Samsung's Secret Android XR Headset! 3M 1y ago"
+    },
+    {
+      "title": "Samsung Galaxy S25/Ultra Impressions: What Happened?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SAb4zRyxrD4",
+      "externalId": "SAb4zRyxrD4",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/SAb4zRyxrD4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAVk0R8en_clhemQ6GlPDT8U4TcvA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:23",
+        "metadata": "6.3M 1y ago"
+      },
+      "evidenceText": "9:23 Samsung Galaxy S25/Ultra Impressions: What Happened? 6.3M 1y ago"
+    },
+    {
+      "title": "OnePlus 13 Review: The Bar Has Been Set!!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-kuG6RgL32c",
+      "externalId": "-kuG6RgL32c",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/-kuG6RgL32c/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDQB_RbEHECLkkIzPJAlA-GLG4jmw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:05",
+        "metadata": "4.7M 1y ago"
+      },
+      "evidenceText": "15:05 OnePlus 13 Review: The Bar Has Been Set!! 4.7M 1y ago"
+    },
+    {
+      "title": "The Honey Scam: Explained",
+      "canonicalUrl": "https://www.youtube.com/watch?v=EAx_RtMKPm8",
+      "externalId": "EAx_RtMKPm8",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/EAx_RtMKPm8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLALh3QRf8Erk1R2F1Tyf6hEcHkLNg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:53",
+        "metadata": "6.9M 1y ago"
+      },
+      "evidenceText": "10:53 The Honey Scam: Explained 6.9M 1y ago"
+    },
+    {
+      "title": "WTF Happened in 2024?!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LCpm7cNQ5Vo",
+      "externalId": "LCpm7cNQ5Vo",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/LCpm7cNQ5Vo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAcVmnRlbsXNSxkjSxI-_7fEhyEyQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:50",
+        "metadata": "2.6M 1y ago"
+      },
+      "evidenceText": "15:50 WTF Happened in 2024?! 2.6M 1y ago"
+    },
+    {
+      "title": "Smartphone Awards 2024!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=E76CUtSHMrU",
+      "externalId": "E76CUtSHMrU",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/E76CUtSHMrU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDd47BtLYDxw_xjqG1DPnD8okyWwA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "27:30",
+        "metadata": "6.2M 1y ago"
+      },
+      "evidenceText": "27:30 Smartphone Awards 2024! 6.2M 1y ago"
+    },
+    {
+      "title": "This Video is AI Generated! SORA Review",
+      "canonicalUrl": "https://www.youtube.com/watch?v=OY2x0TyKzIQ",
+      "externalId": "OY2x0TyKzIQ",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/OY2x0TyKzIQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCnUL_-xhOM5yzHwpEr1UWdS426Sg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:41",
+        "metadata": "4.1M 1y ago"
+      },
+      "evidenceText": "16:41 This Video is AI Generated! SORA Review 4.1M 1y ago"
+    },
+    {
+      "title": "I Tried the Weirdest “Open” Headphones",
+      "canonicalUrl": "https://www.youtube.com/watch?v=EFiHm6WjhNA",
+      "externalId": "EFiHm6WjhNA",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/EFiHm6WjhNA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDC5QcWzUOewH6DdqQO3q4GPPa_UA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "14:39",
+        "metadata": "2.1M 1y ago"
+      },
+      "evidenceText": "14:39 I Tried the Weirdest “Open” Headphones 2.1M 1y ago"
+    },
+    {
+      "title": "An Honest Review of Apple Intelligence... So Far",
+      "canonicalUrl": "https://www.youtube.com/watch?v=haDjmBT9tu4",
+      "externalId": "haDjmBT9tu4",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/haDjmBT9tu4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAnQNGoS7FoDfWRNaAPEpQl1aPD4w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "17:49",
+        "metadata": "4.7M 1y ago"
+      },
+      "evidenceText": "17:49 An Honest Review of Apple Intelligence... So Far 4.7M 1y ago"
+    },
+    {
+      "title": "M4 Max MacBook Pro: I'm Convinced!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9HQx5pgUoiY",
+      "externalId": "9HQx5pgUoiY",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/9HQx5pgUoiY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDVsgZpsoIDIDOCkJlC69a9kO5Ynw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:31",
+        "metadata": "4.1M 1y ago"
+      },
+      "evidenceText": "12:31 M4 Max MacBook Pro: I'm Convinced! 4.1M 1y ago"
+    },
+    {
+      "title": "How My Video Gear is Changing!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=S6qznDLlHRQ",
+      "externalId": "S6qznDLlHRQ",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:09",
+        "metadata": "1.9M 1y ago"
+      },
+      "evidenceText": "9:09 How My Video Gear is Changing! 1.9M 1y ago"
+    },
+    {
+      "title": "The M4 Mac Mini is Incredible!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=z19HM7ANZlo",
+      "externalId": "z19HM7ANZlo",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:45",
+        "metadata": "8.3M 1y ago"
+      },
+      "evidenceText": "11:45 The M4 Mac Mini is Incredible! 8.3M 1y ago"
+    },
+    {
+      "title": "I Tried Real Augmented Reality Glasses!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=G0eKzU_fV00",
+      "externalId": "G0eKzU_fV00",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "20:29",
+        "metadata": "6.9M 1y ago"
+      },
+      "evidenceText": "20:29 I Tried Real Augmented Reality Glasses! 6.9M 1y ago"
+    },
+    {
+      "title": "The Tri Folding Phone Impressions!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Yv_S7KrOlfk",
+      "externalId": "Yv_S7KrOlfk",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/Yv_S7KrOlfk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCxoSjEsFsIdL6qmXkMgAIvPojdLg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:18",
+        "metadata": "6.4M 1y ago"
+      },
+      "evidenceText": "11:18 The Tri Folding Phone Impressions! 6.4M 1y ago"
+    },
+    {
+      "title": "The Tesla Robotaxi is Confusing...",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fgm5uZaS3-E",
+      "externalId": "fgm5uZaS3-E",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/fgm5uZaS3-E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDrbn05I-Bm1eFsjWG7rzGDN7fjog",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "19:14",
+        "metadata": "5.1M 1y ago"
+      },
+      "evidenceText": "19:14 The Tesla Robotaxi is Confusing... 5.1M 1y ago"
+    },
+    {
+      "title": "Let's Talk About Panels",
+      "canonicalUrl": "https://www.youtube.com/watch?v=65ciAONXv0M",
+      "externalId": "65ciAONXv0M",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/65ciAONXv0M/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA6MbiM75XsJlBuCU1332Jbzt9WSg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:44",
+        "metadata": "3.5M 1y ago"
+      },
+      "evidenceText": "15:44 Let's Talk About Panels 3.5M 1y ago"
+    },
+    {
+      "title": "Google Pixel 9 Pro Fold Is So Good! But…",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nK9zxuXa3OA",
+      "externalId": "nK9zxuXa3OA",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/nK9zxuXa3OA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA91Yesq52WxS8Pp8A-9_AFAOQYsw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:55",
+        "metadata": "3.8M 2y ago"
+      },
+      "evidenceText": "11:55 Google Pixel 9 Pro Fold Is So Good! But… 3.8M 2y ago"
+    },
+    {
+      "title": "iPhone 16/16 Pro Review: Times Have Changed!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=MRtg6A1f2Ko",
+      "externalId": "MRtg6A1f2Ko",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/MRtg6A1f2Ko/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrvvXwqUpIiC8g9qnYwwgChi_7_g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "20:41",
+        "metadata": "7.8M 2y ago"
+      },
+      "evidenceText": "20:41 iPhone 16/16 Pro Review: Times Have Changed! 7.8M 2y ago"
+    },
+    {
+      "title": "iPhone 16/16 Pro Unboxing: End of an Era!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=h3BKjZMGoIw",
+      "externalId": "h3BKjZMGoIw",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/h3BKjZMGoIw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBHx9yXjt1kIvUuE_vsFxip-AeIuA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:21",
+        "metadata": "7M 2y ago"
+      },
+      "evidenceText": "11:21 iPhone 16/16 Pro Unboxing: End of an Era! 7M 2y ago"
+    },
+    {
+      "title": "Apple Watch Series 10 Review: This is It?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Ir1xi2zeuug",
+      "externalId": "Ir1xi2zeuug",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/Ir1xi2zeuug/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC0-Lups8brHAcleuDoVyjOqFe7nA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:46",
+        "metadata": "4.8M 2y ago"
+      },
+      "evidenceText": "8:46 Apple Watch Series 10 Review: This is It? 4.8M 2y ago"
+    },
+    {
+      "title": "AirPods 4 Review: Which Ones To Get?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=WwjHonzRd4E",
+      "externalId": "WwjHonzRd4E",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/WwjHonzRd4E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAdNj9Gom0NEvdLiJ1INjh4KWyOCQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:26",
+        "metadata": "4.1M 2y ago"
+      },
+      "evidenceText": "11:26 AirPods 4 Review: Which Ones To Get? 4.1M 2y ago"
+    },
+    {
+      "title": "iPhone 16/Pro Impressions: The Great Separation!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9lx11dy9J30",
+      "externalId": "9lx11dy9J30",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/9lx11dy9J30/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCBZhb52vmH_v-05RvZdaErBWvabg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:14",
+        "metadata": "11M 2y ago"
+      },
+      "evidenceText": "16:14 iPhone 16/Pro Impressions: The Great Separation! 11M 2y ago"
+    },
+    {
+      "title": "I'm Taking a Break",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FVwV5BxJ8M4",
+      "externalId": "FVwV5BxJ8M4",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "18:53",
+        "metadata": "3.2M 2y ago"
+      },
+      "evidenceText": "18:53 I'm Taking a Break 3.2M 2y ago"
+    },
+    {
+      "title": "This \"Phone\" is Bad... Which Makes it Better?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=xwTub7_we0w",
+      "externalId": "xwTub7_we0w",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:36",
+        "metadata": "3.8M 2y ago"
+      },
+      "evidenceText": "9:36 This \"Phone\" is Bad... Which Makes it Better? 3.8M 2y ago"
+    },
+    {
+      "title": "Dyson is Back… Why Do These Exist?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=iGYpj2gFu9Q",
+      "externalId": "iGYpj2gFu9Q",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:40",
+        "metadata": "4.9M 2y ago"
+      },
+      "evidenceText": "10:40 Dyson is Back… Why Do These Exist? 4.9M 2y ago"
+    },
+    {
+      "title": "Google Pixel 9/Pro Review: Gimmick or Good?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=EGkGRs6YhoM",
+      "externalId": "EGkGRs6YhoM",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "24:05",
+        "metadata": "7.3M 2y ago"
+      },
+      "evidenceText": "24:05 Google Pixel 9/Pro Review: Gimmick or Good? 7.3M 2y ago"
+    },
+    {
+      "title": "Google Pixel 9/Pro/Fold Impressions: They've Finally Done It?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=63EVXf_S4WQ",
+      "externalId": "63EVXf_S4WQ",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:25",
+        "metadata": "7.1M 2y ago"
+      },
+      "evidenceText": "13:25 Google Pixel 9/Pro/Fold Impressions: They've Finally Done It? 7.1M 2y ago"
+    },
+    {
+      "title": "What's going on with Windows Laptops?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vJEbP2Vdq2U",
+      "externalId": "vJEbP2Vdq2U",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:30",
+        "metadata": "5.1M 2y ago"
+      },
+      "evidenceText": "10:30 What's going on with Windows Laptops? 5.1M 2y ago"
+    },
+    {
+      "title": "My FBI Declassified Story",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_9prH7NFmLI",
+      "externalId": "_9prH7NFmLI",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/_9prH7NFmLI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCfVUANEvKIT_9_zUGh88ZUixyCcA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:26",
+        "metadata": "8.2M 2y ago"
+      },
+      "evidenceText": "9:26 My FBI Declassified Story 8.2M 2y ago"
+    },
+    {
+      "title": "When Companies Copy Each Other...",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UKffsivi17Q",
+      "externalId": "UKffsivi17Q",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/UKffsivi17Q/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBn7s7vaGXi_u4Y_J5rDg08ON5ghA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:11",
+        "metadata": "2.9M 2y ago"
+      },
+      "evidenceText": "9:11 When Companies Copy Each Other... 2.9M 2y ago"
+    },
+    {
+      "title": "Samsung Galaxy Ring Review: I Wanted to Love It!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tYUC_Ni3lb4",
+      "externalId": "tYUC_Ni3lb4",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/tYUC_Ni3lb4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBOL5EgcmIxFTJhIeoyUUvfQs-bKw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:15",
+        "metadata": "4M 2y ago"
+      },
+      "evidenceText": "11:15 Samsung Galaxy Ring Review: I Wanted to Love It! 4M 2y ago"
+    },
+    {
+      "title": "iOS 18 Hands-On: Top 5 Features!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ArcI4A5nvBo",
+      "externalId": "ArcI4A5nvBo",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/ArcI4A5nvBo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzQyJYkH5Gybq_QAg8C8IBIy9SrA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:47",
+        "metadata": "7.8M 2y ago"
+      },
+      "evidenceText": "12:47 iOS 18 Hands-On: Top 5 Features! 7.8M 2y ago"
+    },
+    {
+      "title": "Samsung Z Flip/Fold 6, Watch Ultra, Buds Pro and Ring Impressions!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zijUjJdegI8",
+      "externalId": "zijUjJdegI8",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/zijUjJdegI8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJYZ-FpcTRelpqe9nBlThLs4F-yw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:02",
+        "metadata": "4.5M 2y ago"
+      },
+      "evidenceText": "11:02 Samsung Z Flip/Fold 6, Watch Ultra, Buds Pro and Ring Impressions! 4.5M 2y ago"
+    },
+    {
+      "title": "CMF Phone 1: Fun Modular Budget Phone!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_q45HmRIM08",
+      "externalId": "_q45HmRIM08",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/_q45HmRIM08/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC8HNPTHsvYdTGGK4xOWHv0U_2qaA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:08",
+        "metadata": "2.8M 2y ago"
+      },
+      "evidenceText": "11:08 CMF Phone 1: Fun Modular Budget Phone! 2.8M 2y ago"
+    },
+    {
+      "title": "Golf Tech is Hidden in Plain Sight!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=MV1qaFv4VUg",
+      "externalId": "MV1qaFv4VUg",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/MV1qaFv4VUg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB5AGDH4U0GJF2ac0bFCn2Bsr2_Bw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:50",
+        "metadata": "2.2M 2y ago"
+      },
+      "evidenceText": "13:50 Golf Tech is Hidden in Plain Sight! 2.2M 2y ago"
+    },
+    {
+      "title": "AI the Product vs AI the Feature",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sDIi95CqTiM",
+      "externalId": "sDIi95CqTiM",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/sDIi95CqTiM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAKNZJeMKagNhzfw6tH3Fk4rymKBw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:16",
+        "metadata": "2.5M 2y ago"
+      },
+      "evidenceText": "8:16 AI the Product vs AI the Feature 2.5M 2y ago"
+    },
+    {
+      "title": "Talking Tech and AI with Tim Cook!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pMX2cQdPubk",
+      "externalId": "pMX2cQdPubk",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/pMX2cQdPubk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbxceKtjSjlwymZQUGAyfUnpztrQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:33",
+        "metadata": "3.3M 2y ago"
+      },
+      "evidenceText": "16:33 Talking Tech and AI with Tim Cook! 3.3M 2y ago"
+    },
+    {
+      "title": "WWDC 2024 Recap: Is Apple Intelligence Legit?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qkYoBNdcXBU",
+      "externalId": "qkYoBNdcXBU",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/qkYoBNdcXBU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDb372gL6JWbUrElTZtnq15KmUi-g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "18:23",
+        "metadata": "6.1M 2y ago"
+      },
+      "evidenceText": "18:23 WWDC 2024 Recap: Is Apple Intelligence Legit? 6.1M 2y ago"
+    },
+    {
+      "title": "I Visited Apple's Secret iPhone Testing Labs!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8reaJG7z-is",
+      "externalId": "8reaJG7z-is",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/8reaJG7z-is/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCM92DsmzzlxYRRLeSs-h-UhICIVg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:52",
+        "metadata": "5M 2y ago"
+      },
+      "evidenceText": "10:52 I Visited Apple's Secret iPhone Testing Labs! 5M 2y ago"
+    },
+    {
+      "title": "Sonos Ace Headphones: You Had One Job!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6_3cLlSlTKw",
+      "externalId": "6_3cLlSlTKw",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/6_3cLlSlTKw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLASMK-41s9ytJYbdWHdYkunco2D8w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:23",
+        "metadata": "2.8M 2y ago"
+      },
+      "evidenceText": "11:23 Sonos Ace Headphones: You Had One Job! 2.8M 2y ago"
+    },
+    {
+      "title": "Android 15 Hands-On: Top 5 Features!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kkX8_nbBqBQ",
+      "externalId": "kkX8_nbBqBQ",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:26",
+        "metadata": "3.6M 2y ago"
+      },
+      "evidenceText": "11:26 Android 15 Hands-On: Top 5 Features! 3.6M 2y ago"
+    },
+    {
+      "title": "I Gave A Commencement Speech!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=a7ItChBrY8E",
+      "externalId": "a7ItChBrY8E",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:58",
+        "metadata": "1.3M 2y ago"
+      },
+      "evidenceText": "8:58 I Gave A Commencement Speech! 1.3M 2y ago"
+    },
+    {
+      "title": "5 Weird iPad Pro (M4) Decisions",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PHcDrXeyguM",
+      "externalId": "PHcDrXeyguM",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:02",
+        "metadata": "5.7M 2y ago"
+      },
+      "evidenceText": "13:02 5 Weird iPad Pro (M4) Decisions 5.7M 2y ago"
+    },
+    {
+      "title": "M4 iPad Pro Impressions: Well This is Awkward",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-T0MGehwWvE",
+      "externalId": "-T0MGehwWvE",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/-T0MGehwWvE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBWwLMOuAi9BvS1P162uddzcf8B3g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:51",
+        "metadata": "6.7M 2y ago"
+      },
+      "evidenceText": "12:51 M4 iPad Pro Impressions: Well This is Awkward 6.7M 2y ago"
+    },
+    {
+      "title": "Google Pixel 8A Impressions: Just Get The 8!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=B3szaVzQx0o",
+      "externalId": "B3szaVzQx0o",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/B3szaVzQx0o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDS6JgwgI9uok9oQwHQ2OJa_YMgYQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "7:23",
+        "metadata": "2.9M 2y ago"
+      },
+      "evidenceText": "7:23 Google Pixel 8A Impressions: Just Get The 8! 2.9M 2y ago"
+    },
+    {
+      "title": "Rabbit R1: Barely Reviewable",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ddTV12hErTc",
+      "externalId": "ddTV12hErTc",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/ddTV12hErTc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBJGVUXqJ18ug5vBb9ZUpHhdlXbPw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "19:53",
+        "metadata": "9.2M 2y ago"
+      },
+      "evidenceText": "19:53 Rabbit R1: Barely Reviewable 9.2M 2y ago"
+    },
+    {
+      "title": "I Tried a Disney Secret Project!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1KEtxTQUzxY",
+      "externalId": "1KEtxTQUzxY",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/1KEtxTQUzxY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCkUabsDVqRWu9x7OgWDMvVuN8Alw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:33",
+        "metadata": "10M 2y ago"
+      },
+      "evidenceText": "11:33 I Tried a Disney Secret Project! 10M 2y ago"
+    },
+    {
+      "title": "$20K vs $2,000,000 Hybrid Car!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HLi2xYxZX10",
+      "externalId": "HLi2xYxZX10",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/HLi2xYxZX10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDe7_F92MeGABtlgOgdGEtHMO3g1A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "14:45",
+        "metadata": "3.5M 2y ago"
+      },
+      "evidenceText": "14:45 $20K vs $2,000,000 Hybrid Car! 3.5M 2y ago"
+    },
+    {
+      "title": "Do Bad Reviews Kill Companies?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QztFpzKsdeA",
+      "externalId": "QztFpzKsdeA",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/QztFpzKsdeA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA4T8uFRagrfygtB49bBpBacUDFUQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:28",
+        "metadata": "4.4M 2y ago"
+      },
+      "evidenceText": "13:28 Do Bad Reviews Kill Companies? 4.4M 2y ago"
+    },
+    {
+      "title": "The Worst Product I've Ever Reviewed... For Now",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TitZV6k8zfA",
+      "externalId": "TitZV6k8zfA",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/TitZV6k8zfA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDQRwX0E6q5SqEr_k0q_fnVR_l7Ng",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "25:04",
+        "metadata": "9.5M 2y ago"
+      },
+      "evidenceText": "25:04 The Worst Product I've Ever Reviewed... For Now 9.5M 2y ago"
+    },
+    {
+      "title": "Is the iPhone \"Illegal?\"",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qcH2wgRLiV8",
+      "externalId": "qcH2wgRLiV8",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/qcH2wgRLiV8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCvBbBNuxaRPkUCKQ_FegaL697eIQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:32",
+        "metadata": "3.7M 2y ago"
+      },
+      "evidenceText": "13:32 Is the iPhone \"Illegal?\" 3.7M 2y ago"
+    },
+    {
+      "title": "Tesla Cybertruck Review: Already Iconic?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=O0cs8aIXgkc",
+      "externalId": "O0cs8aIXgkc",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/O0cs8aIXgkc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDjt9B0K0SnHmQ446gHJokHMxp5lw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "27:24",
+        "metadata": "5M 2y ago"
+      },
+      "evidenceText": "27:24 Tesla Cybertruck Review: Already Iconic? 5M 2y ago"
+    },
+    {
+      "title": "Here's the Thing about the M3 Macbook Air...",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HN-WH7C4K0Q",
+      "externalId": "HN-WH7C4K0Q",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:19",
+        "metadata": "5.9M 2y ago"
+      },
+      "evidenceText": "9:19 Here's the Thing about the M3 Macbook Air... 5.9M 2y ago"
+    },
+    {
+      "title": "Small Phones are Dead and We Killed Them",
+      "canonicalUrl": "https://www.youtube.com/watch?v=iR9zBsKELVs",
+      "externalId": "iR9zBsKELVs",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:42",
+        "metadata": "4M 2y ago"
+      },
+      "evidenceText": "8:42 Small Phones are Dead and We Killed Them 4M 2y ago"
+    },
+    {
+      "title": "Nothing Phone 2A Review: Flashy Good Deal!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VdOlqcg9uMQ",
+      "externalId": "VdOlqcg9uMQ",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:21",
+        "metadata": "3.3M 2y ago"
+      },
+      "evidenceText": "12:21 Nothing Phone 2A Review: Flashy Good Deal! 3.3M 2y ago"
+    },
+    {
+      "title": "Reviewing EVERY Samsung Galaxy S Ever!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eKVTFXQPAhs",
+      "externalId": "eKVTFXQPAhs",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "43:49",
+        "metadata": "9.2M 2y ago"
+      },
+      "evidenceText": "43:49 Reviewing EVERY Samsung Galaxy S Ever! 9.2M 2y ago"
+    },
+    {
+      "title": "OnePlus Watch 2 Review: Total Redemption!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7DfXKkvjW-E",
+      "externalId": "7DfXKkvjW-E",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:29",
+        "metadata": "2.5M 2y ago"
+      },
+      "evidenceText": "9:29 OnePlus Watch 2 Review: Total Redemption! 2.5M 2y ago"
+    },
+    {
+      "title": "AI Generated Videos Just Changed Forever",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NXpdyAWLDas",
+      "externalId": "NXpdyAWLDas",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:02",
+        "metadata": "9.2M 2y ago"
+      },
+      "evidenceText": "12:02 AI Generated Videos Just Changed Forever 9.2M 2y ago"
+    },
+    {
+      "title": "Apple Vision Pro is Missing Something...",
+      "canonicalUrl": "https://www.youtube.com/watch?v=hOi8s2wkX4A",
+      "externalId": "hOi8s2wkX4A",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:48",
+        "metadata": "3.4M 2y ago"
+      },
+      "evidenceText": "13:48 Apple Vision Pro is Missing Something... 3.4M 2y ago"
+    },
+    {
+      "title": "OnePlus 12 Review: Better Than You Think!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=B-d97ZrAJZ0",
+      "externalId": "B-d97ZrAJZ0",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "14:50",
+        "metadata": "3.8M 2y ago"
+      },
+      "evidenceText": "14:50 OnePlus 12 Review: Better Than You Think! 3.8M 2y ago"
+    },
+    {
+      "title": "Apple Vision Pro Review: Tomorrow's Ideas... Today's Tech!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=86Gy035z_KA",
+      "externalId": "86Gy035z_KA",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "24:48",
+        "metadata": "8.4M 2y ago"
+      },
+      "evidenceText": "24:48 Apple Vision Pro Review: Tomorrow's Ideas... Today's Tech! 8.4M 2y ago"
+    },
+    {
+      "title": "Using Apple Vision Pro: What It’s Actually Like!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dtp6b76pMak",
+      "externalId": "dtp6b76pMak",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/dtp6b76pMak/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1qCdccb9eD0lNSCKjhndarIiq5A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "37:19",
+        "metadata": "28M 2y ago"
+      },
+      "evidenceText": "37:19 Using Apple Vision Pro: What It’s Actually Like! 28M 2y ago"
+    },
+    {
+      "title": "Apple Vision Pro Unboxing!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SaneSRqePVY",
+      "externalId": "SaneSRqePVY",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/SaneSRqePVY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGyjmamlk8nEJKHAasmZGj2REZNw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "19:06",
+        "metadata": "8.8M 2y ago"
+      },
+      "evidenceText": "19:06 Apple Vision Pro Unboxing! 8.8M 2y ago"
+    },
+    {
+      "title": "Samsung Galaxy S24 Ultra Review: Why Buy Anything Else?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XaqOejIaFgM",
+      "externalId": "XaqOejIaFgM",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/XaqOejIaFgM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA7lf5jQ5Np1219ey_UXxs4JfIGbg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "18:30",
+        "metadata": "13M 2y ago"
+      },
+      "evidenceText": "18:30 Samsung Galaxy S24 Ultra Review: Why Buy Anything Else? 13M 2y ago"
+    },
+    {
+      "title": "On \"Quitting\" YouTube",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GQAvce3MA44",
+      "externalId": "GQAvce3MA44",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/GQAvce3MA44/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCktoDVOhs0kT8XuEHuTEmdWEo48g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:44",
+        "metadata": "5.3M 2y ago"
+      },
+      "evidenceText": "15:44 On \"Quitting\" YouTube 5.3M 2y ago"
+    },
+    {
+      "title": "Samsung Galaxy S24/Ultra Impressions: More Than Meets The Eye!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=n7lM36yFh2Y",
+      "externalId": "n7lM36yFh2Y",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/n7lM36yFh2Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBHu4lqPVzDzEnjHRrK9Z83rRc27g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:44",
+        "metadata": "5.7M 2y ago"
+      },
+      "evidenceText": "10:44 Samsung Galaxy S24/Ultra Impressions: More Than Meets The Eye! 5.7M 2y ago"
+    },
+    {
+      "title": "Can A Gaming Phone Go Mainstream?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vfUfSwwhjeg",
+      "externalId": "vfUfSwwhjeg",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/vfUfSwwhjeg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA88XUgiM6k7PtvY6P_U5ee6vVSvw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:29",
+        "metadata": "2.1M 2y ago"
+      },
+      "evidenceText": "12:29 Can A Gaming Phone Go Mainstream? 2.1M 2y ago"
+    },
+    {
+      "title": "The Blind Smartphone Camera Test Winners!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VRoTOE3FqT0",
+      "externalId": "VRoTOE3FqT0",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/VRoTOE3FqT0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDMeBQLMfRddT7-ufpzVgmQbqpCKQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:12",
+        "metadata": "2.9M 2y ago"
+      },
+      "evidenceText": "12:12 The Blind Smartphone Camera Test Winners! 2.9M 2y ago"
+    },
+    {
+      "title": "2024 Tech I'm Ready For!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tHS3qxU_3RE",
+      "externalId": "tHS3qxU_3RE",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/tHS3qxU_3RE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7ycV5tqAGIY2jXSXcvUPMNxMO7w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:43",
+        "metadata": "3M 2y ago"
+      },
+      "evidenceText": "12:43 2024 Tech I'm Ready For! 3M 2y ago"
+    },
+    {
+      "title": "iPhone 15 Pro: 3 Months Later!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=YmwskGLycHo",
+      "externalId": "YmwskGLycHo",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/YmwskGLycHo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAFDSu2vX5VvuS5KV7f1I61U553Qg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:26",
+        "metadata": "6.4M 2y ago"
+      },
+      "evidenceText": "10:26 iPhone 15 Pro: 3 Months Later! 6.4M 2y ago"
+    },
+    {
+      "title": "Smartphone Awards 2023!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JkRXhe3KaPE",
+      "externalId": "JkRXhe3KaPE",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "26:23",
+        "metadata": "6.4M 2y ago"
+      },
+      "evidenceText": "26:23 Smartphone Awards 2023! 6.4M 2y ago"
+    },
+    {
+      "title": "The Worst Hot Takes in Tech",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PA9iymey_lM",
+      "externalId": "PA9iymey_lM",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:50",
+        "metadata": "3M 2y ago"
+      },
+      "evidenceText": "15:50 The Worst Hot Takes in Tech 3M 2y ago"
+    },
+    {
+      "title": "F1: Explained!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=s8WHY3Gusx0",
+      "externalId": "s8WHY3Gusx0",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "19:30",
+        "metadata": "5.7M 2y ago"
+      },
+      "evidenceText": "19:30 F1: Explained! 5.7M 2y ago"
+    },
+    {
+      "title": "Why Don't More Smartphones Have This?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Ng5sHevRX3w",
+      "externalId": "Ng5sHevRX3w",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/Ng5sHevRX3w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAveM7rxrJSSD54vWL21oNRhSbT2Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:07",
+        "metadata": "3.3M 2y ago"
+      },
+      "evidenceText": "8:07 Why Don't More Smartphones Have This? 3.3M 2y ago"
+    },
+    {
+      "title": "Driving Tesla Cybertruck: Everything You Need to Know!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XxOh12Uhg08",
+      "externalId": "XxOh12Uhg08",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/XxOh12Uhg08/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCNtoSNEBAk5PK-m9HUJHaQ4gZ_Dw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "40:22",
+        "metadata": "21M 2y ago"
+      },
+      "evidenceText": "40:22 Driving Tesla Cybertruck: Everything You Need to Know! 21M 2y ago"
+    },
+    {
+      "title": "This Smartwatch is $69!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cn5DsF9FXls",
+      "externalId": "cn5DsF9FXls",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/cn5DsF9FXls/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCwGJxtBWiDm2cbTbCBsZrPNBf-LQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:10",
+        "metadata": "4.6M 2y ago"
+      },
+      "evidenceText": "9:10 This Smartwatch is $69! 4.6M 2y ago"
+    },
+    {
+      "title": "To Beat the iPhone, You Must... Be the iPhone?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ji5HwS3bhlU",
+      "externalId": "ji5HwS3bhlU",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/ji5HwS3bhlU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDqhe_Q7mpN5v9NhPYJZ7ay9edvjg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:15",
+        "metadata": "3.3M 2y ago"
+      },
+      "evidenceText": "9:15 To Beat the iPhone, You Must... Be the iPhone? 3.3M 2y ago"
+    },
+    {
+      "title": "Space Black M3 Max MacBook Pro Review: We Can Game Now?!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZWgr7qP6yhY",
+      "externalId": "ZWgr7qP6yhY",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/ZWgr7qP6yhY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdaskE6HtN4Sy5UsVlUMEev6j7Jg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:56",
+        "metadata": "4.4M 2y ago"
+      },
+      "evidenceText": "8:56 Space Black M3 Max MacBook Pro Review: We Can Game Now?! 4.4M 2y ago"
+    },
+    {
+      "title": "M3 Macbook Pro Impressions: Is It Enough?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=t4ejFV6n4b8",
+      "externalId": "t4ejFV6n4b8",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/t4ejFV6n4b8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDijunS0dDn-4ppBZOfe4deDboL1Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:09",
+        "metadata": "4M 2y ago"
+      },
+      "evidenceText": "11:09 M3 Macbook Pro Impressions: Is It Enough? 4M 2y ago"
+    },
+    {
+      "title": "OnePlus Open is Awesome - What's Happening with Folding Phones?!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=jD9n01Mck0Q",
+      "externalId": "jD9n01Mck0Q",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/jD9n01Mck0Q/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCh9TLYbOfR5_F_uyC1zH2Qpav4lQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:02",
+        "metadata": "5.3M 2y ago"
+      },
+      "evidenceText": "12:02 OnePlus Open is Awesome - What's Happening with Folding Phones?! 5.3M 2y ago"
+    },
+    {
+      "title": "The Vision for Mixed Reality: Now vs The Future!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_XdD-TQseU4",
+      "externalId": "_XdD-TQseU4",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/_XdD-TQseU4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCcDgVeOx6z4YW1yQIyyPAXJII5Mw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:51",
+        "metadata": "2.7M 2y ago"
+      },
+      "evidenceText": "12:51 The Vision for Mixed Reality: Now vs The Future! 2.7M 2y ago"
+    },
+    {
+      "title": "Google Pixel 8/8 Pro Review: We'll Fix It In Post!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=BS8x2TicxQ8",
+      "externalId": "BS8x2TicxQ8",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/BS8x2TicxQ8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLASU5A_TC7yEnrS4hW4FBZ9X4dwaw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:18",
+        "metadata": "5.2M 2y ago"
+      },
+      "evidenceText": "16:18 Google Pixel 8/8 Pro Review: We'll Fix It In Post! 5.2M 2y ago"
+    },
+    {
+      "title": "Can You Trust Google?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dxVaP0-aFIE",
+      "externalId": "dxVaP0-aFIE",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:18",
+        "metadata": "2.1M 2y ago"
+      },
+      "evidenceText": "9:18 Can You Trust Google? 2.1M 2y ago"
+    },
+    {
+      "title": "Google Pixel 8/8 Pro Impressions: Software Magic!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KZA_BIa8e7I",
+      "externalId": "KZA_BIa8e7I",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:38",
+        "metadata": "4.8M 2y ago"
+      },
+      "evidenceText": "13:38 Google Pixel 8/8 Pro Impressions: Software Magic! 4.8M 2y ago"
+    },
+    {
+      "title": "iPhone 15 Review: Welcome to the Club!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0X0Jm8QValY",
+      "externalId": "0X0Jm8QValY",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:51",
+        "metadata": "6.9M 2y ago"
+      },
+      "evidenceText": "13:51 iPhone 15 Review: Welcome to the Club! 6.9M 2y ago"
+    },
+    {
+      "title": "iPhone 15 Pro Review: The Good, The Bad, & The Ugly!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cBpGq-vDr2Y",
+      "externalId": "cBpGq-vDr2Y",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "24:42",
+        "metadata": "10M 2y ago"
+      },
+      "evidenceText": "24:42 iPhone 15 Pro Review: The Good, The Bad, & The Ugly! 10M 2y ago"
+    },
+    {
+      "title": "Apple Watch Series 9 & Ultra 2: What Are We Waiting For?!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=oNCs4C2SMjo",
+      "externalId": "oNCs4C2SMjo",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:29",
+        "metadata": "4.7M 3y ago"
+      },
+      "evidenceText": "10:29 Apple Watch Series 9 & Ultra 2: What Are We Waiting For?! 4.7M 3y ago"
+    },
+    {
+      "title": "iPhone 15/15 Pro Unboxing and Second Look!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=piYf4gDthjY",
+      "externalId": "piYf4gDthjY",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:21",
+        "metadata": "8.1M 3y ago"
+      },
+      "evidenceText": "11:21 iPhone 15/15 Pro Unboxing and Second Look! 8.1M 3y ago"
+    },
+    {
+      "title": "iPhone 15 Event Reactions: Sneaky Updates!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=305YfKMyqVw",
+      "externalId": "305YfKMyqVw",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/305YfKMyqVw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCw8HkDrb-XuuO8cpoMYVfqXGcGRA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:18",
+        "metadata": "3.2M 3y ago"
+      },
+      "evidenceText": "10:18 iPhone 15 Event Reactions: Sneaky Updates! 3.2M 3y ago"
+    },
+    {
+      "title": "iPhone 15/15 Pro Impressions: Not Just USB-C!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=enR58PYHaWw",
+      "externalId": "enR58PYHaWw",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/enR58PYHaWw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBx-tdBPMsmnMZkapLxMdN49g-LJg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:23",
+        "metadata": "14M 3y ago"
+      },
+      "evidenceText": "13:23 iPhone 15/15 Pro Impressions: Not Just USB-C! 14M 3y ago"
+    },
+    {
+      "title": "This is a Crypto Phone. Don’t Buy It.",
+      "canonicalUrl": "https://www.youtube.com/watch?v=hRSMJGs0YMg",
+      "externalId": "hRSMJGs0YMg",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/hRSMJGs0YMg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC2amfV6zZv25AA7vt2FjpfbNXPjA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:49",
+        "metadata": "3.7M 3y ago"
+      },
+      "evidenceText": "11:49 This is a Crypto Phone. Don’t Buy It. 3.7M 3y ago"
+    },
+    {
+      "title": "iPhone vs Android (The Real Winner)!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nHkKJ87FS6s",
+      "externalId": "nHkKJ87FS6s",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/nHkKJ87FS6s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAHQF-lvdFKKsdFldd74-AKip5xjA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "18:27",
+        "metadata": "6.8M 3y ago"
+      },
+      "evidenceText": "18:27 iPhone vs Android (The Real Winner)! 6.8M 3y ago"
+    },
+    {
+      "title": "How 3D Printing Changed This Dog's Life!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sdFtMRko2GU",
+      "externalId": "sdFtMRko2GU",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/sdFtMRko2GU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBOuMYxXok14CC9JRwKYRS_e-berg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:08",
+        "metadata": "1.7M 3y ago"
+      },
+      "evidenceText": "12:08 How 3D Printing Changed This Dog's Life! 1.7M 3y ago"
+    },
+    {
+      "title": "Driving The New Fastest Car Ever Made!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sF9xYtouZjY",
+      "externalId": "sF9xYtouZjY",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/sF9xYtouZjY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADUGeQdTT7oJjxjEnDHua3_WDUeQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:25",
+        "metadata": "7.8M 3y ago"
+      },
+      "evidenceText": "12:25 Driving The New Fastest Car Ever Made! 7.8M 3y ago"
+    },
+    {
+      "title": "Samsung Tab S9 Ultra: Is the iPad Killer Real?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sl0UUhmaiDU",
+      "externalId": "sl0UUhmaiDU",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/sl0UUhmaiDU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAcrx61zLUQWVhl8WVJiJgVQEyo6w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:03",
+        "metadata": "6.6M 3y ago"
+      },
+      "evidenceText": "10:03 Samsung Tab S9 Ultra: Is the iPad Killer Real? 6.6M 3y ago"
+    },
+    {
+      "title": "Samsung Z Flip 5 Review: I Was Wrong!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=WuljKartv2U",
+      "externalId": "WuljKartv2U",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/WuljKartv2U/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDmsD0EiWcSsjf4U7z0kaa5m2yehQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:37",
+        "metadata": "5.8M 3y ago"
+      },
+      "evidenceText": "10:37 Samsung Z Flip 5 Review: I Was Wrong! 5.8M 3y ago"
+    },
+    {
+      "title": "Tesla Solar Roof Review: Was It Worth It?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UJeSWbR6W04",
+      "externalId": "UJeSWbR6W04",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/UJeSWbR6W04/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_eM_qWEryPUzbrc9yangHEYSPbg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "30:27",
+        "metadata": "17M 3y ago"
+      },
+      "evidenceText": "30:27 Tesla Solar Roof Review: Was It Worth It? 17M 3y ago"
+    },
+    {
+      "title": "Samsung Z Fold 5 and Z Flip 5 Impressions: They Settled!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Eo-oFWyxdUo",
+      "externalId": "Eo-oFWyxdUo",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/Eo-oFWyxdUo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZy0gw45QGNLYEDZES_TmiBGh8Nw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:29",
+        "metadata": "4.7M 3y ago"
+      },
+      "evidenceText": "8:29 Samsung Z Fold 5 and Z Flip 5 Impressions: They Settled! 4.7M 3y ago"
+    },
+    {
+      "title": "The Truth about the New Beats by Dre!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IJm3UHjs8-Y",
+      "externalId": "IJm3UHjs8-Y",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/IJm3UHjs8-Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBzdz6xr7OFNRbgvuKjlvpaAMqXoA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:01",
+        "metadata": "3.5M 3y ago"
+      },
+      "evidenceText": "11:01 The Truth about the New Beats by Dre! 3.5M 3y ago"
+    },
+    {
+      "title": "The Worst Hot Takes in Tech",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JzpUfRv45yY",
+      "externalId": "JzpUfRv45yY",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/JzpUfRv45yY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBneI9adceinvbrPQQ9uvwxLj3a9g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "14:30",
+        "metadata": "4.8M 3y ago"
+      },
+      "evidenceText": "14:30 The Worst Hot Takes in Tech 4.8M 3y ago"
+    },
+    {
+      "title": "iOS 17 Hands-On: Top 5 Features!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5LWDl5qaQbA",
+      "externalId": "5LWDl5qaQbA",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:33",
+        "metadata": "7.9M 3y ago"
+      },
+      "evidenceText": "12:33 iOS 17 Hands-On: Top 5 Features! 7.9M 3y ago"
+    },
+    {
+      "title": "Nothing Phone 2 Review: A Real Personality!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lRUtHtqfCGA",
+      "externalId": "lRUtHtqfCGA",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:10",
+        "metadata": "3.8M 3y ago"
+      },
+      "evidenceText": "12:10 Nothing Phone 2 Review: A Real Personality! 3.8M 3y ago"
+    },
+    {
+      "title": "This Phone is Nearly Perfect!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6aK407STsGA",
+      "externalId": "6aK407STsGA",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "7:41",
+        "metadata": "4.6M 3y ago"
+      },
+      "evidenceText": "7:41 This Phone is Nearly Perfect! 4.6M 3y ago"
+    },
+    {
+      "title": "Dope Tech: Nothing Phone 2 Redesign!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RM7SobH8ZO0",
+      "externalId": "RM7SobH8ZO0",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/RM7SobH8ZO0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLALgDRYNOKPj_esRe97M8BEzbCrmQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "17:08",
+        "metadata": "3.6M 3y ago"
+      },
+      "evidenceText": "17:08 Dope Tech: Nothing Phone 2 Redesign! 3.6M 3y ago"
+    },
+    {
+      "title": "Why Does the M2 Mac Pro Exist?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=w2KbwC-s7pY",
+      "externalId": "w2KbwC-s7pY",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/w2KbwC-s7pY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLApFCqJjj6rNWkj7O2iM91dnXVeJg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:19",
+        "metadata": "3M 3y ago"
+      },
+      "evidenceText": "11:19 Why Does the M2 Mac Pro Exist? 3M 3y ago"
+    },
+    {
+      "title": "Google Pixel Fold Review: Maybe Next Year!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PhFwDJCEhBg",
+      "externalId": "PhFwDJCEhBg",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/PhFwDJCEhBg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBnq1hx5g1-eKvAUeQWh7CRCx3Ing",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "16:47",
+        "metadata": "3.5M 3y ago"
+      },
+      "evidenceText": "16:47 Google Pixel Fold Review: Maybe Next Year! 3.5M 3y ago"
+    },
+    {
+      "title": "Pixel Tablet Review: Is Google Back?!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=aTf7AMVOoDY",
+      "externalId": "aTf7AMVOoDY",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/aTf7AMVOoDY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAJlr2JCR_She8Pc2hneQ_lh1yaMg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:03",
+        "metadata": "3.2M 3y ago"
+      },
+      "evidenceText": "13:03 Pixel Tablet Review: Is Google Back?! 3.2M 3y ago"
+    },
+    {
+      "title": "Apple's Forbidden Words",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kvN5_GXlg2Y",
+      "externalId": "kvN5_GXlg2Y",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/kvN5_GXlg2Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTIkk6JWR0PRpafgvD6QuM6YuyQQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:56",
+        "metadata": "3.2M 3y ago"
+      },
+      "evidenceText": "9:56 Apple's Forbidden Words 3.2M 3y ago"
+    },
+    {
+      "title": "15\" MacBook Air M2 Review: The Obvious Thing!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1TCuf_Qcfv8",
+      "externalId": "1TCuf_Qcfv8",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/1TCuf_Qcfv8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB9JLaRTYjwK25xzHNZdGIIfKtUUA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:11",
+        "metadata": "3.9M 3y ago"
+      },
+      "evidenceText": "8:11 15\" MacBook Air M2 Review: The Obvious Thing! 3.9M 3y ago"
+    },
+    {
+      "title": "Apple Vision Pro Impressions!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=OFvXuyITwBI",
+      "externalId": "OFvXuyITwBI",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/OFvXuyITwBI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA7tZSDk1D3XuhUI1QxphUTPIEcTA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "20:11",
+        "metadata": "18M 3y ago"
+      },
+      "evidenceText": "20:11 Apple Vision Pro Impressions! 18M 3y ago"
+    },
+    {
+      "title": "How Does Sony Keep Doing This?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PCp1BmME6QA",
+      "externalId": "PCp1BmME6QA",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/PCp1BmME6QA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBpKjTeHhNtmmM21sSsupS6clAwOw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:34",
+        "metadata": "6.3M 3y ago"
+      },
+      "evidenceText": "12:34 How Does Sony Keep Doing This? 6.3M 3y ago"
+    },
+    {
+      "title": "RAZR+ Impressions: Is This What You Wanted?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8om1eJrO2lU",
+      "externalId": "8om1eJrO2lU",
+      "creator": "Marques Brownlee",
+      "imageUrl": "https://i.ytimg.com/vi/8om1eJrO2lU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDwb2oZzymVVS927nXYETZlBxSB7Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:45",
+        "metadata": "4.4M 3y ago"
+      },
+      "evidenceText": "8:45 RAZR+ Impressions: Is This What You Wanted? 4.4M 3y ago"
+    },
+    {
+      "title": "iPad Killer or Clone?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=03OZsmDV56k",
+      "externalId": "03OZsmDV56k",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:56",
+        "metadata": "3.9M 3y ago"
+      },
+      "evidenceText": "9:56 iPad Killer or Clone? 3.9M 3y ago"
+    },
+    {
+      "title": "I Tried a Secret Google Project!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=J1oEWiUsKgU",
+      "externalId": "J1oEWiUsKgU",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:23",
+        "metadata": "3.1M 3y ago"
+      },
+      "evidenceText": "12:23 I Tried a Secret Google Project! 3.1M 3y ago"
+    },
+    {
+      "title": "This is the Dumbest Product I've Ever Reviewed",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tFdnCzfJPJ0",
+      "externalId": "tFdnCzfJPJ0",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "18:32",
+        "metadata": "Marques Brownleeand Doctor Mike10M3y ago"
+      },
+      "evidenceText": "18:32 This is the Dumbest Product I've Ever Reviewed Marques Brownlee and Doctor Mike 10M 3y ago"
+    },
+    {
+      "title": "Google Pixel Tablet Impressions: A New Bargain?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-6AEpecXg-4",
+      "externalId": "-6AEpecXg-4",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:04",
+        "metadata": "2.8M 3y ago"
+      },
+      "evidenceText": "8:04 Google Pixel Tablet Impressions: A New Bargain? 2.8M 3y ago"
+    },
+    {
+      "title": "Google Pixel Fold Impressions! $1800 of Pixel?!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zxDTitg2MeE",
+      "externalId": "zxDTitg2MeE",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "7:35",
+        "metadata": "3.5M 3y ago"
+      },
+      "evidenceText": "7:35 Google Pixel Fold Impressions! $1800 of Pixel?! 3.5M 3y ago"
+    },
+    {
+      "title": "Google Pixel 7A Review: New Price!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LRJPk9BmJY4",
+      "externalId": "LRJPk9BmJY4",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:15",
+        "metadata": "3.4M 3y ago"
+      },
+      "evidenceText": "11:15 Google Pixel 7A Review: New Price! 3.4M 3y ago"
+    },
+    {
+      "title": "The Flagship vs Midrange Debate: Galaxy A54 Review!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cTxJ5oLuxkM",
+      "externalId": "cTxJ5oLuxkM",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "14:48",
+        "metadata": "4.8M 3y ago"
+      },
+      "evidenceText": "14:48 The Flagship vs Midrange Debate: Galaxy A54 Review! 4.8M 3y ago"
+    },
+    {
+      "title": "I Made My Own Sneaker! M251",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1eI8HpJtq-s",
+      "externalId": "1eI8HpJtq-s",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "7:02",
+        "metadata": "1.6M 3y ago"
+      },
+      "evidenceText": "7:02 I Made My Own Sneaker! M251 1.6M 3y ago"
+    },
+    {
+      "title": "I Spent $40,000 to Unbox a Sealed Original iPhone!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-BwUyTrU9fo",
+      "externalId": "-BwUyTrU9fo",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:24",
+        "metadata": "11M 3y ago"
+      },
+      "evidenceText": "13:24 I Spent $40,000 to Unbox a Sealed Original iPhone! 11M 3y ago"
+    },
+    {
+      "title": "The ROG Phone 7 Ultimate is Just Ridiculous!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=OkLOJapGjC4",
+      "externalId": "OkLOJapGjC4",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:49",
+        "metadata": "2.5M 3y ago"
+      },
+      "evidenceText": "10:49 The ROG Phone 7 Ultimate is Just Ridiculous! 2.5M 3y ago"
+    },
+    {
+      "title": "The Rivian R1S Is... The Best SUV Ever?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wR-0knMVSGw",
+      "externalId": "wR-0knMVSGw",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "14:20",
+        "metadata": "3M 3y ago"
+      },
+      "evidenceText": "14:20 The Rivian R1S Is... The Best SUV Ever? 3M 3y ago"
+    },
+    {
+      "title": "The AI Assistant Battle! (2023)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HKvo6acp5aI",
+      "externalId": "HKvo6acp5aI",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:44",
+        "metadata": "2.8M 3y ago"
+      },
+      "evidenceText": "15:44 The AI Assistant Battle! (2023) 2.8M 3y ago"
+    },
+    {
+      "title": "This Voice is Entirely AI...",
+      "canonicalUrl": "https://www.youtube.com/watch?v=AFthdsIcOxw",
+      "externalId": "AFthdsIcOxw",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "6:14",
+        "metadata": "1.9M 3y ago"
+      },
+      "evidenceText": "6:14 This Voice is Entirely AI... 1.9M 3y ago"
+    },
+    {
+      "title": "The Smartphone Awards Midseason 2023!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=17VcGk_-Ghc",
+      "externalId": "17VcGk_-Ghc",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "7:35",
+        "metadata": "2.1M 3y ago"
+      },
+      "evidenceText": "7:35 The Smartphone Awards Midseason 2023! 2.1M 3y ago"
+    },
+    {
+      "title": "Dope Tech: Better than Expected!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=O-buiiyp_xU",
+      "externalId": "O-buiiyp_xU",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "14:08",
+        "metadata": "3.7M 3y ago"
+      },
+      "evidenceText": "14:08 Dope Tech: Better than Expected! 3.7M 3y ago"
+    },
+    {
+      "title": "This Smartphone Hardware is Getting Crazy!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=b7zBJNmdImo",
+      "externalId": "b7zBJNmdImo",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:44",
+        "metadata": "2.8M 3y ago"
+      },
+      "evidenceText": "10:44 This Smartphone Hardware is Getting Crazy! 2.8M 3y ago"
+    },
+    {
+      "title": "Desk Tour & Daily Tech Update 2023!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=A18BST27Wpw",
+      "externalId": "A18BST27Wpw",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:06",
+        "metadata": "2.8M 3y ago"
+      },
+      "evidenceText": "10:06 Desk Tour & Daily Tech Update 2023! 2.8M 3y ago"
+    },
+    {
+      "title": "What is Happening with Samsung's Camera?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1afpDuTb-P0",
+      "externalId": "1afpDuTb-P0",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "5:55",
+        "metadata": "3.1M 3y ago"
+      },
+      "evidenceText": "5:55 What is Happening with Samsung's Camera? 3.1M 3y ago"
+    },
+    {
+      "title": "I Said Yes to Every Email for a Month!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mv9afG2Dm9I",
+      "externalId": "mv9afG2Dm9I",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "15:56",
+        "metadata": "8.8M 3y ago"
+      },
+      "evidenceText": "15:56 I Said Yes to Every Email for a Month! 8.8M 3y ago"
+    },
+    {
+      "title": "Concept Phones: It's Time to Stop!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eUh1Cf5MjLY",
+      "externalId": "eUh1Cf5MjLY",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:39",
+        "metadata": "1.9M 3y ago"
+      },
+      "evidenceText": "9:39 Concept Phones: It's Time to Stop! 1.9M 3y ago"
+    },
+    {
+      "title": "The Biggest Problem with AI!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7emz4zZ226E",
+      "externalId": "7emz4zZ226E",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "12:14",
+        "metadata": "2.6M 3y ago"
+      },
+      "evidenceText": "12:14 The Biggest Problem with AI! 2.6M 3y ago"
+    },
+    {
+      "title": "The Galaxy S23 Ultra is Better Than You Think!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zhoTX0RRXPQ",
+      "externalId": "zhoTX0RRXPQ",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "13:21",
+        "metadata": "7.1M 3y ago"
+      },
+      "evidenceText": "13:21 The Galaxy S23 Ultra is Better Than You Think! 7.1M 3y ago"
+    },
+    {
+      "title": "OnePlus 11 Review: They're Back?!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=3yEP4ooj1WI",
+      "externalId": "3yEP4ooj1WI",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "11:01",
+        "metadata": "4.1M 3y ago"
+      },
+      "evidenceText": "11:01 OnePlus 11 Review: They're Back?! 4.1M 3y ago"
+    },
+    {
+      "title": "How Apple is Taking Back the iPhone",
+      "canonicalUrl": "https://www.youtube.com/watch?v=bMLbnsKGRfo",
+      "externalId": "bMLbnsKGRfo",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "8:16",
+        "metadata": "5.8M 3y ago"
+      },
+      "evidenceText": "8:16 How Apple is Taking Back the iPhone 5.8M 3y ago"
+    },
+    {
+      "title": "Galaxy S23 / Ultra Impressions: Cruise Control!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9kxTOxDGLqs",
+      "externalId": "9kxTOxDGLqs",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "6:49",
+        "metadata": "4.5M 3y ago"
+      },
+      "evidenceText": "6:49 Galaxy S23 / Ultra Impressions: Cruise Control! 4.5M 3y ago"
+    },
+    {
+      "title": "Apple HomePod 2 Review: I'm Confused",
+      "canonicalUrl": "https://www.youtube.com/watch?v=gvqZCMGjh3s",
+      "externalId": "gvqZCMGjh3s",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "10:03",
+        "metadata": "4.5M 3y ago"
+      },
+      "evidenceText": "10:03 Apple HomePod 2 Review: I'm Confused 4.5M 3y ago"
+    },
+    {
+      "title": "M2 Pro Mac Mini Review: Game Changer!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cneoANZKBGk",
+      "externalId": "cneoANZKBGk",
+      "creator": "Marques Brownlee",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@mkbhd/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Marques Brownlee · Videos",
+      "attributes": {
+        "duration": "9:33",
+        "metadata": "4.3M 3y ago"
+      },
+      "evidenceText": "9:33 M2 Pro Mac Mini Review: Game Changer! 4.3M 3y ago"
+    }
+  ],
+  "topic": "Consumer technology",
+  "captures": [
+    {
+      "step": 0,
+      "visible": 30,
+      "unique": 30,
+      "observedAt": "2026-09-27T03:43:49.752Z"
+    },
+    {
+      "step": 1,
+      "visible": 30,
+      "unique": 30,
+      "observedAt": "2026-09-27T03:43:51.772Z"
+    },
+    {
+      "step": 2,
+      "visible": 60,
+      "unique": 60,
+      "observedAt": "2026-09-27T03:43:53.862Z"
+    },
+    {
+      "step": 3,
+      "visible": 60,
+      "unique": 60,
+      "observedAt": "2026-09-27T03:43:55.947Z"
+    },
+    {
+      "step": 4,
+      "visible": 90,
+      "unique": 90,
+      "observedAt": "2026-09-27T03:43:58.041Z"
+    },
+    {
+      "step": 5,
+      "visible": 90,
+      "unique": 90,
+      "observedAt": "2026-09-27T03:44:00.845Z"
+    },
+    {
+      "step": 6,
+      "visible": 120,
+      "unique": 120,
+      "observedAt": "2026-09-27T03:44:03.519Z"
+    },
+    {
+      "step": 7,
+      "visible": 120,
+      "unique": 120,
+      "observedAt": "2026-09-27T03:44:06.271Z"
+    },
+    {
+      "step": 8,
+      "visible": 150,
+      "unique": 150,
+      "observedAt": "2026-09-27T03:44:08.880Z"
+    },
+    {
+      "step": 9,
+      "visible": 150,
+      "unique": 150,
+      "observedAt": "2026-09-27T03:44:12.005Z"
+    },
+    {
+      "step": 10,
+      "visible": 180,
+      "unique": 180,
+      "observedAt": "2026-09-27T03:44:14.963Z"
+    },
+    {
+      "step": 11,
+      "visible": 180,
+      "unique": 180,
+      "observedAt": "2026-09-27T03:44:17.858Z"
+    },
+    {
+      "step": 12,
+      "visible": 210,
+      "unique": 210,
+      "observedAt": "2026-09-27T03:44:21.428Z"
+    },
+    {
+      "step": 13,
+      "visible": 210,
+      "unique": 210,
+      "observedAt": "2026-09-27T03:44:24.488Z"
+    },
+    {
+      "step": 14,
+      "visible": 240,
+      "unique": 240,
+      "observedAt": "2026-09-27T03:44:27.884Z"
+    }
+  ]
+}

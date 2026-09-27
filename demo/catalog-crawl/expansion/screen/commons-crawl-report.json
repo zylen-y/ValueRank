@@ -1,0 +1,323 @@
+{
+  "reports": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/Category:Portrait_photographs_of_actors",
+      "type": "category",
+      "files": 125,
+      "totalUnique": 125
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/Category:Portrait_photographs_of_actresses",
+      "type": "category",
+      "files": 121,
+      "totalUnique": 242
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/Category:Black_and_white_portrait_photographs_of_actors",
+      "type": "category",
+      "files": 200,
+      "totalUnique": 442
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:8603_oscar-sinela-en-la-premiere-de-la-tercera-temporada.jpg",
+      "type": "file",
+      "license": [
+        "GFDL",
+        "CC BY-SA 4.0"
+      ],
+      "accepted": true,
+      "total": 1
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:A_felh%C5%91k_lovagja-3.jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 2
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Actor_Henry_Irving_in_costume_as_Shylock,_1879_(PORTRAITS_958).jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 3
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Actor_Thomas_Henry_Gartside_Neville,_circa_1879_(PORTRAITS_964).jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 4
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Actor_William_Rignold,_circa_1879_(PORTRAITS_969).jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 5
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Actors_Edward_O%27Connor_Terry,_Edward_William_Royce,_Kate_Vaughan_(Catherine_Candelon),_Nellie_Farren,_circa_1875-1885_(PORTRAITS_962).jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 6
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Actress_and_theater_manager_Emily_Fowler,_circa_1875-1885_(PORTRAITS_960).jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 7
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Actress_Ellen_Terry_in_costume_as_Portia_from_the_Merchant_of_Venice,_circa_1875-1885_(PORTRAITS_963).jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 8
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Adelaide_Neilson,_1879_(PORTRAITS_955).jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 9
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Adelaide_Neilson,_circa_1880_(PORTRAITS_497).jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 10
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Ahmed_el_saadany.jpg",
+      "type": "file",
+      "license": [
+        "CC BY-SA 4.0"
+      ],
+      "accepted": true,
+      "total": 11
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Alan_Rickman_BAM_2011-01-15_n1.jpg",
+      "type": "file",
+      "license": [
+        "CC BY 3.0"
+      ],
+      "accepted": true,
+      "total": 12
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Amy_Roselle,_circa_1875-1885_(PORTRAITS_967).jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 13
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Anatole-taubman-2026-einsiedeln.jpg",
+      "type": "file",
+      "license": [
+        "CC BY-SA 4.0"
+      ],
+      "accepted": true,
+      "total": 14
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Antal_Imre.jpg",
+      "type": "file",
+      "license": [
+        "CC BY-SA 3.0"
+      ],
+      "accepted": true,
+      "total": 15
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Azizul_Hakim_(4)_(cropped).jpg",
+      "type": "file",
+      "license": [
+        "CC BY-SA 4.0"
+      ],
+      "accepted": true,
+      "total": 16
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:B%C3%A1cskai_J%C3%A1nos.jpg",
+      "type": "file",
+      "license": [
+        "CC BY 4.0"
+      ],
+      "accepted": true,
+      "total": 17
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Bal%C3%A1zsi_Gyula.jpg",
+      "type": "file",
+      "license": [
+        "CC BY 4.0"
+      ],
+      "accepted": true,
+      "total": 18
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Barab%C3%A1s_Kiss_Zolt%C3%A1n.jpg",
+      "type": "file",
+      "license": [
+        "CC BY 4.0"
+      ],
+      "accepted": true,
+      "total": 19
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Bard%C3%B3czy_Attila.jpg",
+      "type": "file",
+      "license": [
+        "CC BY-SA 4.0",
+        "CC BY 4.0"
+      ],
+      "accepted": true,
+      "total": 20
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Bart%C3%B3k_L%C3%A1szl%C3%B3.jpg",
+      "type": "file",
+      "license": [
+        "CC BY 4.0"
+      ],
+      "accepted": true,
+      "total": 21
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Bartucz_Attila.jpg",
+      "type": "file",
+      "license": [
+        "CC BY 4.0"
+      ],
+      "accepted": true,
+      "total": 22
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Bar%C3%A1th_Istv%C3%A1n.jpg",
+      "type": "file",
+      "license": [
+        "CC BY 4.0"
+      ],
+      "accepted": true,
+      "total": 23
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Beleznay_Endre.jpg",
+      "type": "file",
+      "license": [
+        "CC BY-SA 4.0"
+      ],
+      "accepted": true,
+      "total": 24
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Bella_Pateman,_circa_1875-1885_(PORTRAITS_966).jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 25
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Beratin_G%C3%A1bor.jpg",
+      "type": "file",
+      "license": [
+        "CC BY 4.0"
+      ],
+      "accepted": true,
+      "total": 26
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Book2.jpg",
+      "type": "file",
+      "license": [
+        "CC BY-SA 3.0"
+      ],
+      "accepted": true,
+      "total": 27
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Brigitte_Bardot_-_1965.jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 28
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Burnie_Burns,_2011_Portrait.jpg",
+      "type": "file",
+      "license": [
+        "CC BY-SA 2.0",
+        "CC BY-SA 3.0"
+      ],
+      "accepted": true,
+      "total": 29
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Charles_and_Ellen_Kean,_actors,_ca_1865_(PORTRAITS_367).jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 30
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Charles_Boyer_-_Photoplay,_January_1942.jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 31
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Charles_Boyer_-_Photoplay,_July_1936.jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 32
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Charles_Fechter,_in_costume_as_Hamlet,_circa_1860-1870_(PORTRAITS_953).jpg",
+      "type": "file",
+      "license": [
+        "Public domain"
+      ],
+      "accepted": true,
+      "total": 33
+    }
+  ],
+  "selected": 380
+}

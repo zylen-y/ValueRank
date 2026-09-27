@@ -1,0 +1,154 @@
+{
+  "verifiedAt": "2026-09-27T00:31:51.632Z",
+  "snapshot": {
+    "uniqueItems": 2416,
+    "collections": 18,
+    "byKind": {
+      "beauty": 240,
+      "books": 389,
+      "fashion": 443,
+      "music": 195,
+      "papers": 549,
+      "youtube": 600
+    },
+    "sources": [
+      {
+        "id": "apple-music",
+        "label": "Apple Music",
+        "count": 195,
+        "status": "collected",
+        "checkedAt": "2026-09-27T00:06:58.452Z"
+      },
+      {
+        "id": "arxiv",
+        "label": "arXiv",
+        "count": 549,
+        "status": "collected",
+        "checkedAt": "2026-09-27T00:09:13.002Z"
+      },
+      {
+        "id": "instagram",
+        "label": "Instagram",
+        "count": 0,
+        "status": "blocked",
+        "checkedAt": "2026-09-27T00:08:55.422Z"
+      },
+      {
+        "id": "musinsa",
+        "label": "MUSINSA",
+        "count": 443,
+        "status": "collected",
+        "checkedAt": "2026-09-27T00:08:48.962Z"
+      },
+      {
+        "id": "oliveyoung-global",
+        "label": "OLIVE YOUNG Global",
+        "count": 240,
+        "status": "collected",
+        "checkedAt": "2026-09-27T00:12:53.270Z"
+      },
+      {
+        "id": "oliveyoung-korea",
+        "label": "OLIVE YOUNG Korea",
+        "count": 0,
+        "status": "blocked",
+        "checkedAt": "2026-09-27T00:05:56.419Z"
+      },
+      {
+        "id": "open-library",
+        "label": "Open Library",
+        "count": 0,
+        "status": "blocked",
+        "checkedAt": "2026-09-27T00:11:43.920917Z"
+      },
+      {
+        "id": "pinterest",
+        "label": "Pinterest",
+        "count": 0,
+        "status": "blocked",
+        "checkedAt": "2026-09-27T00:09:17.766Z"
+      },
+      {
+        "id": "standard-ebooks",
+        "label": "Standard Ebooks",
+        "count": 389,
+        "status": "collected",
+        "checkedAt": "2026-09-27T00:12:20.817Z"
+      },
+      {
+        "id": "youtube",
+        "label": "YouTube",
+        "count": 600,
+        "status": "collected",
+        "checkedAt": "2026-09-27T00:11:53.043Z"
+      }
+    ],
+    "images": 1831,
+    "byExtraction": {
+      "browser-dom": 2416
+    }
+  },
+  "checks": {
+    "allBatchesValidated": true,
+    "idempotentReplay": true,
+    "noDuplicateIdentities": true,
+    "allItemsHaveSourceAndObservedListing": true,
+    "noBlockedSourceItems": true,
+    "all18CollectionsServed": true,
+    "invalidPaginationRejected400": true,
+    "unknownCollectionRejected404": true,
+    "exportContains2416Items": true,
+    "mainPersonalSnapshotUnchanged": true
+  },
+  "modelCallsThisCollection": 0,
+  "limitations": [
+    "Bounded public listings; not full platform inventories.",
+    "Instagram/Pinterest login and Olive Young Korea/Open Library verification blocked collection.",
+    "Catalog learning uses metadata, not image/audio/video encodings or new Jev calls.",
+    "Prices and remote image URLs are observed snapshots."
+  ],
+  "validation": {
+    "tests": 306,
+    "testFiles": 19,
+    "lint": "passed",
+    "productionBuild": "passed"
+  },
+  "browser": {
+    "server": "Isolated local API and private databases on port 8792",
+    "desktop": {
+      "viewport": [
+        1440,
+        1000
+      ],
+      "musinsaImagesLoaded": 24,
+      "musinsaImagesDisplayed": 24,
+      "horizontalOverflow": false
+    },
+    "mobile": {
+      "viewport": [
+        390,
+        844
+      ],
+      "documentWidth": 390,
+      "horizontalOverflow": false,
+      "selectionToolbarOverlap": "fixed and retested"
+    },
+    "checks": [
+      "Choice trains model and refreshes collection ranking",
+      "Collection order switches to For you after training feedback",
+      "Undo rebuilds ranking and closes comparison",
+      "Exactly two selected items can be answered, undone and reopened",
+      "Korean title search and pagination work",
+      "Search clears prior rank movement arrows",
+      "Source records and catalog JSON download available",
+      "Completed two-item comparison returns to personalized ranking and clears selection"
+    ],
+    "uncaughtErrors": 0,
+    "screenshots": [
+      "catalog-library.png",
+      "catalog-collection.png",
+      "catalog-comparison.png",
+      "catalog-mobile.png"
+    ]
+  }
+}

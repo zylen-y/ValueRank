@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+  "collection": "Top 100: Spain",
+  "fetchedAt": "2026-09-27T03:39:55.016Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "BbY WOW",
+      "canonicalUrl": "https://music.apple.com/us/song/bby-wow/6796864754",
+      "creator": "KAROL G, Judeline, rusowsky",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6796864754",
+      "attributes": {
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "BbY WOW 1 KAROL G, Judeline, rusowsky NO ME ARREPIENTO DE SENTIR TANTO PREVIEW 3:45"
+    },
+    {
+      "title": "LA GRACIOSA",
+      "canonicalUrl": "https://music.apple.com/us/song/la-graciosa/1894272112",
+      "creator": "Quevedo, Elvis Crespo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1894272112",
+      "attributes": {
+        "album": "EL BAIFO",
+        "duration": "4:17",
+        "durationIso": "PT4M17S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "LA GRACIOSA 2 Quevedo, Elvis Crespo EL BAIFO PREVIEW 4:17"
+    },
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 3 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "SUPERESTRELLA",
+      "canonicalUrl": "https://music.apple.com/us/song/superestrella/1814146675",
+      "creator": "Aitana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1814146675",
+      "attributes": {
+        "album": "CUARTO AZUL",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "4",
+        "explicit": true
+      },
+      "evidenceText": "SUPERESTRELLA 4 Aitana CUARTO AZUL PREVIEW 3:03"
+    },
+    {
+      "title": "VAMO A VEL",
+      "canonicalUrl": "https://music.apple.com/us/song/vamo-a-vel/6808400640",
+      "creator": "ROA, Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/66/11/50661123-1d80-1054-62f2-2e786fa631c3/26UM1IM14326.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6808400640",
+      "attributes": {
+        "album": "VAMO A VEL - Single",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "5",
+        "explicit": true
+      },
+      "evidenceText": "VAMO A VEL 5 ROA, Anuel AA VAMO A VEL - Single PREVIEW 4:00"
+    },
+    {
+      "title": "AL GOLPITO",
+      "canonicalUrl": "https://music.apple.com/us/song/al-golpito/1894271858",
+      "creator": "Quevedo, Nueva Línea",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1894271858",
+      "attributes": {
+        "album": "EL BAIFO",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "AL GOLPITO 6 Quevedo, Nueva Línea EL BAIFO PREVIEW 3:27"
+    },
+    {
+      "title": "pa ti toa <3",
+      "canonicalUrl": "https://music.apple.com/us/song/pa-ti-toa-3/6774634329",
+      "creator": "Ana Mena, Lola Indigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/fa/6f/9efa6fe0-5ce8-3f55-7ed6-24cda7d77505/196874447369.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6774634329",
+      "attributes": {
+        "album": "pa ti toa <3 - Single",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "pa ti toa <3 7 Ana Mena, Lola Indigo pa ti toa <3 - Single PREVIEW 3:33"
+    },
+    {
+      "title": "AGUA",
+      "canonicalUrl": "https://music.apple.com/us/song/agua/6810372461",
+      "creator": "Maluma, Shakira",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/30/88/51308852-2879-70b1-6028-a5a589a692c9/196874698495.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6810372461",
+      "attributes": {
+        "album": "AGUA - Single",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "8",
+        "explicit": false
+      },
+      "evidenceText": "AGUA 8 Maluma, Shakira AGUA - Single PREVIEW 3:11"
+    },
+    {
+      "title": "Yonaguni",
+      "canonicalUrl": "https://music.apple.com/us/song/yonaguni/1570323056",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1570323056",
+      "attributes": {
+        "album": "Yonaguni - Single",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "9",
+        "explicit": true
+      },
+      "evidenceText": "Yonaguni 9 Bad Bunny Yonaguni - Single PREVIEW 3:26"
+    },
+    {
+      "title": "KOKO",
+      "canonicalUrl": "https://music.apple.com/us/song/koko/1877482633",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1877482633",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "10",
+        "explicit": true
+      },
+      "evidenceText": "KOKO 10 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 3:15"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 11 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "LA NOCHE DE ANOCHE",
+      "canonicalUrl": "https://music.apple.com/us/song/la-noche-de-anoche/1542103215",
+      "creator": "Bad Bunny, ROSALÍA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1542103215",
+      "attributes": {
+        "album": "EL ÚLTIMO TOUR DEL MUNDO",
+        "duration": "3:23",
+        "durationIso": "PT3M23S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "LA NOCHE DE ANOCHE 12 Bad Bunny, ROSALÍA EL ÚLTIMO TOUR DEL MUNDO PREVIEW 3:23"
+    },
+    {
+      "title": "NO ME GUILLO v2",
+      "canonicalUrl": "https://music.apple.com/us/song/no-me-guillo-v2/6785460374",
+      "creator": "Anmi, La Pantera, Kabasaki",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/c1/f0/7dc1f09c-743e-35a6-2e13-0a3f10031812/820233913997.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6785460374",
+      "attributes": {
+        "album": "NO ME GUILLO v2 - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "13",
+        "explicit": false
+      },
+      "evidenceText": "NO ME GUILLO v2 13 Anmi, La Pantera, Kabasaki NO ME GUILLO v2 - Single PREVIEW 3:15"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 14 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "De Lejitos (Remix)",
+      "canonicalUrl": "https://music.apple.com/us/song/de-lejitos-remix/6770655342",
+      "creator": "Jay Wheeler, Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/98/7a/71987aa4-557e-61fd-66c8-a5536d21d31c/ticket.snrwquok.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6770655342",
+      "attributes": {
+        "album": "La Voz Favorita",
+        "duration": "4:36",
+        "durationIso": "PT4M36S",
+        "chartPosition": "15",
+        "explicit": true
+      },
+      "evidenceText": "De Lejitos (Remix) 15 Jay Wheeler, Omar Courtz La Voz Favorita PREVIEW 4:36"
+    },
+    {
+      "title": "Las mas bonitas son p#tas",
+      "canonicalUrl": "https://music.apple.com/us/song/las-mas-bonitas-son-p-tas/6784402416",
+      "creator": "Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/f2/82/46f28288-8e3d-d4cb-e73f-00863da4603b/820233902649.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6784402416",
+      "attributes": {
+        "album": "Las mas bonitas son p#tas - Single",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "16",
+        "explicit": true
+      },
+      "evidenceText": "Las mas bonitas son p#tas 16 Anuel AA Las mas bonitas son p#tas - Single PREVIEW 2:39"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 17 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Dichavate",
+      "canonicalUrl": "https://music.apple.com/us/song/dichavate/1865959223",
+      "creator": "Ya Ice Dilan, Rey Tony, DJ Honda, Helabusador",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/ea/be/a6eabeb7-b493-8920-2fcc-5209f43f335d/8605020139741.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1865959223",
+      "attributes": {
+        "album": "Dichavate - Single",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "Dichavate 18 Ya Ice Dilan, Rey Tony, DJ Honda, Helabusador Dichavate - Single PREVIEW 4:06"
+    },
+    {
+      "title": "Dama y Vagabundo",
+      "canonicalUrl": "https://music.apple.com/us/song/dama-y-vagabundo/6814580327",
+      "creator": "Envido6",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/2f/c8/1b2fc885-6be7-fd0d-45e8-a7f09b3bb46e/1200220181100.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6814580327",
+      "attributes": {
+        "album": "Dama y Vagabundo - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "19",
+        "explicit": false
+      },
+      "evidenceText": "Dama y Vagabundo 19 Envido6 Dama y Vagabundo - Single PREVIEW 3:10"
+    },
+    {
+      "title": "AIRE",
+      "canonicalUrl": "https://music.apple.com/us/song/aire/6784833437",
+      "creator": "Lucho RK",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2b/6e/c82b6e99-a746-7810-02f8-d73432853f83/1200214432867.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6784833437",
+      "attributes": {
+        "album": "AIRE - Single",
+        "duration": "2:21",
+        "durationIso": "PT2M21S",
+        "chartPosition": "20",
+        "explicit": false
+      },
+      "evidenceText": "AIRE 20 Lucho RK AIRE - Single PREVIEW 2:21"
+    },
+    {
+      "title": "Ojitos Lindos",
+      "canonicalUrl": "https://music.apple.com/us/song/ojitos-lindos/1622045962",
+      "creator": "Bad Bunny, Bomba Estéreo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1622045962",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "Ojitos Lindos 21 Bad Bunny, Bomba Estéreo Un Verano Sin Ti PREVIEW 4:18"
+    },
+    {
+      "title": "Dai Dai",
+      "canonicalUrl": "https://music.apple.com/us/song/dai-dai/6768469976",
+      "creator": "Shakira, Burna Boy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6768469976",
+      "attributes": {
+        "album": "Dai Dai - Single",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "22",
+        "explicit": false
+      },
+      "evidenceText": "Dai Dai 22 Shakira, Burna Boy Dai Dai - Single PREVIEW 3:43"
+    },
+    {
+      "title": "no tiene sentido",
+      "canonicalUrl": "https://music.apple.com/us/song/no-tiene-sentido/1812537122",
+      "creator": "Beéle",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/95/6b/8b956b63-4f21-899a-f912-f1c8a9f5d9f5/196873015750.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1812537122",
+      "attributes": {
+        "album": "BORONDO",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "no tiene sentido 23 Beéle BORONDO PREVIEW 2:38"
+    },
+    {
+      "title": "After",
+      "canonicalUrl": "https://music.apple.com/us/song/after/6784410401",
+      "creator": "Conep",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/e0/fc/22e0fc2b-e3d8-52e9-e243-927d4f676cdd/199316664928_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6784410401",
+      "attributes": {
+        "album": "After - Single",
+        "duration": "2:47",
+        "durationIso": "PT2M47S",
+        "chartPosition": "24",
+        "explicit": true
+      },
+      "evidenceText": "After 24 Conep After - Single PREVIEW 2:47"
+    },
+    {
+      "title": "Dardos",
+      "canonicalUrl": "https://music.apple.com/us/song/dardos/1848960624",
+      "creator": "Romeo Santos, Prince Royce",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/66/a9/6066a9a2-b1e8-d171-d8b3-7d044c040b94/196873751887.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1848960624",
+      "attributes": {
+        "album": "Better Late Than Never",
+        "duration": "4:03",
+        "durationIso": "PT4M3S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "Dardos 25 Romeo Santos, Prince Royce Better Late Than Never PREVIEW 4:03"
+    },
+    {
+      "title": "Si Antes Te Hubiera Conocido",
+      "canonicalUrl": "https://music.apple.com/us/song/si-antes-te-hubiera-conocido/1752031539",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1752031539",
+      "attributes": {
+        "album": "Si Antes Te Hubiera Conocido - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "Si Antes Te Hubiera Conocido 26 KAROL G Si Antes Te Hubiera Conocido - Single PREVIEW 3:15"
+    },
+    {
+      "title": "GOLFAS DE VERDAD",
+      "canonicalUrl": "https://music.apple.com/us/song/golfas-de-verdad/6805790999",
+      "creator": "l0rna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/33/6e/c4336e4d-ea22-5cc2-7cc4-562eef2e7a99/7333595298648.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6805790999",
+      "attributes": {
+        "album": "GOLFAS DE VERDAD - Single",
+        "duration": "1:51",
+        "durationIso": "PT1M51S",
+        "chartPosition": "27",
+        "explicit": true
+      },
+      "evidenceText": "GOLFAS DE VERDAD 27 l0rna GOLFAS DE VERDAD - Single PREVIEW 1:51"
+    },
+    {
+      "title": "Red Bull Espiral #06 (feat. 8belial, yyy891, roomtrash6 & cybernene)",
+      "canonicalUrl": "https://music.apple.com/us/song/red-bull-espiral-06-feat-8belial-yyy891-roomtrash6/6807549155",
+      "creator": "DISOBEY",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c9/8a/bfc98a79-2d3b-af01-40ab-729cd403cc92/1200220042784.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6807549155",
+      "attributes": {
+        "album": "Red Bull Espiral #06 (feat. 8belial, yyy891, roomtrash6 & cybernene) - Single",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "28",
+        "explicit": true
+      },
+      "evidenceText": "Red Bull Espiral #06 (feat. 8belial, yyy891, roomtrash6 & cybernene) 28 DISOBEY Red Bull Espiral #06 (feat. 8belial, yyy891, roomtrash6 & cybernene) - Single PREVIEW 3:53"
+    },
+    {
+      "title": "TQG",
+      "canonicalUrl": "https://music.apple.com/us/song/tqg/1670245868",
+      "creator": "KAROL G, Shakira",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1670245868",
+      "attributes": {
+        "album": "MAÑANA SERÁ BONITO",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "29",
+        "explicit": true
+      },
+      "evidenceText": "TQG 29 KAROL G, Shakira MAÑANA SERÁ BONITO PREVIEW 3:17"
+    },
+    {
+      "title": "Dile a El",
+      "canonicalUrl": "https://music.apple.com/us/song/dile-a-el/1536861744",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/85/36/3585365d-4678-0648-1bfd-76ea49ba8c9c/886448841388.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1536861744",
+      "attributes": {
+        "album": "Afrodisíaco",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "30",
+        "explicit": true
+      },
+      "evidenceText": "Dile a El 30 Rauw Alejandro Afrodisíaco PREVIEW 3:29"
+    },
+    {
+      "title": "Vete",
+      "canonicalUrl": "https://music.apple.com/us/song/vete/1500776923",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1500776923",
+      "attributes": {
+        "album": "YHLQMDLG",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "31",
+        "explicit": true
+      },
+      "evidenceText": "Vete 31 Bad Bunny YHLQMDLG PREVIEW 3:12"
+    },
+    {
+      "title": "Quiero más",
+      "canonicalUrl": "https://music.apple.com/us/song/quiero-m%C3%A1s/6793218872",
+      "creator": "La Pantera",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/e5/08/c2e508d9-f911-a104-c2ba-254cb9879477/1200214602581.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6793218872",
+      "attributes": {
+        "album": "Quiero más - Single",
+        "duration": "2:31",
+        "durationIso": "PT2M31S",
+        "chartPosition": "32",
+        "explicit": true
+      },
+      "evidenceText": "Quiero más 32 La Pantera Quiero más - Single PREVIEW 2:31"
+    },
+    {
+      "title": "Ojos Brujos",
+      "canonicalUrl": "https://music.apple.com/us/song/ojos-brujos/6803625558",
+      "creator": "Clarent, Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/be/f7/1fbef76b-28cb-10cc-e2c5-47ad8b61f86d/1200214912208.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6803625558",
+      "attributes": {
+        "album": "Ojos Brujos - Single",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "33",
+        "explicit": true
+      },
+      "evidenceText": "Ojos Brujos 33 Clarent, Omar Courtz Ojos Brujos - Single PREVIEW 4:10"
+    },
+    {
+      "title": "Bonito, Bonito",
+      "canonicalUrl": "https://music.apple.com/us/song/bonito-bonito/6810810195",
+      "creator": "Thiago Navarro Music",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/47/fc/7747fc1e-8167-5de6-b8e7-cf9b1038aea3/882436183713_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6810810195",
+      "attributes": {
+        "album": "Bonito, Bonito - EP",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "Bonito, Bonito 34 Thiago Navarro Music Bonito, Bonito - EP PREVIEW 3:25"
+    },
+    {
+      "title": "SI ME QUIERES...",
+      "canonicalUrl": "https://music.apple.com/us/song/si-me-quieres/6809832773",
+      "creator": "JC Reyes, Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/1f/82/231f8220-8a99-bc4e-5927-e2d34c3bfa0e/1200220080601.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6809832773",
+      "attributes": {
+        "album": "SI ME QUIERES... - Single",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "35",
+        "explicit": true
+      },
+      "evidenceText": "SI ME QUIERES... 35 JC Reyes, Myke Towers SI ME QUIERES... - Single PREVIEW 4:00"
+    },
+    {
+      "title": "Se Preparó",
+      "canonicalUrl": "https://music.apple.com/us/song/se-prepar%C3%B3/1269286798",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/7c/1b/df7c1b32-0fca-94f0-866b-ba89e420ca04/697691884103.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1269286798",
+      "attributes": {
+        "album": "Odisea",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "Se Preparó 36 Ozuna Odisea PREVIEW 3:08"
+    },
+    {
+      "title": "ALGO VA A PASAR",
+      "canonicalUrl": "https://music.apple.com/us/song/algo-va-a-pasar/1894271864",
+      "creator": "Quevedo, La Pantera, Lucho RK, Juseph",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1894271864",
+      "attributes": {
+        "album": "EL BAIFO",
+        "duration": "4:08",
+        "durationIso": "PT4M8S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "ALGO VA A PASAR 37 Quevedo, La Pantera, Lucho RK, Juseph EL BAIFO PREVIEW 4:08"
+    },
+    {
+      "title": "BAILE INoLVIDABLE",
+      "canonicalUrl": "https://music.apple.com/us/song/baile-inolvidable/1787022842",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1787022842",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "6:07",
+        "durationIso": "PT6M7S",
+        "chartPosition": "38",
+        "explicit": true
+      },
+      "evidenceText": "BAILE INoLVIDABLE 38 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 6:07"
+    },
+    {
+      "title": "ZIZI",
+      "canonicalUrl": "https://music.apple.com/us/song/zizi/6793688579",
+      "creator": "Ozuna, Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/74/b0/d274b0a3-b700-1aa4-b56d-b2d1b7995c13/196874578162.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6793688579",
+      "attributes": {
+        "album": "ZIZI - Single",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "39",
+        "explicit": true
+      },
+      "evidenceText": "ZIZI 39 Ozuna, Omar Courtz ZIZI - Single PREVIEW 4:02"
+    },
+    {
+      "title": "Hasta Que Dios Diga",
+      "canonicalUrl": "https://music.apple.com/us/song/hasta-que-dios-diga/1515739167",
+      "creator": "Anuel AA, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/95/c7/5095c702-2159-c3ac-be67-9a1c16cc0ed9/195081694399.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1515739167",
+      "attributes": {
+        "album": "Emmanuel",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "40",
+        "explicit": true
+      },
+      "evidenceText": "Hasta Que Dios Diga 40 Anuel AA, Bad Bunny Emmanuel PREVIEW 4:06"
+    },
+    {
+      "title": "Me Porto Bonito",
+      "canonicalUrl": "https://music.apple.com/us/song/me-porto-bonito/1622045634",
+      "creator": "Bad Bunny, Chencho Corleone",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1622045634",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "41",
+        "explicit": true
+      },
+      "evidenceText": "Me Porto Bonito 41 Bad Bunny, Chencho Corleone Un Verano Sin Ti PREVIEW 2:58"
+    },
+    {
+      "title": "DILUVIO",
+      "canonicalUrl": "https://music.apple.com/us/song/diluvio/1695651429",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1695651429",
+      "attributes": {
+        "album": "PLAYA SATURNO",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "42",
+        "explicit": true
+      },
+      "evidenceText": "DILUVIO 42 Rauw Alejandro PLAYA SATURNO PREVIEW 3:17"
+    },
+    {
+      "title": "LATINA FOREVA",
+      "canonicalUrl": "https://music.apple.com/us/song/latina-foreva/1819544623",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/39/f5/1e39f58c-e5c1-6431-d6ed-d6c32e29d63f/25UMGIM79234.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1819544623",
+      "attributes": {
+        "album": "Tropicoqueta",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "43",
+        "explicit": true
+      },
+      "evidenceText": "LATINA FOREVA 43 KAROL G Tropicoqueta PREVIEW 2:39"
+    },
+    {
+      "title": "Soltera",
+      "canonicalUrl": "https://music.apple.com/us/song/soltera/1769406416",
+      "creator": "Shakira",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/e4/a5/cbe4a5ca-085e-e3ef-eda5-d521ee55bb4b/196872485844.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1769406416",
+      "attributes": {
+        "album": "Soltera - Single",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "Soltera 44 Shakira Soltera - Single PREVIEW 3:34"
+    },
+    {
+      "title": "AMARGURA",
+      "canonicalUrl": "https://music.apple.com/us/song/amargura/1670246089",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1670246089",
+      "attributes": {
+        "album": "MAÑANA SERÁ BONITO",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "45",
+        "explicit": true
+      },
+      "evidenceText": "AMARGURA 45 KAROL G MAÑANA SERÁ BONITO PREVIEW 2:50"
+    },
+    {
+      "title": "DÁKITI",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%A1kiti/1542103620",
+      "creator": "Bad Bunny, JHAYCO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1542103620",
+      "attributes": {
+        "album": "EL ÚLTIMO TOUR DEL MUNDO",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "46",
+        "explicit": true
+      },
+      "evidenceText": "DÁKITI 46 Bad Bunny, JHAYCO EL ÚLTIMO TOUR DEL MUNDO PREVIEW 3:25"
+    },
+    {
+      "title": "After",
+      "canonicalUrl": "https://music.apple.com/us/song/after/6807226109",
+      "creator": "Conep, Young Miko",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/8b/45/df8b4525-16cf-691e-ad6a-92ae914e14d4/199316761030_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6807226109",
+      "attributes": {
+        "album": "After - Single",
+        "duration": "3:09",
+        "durationIso": "PT3M9S",
+        "chartPosition": "47",
+        "explicit": true
+      },
+      "evidenceText": "After 47 Conep, Young Miko After - Single PREVIEW 3:09"
+    },
+    {
+      "title": "NI BORRACHO",
+      "canonicalUrl": "https://music.apple.com/us/song/ni-borracho/1875358228",
+      "creator": "Quevedo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/9b/2a/6c9b2ad9-6e39-1c5d-486a-85de0a7f3f19/5026854667492.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1875358228",
+      "attributes": {
+        "album": "NI BORRACHO - Single",
+        "duration": "4:08",
+        "durationIso": "PT4M8S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "NI BORRACHO 48 Quevedo NI BORRACHO - Single PREVIEW 4:08"
+    },
+    {
+      "title": "TÓCATE SOLA",
+      "canonicalUrl": "https://music.apple.com/us/song/t%C3%B3cate-sola/1854448076",
+      "creator": "Lucho RK, La Pantera",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/b8/0c/f5b80ca1-3c54-cedd-cc22-5fdb7e0bc95e/5026854260457.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1854448076",
+      "attributes": {
+        "album": "TA FÁCIL",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "TÓCATE SOLA 49 Lucho RK, La Pantera TA FÁCIL PREVIEW 2:55"
+    },
+    {
+      "title": "Ahí",
+      "canonicalUrl": "https://music.apple.com/us/song/ah%C3%AD/6796864746",
+      "creator": "KAROL G, Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6796864746",
+      "attributes": {
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "duration": "2:56",
+        "durationIso": "PT2M56S",
+        "chartPosition": "50",
+        "explicit": false
+      },
+      "evidenceText": "Ahí 50 KAROL G, Drake NO ME ARREPIENTO DE SENTIR TANTO PREVIEW 2:56"
+    },
+    {
+      "title": "La Perla",
+      "canonicalUrl": "https://music.apple.com/us/song/la-perla/1848167530",
+      "creator": "ROSALÍA, Yahritza Y Su Esencia",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/ae/80/95ae8046-a6b9-e493-0def-5ae33d63f43a/196873722672.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1848167530",
+      "attributes": {
+        "album": "LUX",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "51",
+        "explicit": true
+      },
+      "evidenceText": "La Perla 51 ROSALÍA, Yahritza Y Su Esencia LUX PREVIEW 3:15"
+    },
+    {
+      "title": "Baby Lover",
+      "canonicalUrl": "https://music.apple.com/us/song/baby-lover/1199590275",
+      "creator": "Ñengo Flow",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/68/43/e5/6843e5e1-cae2-9311-b044-760dddf9e6c3/050742331092_art.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1199590275",
+      "attributes": {
+        "album": "Real G4 Life, Vol. 3",
+        "duration": "3:14",
+        "durationIso": "PT3M14S",
+        "chartPosition": "52",
+        "explicit": true
+      },
+      "evidenceText": "Baby Lover 52 Ñengo Flow Real G4 Life, Vol. 3 PREVIEW 3:14"
+    },
+    {
+      "title": "Callaíta",
+      "canonicalUrl": "https://music.apple.com/us/song/calla%C3%ADta/1465503235",
+      "creator": "Bad Bunny, Tainy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/5d/7c/a85d7c43-777a-f2b7-5abc-1e4d59d8fe7c/193483903545.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1465503235",
+      "attributes": {
+        "album": "Callaíta - Single",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "53",
+        "explicit": true
+      },
+      "evidenceText": "Callaíta 53 Bad Bunny, Tainy Callaíta - Single PREVIEW 4:10"
+    },
+    {
+      "title": "SPICY (feat. Myke Towers)",
+      "canonicalUrl": "https://music.apple.com/us/song/spicy-feat-myke-towers/6782995063",
+      "creator": "Fronti, Brytiago",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/24/00/f5240059-6e6f-4917-3303-e5047bb86a02/820233819374.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6782995063",
+      "attributes": {
+        "album": "EL DIAMOND FOREVER",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "54",
+        "explicit": true
+      },
+      "evidenceText": "SPICY (feat. Myke Towers) 54 Fronti, Brytiago EL DIAMOND FOREVER PREVIEW 3:11"
+    },
+    {
+      "title": "PARADIXE",
+      "canonicalUrl": "https://music.apple.com/us/song/paradixe/6812011443",
+      "creator": "Feid, El Americano 4KT, Pirlo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d6/4c/8fd64cc6-e58c-2edc-1615-238b433a1170/26UM1IM12670.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6812011443",
+      "attributes": {
+        "album": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "duration": "5:42",
+        "durationIso": "PT5M42S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "PARADIXE 55 Feid, El Americano 4KT, Pirlo EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES PREVIEW 5:42"
+    },
+    {
+      "title": "BnB",
+      "canonicalUrl": "https://music.apple.com/us/song/bnb/6769579994",
+      "creator": "Young Miko, Clarent",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/a1/98/e4a1980a-1b1e-cbbe-612f-51d5a0516114/850083983352_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6769579994",
+      "attributes": {
+        "album": "Do Not Disturb: Late Checkout",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "56",
+        "explicit": true
+      },
+      "evidenceText": "BnB 56 Young Miko, Clarent Do Not Disturb: Late Checkout PREVIEW 2:37"
+    },
+    {
+      "title": "Jamaican (Bam Bam)",
+      "canonicalUrl": "https://music.apple.com/us/song/jamaican-bam-bam/1883679876",
+      "creator": "HUGEL, SOLTO (FR)",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1883679876",
+      "attributes": {
+        "album": "Jamaican (Bam Bam) - Single",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "Jamaican (Bam Bam) 57 HUGEL, SOLTO (FR) Jamaican (Bam Bam) - Single PREVIEW 2:36"
+    },
+    {
+      "title": "CARITA FELIZ",
+      "canonicalUrl": "https://music.apple.com/us/song/carita-feliz/6800003928",
+      "creator": "Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/b2/54/84b25474-27fe-1c98-4f52-0434c5a89451/1200214798499.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6800003928",
+      "attributes": {
+        "album": "CARITA FELIZ - Single",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "CARITA FELIZ 58 Myke Towers CARITA FELIZ - Single PREVIEW 3:13"
+    },
+    {
+      "title": "Movin' To The Sun",
+      "canonicalUrl": "https://music.apple.com/us/song/movin-to-the-sun/6769070199",
+      "creator": "HUGEL, Imael Angel, Ultra Naté",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6769070199",
+      "attributes": {
+        "album": "Movin' To The Sun - Single",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "59",
+        "explicit": false
+      },
+      "evidenceText": "Movin' To The Sun 59 HUGEL, Imael Angel, Ultra Naté Movin' To The Sun - Single PREVIEW 2:22"
+    },
+    {
+      "title": "Qué Pasaría...",
+      "canonicalUrl": "https://music.apple.com/us/song/qu%C3%A9-pasar%C3%ADa/1775462855",
+      "creator": "Rauw Alejandro, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1775462855",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "60",
+        "explicit": true
+      },
+      "evidenceText": "Qué Pasaría... 60 Rauw Alejandro, Bad Bunny Cosa Nuestra PREVIEW 3:11"
+    },
+    {
+      "title": "EL BACHATÓN DE LA L",
+      "canonicalUrl": "https://music.apple.com/us/song/el-bachat%C3%B3n-de-la-l/6767574559",
+      "creator": "Lola Indigo, Lucho RK",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/d7/df/40d7df14-88c5-33ef-a811-c81688847c76/26UMGIM55815.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6767574559",
+      "attributes": {
+        "album": "EL BACHATÓN DE LA L - Single",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "61",
+        "explicit": false
+      },
+      "evidenceText": "EL BACHATÓN DE LA L 61 Lola Indigo, Lucho RK EL BACHATÓN DE LA L - Single PREVIEW 3:21"
+    },
+    {
+      "title": "capaz (merengueton)",
+      "canonicalUrl": "https://music.apple.com/us/song/capaz-merengueton/1852255256",
+      "creator": "Alleh, Yorghaki",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/78/85/d4788500-46ca-63ec-3068-a3362af1484f/808391275188_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1852255256",
+      "attributes": {
+        "album": "LA CIUDAD",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "62",
+        "explicit": false
+      },
+      "evidenceText": "capaz (merengueton) 62 Alleh, Yorghaki LA CIUDAD PREVIEW 2:53"
+    },
+    {
+      "title": "MUCHACHA",
+      "canonicalUrl": "https://music.apple.com/us/song/muchacha/1869372407",
+      "creator": "Aissa, Rvfv, Kreamly",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/eb/29/e2eb29dc-10b5-546b-d7c2-6412643e68e2/199806989685.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1869372407",
+      "attributes": {
+        "album": "MUCHACHA - Single",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "63",
+        "explicit": true
+      },
+      "evidenceText": "MUCHACHA 63 Aissa, Rvfv, Kreamly MUCHACHA - Single PREVIEW 3:12"
+    },
+    {
+      "title": "Relación Rota",
+      "canonicalUrl": "https://music.apple.com/us/song/relaci%C3%B3n-rota/1495895113",
+      "creator": "Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/63/86/76638602-1e1a-5656-20de-442dfb6e2b6f/194491908096.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1495895113",
+      "attributes": {
+        "album": "Easy Money Baby",
+        "duration": "2:40",
+        "durationIso": "PT2M40S",
+        "chartPosition": "64",
+        "explicit": true
+      },
+      "evidenceText": "Relación Rota 64 Myke Towers Easy Money Baby PREVIEW 2:40"
+    },
+    {
+      "title": "LA VILLA",
+      "canonicalUrl": "https://music.apple.com/us/song/la-villa/1847678152",
+      "creator": "Ryan Castro, Kapo, Gangsta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/e8/71/c5e871e9-f37b-36a2-7c15-ebb6ba9d5528/196873698090.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1847678152",
+      "attributes": {
+        "album": "HOPI SENDÉ",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "65",
+        "explicit": true
+      },
+      "evidenceText": "LA VILLA 65 Ryan Castro, Kapo, Gangsta HOPI SENDÉ PREVIEW 3:12"
+    },
+    {
+      "title": "LA CANCIÓN",
+      "canonicalUrl": "https://music.apple.com/us/song/la-canci%C3%B3n/1470146813",
+      "creator": "J Balvin, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1470146813",
+      "attributes": {
+        "album": "OASIS",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "LA CANCIÓN 66 J Balvin, Bad Bunny OASIS PREVIEW 4:02"
+    },
+    {
+      "title": "TU VAS SIN (fav)",
+      "canonicalUrl": "https://music.apple.com/us/song/tu-vas-sin-fav/1815278975",
+      "creator": "Rels B",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/29/c5/e529c5f7-190c-fd87-be61-731b416ca4ef/199350683725.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1815278975",
+      "attributes": {
+        "album": "afroLOVA 25'",
+        "duration": "1:50",
+        "durationIso": "PT1M50S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "TU VAS SIN (fav) 67 Rels B afroLOVA 25' PREVIEW 1:50"
+    },
+    {
+      "title": "Q U E V A S H A C E R H O Y ?",
+      "canonicalUrl": "https://music.apple.com/us/song/q-u-e-v-a-s-h-a-c-e-r-h-o-y/1760194559",
+      "creator": "Omar Courtz, De La Rose",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1760194559",
+      "attributes": {
+        "album": "PRIMERA MUSA",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "68",
+        "explicit": true
+      },
+      "evidenceText": "Q U E V A S H A C E R H O Y ? 68 Omar Courtz, De La Rose PRIMERA MUSA PREVIEW 3:44"
+    },
+    {
+      "title": "TUCHAT",
+      "canonicalUrl": "https://music.apple.com/us/song/tuchat/1823284972",
+      "creator": "Quevedo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/5a/32/335a32a0-ddd6-328e-83a3-1aad860c50ee/5034644800189.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1823284972",
+      "attributes": {
+        "album": "TUCHAT - Single",
+        "duration": "3:41",
+        "durationIso": "PT3M41S",
+        "chartPosition": "69",
+        "explicit": false
+      },
+      "evidenceText": "TUCHAT 69 Quevedo TUCHAT - Single PREVIEW 3:41"
+    },
+    {
+      "title": "Pa' Bailar",
+      "canonicalUrl": "https://music.apple.com/us/song/pa-bailar/6808024371",
+      "creator": "Elvis Crespo, Beéle",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/91/18/1f911858-1a9e-5e5f-bb24-afd8e41de27b/196874632147.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6808024371",
+      "attributes": {
+        "album": "Pa' Bailar - Single",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "Pa' Bailar 70 Elvis Crespo, Beéle Pa' Bailar - Single PREVIEW 2:36"
+    },
+    {
+      "title": "LUNA",
+      "canonicalUrl": "https://music.apple.com/us/song/luna/1719170507",
+      "creator": "Feid, ATL Jacob",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1719170507",
+      "attributes": {
+        "album": "FERXXOCALIPSIS",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "LUNA 71 Feid, ATL Jacob FERXXOCALIPSIS PREVIEW 3:16"
+    },
+    {
+      "title": "El Fin del Mundo (feat. Axolotes Mexicanos)",
+      "canonicalUrl": "https://music.apple.com/us/song/el-fin-del-mundo-feat-axolotes-mexicanos/1487927792",
+      "creator": "La La Love You",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dc/96/6f/dc966f0b-0b09-88ab-04b3-7e77fceaf298/8436548896201.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1487927792",
+      "attributes": {
+        "album": "El Fin del Mundo (feat. Axolotes Mexicanos) - Single",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "El Fin del Mundo (feat. Axolotes Mexicanos) 72 La La Love You El Fin del Mundo (feat. Axolotes Mexicanos) - Single PREVIEW 3:08"
+    },
+    {
+      "title": "DROGA",
+      "canonicalUrl": "https://music.apple.com/us/song/droga/1811397144",
+      "creator": "Mora, C. Tangana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/a1/3f/01a13ff7-c95c-9cb6-2776-695f8ed829d3/199350474521.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1811397144",
+      "attributes": {
+        "album": "LO MISMO DE SIEMPRE",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "73",
+        "explicit": true
+      },
+      "evidenceText": "DROGA 73 Mora, C. Tangana LO MISMO DE SIEMPRE PREVIEW 3:42"
+    },
+    {
+      "title": "NUEVAYoL",
+      "canonicalUrl": "https://music.apple.com/us/song/nuevayol/1787022572",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1787022572",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "74",
+        "explicit": false
+      },
+      "evidenceText": "NUEVAYoL 74 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 3:03"
+    },
+    {
+      "title": "Macacoa 2000",
+      "canonicalUrl": "https://music.apple.com/us/song/macacoa-2000/6812477299",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6812477299",
+      "attributes": {
+        "album": "Grand Theft Auto VI: The Album",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "75",
+        "explicit": true
+      },
+      "evidenceText": "Macacoa 2000 75 Rauw Alejandro Grand Theft Auto VI: The Album PREVIEW 2:53"
+    },
+    {
+      "title": "FOREVER TU GANTEL",
+      "canonicalUrl": "https://music.apple.com/us/song/forever-tu-gantel/1877482427",
+      "creator": "Omar Courtz, Ñengo Flow",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1877482427",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "76",
+        "explicit": true
+      },
+      "evidenceText": "FOREVER TU GANTEL 76 Omar Courtz, Ñengo Flow POR SI MAÑANA NO ESTOY PREVIEW 3:46"
+    },
+    {
+      "title": "SCANDIC",
+      "canonicalUrl": "https://music.apple.com/us/song/scandic/1885623079",
+      "creator": "Quevedo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/f3/19/45f31901-47d1-1842-554f-42c53ec28620/5026854914374.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1885623079",
+      "attributes": {
+        "album": "SCANDIC - Single",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "SCANDIC 77 Quevedo SCANDIC - Single PREVIEW 3:01"
+    },
+    {
+      "title": "EL BAIFO",
+      "canonicalUrl": "https://music.apple.com/us/song/el-baifo/1894271855",
+      "creator": "Quevedo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1894271855",
+      "attributes": {
+        "album": "EL BAIFO",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "78",
+        "explicit": false
+      },
+      "evidenceText": "EL BAIFO 78 Quevedo EL BAIFO PREVIEW 3:19"
+    },
+    {
+      "title": "La Plena (W Sound 05)",
+      "canonicalUrl": "https://music.apple.com/us/song/la-plena-w-sound-05/1796306971",
+      "creator": "W Sound, Beéle, Ovy On the Drums",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/45/82/f0458283-370b-26e6-c592-a66df10ab07d/5021732661593.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1796306971",
+      "attributes": {
+        "album": "La Plena (W Sound 05) - Single",
+        "duration": "2:30",
+        "durationIso": "PT2M30S",
+        "chartPosition": "79",
+        "explicit": true
+      },
+      "evidenceText": "La Plena (W Sound 05) 79 W Sound, Beéle, Ovy On the Drums La Plena (W Sound 05) - Single PREVIEW 2:30"
+    },
+    {
+      "title": "Todo De Ti",
+      "canonicalUrl": "https://music.apple.com/us/song/todo-de-ti/1567154924",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/d6/4d/24d64d11-dcba-a475-7a0f-87fbef4c6ba6/886449222681.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1567154924",
+      "attributes": {
+        "album": "Todo De Ti - Single",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "80",
+        "explicit": true
+      },
+      "evidenceText": "Todo De Ti 80 Rauw Alejandro Todo De Ti - Single PREVIEW 3:19"
+    },
+    {
+      "title": "Hey Mor (feat. Feid)",
+      "canonicalUrl": "https://music.apple.com/us/song/hey-mor-feat-feid/1646180883",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/b1/35/46b135cc-592e-8b51-1e91-ac955d4200a0/196925396240.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1646180883",
+      "attributes": {
+        "album": "OzuTochi",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "81",
+        "explicit": false
+      },
+      "evidenceText": "Hey Mor (feat. Feid) 81 Ozuna OzuTochi PREVIEW 3:16"
+    },
+    {
+      "title": "GRAN VÍA",
+      "canonicalUrl": "https://music.apple.com/us/song/gran-v%C3%ADa/1780125579",
+      "creator": "Quevedo, Aitana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/6c/d6/216cd611-56e0-07bf-fdf6-5322796f7ccb/198846802275.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1780125579",
+      "attributes": {
+        "album": "BUENAS NOCHES",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "GRAN VÍA 82 Quevedo, Aitana BUENAS NOCHES PREVIEW 3:33"
+    },
+    {
+      "title": "QLONA",
+      "canonicalUrl": "https://music.apple.com/us/song/qlona/1699662671",
+      "creator": "KAROL G, Peso Pluma",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1699662671",
+      "attributes": {
+        "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "83",
+        "explicit": true
+      },
+      "evidenceText": "QLONA 83 KAROL G, Peso Pluma MAÑANA SERÁ BONITO (BICHOTA SEASON) PREVIEW 2:52"
+    },
+    {
+      "title": "6 DE FEBRERO",
+      "canonicalUrl": "https://music.apple.com/us/song/6-de-febrero/1811306574",
+      "creator": "Aitana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/4c/f5/a54cf594-ee19-645f-1fc1-d1c6513d6ca9/25UMGIM49727.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1811306574",
+      "attributes": {
+        "album": "6 DE FEBRERO - Single",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "6 DE FEBRERO 84 Aitana 6 DE FEBRERO - Single PREVIEW 2:55"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "85",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 85 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "Shakira: Bzrp Music Sessions, Vol. 53/66",
+      "canonicalUrl": "https://music.apple.com/us/song/shakira-bzrp-music-sessions-vol-53-66/1660098823",
+      "creator": "Bizarrap, Shakira",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/54/f1/1454f160-c956-7727-46dc-5101bb109494/197187714988.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1660098823",
+      "attributes": {
+        "album": "Shakira: Bzrp Music Sessions, Vol. 53/66",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "Shakira: Bzrp Music Sessions, Vol. 53/66 86 Bizarrap, Shakira Shakira: Bzrp Music Sessions, Vol. 53/66 PREVIEW 3:34"
+    },
+    {
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "canonicalUrl": "https://music.apple.com/us/song/beauty-and-a-beat-feat-nicki-minaj/1440650961",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1440650961",
+      "attributes": {
+        "album": "Believe (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "87",
+        "explicit": false
+      },
+      "evidenceText": "Beauty and a Beat (feat. Nicki Minaj) 87 Justin Bieber Believe (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "VeLDÁ",
+      "canonicalUrl": "https://music.apple.com/us/song/veld%C3%A1/1787022999",
+      "creator": "Bad Bunny, Omar Courtz, Dei V",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1787022999",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "88",
+        "explicit": true
+      },
+      "evidenceText": "VeLDÁ 88 Bad Bunny, Omar Courtz, Dei V DeBÍ TiRAR MáS FOToS PREVIEW 3:55"
+    },
+    {
+      "title": "COQUETA",
+      "canonicalUrl": "https://music.apple.com/us/song/coqueta/1786262016",
+      "creator": "Fuerza Regida, Grupo Frontera",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/96/9e/ba969e5d-857d-bbda-08e2-edc08642d188/196872772869.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1786262016",
+      "attributes": {
+        "album": "MALA MÍA - EP",
+        "duration": "4:01",
+        "durationIso": "PT4M1S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "COQUETA 89 Fuerza Regida, Grupo Frontera MALA MÍA - EP PREVIEW 4:01"
+    },
+    {
+      "title": "DAALE",
+      "canonicalUrl": "https://music.apple.com/us/song/daale/6788662526",
+      "creator": "mvrk",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/91/bf/3d91bf94-b08c-e7b9-ec93-c25c4a1de202/885288021417.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6788662526",
+      "attributes": {
+        "album": "Please Behave Radio Vol.2 - EP",
+        "duration": "2:44",
+        "durationIso": "PT2M44S",
+        "chartPosition": "90",
+        "explicit": true
+      },
+      "evidenceText": "DAALE 90 mvrk Please Behave Radio Vol.2 - EP PREVIEW 2:44"
+    },
+    {
+      "title": "Luces Tenues",
+      "canonicalUrl": "https://music.apple.com/us/song/luces-tenues/1720988719",
+      "creator": "Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/79/0c/0e790cc8-c67d-6e06-cc92-4137c9a8afe4/197190645262.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1720988719",
+      "attributes": {
+        "album": "Luces Tenues - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "91",
+        "explicit": true
+      },
+      "evidenceText": "Luces Tenues 91 Anuel AA Luces Tenues - Single PREVIEW 3:10"
+    },
+    {
+      "title": "DtMF",
+      "canonicalUrl": "https://music.apple.com/us/song/dtmf/1787023936",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1787023936",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "92",
+        "explicit": true
+      },
+      "evidenceText": "DtMF 92 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 3:57"
+    },
+    {
+      "title": "Déjame Entrar",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%A9jame-entrar/1775462852",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1775462852",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "4:14",
+        "durationIso": "PT4M14S",
+        "chartPosition": "93",
+        "explicit": true
+      },
+      "evidenceText": "Déjame Entrar 93 Rauw Alejandro Cosa Nuestra PREVIEW 4:14"
+    },
+    {
+      "title": "Se Le Ve",
+      "canonicalUrl": "https://music.apple.com/us/song/se-le-ve/6771939120",
+      "creator": "Kybba, Ryan Castro, Bad Gyal, Topboy TGR",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/cb/b6/adcbb697-9910-20ad-ed0e-3118a5abf419/1200214110185.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6771939120",
+      "attributes": {
+        "album": "Se Le Ve - Single",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "94",
+        "explicit": true
+      },
+      "evidenceText": "Se Le Ve 94 Kybba, Ryan Castro, Bad Gyal, Topboy TGR Se Le Ve - Single PREVIEW 2:39"
+    },
+    {
+      "title": "BANE",
+      "canonicalUrl": "https://music.apple.com/us/song/bane/1854447786",
+      "creator": "Lucho RK, La Pantera",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/b8/0c/f5b80ca1-3c54-cedd-cc22-5fdb7e0bc95e/5026854260457.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1854447786",
+      "attributes": {
+        "album": "TA FÁCIL",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "95",
+        "explicit": false
+      },
+      "evidenceText": "BANE 95 Lucho RK, La Pantera TA FÁCIL PREVIEW 3:07"
+    },
+    {
+      "title": "La Tortura (feat. Alejandro Sanz)",
+      "canonicalUrl": "https://music.apple.com/us/song/la-tortura-feat-alejandro-sanz/1817217220",
+      "creator": "Shakira",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1817217220",
+      "attributes": {
+        "album": "Fijación Oral Volumen 1 (Expanded Edition)",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "La Tortura (feat. Alejandro Sanz) 96 Shakira Fijación Oral Volumen 1 (Expanded Edition) PREVIEW 3:36"
+    },
+    {
+      "title": "CAPRICHOSO",
+      "canonicalUrl": "https://music.apple.com/us/song/caprichoso/1894271853",
+      "creator": "Quevedo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1894271853",
+      "attributes": {
+        "album": "EL BAIFO",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "CAPRICHOSO 97 Quevedo EL BAIFO PREVIEW 3:06"
+    },
+    {
+      "title": "Bass Persuades",
+      "canonicalUrl": "https://music.apple.com/us/song/bass-persuades/6807197459",
+      "creator": "Miley Cyrus",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6807197459",
+      "attributes": {
+        "album": "Bass Persuades",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "98",
+        "explicit": false
+      },
+      "evidenceText": "Bass Persuades 98 Miley Cyrus Bass Persuades PREVIEW 3:22"
+    },
+    {
+      "title": "Diosa",
+      "canonicalUrl": "https://music.apple.com/us/song/diosa/1495895125",
+      "creator": "Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/63/86/76638602-1e1a-5656-20de-442dfb6e2b6f/194491908096.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "1495895125",
+      "attributes": {
+        "album": "Easy Money Baby",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "99",
+        "explicit": true
+      },
+      "evidenceText": "Diosa 99 Myke Towers Easy Money Baby PREVIEW 3:34"
+    },
+    {
+      "title": "CAPCANA COCOA",
+      "canonicalUrl": "https://music.apple.com/us/song/capcana-cocoa/6808005059",
+      "creator": "Blessd, Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/ff/de/45ffde34-6e7e-90e4-eaa7-4d4f72599051/1200220051427.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Spain",
+      "externalId": "6808005059",
+      "attributes": {
+        "album": "CAPCANA COCOA - Single",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "100",
+        "explicit": true
+      },
+      "evidenceText": "CAPCANA COCOA 100 Blessd, Anuel AA CAPCANA COCOA - Single PREVIEW 4:04"
+    }
+  ]
+}

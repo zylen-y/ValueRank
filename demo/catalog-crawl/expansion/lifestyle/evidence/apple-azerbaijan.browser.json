@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+  "collection": "Top 100: Azerbaijan",
+  "fetchedAt": "2026-09-27T03:40:26.096Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Kayıp Kalp",
+      "canonicalUrl": "https://music.apple.com/us/song/kay%C4%B1p-kalp/6773420730",
+      "creator": "BLOK3",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/9b/d0/a69bd0ba-76af-bedd-9857-a6e2cb3087e0/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6773420730",
+      "attributes": {
+        "album": "KAYIP PERSONA",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "Kayıp Kalp 1 BLOK3 KAYIP PERSONA PREVIEW 2:33"
+    },
+    {
+      "title": "Sebebi Yar",
+      "canonicalUrl": "https://music.apple.com/us/song/sebebi-yar/6773421035",
+      "creator": "BLOK3",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/9b/d0/a69bd0ba-76af-bedd-9857-a6e2cb3087e0/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6773421035",
+      "attributes": {
+        "album": "KAYIP PERSONA",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Sebebi Yar 2 BLOK3 KAYIP PERSONA PREVIEW 3:06"
+    },
+    {
+      "title": "Çok Güzel Gülüyorsun",
+      "canonicalUrl": "https://music.apple.com/us/song/c-ok-g%C3%BCzel-g%C3%BCl%C3%BCyorsun/6773421193",
+      "creator": "BLOK3, Poizi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/9b/d0/a69bd0ba-76af-bedd-9857-a6e2cb3087e0/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6773421193",
+      "attributes": {
+        "album": "KAYIP PERSONA",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Çok Güzel Gülüyorsun 3 BLOK3, Poizi KAYIP PERSONA PREVIEW 4:00"
+    },
+    {
+      "title": "Kırgınım",
+      "canonicalUrl": "https://music.apple.com/us/song/k%C4%B1rg%C4%B1n%C4%B1m/6773421046",
+      "creator": "BLOK3",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/9b/d0/a69bd0ba-76af-bedd-9857-a6e2cb3087e0/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6773421046",
+      "attributes": {
+        "album": "KAYIP PERSONA",
+        "duration": "2:40",
+        "durationIso": "PT2M40S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "Kırgınım 4 BLOK3 KAYIP PERSONA PREVIEW 2:40"
+    },
+    {
+      "title": "The One That Got Away",
+      "canonicalUrl": "https://music.apple.com/us/song/the-one-that-got-away/1013032949",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/97/31/759731eb-b429-dfe3-c41f-34435998d102/13UABIM57845.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1013032949",
+      "attributes": {
+        "album": "Teenage Dream (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "The One That Got Away 5 Katy Perry Teenage Dream (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "Лампочки",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BB%D0%B0%D0%BC%D0%BF%D0%BE%D1%87%D0%BA%D0%B8/1575451599",
+      "creator": "ARTIK & ASTI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/47/f6/3447f604-2abc-391f-e1f4-ed6d57005a7f/190296541223.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1575451599",
+      "attributes": {
+        "album": "Миллениум Х",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "Лампочки 6 ARTIK & ASTI Миллениум Х PREVIEW 3:15"
+    },
+    {
+      "title": "Loser",
+      "canonicalUrl": "https://music.apple.com/us/song/loser/1836226731",
+      "creator": "Tame Impala",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1836226731",
+      "attributes": {
+        "album": "Deadbeat",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "7",
+        "explicit": true
+      },
+      "evidenceText": "Loser 7 Tame Impala Deadbeat PREVIEW 3:43"
+    },
+    {
+      "title": "Take Me There",
+      "canonicalUrl": "https://music.apple.com/us/song/take-me-there/6786993744",
+      "creator": "DA TI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/3e/fe/f73efe5f-6422-da7d-fe93-cf4461a8c712/054391212542.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6786993744",
+      "attributes": {
+        "album": "Take Me There - Single",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "8",
+        "explicit": false
+      },
+      "evidenceText": "Take Me There 8 DA TI Take Me There - Single PREVIEW 3:22"
+    },
+    {
+      "title": "Last Friday Night (T.G.I.F.)",
+      "canonicalUrl": "https://music.apple.com/us/song/last-friday-night-t-g-i-f/1013032939",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/97/31/759731eb-b429-dfe3-c41f-34435998d102/13UABIM57845.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1013032939",
+      "attributes": {
+        "album": "Teenage Dream (Deluxe Edition)",
+        "duration": "3:50",
+        "durationIso": "PT3M50S",
+        "chartPosition": "9",
+        "explicit": false
+      },
+      "evidenceText": "Last Friday Night (T.G.I.F.) 9 Katy Perry Teenage Dream (Deluxe Edition) PREVIEW 3:50"
+    },
+    {
+      "title": "KUSURA BAKMA",
+      "canonicalUrl": "https://music.apple.com/us/song/kusura-bakma/1855504629",
+      "creator": "BLOK3",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/68/34/2268349d-ab8d-2ec8-3932-b4e915d1bcb1/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1855504629",
+      "attributes": {
+        "album": "KUSURA BAKMA - Single",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "10",
+        "explicit": false
+      },
+      "evidenceText": "KUSURA BAKMA 10 BLOK3 KUSURA BAKMA - Single PREVIEW 2:37"
+    },
+    {
+      "title": "спектакль",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B0%D0%BA%D0%BB%D1%8C/6800005388",
+      "creator": "By Индия",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/b8/a8/ceb8a8d8-63c4-c85f-eb05-b257f9afa3c4/4660275302573.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6800005388",
+      "attributes": {
+        "album": "спектакль - Single",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "спектакль 11 By Индия спектакль - Single PREVIEW 2:58"
+    },
+    {
+      "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+      "canonicalUrl": "https://music.apple.com/us/song/beni-al-ta-ki-seni-g%C3%B6rene-kadar-beni-al-afro-house-remix/6772928175",
+      "creator": "Ankara Echoes",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/3c/a9/b73ca9b6-24f0-91ee-cd96-d967a18531f9/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6772928175",
+      "attributes": {
+        "album": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix] - Single",
+        "duration": "4:12",
+        "durationIso": "PT4M12S",
+        "chartPosition": "12",
+        "explicit": true
+      },
+      "evidenceText": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix] 12 Ankara Echoes Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix] - Single PREVIEW 4:12"
+    },
+    {
+      "title": "Dark Horse (feat. Juicy J)",
+      "canonicalUrl": "https://music.apple.com/us/song/dark-horse-feat-juicy-j/1440819170",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1440819170",
+      "attributes": {
+        "album": "PRISM (Deluxe Version)",
+        "duration": "3:35",
+        "durationIso": "PT3M35S",
+        "chartPosition": "13",
+        "explicit": false
+      },
+      "evidenceText": "Dark Horse (feat. Juicy J) 13 Katy Perry PRISM (Deluxe Version) PREVIEW 3:35"
+    },
+    {
+      "title": "Дай знать",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B4%D0%B0%D0%B9-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C/6812711534",
+      "creator": "NAVAI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/8e/f0/1b8ef021-ed08-ec66-d02f-82ef019f8c4d/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6812711534",
+      "attributes": {
+        "album": "Фриковая драма",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "Дай знать 14 NAVAI Фриковая драма PREVIEW 3:13"
+    },
+    {
+      "title": "Hot N Cold",
+      "canonicalUrl": "https://music.apple.com/us/song/hot-n-cold/1692814830",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/0c/75/b00c753b-62e1-2e3a-b7f1-50f2aa525afa/23UMGIM67793.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1692814830",
+      "attributes": {
+        "album": "One of the Boys (15th Anniversary Edition)",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "15",
+        "explicit": false
+      },
+      "evidenceText": "Hot N Cold 15 Katy Perry One of the Boys (15th Anniversary Edition) PREVIEW 3:40"
+    },
+    {
+      "title": "Değiştiremezsin Yazılmışsa",
+      "canonicalUrl": "https://music.apple.com/us/song/de%C4%9Fi%C5%9Ftiremezsin-yaz%C4%B1lm%C4%B1%C5%9Fsa/6773421062",
+      "creator": "BLOK3",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/9b/d0/a69bd0ba-76af-bedd-9857-a6e2cb3087e0/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6773421062",
+      "attributes": {
+        "album": "KAYIP PERSONA",
+        "duration": "2:35",
+        "durationIso": "PT2M35S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "Değiştiremezsin Yazılmışsa 16 BLOK3 KAYIP PERSONA PREVIEW 2:35"
+    },
+    {
+      "title": "How Deep Is Your Love",
+      "canonicalUrl": "https://music.apple.com/us/song/how-deep-is-your-love/1001677305",
+      "creator": "Calvin Harris, Disciples",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/5c/85/045c85d9-94cb-a9c7-f39b-aa5b7e803c04/dj.dkdebfmh.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1001677305",
+      "attributes": {
+        "album": "How Deep Is Your Love - Single",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "How Deep Is Your Love 17 Calvin Harris, Disciples How Deep Is Your Love - Single PREVIEW 3:32"
+    },
+    {
+      "title": "napıyosun mesela ?",
+      "canonicalUrl": "https://music.apple.com/us/song/nap%C4%B1yosun-mesela/1826044051",
+      "creator": "BLOK3",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/fe/34/0dfe340b-1bcc-8b81-2688-9c53ef1774dc/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1826044051",
+      "attributes": {
+        "album": "Virtüöz - EP",
+        "duration": "3:05",
+        "durationIso": "PT3M5S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "napıyosun mesela ? 18 BLOK3 Virtüöz - EP PREVIEW 3:05"
+    },
+    {
+      "title": "Legendary Lovers",
+      "canonicalUrl": "https://music.apple.com/us/song/legendary-lovers/1440818912",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1440818912",
+      "attributes": {
+        "album": "PRISM (Deluxe Version)",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "19",
+        "explicit": false
+      },
+      "evidenceText": "Legendary Lovers 19 Katy Perry PRISM (Deluxe Version) PREVIEW 3:44"
+    },
+    {
+      "title": "Firework",
+      "canonicalUrl": "https://music.apple.com/us/song/firework/1013032944",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/97/31/759731eb-b429-dfe3-c41f-34435998d102/13UABIM57845.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1013032944",
+      "attributes": {
+        "album": "Teenage Dream (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "20",
+        "explicit": false
+      },
+      "evidenceText": "Firework 20 Katy Perry Teenage Dream (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "git",
+      "canonicalUrl": "https://music.apple.com/us/song/git/1826044054",
+      "creator": "BLOK3",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/fe/34/0dfe340b-1bcc-8b81-2688-9c53ef1774dc/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1826044054",
+      "attributes": {
+        "album": "Virtüöz - EP",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "git 21 BLOK3 Virtüöz - EP PREVIEW 2:38"
+    },
+    {
+      "title": "I Got Love (feat. Рем Дигга)",
+      "canonicalUrl": "https://music.apple.com/us/song/i-got-love-feat-%D1%80%D0%B5%D0%BC-%D0%B4%D0%B8%D0%B3%D0%B3%D0%B0/1604435517",
+      "creator": "Miyagi & Эндшпиль",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/f3/dd/98f3dd8f-b5b4-d6a1-849c-795130748b81/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1604435517",
+      "attributes": {
+        "album": "I Got Love (feat. Рем Дигга) - Single",
+        "duration": "4:36",
+        "durationIso": "PT4M36S",
+        "chartPosition": "22",
+        "explicit": false
+      },
+      "evidenceText": "I Got Love (feat. Рем Дигга) 22 Miyagi & Эндшпиль I Got Love (feat. Рем Дигга) - Single PREVIEW 4:36"
+    },
+    {
+      "title": "Roar",
+      "canonicalUrl": "https://music.apple.com/us/song/roar/1440818897",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1440818897",
+      "attributes": {
+        "album": "PRISM (Deluxe Version)",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "Roar 23 Katy Perry PRISM (Deluxe Version) PREVIEW 3:43"
+    },
+    {
+      "title": "ты в моих мыслях навсегда",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%82%D1%8B-%D0%B2-%D0%BC%D0%BE%D0%B8%D1%85-%D0%BC%D1%8B%D1%81%D0%BB%D1%8F%D1%85-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0/1862201387",
+      "creator": "урал гайсин, снялцепи",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/fa/e5/4dfae551-1c1d-7185-c7fa-45bd97282aa0/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1862201387",
+      "attributes": {
+        "album": "ты в моих мыслях навсегда - Single",
+        "duration": "1:57",
+        "durationIso": "PT1M57S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "ты в моих мыслях навсегда 24 урал гайсин, снялцепи ты в моих мыслях навсегда - Single PREVIEW 1:57"
+    },
+    {
+      "title": "I Kissed a Girl",
+      "canonicalUrl": "https://music.apple.com/us/song/i-kissed-a-girl/1692814823",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/0c/75/b00c753b-62e1-2e3a-b7f1-50f2aa525afa/23UMGIM67793.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1692814823",
+      "attributes": {
+        "album": "One of the Boys (15th Anniversary Edition)",
+        "duration": "2:59",
+        "durationIso": "PT2M59S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "I Kissed a Girl 25 Katy Perry One of the Boys (15th Anniversary Edition) PREVIEW 2:59"
+    },
+    {
+      "title": "Jamaican (Bam Bam)",
+      "canonicalUrl": "https://music.apple.com/us/song/jamaican-bam-bam/1883679876",
+      "creator": "HUGEL, SOLTO (FR)",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1883679876",
+      "attributes": {
+        "album": "Jamaican (Bam Bam) - Single",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "Jamaican (Bam Bam) 26 HUGEL, SOLTO (FR) Jamaican (Bam Bam) - Single PREVIEW 2:36"
+    },
+    {
+      "title": "Шадэ",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%88%D0%B0%D0%B4%D1%8D/6766270384",
+      "creator": "By Индия, Xcho, МОТ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/f0/0f/86f00fb7-4f89-c1ef-1fac-ffcfdf4028a0/3618111050998.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6766270384",
+      "attributes": {
+        "album": "Шадэ - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "27",
+        "explicit": false
+      },
+      "evidenceText": "Шадэ 27 By Индия, Xcho, МОТ Шадэ - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Кинолента",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BA%D0%B8%D0%BD%D0%BE%D0%BB%D0%B5%D0%BD%D1%82%D0%B0/6796240908",
+      "creator": "Basta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/89/16/29891644-5e13-b33a-e77f-49e94c76318d/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6796240908",
+      "attributes": {
+        "album": "Баста 3",
+        "duration": "4:23",
+        "durationIso": "PT4M23S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "Кинолента 28 Basta Баста 3 PREVIEW 4:23"
+    },
+    {
+      "title": "Gamsız Hayat",
+      "canonicalUrl": "https://music.apple.com/us/song/gams%C4%B1z-hayat/1827050952",
+      "creator": "Candan Erçetin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/6e/fb/f76efbdd-cf24-56c0-df39-1fa56a095cdd/8691331210224.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1827050952",
+      "attributes": {
+        "album": "Neden",
+        "duration": "3:51",
+        "durationIso": "PT3M51S",
+        "chartPosition": "29",
+        "explicit": false
+      },
+      "evidenceText": "Gamsız Hayat 29 Candan Erçetin Neden PREVIEW 3:51"
+    },
+    {
+      "title": "Bon Appétit (feat. Migos)",
+      "canonicalUrl": "https://music.apple.com/us/song/bon-app%C3%A9tit-feat-migos/1395620512",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/57/db/cb57db27-9b61-52a6-0009-e56ed5d98ef4/17UMGIM99424.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1395620512",
+      "attributes": {
+        "album": "Witness (Deluxe)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "30",
+        "explicit": false
+      },
+      "evidenceText": "Bon Appétit (feat. Migos) 30 Katy Perry Witness (Deluxe) PREVIEW 3:47"
+    },
+    {
+      "title": "Məclis",
+      "canonicalUrl": "https://music.apple.com/us/song/m%C9%99clis/6773738059",
+      "creator": "Aygün Kazımova",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/30/14/af3014ec-aeb6-b2ca-9857-1622fad484f9/820233527378.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6773738059",
+      "attributes": {
+        "album": "Məclis - Single",
+        "duration": "2:41",
+        "durationIso": "PT2M41S",
+        "chartPosition": "31",
+        "explicit": false
+      },
+      "evidenceText": "Məclis 31 Aygün Kazımova Məclis - Single PREVIEW 2:41"
+    },
+    {
+      "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+      "canonicalUrl": "https://music.apple.com/us/song/feels-feat-pharrell-williams-katy-perry-big-sean/1233869916",
+      "creator": "Calvin Harris",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/85/32/8b/85328b3d-e117-0dfc-7366-d5eb639a4263/886446469607.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1233869916",
+      "attributes": {
+        "album": "Funk Wav Bounces, Vol. 1",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "32",
+        "explicit": true
+      },
+      "evidenceText": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean) 32 Calvin Harris Funk Wav Bounces, Vol. 1 PREVIEW 3:43"
+    },
+    {
+      "title": "Больше, чем ближе",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5-%D1%87%D0%B5%D0%BC-%D0%B1%D0%BB%D0%B8%D0%B6%D0%B5/1876201032",
+      "creator": "NAVAI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/1a/69/851a6999-04ec-7e6d-d415-630b9cda1762/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1876201032",
+      "attributes": {
+        "album": "Больше, чем ближе - Single",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "Больше, чем ближе 33 NAVAI Больше, чем ближе - Single PREVIEW 3:36"
+    },
+    {
+      "title": "E.T.",
+      "canonicalUrl": "https://music.apple.com/us/song/e-t/1013032950",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/97/31/759731eb-b429-dfe3-c41f-34435998d102/13UABIM57845.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1013032950",
+      "attributes": {
+        "album": "Teenage Dream (Deluxe Edition)",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "E.T. 34 Katy Perry Teenage Dream (Deluxe Edition) PREVIEW 3:26"
+    },
+    {
+      "title": "Yaşa Məhəbbətim (Remix)",
+      "canonicalUrl": "https://music.apple.com/us/song/ya%C5%9Fa-m%C9%99h%C9%99bb%C9%99tim-remix/1722143434",
+      "creator": "DJ Asiman, Eyyub Yaqubov",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5b/c9/79/5bc97919-b52a-a1a3-bf63-da651facc8f6/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1722143434",
+      "attributes": {
+        "album": "Yaşa Məhəbbətim (Remix) - Single",
+        "duration": "4:27",
+        "durationIso": "PT4M27S",
+        "chartPosition": "35",
+        "explicit": false
+      },
+      "evidenceText": "Yaşa Məhəbbətim (Remix) 35 DJ Asiman, Eyyub Yaqubov Yaşa Məhəbbətim (Remix) - Single PREVIEW 4:27"
+    },
+    {
+      "title": "Если я буду танцевать",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B5%D1%81%D0%BB%D0%B8-%D1%8F-%D0%B1%D1%83%D0%B4%D1%83-%D1%82%D0%B0%D0%BD%D1%86%D0%B5%D0%B2%D0%B0%D1%82%D1%8C/6791142755",
+      "creator": "Basta, Moya Mishel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/a5/55/1ca55550-388e-1e77-103c-abf2809b2bf8/cover.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6791142755",
+      "attributes": {
+        "album": "Если я буду танцевать - Single",
+        "duration": "2:59",
+        "durationIso": "PT2M59S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "Если я буду танцевать 36 Basta, Moya Mishel Если я буду танцевать - Single PREVIEW 2:59"
+    },
+    {
+      "title": "Harleys in Hawaii",
+      "canonicalUrl": "https://music.apple.com/us/song/harleys-in-hawaii/1482965898",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/8f/a4/fd8fa48c-55bd-5eca-b375-98cb2f98bb7a/19UMGIM91148.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1482965898",
+      "attributes": {
+        "album": "Harleys in Hawaii - Single",
+        "duration": "3:05",
+        "durationIso": "PT3M5S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "Harleys in Hawaii 37 Katy Perry Harleys in Hawaii - Single PREVIEW 3:05"
+    },
+    {
+      "title": "Danış Mənimlə",
+      "canonicalUrl": "https://music.apple.com/us/song/dan%C4%B1s-m%C9%99niml%C9%99/1812947456",
+      "creator": "Kazım Can",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/31/59/b7315913-86f6-6724-7736-6200dbc5411e/3617394497094.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1812947456",
+      "attributes": {
+        "album": "Danış Mənimlə - Single",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "38",
+        "explicit": false
+      },
+      "evidenceText": "Danış Mənimlə 38 Kazım Can Danış Mənimlə - Single PREVIEW 3:25"
+    },
+    {
+      "title": "Lovesong",
+      "canonicalUrl": "https://music.apple.com/us/song/lovesong/1544491996",
+      "creator": "Adele",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/ca/25/ebca2596-cd1e-b295-91a3-771c868d0a79/191404113868.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1544491996",
+      "attributes": {
+        "album": "21",
+        "duration": "5:16",
+        "durationIso": "PT5M16S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "Lovesong 39 Adele 21 PREVIEW 5:16"
+    },
+    {
+      "title": "Dosta",
+      "canonicalUrl": "https://music.apple.com/us/song/dosta/6803965950",
+      "creator": "Röya, Kazım Can",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/0a/64/2c0a64da-3c03-625d-bbc1-8674d3d18534/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6803965950",
+      "attributes": {
+        "album": "Dosta - Single",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "40",
+        "explicit": false
+      },
+      "evidenceText": "Dosta 40 Röya, Kazım Can Dosta - Single PREVIEW 3:06"
+    },
+    {
+      "title": "California Gurls (feat. Snoop Dogg)",
+      "canonicalUrl": "https://music.apple.com/us/song/california-gurls-feat-snoop-dogg/1013032940",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/97/31/759731eb-b429-dfe3-c41f-34435998d102/13UABIM57845.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1013032940",
+      "attributes": {
+        "album": "Teenage Dream (Deluxe Edition)",
+        "duration": "3:54",
+        "durationIso": "PT3M54S",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "California Gurls (feat. Snoop Dogg) 41 Katy Perry Teenage Dream (Deluxe Edition) PREVIEW 3:54"
+    },
+    {
+      "title": "Maraton",
+      "canonicalUrl": "https://music.apple.com/us/song/maraton/1862488024",
+      "creator": "Ati242",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/44/b4/ee44b4f7-8c8b-0b88-c184-2458532dbb93/199806829479.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1862488024",
+      "attributes": {
+        "album": "Maraton - Single",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "Maraton 42 Ati242 Maraton - Single PREVIEW 3:33"
+    },
+    {
+      "title": "Training Season",
+      "canonicalUrl": "https://music.apple.com/us/song/training-season/1727526894",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/89/15/828915ea-d716-61c4-3de7-ef00c1f800fb/5054197853630.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1727526894",
+      "attributes": {
+        "album": "Training Season - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "43",
+        "explicit": false
+      },
+      "evidenceText": "Training Season 43 Dua Lipa Training Season - Single PREVIEW 3:29"
+    },
+    {
+      "title": "Hileli",
+      "canonicalUrl": "https://music.apple.com/us/song/hileli/6764868011",
+      "creator": "manifest, Ajda Pekkan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/75/10/79751090-3fc2-2d45-980a-1e9c0b6de57f/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6764868011",
+      "attributes": {
+        "album": "Hileli - Single",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "Hileli 44 manifest, Ajda Pekkan Hileli - Single PREVIEW 3:22"
+    },
+    {
+      "title": "Günahkaram",
+      "canonicalUrl": "https://music.apple.com/us/song/g%C3%BCnahkaram/1861957273",
+      "creator": "Kazım Can",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/6c/28/f86c282d-145f-1b0a-c917-e77fed6aceea/199806733752.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1861957273",
+      "attributes": {
+        "album": "Günahkaram - Single",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "45",
+        "explicit": false
+      },
+      "evidenceText": "Günahkaram 45 Kazım Can Günahkaram - Single PREVIEW 3:20"
+    },
+    {
+      "title": "Ömrüm",
+      "canonicalUrl": "https://music.apple.com/us/song/%C3%B6mr%C3%BCm/1886171807",
+      "creator": "Eypio",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/62/51/ee62517e-5185-8e53-4180-a43cd1aa00e7/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1886171807",
+      "attributes": {
+        "album": "Ömrüm - Single",
+        "duration": "2:54",
+        "durationIso": "PT2M54S",
+        "chartPosition": "46",
+        "explicit": false
+      },
+      "evidenceText": "Ömrüm 46 Eypio Ömrüm - Single PREVIEW 2:54"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "47",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 47 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "Gəlirəm",
+      "canonicalUrl": "https://music.apple.com/us/song/g%C9%99lir%C9%99m/6804622754",
+      "creator": "Aygün Kazımova, Namiq Qaraçuxurlu",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/46/20/31462020-5a36-f4ef-3e9d-100c20a5a510/885288383386.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6804622754",
+      "attributes": {
+        "album": "Gəlirəm - Single",
+        "duration": "3:14",
+        "durationIso": "PT3M14S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Gəlirəm 48 Aygün Kazımova, Namiq Qaraçuxurlu Gəlirəm - Single PREVIEW 3:14"
+    },
+    {
+      "title": "Bad Times (Extended Version)",
+      "canonicalUrl": "https://music.apple.com/us/song/bad-times-extended-version/1890913669",
+      "creator": "Imael Angel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/7f/08037f7d-6173-9348-991d-5966f0686539/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1890913669",
+      "attributes": {
+        "album": "Bad Times (Extended Version) - Single",
+        "duration": "6:40",
+        "durationIso": "PT6M40S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "Bad Times (Extended Version) 49 Imael Angel Bad Times (Extended Version) - Single PREVIEW 6:40"
+    },
+    {
+      "title": "ЭКСПОНАТ",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D0%BD%D0%B0%D1%82/6768974712",
+      "creator": "MIA BOYKA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/22/c2/ae22c281-b7ea-a5d8-5c44-4e034f143faf/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6768974712",
+      "attributes": {
+        "album": "ЭКСПОНАТ - Single",
+        "duration": "1:38",
+        "durationIso": "PT1M38S",
+        "chartPosition": "50",
+        "explicit": false
+      },
+      "evidenceText": "ЭКСПОНАТ 50 MIA BOYKA ЭКСПОНАТ - Single PREVIEW 1:38"
+    },
+    {
+      "title": "Outside (feat. Ellie Goulding)",
+      "canonicalUrl": "https://music.apple.com/us/song/outside-feat-ellie-goulding/922876187",
+      "creator": "Calvin Harris",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/50/cc/da50cc80-3515-a38d-369b-0d700ffd249d/886444820448.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "922876187",
+      "attributes": {
+        "album": "Motion",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "51",
+        "explicit": false
+      },
+      "evidenceText": "Outside (feat. Ellie Goulding) 51 Calvin Harris Motion PREVIEW 3:47"
+    },
+    {
+      "title": "Gəl Danış (feat. Xose)",
+      "canonicalUrl": "https://music.apple.com/us/song/g%C9%99l-dan%C4%B1%C5%9F-feat-xose/1806693644",
+      "creator": "Röya",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/b0/3a/b4b03a4b-33ba-7684-e8f1-f304e51315ae/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1806693644",
+      "attributes": {
+        "album": "Mahnılar (2005-2010)",
+        "duration": "4:53",
+        "durationIso": "PT4M53S",
+        "chartPosition": "52",
+        "explicit": false
+      },
+      "evidenceText": "Gəl Danış (feat. Xose) 52 Röya Mahnılar (2005-2010) PREVIEW 4:53"
+    },
+    {
+      "title": "We Found Love (feat. Calvin Harris)",
+      "canonicalUrl": "https://music.apple.com/us/song/we-found-love-feat-calvin-harris/1443062143",
+      "creator": "Rihanna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ae/46/51/ae465169-b0a4-3c10-42a0-63e4448d1508/16UMGIM59230.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1443062143",
+      "attributes": {
+        "album": "Talk That Talk (Deluxe)",
+        "duration": "3:35",
+        "durationIso": "PT3M35S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "We Found Love (feat. Calvin Harris) 53 Rihanna Talk That Talk (Deluxe) PREVIEW 3:35"
+    },
+    {
+      "title": "Döndüm",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%B6nd%C3%BCm/1569020665",
+      "creator": "Bora Duran",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/fc/24/8afc24fb-50c8-2f22-0002-244a707fb0a0/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1569020665",
+      "attributes": {
+        "album": "Döndüm - Single",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "54",
+        "explicit": false
+      },
+      "evidenceText": "Döndüm 54 Bora Duran Döndüm - Single PREVIEW 3:25"
+    },
+    {
+      "title": "Roja Nu",
+      "canonicalUrl": "https://music.apple.com/us/song/roja-nu/6810085647",
+      "creator": "Hiva, Haps, PAIX",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/a8/ff/1ca8ff59-e315-69a4-108e-a324cd002ed6/9008798782208_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6810085647",
+      "attributes": {
+        "album": "Roja Nu - Single",
+        "duration": "3:02",
+        "durationIso": "PT3M2S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "Roja Nu 55 Hiva, Haps, PAIX Roja Nu - Single PREVIEW 3:02"
+    },
+    {
+      "title": "Bahar",
+      "canonicalUrl": "https://music.apple.com/us/song/bahar/1806694031",
+      "creator": "Röya",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/b0/3a/b4b03a4b-33ba-7684-e8f1-f304e51315ae/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1806694031",
+      "attributes": {
+        "album": "Mahnılar (2005-2010)",
+        "duration": "4:32",
+        "durationIso": "PT4M32S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "Bahar 56 Röya Mahnılar (2005-2010) PREVIEW 4:32"
+    },
+    {
+      "title": "Bilmək Olmaz",
+      "canonicalUrl": "https://music.apple.com/us/song/bilm%C9%99k-olmaz/1723916475",
+      "creator": "Aygün Kazımova",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/e0/96/56e0968e-a565-cf00-583a-d14ef1b94702/197190762402.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1723916475",
+      "attributes": {
+        "album": "Bilmək Olmaz - Single",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "Bilmək Olmaz 57 Aygün Kazımova Bilmək Olmaz - Single PREVIEW 3:40"
+    },
+    {
+      "title": "Chained to the Rhythm (feat. Skip Marley)",
+      "canonicalUrl": "https://music.apple.com/us/song/chained-to-the-rhythm-feat-skip-marley/1395620400",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/57/db/cb57db27-9b61-52a6-0009-e56ed5d98ef4/17UMGIM99424.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1395620400",
+      "attributes": {
+        "album": "Witness (Deluxe)",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "Chained to the Rhythm (feat. Skip Marley) 58 Katy Perry Witness (Deluxe) PREVIEW 3:57"
+    },
+    {
+      "title": "We Are the People",
+      "canonicalUrl": "https://music.apple.com/us/song/we-are-the-people/1449912319",
+      "creator": "Empire Of The Sun",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/42/a7/3e42a78d-57a3-fd69-6703-14d51205dd4c/13UMGIM24968.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1449912319",
+      "attributes": {
+        "album": "Walking on a Dream (10th Anniversary Edition)",
+        "duration": "4:27",
+        "durationIso": "PT4M27S",
+        "chartPosition": "59",
+        "explicit": false
+      },
+      "evidenceText": "We Are the People 59 Empire Of The Sun Walking on a Dream (10th Anniversary Edition) PREVIEW 4:27"
+    },
+    {
+      "title": "Мальборо",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BC%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D1%80%D0%BE/1891317599",
+      "creator": "SAYAN",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/84/e3/dc84e39d-2451-7ca3-4a47-8f8262d288b6/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1891317599",
+      "attributes": {
+        "album": "Мальборо - Single",
+        "duration": "2:02",
+        "durationIso": "PT2M2S",
+        "chartPosition": "60",
+        "explicit": false
+      },
+      "evidenceText": "Мальборо 60 SAYAN Мальборо - Single PREVIEW 2:02"
+    },
+    {
+      "title": "Базовый минимум",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D1%83%D0%BC/6773334417",
+      "creator": "SABI, MIA BOYKA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/53/68/b553682a-9215-9ece-17cc-4f47ddfa8394/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6773334417",
+      "attributes": {
+        "album": "Базовый минимум - Single",
+        "duration": "2:15",
+        "durationIso": "PT2M15S",
+        "chartPosition": "61",
+        "explicit": false
+      },
+      "evidenceText": "Базовый минимум 61 SABI, MIA BOYKA Базовый минимум - Single PREVIEW 2:15"
+    },
+    {
+      "title": "Где ты теперь и с кем",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B3%D0%B4%D0%B5-%D1%82%D1%8B-%D1%82%D0%B5%D0%BF%D0%B5%D1%80%D1%8C-%D0%B8-%D1%81-%D0%BA%D0%B5%D0%BC/1683202537",
+      "creator": "Basta, HammAli & Navai",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/da/58/92da58f9-7e98-9166-4b4d-957c37ae3bd1/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1683202537",
+      "attributes": {
+        "album": "Где ты теперь и с кем - Single",
+        "duration": "5:06",
+        "durationIso": "PT5M6S",
+        "chartPosition": "62",
+        "explicit": false
+      },
+      "evidenceText": "Где ты теперь и с кем 62 Basta, HammAli & Navai Где ты теперь и с кем - Single PREVIEW 5:06"
+    },
+    {
+      "title": "Ara Beni",
+      "canonicalUrl": "https://music.apple.com/us/song/ara-beni/1880776369",
+      "creator": "Hadise",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/ee/0c/3bee0c05-abbe-fe82-a5b6-f3cfa55e6494/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1880776369",
+      "attributes": {
+        "album": "H.",
+        "duration": "2:24",
+        "durationIso": "PT2M24S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "Ara Beni 63 Hadise H. PREVIEW 2:24"
+    },
+    {
+      "title": "Toz Pembe",
+      "canonicalUrl": "https://music.apple.com/us/song/toz-pembe/6784751987",
+      "creator": "manifest",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/76/39/aa763935-fdb9-8f53-d3aa-7d473de75dba/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6784751987",
+      "attributes": {
+        "album": "Toz Pembe - Single",
+        "duration": "2:40",
+        "durationIso": "PT2M40S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "Toz Pembe 64 manifest Toz Pembe - Single PREVIEW 2:40"
+    },
+    {
+      "title": "Bir Sevgim Var",
+      "canonicalUrl": "https://music.apple.com/us/song/bir-sevgim-var/1579350211",
+      "creator": "Sevda Ələkbərzadə, Elşad Xose",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/98/e8/b298e850-f6bc-f7dd-42ac-b5e6a2682201/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1579350211",
+      "attributes": {
+        "album": "Bir Sevgim Var - Single",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "Bir Sevgim Var 65 Sevda Ələkbərzadə, Elşad Xose Bir Sevgim Var - Single PREVIEW 3:53"
+    },
+    {
+      "title": "Люби меня (feat. Sимптом)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BB%D1%8E%D0%B1%D0%B8-%D0%BC%D0%B5%D0%BD%D1%8F-feat-s%D0%B8%D0%BC%D0%BF%D1%82%D0%BE%D0%BC/1770509338",
+      "creator": "Miyagi & Эндшпиль",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/14/f1/d814f137-a16b-73d0-ef2a-5d722cfe387c/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1770509338",
+      "attributes": {
+        "album": "Hajime, Pt. 2 - EP",
+        "duration": "5:18",
+        "durationIso": "PT5M18S",
+        "chartPosition": "66",
+        "explicit": true
+      },
+      "evidenceText": "Люби меня (feat. Sимптом) 66 Miyagi & Эндшпиль Hajime, Pt. 2 - EP PREVIEW 5:18"
+    },
+    {
+      "title": "Сложно, но можно",
+      "canonicalUrl": "https://music.apple.com/us/song/%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE-%D0%BD%D0%BE-%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE/6812711535",
+      "creator": "NAVAI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/8e/f0/1b8ef021-ed08-ec66-d02f-82ef019f8c4d/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6812711535",
+      "attributes": {
+        "album": "Фриковая драма",
+        "duration": "4:25",
+        "durationIso": "PT4M25S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "Сложно, но можно 67 NAVAI Фриковая драма PREVIEW 4:25"
+    },
+    {
+      "title": "De Hardasan (feat. İradə İbrahimova)",
+      "canonicalUrl": "https://music.apple.com/us/song/de-hardasan-feat-i-rad%C9%99-i-brahimova/1869133967",
+      "creator": "RIO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/16/57/48165711-9628-f3c5-06b4-07dd108c45cb/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1869133967",
+      "attributes": {
+        "album": "De Hardasan (feat. İradə İbrahimova) - Single",
+        "duration": "2:40",
+        "durationIso": "PT2M40S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "De Hardasan (feat. İradə İbrahimova) 68 RIO De Hardasan (feat. İradə İbrahimova) - Single PREVIEW 2:40"
+    },
+    {
+      "title": "Raindance",
+      "canonicalUrl": "https://music.apple.com/us/song/raindance/1847992612",
+      "creator": "Dave, Tems",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/49/24/9949241c-e52c-3018-eae8-c686013a7474/25UM1IM68216.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1847992612",
+      "attributes": {
+        "album": "The Boy Who Played the Harp",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "69",
+        "explicit": false
+      },
+      "evidenceText": "Raindance 69 Dave, Tems The Boy Who Played the Harp PREVIEW 3:39"
+    },
+    {
+      "title": "One Kiss",
+      "canonicalUrl": "https://music.apple.com/us/song/one-kiss/1364709436",
+      "creator": "Calvin Harris, Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/91/2a/7b/912a7bdb-c2f6-b887-9392-49728fece0df/886447044360.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1364709436",
+      "attributes": {
+        "album": "One Kiss - Single",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "One Kiss 70 Calvin Harris, Dua Lipa One Kiss - Single PREVIEW 3:34"
+    },
+    {
+      "title": "Shape of My Heart",
+      "canonicalUrl": "https://music.apple.com/us/song/shape-of-my-heart/1415203739",
+      "creator": "Sting",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/ac/f4/59acf4db-0ea8-a8e5-5607-01e931bb2d58/06UMGIM49867.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1415203739",
+      "attributes": {
+        "album": "Ten Summoner's Tales",
+        "duration": "4:39",
+        "durationIso": "PT4M39S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "Shape of My Heart 71 Sting Ten Summoner's Tales PREVIEW 4:39"
+    },
+    {
+      "title": "Onun Adı Nə İdi?",
+      "canonicalUrl": "https://music.apple.com/us/song/onun-ad%C4%B1-n%C9%99-i-di/1894336777",
+      "creator": "Aygün Kazımova",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/7a/d3/2c7ad3a6-183a-ce11-fb05-583ba60a7f27/820233089043.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1894336777",
+      "attributes": {
+        "album": "Onun Adı Nə İdi? - Single",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "Onun Adı Nə İdi? 72 Aygün Kazımova Onun Adı Nə İdi? - Single PREVIEW 3:16"
+    },
+    {
+      "title": "BAD TIMES",
+      "canonicalUrl": "https://music.apple.com/us/song/bad-times/1894224409",
+      "creator": "Imael Angel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1894224409",
+      "attributes": {
+        "album": "BAD TIMES - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "BAD TIMES 73 Imael Angel BAD TIMES - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Sweater Weather",
+      "canonicalUrl": "https://music.apple.com/us/song/sweater-weather/635016640",
+      "creator": "The Neighbourhood",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "635016640",
+      "attributes": {
+        "album": "I Love You.",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "74",
+        "explicit": false
+      },
+      "evidenceText": "Sweater Weather 74 The Neighbourhood I Love You. PREVIEW 4:00"
+    },
+    {
+      "title": "Talk To You (feat. 54 Ultra)",
+      "canonicalUrl": "https://music.apple.com/us/song/talk-to-you-feat-54-ultra/1870514330",
+      "creator": "ANOTR",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1870514330",
+      "attributes": {
+        "album": "Talk To You (feat. 54 Ultra) - Single",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Talk To You (feat. 54 Ultra) 75 ANOTR Talk To You (feat. 54 Ultra) - Single PREVIEW 3:11"
+    },
+    {
+      "title": "Kehribar",
+      "canonicalUrl": "https://music.apple.com/us/song/kehribar/1709285144",
+      "creator": "Burak Bulut, Ebru Yaşar",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/12/44/a9/1244a9d9-795f-1573-0f8d-516f189c4561/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1709285144",
+      "attributes": {
+        "album": "Kehribar - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "76",
+        "explicit": false
+      },
+      "evidenceText": "Kehribar 76 Burak Bulut, Ebru Yaşar Kehribar - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Есенин",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D0%BD/1733934190",
+      "creator": "NAVAI, MONA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/68/39/ee/6839ee6b-9401-1bf9-0bfc-a8e9597a1dfc/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1733934190",
+      "attributes": {
+        "album": "Как Есенин",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "Есенин 77 NAVAI, MONA Как Есенин PREVIEW 2:50"
+    },
+    {
+      "title": "Dracula",
+      "canonicalUrl": "https://music.apple.com/us/song/dracula/1836226730",
+      "creator": "Tame Impala",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1836226730",
+      "attributes": {
+        "album": "Deadbeat",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "78",
+        "explicit": true
+      },
+      "evidenceText": "Dracula 78 Tame Impala Deadbeat PREVIEW 3:25"
+    },
+    {
+      "title": "Vəfasızlar Unudulmur",
+      "canonicalUrl": "https://music.apple.com/us/song/v%C9%99fas%C4%B1zlar-unudulmur/1664952042",
+      "creator": "Aygün Kazımova",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/57/27/ab/5727abc1-6866-5636-7c7a-fad9ef428558/197187899135.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1664952042",
+      "attributes": {
+        "album": "Vəfasızlar Unudulmur - Single",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "79",
+        "explicit": false
+      },
+      "evidenceText": "Vəfasızlar Unudulmur 79 Aygün Kazımova Vəfasızlar Unudulmur - Single PREVIEW 4:10"
+    },
+    {
+      "title": "Возле дома твоего (feat. Макс Лоренс & Сацура)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B2%D0%BE%D0%B7%D0%BB%D0%B5-%D0%B4%D0%BE%D0%BC%D0%B0-%D1%82%D0%B2%D0%BE%D0%B5%D0%B3%D0%BE-feat-%D0%BC%D0%B0%D0%BA%D1%81-%D0%BB%D0%BE%D1%80%D0%B5%D0%BD%D1%81-%D1%81%D0%B0%D1%86%D1%83%D1%80%D0%B0/1841889712",
+      "creator": "Серёга",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/0c/9a/270c9a03-f7d7-2bcc-8d39-556878ca98e6/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1841889712",
+      "attributes": {
+        "album": "Возле дома твоего (feat. Макс Лоренс & Сацура) - Single",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "80",
+        "explicit": false
+      },
+      "evidenceText": "Возле дома твоего (feat. Макс Лоренс & Сацура) 80 Серёга Возле дома твоего (feat. Макс Лоренс & Сацура) - Single PREVIEW 3:33"
+    },
+    {
+      "title": "KARMA",
+      "canonicalUrl": "https://music.apple.com/us/song/karma/6763072322",
+      "creator": "Egor Kreed, ARTIK & ASTI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/7d/ca/8d7dca44-f2fd-b83a-3be9-bb579112fe28/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6763072322",
+      "attributes": {
+        "album": "KARMA - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "81",
+        "explicit": false
+      },
+      "evidenceText": "KARMA 81 Egor Kreed, ARTIK & ASTI KARMA - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Özün Günahkarsan",
+      "canonicalUrl": "https://music.apple.com/us/song/%C3%B6z%C3%BCn-g%C3%BCnahkarsan/1744474822",
+      "creator": "Aygün Bəylər",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/66/87/ab6687bb-f97f-967e-bba4-bdebbb054ae0/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1744474822",
+      "attributes": {
+        "album": "Estrada İfaları",
+        "duration": "6:52",
+        "durationIso": "PT6M52S",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "Özün Günahkarsan 82 Aygün Bəylər Estrada İfaları PREVIEW 6:52"
+    },
+    {
+      "title": "S.O.S",
+      "canonicalUrl": "https://music.apple.com/us/song/s-o-s/1753061027",
+      "creator": "Aygün Kazımova",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/61/5e/cd615ebd-0da4-7a9f-a1ff-ec182dce4eae/198588478219.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1753061027",
+      "attributes": {
+        "album": "S.O.S - Single",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "S.O.S 83 Aygün Kazımova S.O.S - Single PREVIEW 3:20"
+    },
+    {
+      "title": "Qorxuram",
+      "canonicalUrl": "https://music.apple.com/us/song/qorxuram/1661132758",
+      "creator": "Aygün Kazımova",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/30/05/df/3005df62-9253-52db-3220-b89afe8b3d94/197187755479.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1661132758",
+      "attributes": {
+        "album": "Qorxuram - Single",
+        "duration": "3:09",
+        "durationIso": "PT3M9S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "Qorxuram 84 Aygün Kazımova Qorxuram - Single PREVIEW 3:09"
+    },
+    {
+      "title": "03' Bonnie & Clyde (feat. Beyoncé Knowles)",
+      "canonicalUrl": "https://music.apple.com/us/song/03-bonnie-clyde-feat-beyonc%C3%A9-knowles/1440984708",
+      "creator": "JAŸ-Z",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/ea/96/2bea9645-9c62-b1a1-ff70-db3a4db1149c/10UMGIM29885.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1440984708",
+      "attributes": {
+        "album": "The Hits Collection, Vol. One (Deluxe Edition with Videos)",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "85",
+        "explicit": true
+      },
+      "evidenceText": "03' Bonnie & Clyde (feat. Beyoncé Knowles) 85 JAŸ-Z The Hits Collection, Vol. One (Deluxe Edition with Videos) PREVIEW 3:25"
+    },
+    {
+      "title": "Training Season (Live from the Royal Albert Hall)",
+      "canonicalUrl": "https://music.apple.com/us/song/training-season-live-from-the-royal-albert-hall/1779948717",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/c1/57/0ec1575f-5153-ac4b-d578-c5fa3a90bfe1/5021732511676.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1779948717",
+      "attributes": {
+        "album": "Dua Lipa - Live from the Royal Albert Hall",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "Training Season (Live from the Royal Albert Hall) 86 Dua Lipa Dua Lipa - Live from the Royal Albert Hall PREVIEW 3:40"
+    },
+    {
+      "title": "Movin' To The Sun",
+      "canonicalUrl": "https://music.apple.com/us/song/movin-to-the-sun/6769070199",
+      "creator": "HUGEL, Imael Angel, Ultra Naté",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6769070199",
+      "attributes": {
+        "album": "Movin' To The Sun - Single",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "87",
+        "explicit": false
+      },
+      "evidenceText": "Movin' To The Sun 87 HUGEL, Imael Angel, Ultra Naté Movin' To The Sun - Single PREVIEW 2:22"
+    },
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 88 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Teenage Dream",
+      "canonicalUrl": "https://music.apple.com/us/song/teenage-dream/1013032937",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/97/31/759731eb-b429-dfe3-c41f-34435998d102/13UABIM57845.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1013032937",
+      "attributes": {
+        "album": "Teenage Dream (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "Teenage Dream 89 Katy Perry Teenage Dream (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "Blame (feat. John Newman)",
+      "canonicalUrl": "https://music.apple.com/us/song/blame-feat-john-newman/922876184",
+      "creator": "Calvin Harris",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/50/cc/da50cc80-3515-a38d-369b-0d700ffd249d/886444820448.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "922876184",
+      "attributes": {
+        "album": "Motion",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "Blame (feat. John Newman) 90 Calvin Harris Motion PREVIEW 3:32"
+    },
+    {
+      "title": "Janice STFU",
+      "canonicalUrl": "https://music.apple.com/us/song/janice-stfu/6769568596",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6769568596",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "91",
+        "explicit": true
+      },
+      "evidenceText": "Janice STFU 91 Drake ICEMAN PREVIEW 3:57"
+    },
+    {
+      "title": "SEVMEYİ DENEMEDİN",
+      "canonicalUrl": "https://music.apple.com/us/song/sevmeyi-denemedi-n/1767437103",
+      "creator": "BLOK3",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/16/59/c91659c0-c1c1-9bd3-a6ee-a935ef58b5f7/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1767437103",
+      "attributes": {
+        "album": "OBSESIF",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "SEVMEYİ DENEMEDİN 92 BLOK3 OBSESIF PREVIEW 2:52"
+    },
+    {
+      "title": "Bana Ne Bu Sevdalardan",
+      "canonicalUrl": "https://music.apple.com/us/song/bana-ne-bu-sevdalardan/6785923447",
+      "creator": "Ezhel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/2d/7b/b32d7bcf-007e-7d91-e461-f7ecb1de6af1/820233914314.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6785923447",
+      "attributes": {
+        "album": "Bana Ne Bu Sevdalardan - Single",
+        "duration": "2:17",
+        "durationIso": "PT2M17S",
+        "chartPosition": "93",
+        "explicit": false
+      },
+      "evidenceText": "Bana Ne Bu Sevdalardan 93 Ezhel Bana Ne Bu Sevdalardan - Single PREVIEW 2:17"
+    },
+    {
+      "title": "Птичка",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BF%D1%82%D0%B8%D1%87%D0%BA%D0%B0/1567242188",
+      "creator": "HammAli & Navai",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/66/57/e0665781-47da-1c74-7a99-22b6cd6fee4f/190296669637.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1567242188",
+      "attributes": {
+        "album": "Птичка - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "94",
+        "explicit": false
+      },
+      "evidenceText": "Птичка 94 HammAli & Navai Птичка - Single PREVIEW 3:10"
+    },
+    {
+      "title": "São Paulo",
+      "canonicalUrl": "https://music.apple.com/us/song/s%C3%A3o-paulo/1776914757",
+      "creator": "The Weeknd, Anitta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/33/6a/dd336ac3-a74a-87df-660a-49270b8c5fb3/24UM1IM21420.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1776914757",
+      "attributes": {
+        "album": "São Paulo - Single",
+        "duration": "5:01",
+        "durationIso": "PT5M1S",
+        "chartPosition": "95",
+        "explicit": true
+      },
+      "evidenceText": "São Paulo 95 The Weeknd, Anitta São Paulo - Single PREVIEW 5:01"
+    },
+    {
+      "title": "Billie Jean",
+      "canonicalUrl": "https://music.apple.com/us/song/billie-jean/269573364",
+      "creator": "Michael Jackson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "269573364",
+      "attributes": {
+        "album": "Thriller",
+        "duration": "4:53",
+        "durationIso": "PT4M53S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "Billie Jean 96 Michael Jackson Thriller PREVIEW 4:53"
+    },
+    {
+      "title": "Son Bi Dans",
+      "canonicalUrl": "https://music.apple.com/us/song/son-bi-dans/6773421184",
+      "creator": "BLOK3",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/9b/d0/a69bd0ba-76af-bedd-9857-a6e2cb3087e0/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6773421184",
+      "attributes": {
+        "album": "KAYIP PERSONA",
+        "duration": "2:08",
+        "durationIso": "PT2M8S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "Son Bi Dans 97 BLOK3 KAYIP PERSONA PREVIEW 2:08"
+    },
+    {
+      "title": "Ana Al Ghaltane",
+      "canonicalUrl": "https://music.apple.com/us/song/ana-al-ghaltane/6802702292",
+      "creator": "Cheb Rezki",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/c5/75/b4c5756d-4233-1662-1543-eeaef8e7ae36/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6802702292",
+      "attributes": {
+        "album": "Ana Al Ghaltane - Single",
+        "duration": "5:41",
+        "durationIso": "PT5M41S",
+        "chartPosition": "98",
+        "explicit": false
+      },
+      "evidenceText": "Ana Al Ghaltane 98 Cheb Rezki Ana Al Ghaltane - Single PREVIEW 5:41"
+    },
+    {
+      "title": "Моя Вселенная (feat. Тати)",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%BC%D0%BE%D1%8F-%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-feat-%D1%82%D0%B0%D1%82%D0%B8/6801163513",
+      "creator": "Basta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/77/8c/b9778cfc-d904-1597-066e-fde88775a0a1/cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "6801163513",
+      "attributes": {
+        "album": "Баста 4",
+        "duration": "3:31",
+        "durationIso": "PT3M31S",
+        "chartPosition": "99",
+        "explicit": false
+      },
+      "evidenceText": "Моя Вселенная (feat. Тати) 99 Basta Баста 4 PREVIEW 3:31"
+    },
+    {
+      "title": "А если это любовь?",
+      "canonicalUrl": "https://music.apple.com/us/song/%D0%B0-%D0%B5%D1%81%D0%BB%D0%B8-%D1%8D%D1%82%D0%BE-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1570265938",
+      "creator": "HammAli & Navai",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/e3/39/c1e3392b-0e18-0cd8-fb32-a46eca939501/3616406665995.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-azerbaijan/pl.ccc31c81303c405baddaaf0f5328b7f3",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Azerbaijan",
+      "externalId": "1570265938",
+      "attributes": {
+        "album": "А если это любовь? - Single",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "100",
+        "explicit": false
+      },
+      "evidenceText": "А если это любовь? 100 HammAli & Navai А если это любовь? - Single PREVIEW 4:00"
+    }
+  ]
+}

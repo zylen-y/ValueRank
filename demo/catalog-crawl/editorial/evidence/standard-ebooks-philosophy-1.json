@@ -1,0 +1,1043 @@
+{
+  "url": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+  "title": "Browse Standard Ebooks - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover",
+  "heading": "Browse Ebooks",
+  "observedAt": "2026-09-27T00:11:54.561Z",
+  "itemCount": 48,
+  "items": [
+    {
+      "attributes": {
+        "readingEase": 61.5,
+        "subjects": "Philosophy",
+        "translation": "Translated by George Long",
+        "wordCount": 45608
+      },
+      "creator": "Marcus Aurelius",
+      "description": "Translated by George Long 45,608 words • 61.5 reading ease Philosophy",
+      "externalId": "marcus-aurelius/meditations/george-long",
+      "imageUrl": "https://standardebooks.org/images/covers/marcus-aurelius_meditations_george-long/463d624aab8bb716f04517f2a7e58ba99847d045/cover@2x.jpg",
+      "title": "Meditations",
+      "url": "https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 51.01,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 94433
+      },
+      "creator": "Edmund Burke",
+      "description": "94,433 words • 51.01 reading ease Nonfiction Philosophy",
+      "externalId": "edmund-burke/reflections-on-the-revolution-in-france",
+      "imageUrl": "https://standardebooks.org/images/covers/edmund-burke_reflections-on-the-revolution-in-france/bddc6b813d6786b46a2af85f282ef0a6885c0303/cover@2x.jpg",
+      "title": "Reflections on the Revolution in France",
+      "url": "https://standardebooks.org/ebooks/edmund-burke/reflections-on-the-revolution-in-france",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 38.69,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 216363
+      },
+      "creator": "David Hume",
+      "description": "216,363 words • 38.69 reading ease Nonfiction Philosophy",
+      "externalId": "david-hume/a-treatise-of-human-nature",
+      "imageUrl": "https://standardebooks.org/images/covers/david-hume_a-treatise-of-human-nature/95aed2a34685d83e936d545121087b25f92a2d0b/cover@2x.jpg",
+      "title": "A Treatise of Human Nature",
+      "url": "https://standardebooks.org/ebooks/david-hume/a-treatise-of-human-nature",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 40.55,
+        "subjects": "Philosophy",
+        "translation": "Translated by W. K. Marriott",
+        "wordCount": 34990
+      },
+      "creator": "Niccolò Machiavelli",
+      "description": "Translated by W. K. Marriott 34,990 words • 40.55 reading ease Philosophy",
+      "externalId": "niccolo-machiavelli/the-prince/w-k-marriott",
+      "imageUrl": "https://standardebooks.org/images/covers/niccolo-machiavelli_the-prince_w-k-marriott/85768043af5e76df5f219a26fb139d5d11e5f6bd/cover@2x.jpg",
+      "title": "The Prince",
+      "url": "https://standardebooks.org/ebooks/niccolo-machiavelli/the-prince/w-k-marriott",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 61.29,
+        "subjects": "Philosophy",
+        "translation": "Translated by Benjamin Jowett",
+        "wordCount": 1202725
+      },
+      "creator": "Plato",
+      "description": "Translated by Benjamin Jowett 1,202,725 words • 61.29 reading ease Philosophy",
+      "externalId": "plato/dialogues/benjamin-jowett",
+      "imageUrl": "https://standardebooks.org/images/covers/plato_dialogues_benjamin-jowett/8f8f1bc21b1ad73a09c8bf3ad18fe15b2c8e8587/cover@2x.jpg",
+      "title": "Dialogues",
+      "url": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 59.77,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 106677
+      },
+      "creator": "Henry David Thoreau",
+      "description": "106,677 words • 59.77 reading ease Nonfiction Philosophy",
+      "externalId": "henry-david-thoreau/walden",
+      "imageUrl": "https://standardebooks.org/images/covers/henry-david-thoreau_walden/92db4fdc4b6f86a49f22362fea2bff60b2b904cc/cover@2x.jpg",
+      "title": "Walden",
+      "url": "https://standardebooks.org/ebooks/henry-david-thoreau/walden",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 67.28,
+        "subjects": "Philosophy, Spirituality",
+        "translation": "Translated by James Legge",
+        "wordCount": 25197
+      },
+      "creator": "Laozi",
+      "description": "Translated by James Legge 25,197 words • 67.28 reading ease Philosophy Spirituality",
+      "externalId": "laozi/tao-te-ching/james-legge",
+      "imageUrl": "https://standardebooks.org/images/covers/laozi_tao-te-ching_james-legge/bf6bd17816ef8ac8dc6a5c4ecb7dccb9954da0a8/cover@2x.jpg",
+      "title": "Tao Te Ching",
+      "url": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 50.3,
+        "subjects": "Philosophy",
+        "wordCount": 394119
+      },
+      "creator": "Adam Smith",
+      "description": "394,119 words • 50.3 reading ease Philosophy",
+      "externalId": "adam-smith/the-wealth-of-nations",
+      "imageUrl": "https://standardebooks.org/images/covers/adam-smith_the-wealth-of-nations/6af335b7939f75e7041250ec559447f9c33616fa/cover@2x.jpg",
+      "title": "The Wealth of Nations",
+      "url": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 35.54,
+        "subjects": "Philosophy",
+        "translation": "Translated by Helen Zimmern",
+        "wordCount": 63482
+      },
+      "creator": "Friedrich Nietzsche",
+      "description": "Translated by Helen Zimmern 63,482 words • 35.54 reading ease Philosophy",
+      "externalId": "friedrich-nietzsche/beyond-good-and-evil/helen-zimmern",
+      "imageUrl": "https://standardebooks.org/images/covers/friedrich-nietzsche_beyond-good-and-evil_helen-zimmern/b7fea881011ff7246fb8f68ced458629240bcc3c/cover@2x.jpg",
+      "title": "Beyond Good and Evil",
+      "url": "https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 38.05,
+        "subjects": "Philosophy",
+        "translation": "Translated by Samuel Moore",
+        "wordCount": 13179
+      },
+      "creator": "Karl Marx, Friedrich Engels",
+      "description": "Translated by Samuel Moore 13,179 words • 38.05 reading ease Philosophy",
+      "externalId": "karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore",
+      "imageUrl": "https://standardebooks.org/images/covers/karl-marx_friedrich-engels_the-communist-manifesto_samuel-moore/209b176d3cd2c09506623b62bf03a61d08b82d64/cover@2x.jpg",
+      "title": "The Communist Manifesto",
+      "url": "https://standardebooks.org/ebooks/karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 56.02,
+        "subjects": "Philosophy",
+        "translation": "Translated by F. H. Peters",
+        "wordCount": 92078
+      },
+      "creator": "Aristotle",
+      "description": "Translated by F. H. Peters 92,078 words • 56.02 reading ease Philosophy",
+      "externalId": "aristotle/nicomachean-ethics/f-h-peters",
+      "imageUrl": "https://standardebooks.org/images/covers/aristotle_nicomachean-ethics_f-h-peters/b8e4960fe93b918770db46f6a2ade6f0feb1aa7f/cover@2x.jpg",
+      "title": "Nicomachean Ethics",
+      "url": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 37.54,
+        "subjects": "Nonfiction, Philosophy, Spirituality",
+        "translation": "Translated by Talcott Parsons",
+        "wordCount": 49172
+      },
+      "creator": "Max Weber",
+      "description": "Translated by Talcott Parsons 49,172 words • 37.54 reading ease Nonfiction Philosophy Spirituality",
+      "externalId": "max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
+      "imageUrl": "https://standardebooks.org/images/covers/max-weber_the-protestant-ethic-and-the-spirit-of-capitalism_talcott-parsons/da83666c4439bb6c03bb995f719cf12c1df60cb4/cover@2x.jpg",
+      "title": "The Protestant Ethic and the Spirit of Capitalism",
+      "url": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 68.3,
+        "subjects": "Philosophy",
+        "translation": "Translated by George Long",
+        "wordCount": 121429
+      },
+      "creator": "Epictetus",
+      "description": "Translated by George Long 121,429 words • 68.3 reading ease Philosophy",
+      "externalId": "epictetus/discourses/george-long",
+      "imageUrl": "https://standardebooks.org/images/covers/epictetus_discourses_george-long/eec7666ceca2422de92ba87509522da9702b4015/cover@2x.jpg",
+      "title": "Discourses",
+      "url": "https://standardebooks.org/ebooks/epictetus/discourses/george-long",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 51.92,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 42740
+      },
+      "creator": "Bertrand Russell",
+      "description": "42,740 words • 51.92 reading ease Nonfiction Philosophy",
+      "externalId": "bertrand-russell/the-problems-of-philosophy",
+      "imageUrl": "https://standardebooks.org/images/covers/bertrand-russell_the-problems-of-philosophy/5976ebf2ba04f1338a5a1c2001e5acd700ddaf1b/cover@2x.jpg",
+      "title": "The Problems of Philosophy",
+      "url": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.56,
+        "subjects": "Philosophy",
+        "translation": "Translated by Thomas Common",
+        "wordCount": 90981
+      },
+      "creator": "Friedrich Nietzsche",
+      "description": "Translated by Thomas Common 90,981 words • 72.56 reading ease Philosophy",
+      "externalId": "friedrich-nietzsche/thus-spake-zarathustra/thomas-common",
+      "imageUrl": "https://standardebooks.org/images/covers/friedrich-nietzsche_thus-spake-zarathustra_thomas-common/f7860d2d63faf43be942b69c6f26d4872a357777/cover@2x.jpg",
+      "title": "Thus Spake Zarathustra",
+      "url": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 54.8,
+        "subjects": "Nonfiction, Philosophy, Spirituality",
+        "translation": "Translated by Marcus Dods, George Wilson, and J. J. Smith",
+        "wordCount": 444136
+      },
+      "creator": "Augustine of Hippo",
+      "description": "Translated by Marcus Dods, George Wilson, and J. J. Smith 444,136 words • 54.8 reading ease Nonfiction Philosophy Spirituality",
+      "externalId": "augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+      "imageUrl": "https://standardebooks.org/images/covers/augustine-of-hippo_the-city-of-god_marcus-dods_george-wilson_j-j-smith/e5a729874c23618f724f845667ed3841c818cd78/cover@2x.jpg",
+      "title": "The City of God",
+      "url": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 49.93,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 207766
+      },
+      "creator": "Thomas Hobbes",
+      "description": "207,766 words • 49.93 reading ease Nonfiction Philosophy",
+      "externalId": "thomas-hobbes/leviathan",
+      "imageUrl": "https://standardebooks.org/images/covers/thomas-hobbes_leviathan/a10a333bdb8f993d266b2c72e69642e6f01da918/cover@2x.jpg",
+      "title": "Leviathan",
+      "url": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.95,
+        "subjects": "Philosophy",
+        "translation": "Translated by James Legge",
+        "wordCount": 28129
+      },
+      "creator": "Confucius",
+      "description": "Translated by James Legge 28,129 words • 71.95 reading ease Philosophy",
+      "externalId": "confucius/analects/james-legge",
+      "imageUrl": "https://standardebooks.org/images/covers/confucius_analects_james-legge/a566734bf6b7763ee78c608845abbd217df79b10/cover@2x.jpg",
+      "title": "Analects",
+      "url": "https://standardebooks.org/ebooks/confucius/analects/james-legge",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 63.73,
+        "subjects": "Philosophy",
+        "translation": "Translated by George Long",
+        "wordCount": 16519
+      },
+      "creator": "Epictetus",
+      "description": "Translated by George Long 16,519 words • 63.73 reading ease Philosophy",
+      "externalId": "epictetus/short-works/george-long",
+      "imageUrl": "https://standardebooks.org/images/covers/epictetus_short-works_george-long/ee8f2952d2be62559d57fb45ec93728b93da438c/cover@2x.jpg",
+      "title": "Short Works",
+      "url": "https://standardebooks.org/ebooks/epictetus/short-works/george-long",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 52.87,
+        "subjects": "Philosophy",
+        "translation": "Translated by Aubrey Stewart",
+        "wordCount": 225351
+      },
+      "creator": "Seneca",
+      "description": "Translated by Aubrey Stewart 225,351 words • 52.87 reading ease Philosophy",
+      "externalId": "seneca/dialogues/aubrey-stewart",
+      "imageUrl": "https://standardebooks.org/images/covers/seneca_dialogues_aubrey-stewart/1c44b00813e9466940e5a7e052ee85f713808025/cover@2x.jpg",
+      "title": "Dialogues",
+      "url": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 50.91,
+        "subjects": "Nonfiction, Philosophy",
+        "translation": "Translated by G. D. H. Cole",
+        "wordCount": 56409
+      },
+      "creator": "Jean-Jacques Rousseau",
+      "description": "Translated by G. D. H. Cole 56,409 words • 50.91 reading ease Nonfiction Philosophy",
+      "externalId": "jean-jacques-rousseau/the-social-contract/g-d-h-cole",
+      "imageUrl": "https://standardebooks.org/images/covers/jean-jacques-rousseau_the-social-contract_g-d-h-cole/23ab6e703d8fe8a98987e3fe2c632e7c52aa546b/cover@2x.jpg",
+      "title": "The Social Contract",
+      "url": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 34.53,
+        "subjects": "Philosophy",
+        "wordCount": 50855
+      },
+      "creator": "John Stuart Mill",
+      "description": "50,855 words • 34.53 reading ease Philosophy",
+      "externalId": "john-stuart-mill/on-liberty",
+      "imageUrl": "https://standardebooks.org/images/covers/john-stuart-mill_on-liberty/9db038faab80f8481d44ad970abe4d259b0e1f9f/cover@2x.jpg",
+      "title": "On Liberty",
+      "url": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 26.95,
+        "subjects": "Philosophy",
+        "translation": "Translated by John Veitch",
+        "wordCount": 86757
+      },
+      "creator": "René Descartes",
+      "description": "Translated by John Veitch 86,757 words • 26.95 reading ease Philosophy",
+      "externalId": "rene-descartes/philosophical-works/john-veitch",
+      "imageUrl": "https://standardebooks.org/images/covers/rene-descartes_philosophical-works_john-veitch/c29fb5cd26decc76dca4e46922a876100268f91a/cover@2x.jpg",
+      "title": "Philosophical Works",
+      "url": "https://standardebooks.org/ebooks/rene-descartes/philosophical-works/john-veitch",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 64.2,
+        "subjects": "Autobiography, Memoir, Nonfiction, Philosophy, Spirituality",
+        "translation": "Translated by Mahadev Desai",
+        "wordCount": 173177
+      },
+      "creator": "Mahatma Gandhi",
+      "description": "Translated by Mahadev Desai 173,177 words • 64.2 reading ease Autobiography Memoir Nonfiction Philosophy Spirituality",
+      "externalId": "mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+      "imageUrl": "https://standardebooks.org/images/covers/mahatma-gandhi_the-story-of-my-experiments-with-truth_mahadev-desai/6cc40f2747c8f1b43a638810fca60a29ef683e7d/cover@2x.jpg",
+      "title": "The Story of My Experiments with Truth",
+      "url": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 66.07,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 132881
+      },
+      "creator": "Ralph Waldo Emerson",
+      "description": "132,881 words • 66.07 reading ease Nonfiction Philosophy",
+      "externalId": "ralph-waldo-emerson/essays",
+      "imageUrl": "https://standardebooks.org/images/covers/ralph-waldo-emerson_essays/9e71d8b90bc1b8627aaf289d30762dab590f0eea/cover@2x.jpg",
+      "title": "Essays",
+      "url": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 32.4,
+        "subjects": "Philosophy",
+        "translation": "Translated by Horace B. Samuel",
+        "wordCount": 52505
+      },
+      "creator": "Friedrich Nietzsche",
+      "description": "Translated by Horace B. Samuel 52,505 words • 32.4 reading ease Philosophy",
+      "externalId": "friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel",
+      "imageUrl": "https://standardebooks.org/images/covers/friedrich-nietzsche_the-genealogy-of-morals_horace-b-samuel/16193851921b77dea1b9e3b87b3cefced158a35b/cover@2x.jpg",
+      "title": "The Genealogy of Morals",
+      "url": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 63.22,
+        "subjects": "Philosophy, Spirituality",
+        "translation": "Translated by Aylmer Maude",
+        "wordCount": 25946
+      },
+      "creator": "Leo Tolstoy",
+      "description": "Translated by Aylmer Maude 25,946 words • 63.22 reading ease Philosophy Spirituality",
+      "externalId": "leo-tolstoy/a-confession/aylmer-maude",
+      "imageUrl": "https://standardebooks.org/images/covers/leo-tolstoy_a-confession_aylmer-maude/eee817b46e1c72135118a163cc46e2cafe420446/cover@2x.jpg",
+      "title": "A Confession",
+      "url": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 38.36,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 101888
+      },
+      "creator": "John Locke",
+      "description": "101,888 words • 38.36 reading ease Nonfiction Philosophy",
+      "externalId": "john-locke/two-treatises-of-government",
+      "imageUrl": "https://standardebooks.org/images/covers/john-locke_two-treatises-of-government/8f828cb773c9c2425bf3b423b0568ef4617ec019/cover@2x.jpg",
+      "title": "Two Treatises of Government",
+      "url": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 53.61,
+        "subjects": "Philosophy",
+        "translation": "Translated by C. K. Ogden",
+        "wordCount": 26043
+      },
+      "creator": "Ludwig Wittgenstein",
+      "description": "Translated by C. K. Ogden 26,043 words • 53.61 reading ease Philosophy",
+      "externalId": "ludwig-wittgenstein/tractatus-logico-philosophicus/c-k-ogden",
+      "imageUrl": "https://standardebooks.org/images/covers/ludwig-wittgenstein_tractatus-logico-philosophicus_c-k-ogden/f2601332b74667f468e0bc98db1379cde551e3af/cover@2x.jpg",
+      "title": "Tractatus Logico-Philosophicus",
+      "url": "https://standardebooks.org/ebooks/ludwig-wittgenstein/tractatus-logico-philosophicus/c-k-ogden",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 37.37,
+        "subjects": "Philosophy",
+        "wordCount": 47994
+      },
+      "creator": "David Hume",
+      "description": "47,994 words • 37.37 reading ease Philosophy",
+      "externalId": "david-hume/an-enquiry-concerning-human-understanding",
+      "imageUrl": "https://standardebooks.org/images/covers/david-hume_an-enquiry-concerning-human-understanding/e371b6614004b14a6f2376bd823a0ad563cb0d9b/cover@2x.jpg",
+      "title": "An Enquiry Concerning Human Understanding",
+      "url": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 64.85,
+        "subjects": "Philosophy, Poetry",
+        "translation": "Translated by H. R. James",
+        "wordCount": 41661
+      },
+      "creator": "Boethius",
+      "description": "Translated by H. R. James 41,661 words • 64.85 reading ease Philosophy Poetry",
+      "externalId": "boethius/the-consolation-of-philosophy/h-r-james",
+      "imageUrl": "https://standardebooks.org/images/covers/boethius_the-consolation-of-philosophy_h-r-james/01fb686bb5924b1bd3bfd50928e59a2d1a44a636/cover@2x.jpg",
+      "title": "The Consolation of Philosophy",
+      "url": "https://standardebooks.org/ebooks/boethius/the-consolation-of-philosophy/h-r-james",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.26,
+        "subjects": "Fiction, Philosophy, Spirituality",
+        "translation": "Translated by N. H. Priday",
+        "wordCount": 52800
+      },
+      "creator": "Hermann Hesse",
+      "description": "Translated by N. H. Priday 52,800 words • 72.26 reading ease Fiction Philosophy Spirituality",
+      "externalId": "hermann-hesse/demian/n-h-priday",
+      "imageUrl": "https://standardebooks.org/images/covers/hermann-hesse_demian_n-h-priday/eddbdb0059c6ea0cfd5dce278843ccfde2882337/cover@2x.jpg",
+      "title": "Demian",
+      "url": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 42.08,
+        "subjects": "Nonfiction, Philosophy, Spirituality",
+        "translation": "Translated by Leo Wiener",
+        "wordCount": 122608
+      },
+      "creator": "Leo Tolstoy",
+      "description": "Translated by Leo Wiener 122,608 words • 42.08 reading ease Nonfiction Philosophy Spirituality",
+      "externalId": "leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
+      "imageUrl": "https://standardebooks.org/images/covers/leo-tolstoy_the-kingdom-of-god-is-within-you_leo-wiener/27829f84c90818d926f04e8aaafb1b526c492f9c/cover@2x.jpg",
+      "title": "The Kingdom of God Is Within You",
+      "url": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 59.64,
+        "subjects": "Philosophy, Spirituality",
+        "wordCount": 63801
+      },
+      "creator": "G. K. Chesterton",
+      "description": "63,801 words • 59.64 reading ease Philosophy Spirituality",
+      "externalId": "g-k-chesterton/orthodoxy",
+      "imageUrl": "https://standardebooks.org/images/covers/g-k-chesterton_orthodoxy/8160d8a7985c316fd416f0c8db3f90d7b8a2f3db/cover@2x.jpg",
+      "title": "Orthodoxy",
+      "url": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 38.18,
+        "subjects": "Philosophy",
+        "wordCount": 161144
+      },
+      "creator": "Adam Smith",
+      "description": "161,144 words • 38.18 reading ease Philosophy",
+      "externalId": "adam-smith/the-theory-of-moral-sentiments",
+      "imageUrl": "https://standardebooks.org/images/covers/adam-smith_the-theory-of-moral-sentiments/c34fcfca9d41786d0ec517d33a56d04eee7d194b/cover@2x.jpg",
+      "title": "The Theory of Moral Sentiments",
+      "url": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 49.96,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 51077
+      },
+      "creator": "William James",
+      "description": "51,077 words • 49.96 reading ease Nonfiction Philosophy",
+      "externalId": "william-james/pragmatism",
+      "imageUrl": "https://standardebooks.org/images/covers/william-james_pragmatism/4d97b5e47b23c76574a2f16a972d9fc8533e8eb0/cover@2x.jpg",
+      "title": "Pragmatism",
+      "url": "https://standardebooks.org/ebooks/william-james/pragmatism",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 57.3,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 59907
+      },
+      "creator": "G. K. Chesterton",
+      "description": "59,907 words • 57.3 reading ease Nonfiction Philosophy",
+      "externalId": "g-k-chesterton/whats-wrong-with-the-world",
+      "imageUrl": "https://standardebooks.org/images/covers/g-k-chesterton_whats-wrong-with-the-world/ea4624f492101794d22a953d531d94bfc2446bd6/cover@2x.jpg",
+      "title": "What’s Wrong with the World",
+      "url": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 50.7,
+        "subjects": "Philosophy",
+        "translation": "Translated by Aylmer Maude",
+        "wordCount": 77062
+      },
+      "creator": "Leo Tolstoy",
+      "description": "Translated by Aylmer Maude 77,062 words • 50.7 reading ease Philosophy",
+      "externalId": "leo-tolstoy/what-is-art/aylmer-maude",
+      "imageUrl": "https://standardebooks.org/images/covers/leo-tolstoy_what-is-art_aylmer-maude/37f88e087ebcb4b22e1c78b1199c1c9a920e2276/cover@2x.jpg",
+      "title": "What Is Art?",
+      "url": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 45.22,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 83264
+      },
+      "creator": "Mary Wollstonecraft",
+      "description": "83,264 words • 45.22 reading ease Nonfiction Philosophy",
+      "externalId": "mary-wollstonecraft/a-vindication-of-the-rights-of-woman",
+      "imageUrl": "https://standardebooks.org/images/covers/mary-wollstonecraft_a-vindication-of-the-rights-of-woman/f123843961ddbf9a6af783e0da876ab2941644be/cover@2x.jpg",
+      "title": "A Vindication of the Rights of Woman",
+      "url": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 54.26,
+        "subjects": "Nonfiction, Philosophy, Spirituality",
+        "wordCount": 106972
+      },
+      "creator": "G. K. Chesterton",
+      "description": "106,972 words • 54.26 reading ease Nonfiction Philosophy Spirituality",
+      "externalId": "g-k-chesterton/the-everlasting-man",
+      "imageUrl": "https://standardebooks.org/images/covers/g-k-chesterton_the-everlasting-man/f04e0db969580bd13b4df4928af8d5543f4ef7db/cover@2x.jpg",
+      "title": "The Everlasting Man",
+      "url": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 29.01,
+        "subjects": "Philosophy",
+        "wordCount": 106058
+      },
+      "creator": "Thorstein Veblen",
+      "description": "106,058 words • 29.01 reading ease Philosophy",
+      "externalId": "thorstein-veblen/the-theory-of-the-leisure-class",
+      "imageUrl": "https://standardebooks.org/images/covers/thorstein-veblen_the-theory-of-the-leisure-class/29a094fc60e1a8b7e427d85d06d4ecf1176fc107/cover@2x.jpg",
+      "title": "The Theory of the Leisure Class",
+      "url": "https://standardebooks.org/ebooks/thorstein-veblen/the-theory-of-the-leisure-class",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 55,
+        "subjects": "Philosophy",
+        "wordCount": 89120
+      },
+      "creator": "Thomas Paine",
+      "description": "89,120 words • 55 reading ease Philosophy",
+      "externalId": "thomas-paine/the-age-of-reason",
+      "imageUrl": "https://standardebooks.org/images/covers/thomas-paine_the-age-of-reason/ad4796ba9921c8e106d718e6037f5a358ffd681a/cover@2x.jpg",
+      "title": "The Age of Reason",
+      "url": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.11,
+        "subjects": "Fantasy, Philosophy",
+        "wordCount": 93022
+      },
+      "creator": "David Lindsay",
+      "description": "93,022 words • 76.11 reading ease Fantasy Philosophy",
+      "externalId": "david-lindsay/a-voyage-to-arcturus",
+      "imageUrl": "https://standardebooks.org/images/covers/david-lindsay_a-voyage-to-arcturus/cda316967ccbc4f66f4e92bc6238d4a8dd3bc290/cover@2x.jpg",
+      "title": "A Voyage to Arcturus",
+      "url": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 44.98,
+        "subjects": "Nonfiction, Philosophy, Spirituality",
+        "wordCount": 90125
+      },
+      "creator": "R. H. Tawney",
+      "description": "90,125 words • 44.98 reading ease Nonfiction Philosophy Spirituality",
+      "externalId": "r-h-tawney/religion-and-the-rise-of-capitalism",
+      "imageUrl": "https://standardebooks.org/images/covers/r-h-tawney_religion-and-the-rise-of-capitalism/2e61d12a90b63dfb4dad143bcfcebc7b8d73135f/cover@2x.jpg",
+      "title": "Religion and the Rise of Capitalism",
+      "url": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 48.88,
+        "subjects": "Biography, Philosophy",
+        "translation": "Translated by C. D. Yonge",
+        "wordCount": 179129
+      },
+      "creator": "Diogenes Laërtius",
+      "description": "Translated by C. D. Yonge 179,129 words • 48.88 reading ease Biography Philosophy",
+      "externalId": "diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+      "imageUrl": "https://standardebooks.org/images/covers/diogenes-laertius_the-lives-and-opinions-of-eminent-philosophers_c-d-yonge/ecdbd83191a08a9fef733ba726c55af0d3768a9c/cover@2x.jpg",
+      "title": "The Lives and Opinions of Eminent Philosophers",
+      "url": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 59.03,
+        "subjects": "Nonfiction, Philosophy, Spirituality",
+        "wordCount": 64101
+      },
+      "creator": "G. K. Chesterton",
+      "description": "64,101 words • 59.03 reading ease Nonfiction Philosophy Spirituality",
+      "externalId": "g-k-chesterton/heretics",
+      "imageUrl": "https://standardebooks.org/images/covers/g-k-chesterton_heretics/7214d8a9c286991831db35f2e698daf041f39b81/cover@2x.jpg",
+      "title": "Heretics",
+      "url": "https://standardebooks.org/ebooks/g-k-chesterton/heretics",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 37.51,
+        "subjects": "Philosophy",
+        "translation": "Translated by Ninian Hill Thomson",
+        "wordCount": 137547
+      },
+      "creator": "Niccolò Machiavelli",
+      "description": "Translated by Ninian Hill Thomson 137,547 words • 37.51 reading ease Philosophy",
+      "externalId": "niccolo-machiavelli/discourses-on-livy/ninian-hill-thomson",
+      "imageUrl": "https://standardebooks.org/images/covers/niccolo-machiavelli_discourses-on-livy_ninian-hill-thomson/362ff4befb00ea30e6d3cafdde3da6538121a8f1/cover@2x.jpg",
+      "title": "Discourses on Livy",
+      "url": "https://standardebooks.org/ebooks/niccolo-machiavelli/discourses-on-livy/ninian-hill-thomson",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 36.73,
+        "subjects": "Fantasy, Philosophy",
+        "wordCount": 40337
+      },
+      "creator": "Margaret Cavendish",
+      "description": "40,337 words • 36.73 reading ease Fantasy Philosophy",
+      "externalId": "margaret-cavendish/the-blazing-world",
+      "imageUrl": "https://standardebooks.org/images/covers/margaret-cavendish_the-blazing-world/c4b0c1aad4dbf248816f5005e49d24c1b17bfea3/cover@2x.jpg",
+      "title": "The Blazing World",
+      "url": "https://standardebooks.org/ebooks/margaret-cavendish/the-blazing-world",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    }
+  ]
+}

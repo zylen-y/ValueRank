@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+  "collection": "Top 100: Bolivia",
+  "fetchedAt": "2026-09-27T03:40:45.881Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "BbY WOW",
+      "canonicalUrl": "https://music.apple.com/us/song/bby-wow/6796864754",
+      "creator": "KAROL G, Judeline, rusowsky",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6796864754",
+      "attributes": {
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "BbY WOW 1 KAROL G, Judeline, rusowsky NO ME ARREPIENTO DE SENTIR TANTO PREVIEW 3:45"
+    },
+    {
+      "title": "Te Estoy Correteando",
+      "canonicalUrl": "https://music.apple.com/us/song/te-estoy-correteando/6796842545",
+      "creator": "LATIN MAFIA, Fred again..",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/52/6e/90526e94-89c7-8387-458f-1972f7995d48/1200214495824.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6796842545",
+      "attributes": {
+        "album": "9 months & 50 hours",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Te Estoy Correteando 2 LATIN MAFIA, Fred again.. 9 months & 50 hours PREVIEW 3:13"
+    },
+    {
+      "title": "Yonaguni",
+      "canonicalUrl": "https://music.apple.com/us/song/yonaguni/1570323056",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1570323056",
+      "attributes": {
+        "album": "Yonaguni - Single",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "3",
+        "explicit": true
+      },
+      "evidenceText": "Yonaguni 3 Bad Bunny Yonaguni - Single PREVIEW 3:26"
+    },
+    {
+      "title": "KOKO",
+      "canonicalUrl": "https://music.apple.com/us/song/koko/1877482633",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1877482633",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "4",
+        "explicit": true
+      },
+      "evidenceText": "KOKO 4 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 3:15"
+    },
+    {
+      "title": "Dichavate",
+      "canonicalUrl": "https://music.apple.com/us/song/dichavate/1865959223",
+      "creator": "Ya Ice Dilan, Rey Tony, DJ Honda, Helabusador",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/ea/be/a6eabeb7-b493-8920-2fcc-5209f43f335d/8605020139741.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1865959223",
+      "attributes": {
+        "album": "Dichavate - Single",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "Dichavate 5 Ya Ice Dilan, Rey Tony, DJ Honda, Helabusador Dichavate - Single PREVIEW 4:06"
+    },
+    {
+      "title": "Efecto",
+      "canonicalUrl": "https://music.apple.com/us/song/efecto/1622045954",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1622045954",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "6",
+        "explicit": true
+      },
+      "evidenceText": "Efecto 6 Bad Bunny Un Verano Sin Ti PREVIEW 3:33"
+    },
+    {
+      "title": "Ojitos Lindos",
+      "canonicalUrl": "https://music.apple.com/us/song/ojitos-lindos/1622045962",
+      "creator": "Bad Bunny, Bomba Estéreo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1622045962",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "Ojitos Lindos 7 Bad Bunny, Bomba Estéreo Un Verano Sin Ti PREVIEW 4:18"
+    },
+    {
+      "title": "TE MUDASTE",
+      "canonicalUrl": "https://music.apple.com/us/song/te-mudaste/1542102922",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1542102922",
+      "attributes": {
+        "album": "EL ÚLTIMO TOUR DEL MUNDO",
+        "duration": "2:10",
+        "durationIso": "PT2M10S",
+        "chartPosition": "8",
+        "explicit": true
+      },
+      "evidenceText": "TE MUDASTE 8 Bad Bunny EL ÚLTIMO TOUR DEL MUNDO PREVIEW 2:10"
+    },
+    {
+      "title": "SOBERBIO (REMIX)",
+      "canonicalUrl": "https://music.apple.com/us/song/soberbio-remix/1883937294",
+      "creator": "JERÔME, Corona, Mc Tota",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/0b/43/320b43f8-b6bd-269a-56ed-3a3458f05d28/820200590503.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1883937294",
+      "attributes": {
+        "album": "SOBERBIO (REMIX) - Single",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "9",
+        "explicit": true
+      },
+      "evidenceText": "SOBERBIO (REMIX) 9 JERÔME, Corona, Mc Tota SOBERBIO (REMIX) - Single PREVIEW 3:01"
+    },
+    {
+      "title": "Las mas bonitas son p#tas",
+      "canonicalUrl": "https://music.apple.com/us/song/las-mas-bonitas-son-p-tas/6784402416",
+      "creator": "Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/f2/82/46f28288-8e3d-d4cb-e73f-00863da4603b/820233902649.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6784402416",
+      "attributes": {
+        "album": "Las mas bonitas son p#tas - Single",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "10",
+        "explicit": true
+      },
+      "evidenceText": "Las mas bonitas son p#tas 10 Anuel AA Las mas bonitas son p#tas - Single PREVIEW 2:39"
+    },
+    {
+      "title": "LA CANCIÓN",
+      "canonicalUrl": "https://music.apple.com/us/song/la-canci%C3%B3n/1470146813",
+      "creator": "J Balvin, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1470146813",
+      "attributes": {
+        "album": "OASIS",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "LA CANCIÓN 11 J Balvin, Bad Bunny OASIS PREVIEW 4:02"
+    },
+    {
+      "title": "LA GRACIOSA",
+      "canonicalUrl": "https://music.apple.com/us/song/la-graciosa/1894272112",
+      "creator": "Quevedo, Elvis Crespo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1894272112",
+      "attributes": {
+        "album": "EL BAIFO",
+        "duration": "4:17",
+        "durationIso": "PT4M17S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "LA GRACIOSA 12 Quevedo, Elvis Crespo EL BAIFO PREVIEW 4:17"
+    },
+    {
+      "title": "Qué Pasaría...",
+      "canonicalUrl": "https://music.apple.com/us/song/qu%C3%A9-pasar%C3%ADa/1775462855",
+      "creator": "Rauw Alejandro, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1775462855",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "13",
+        "explicit": true
+      },
+      "evidenceText": "Qué Pasaría... 13 Rauw Alejandro, Bad Bunny Cosa Nuestra PREVIEW 3:11"
+    },
+    {
+      "title": "SUPERESTRELLA",
+      "canonicalUrl": "https://music.apple.com/us/song/superestrella/1814146675",
+      "creator": "Aitana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1814146675",
+      "attributes": {
+        "album": "CUARTO AZUL",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "14",
+        "explicit": true
+      },
+      "evidenceText": "SUPERESTRELLA 14 Aitana CUARTO AZUL PREVIEW 3:03"
+    },
+    {
+      "title": "EXCESOS",
+      "canonicalUrl": "https://music.apple.com/us/song/excesos/1712363845",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/e3/b7/21e3b74f-571b-07ce-567b-a2aa8274c7b2/196871548922.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1712363845",
+      "attributes": {
+        "album": "Pa las Baby's Y Belikeada",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "15",
+        "explicit": false
+      },
+      "evidenceText": "EXCESOS 15 Fuerza Regida Pa las Baby's Y Belikeada PREVIEW 3:07"
+    },
+    {
+      "title": "Cuando No Era Cantante (Remix)",
+      "canonicalUrl": "https://music.apple.com/us/song/cuando-no-era-cantante-remix/6793698180",
+      "creator": "El Bogueto, Anuel AA, Fuerza Regida, Yung Beef",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/43/a1/7443a10d-3fb6-3030-684d-7282a35a32f9/229593.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6793698180",
+      "attributes": {
+        "album": "Cuando No Era Cantante (Remix) - Single",
+        "duration": "5:27",
+        "durationIso": "PT5M27S",
+        "chartPosition": "16",
+        "explicit": true
+      },
+      "evidenceText": "Cuando No Era Cantante (Remix) 16 El Bogueto, Anuel AA, Fuerza Regida, Yung Beef Cuando No Era Cantante (Remix) - Single PREVIEW 5:27"
+    },
+    {
+      "title": "Vete",
+      "canonicalUrl": "https://music.apple.com/us/song/vete/1500776923",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1500776923",
+      "attributes": {
+        "album": "YHLQMDLG",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "17",
+        "explicit": true
+      },
+      "evidenceText": "Vete 17 Bad Bunny YHLQMDLG PREVIEW 3:12"
+    },
+    {
+      "title": "VeLDÁ",
+      "canonicalUrl": "https://music.apple.com/us/song/veld%C3%A1/1787022999",
+      "creator": "Bad Bunny, Omar Courtz, Dei V",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1787022999",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "18",
+        "explicit": true
+      },
+      "evidenceText": "VeLDÁ 18 Bad Bunny, Omar Courtz, Dei V DeBÍ TiRAR MáS FOToS PREVIEW 3:55"
+    },
+    {
+      "title": "De Lejitos (Remix)",
+      "canonicalUrl": "https://music.apple.com/us/song/de-lejitos-remix/6770655342",
+      "creator": "Jay Wheeler, Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/98/7a/71987aa4-557e-61fd-66c8-a5536d21d31c/ticket.snrwquok.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6770655342",
+      "attributes": {
+        "album": "La Voz Favorita",
+        "duration": "4:36",
+        "durationIso": "PT4M36S",
+        "chartPosition": "19",
+        "explicit": true
+      },
+      "evidenceText": "De Lejitos (Remix) 19 Jay Wheeler, Omar Courtz La Voz Favorita PREVIEW 4:36"
+    },
+    {
+      "title": "Callaíta",
+      "canonicalUrl": "https://music.apple.com/us/song/calla%C3%ADta/1465503235",
+      "creator": "Bad Bunny, Tainy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/5d/7c/a85d7c43-777a-f2b7-5abc-1e4d59d8fe7c/193483903545.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1465503235",
+      "attributes": {
+        "album": "Callaíta - Single",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "20",
+        "explicit": true
+      },
+      "evidenceText": "Callaíta 20 Bad Bunny, Tainy Callaíta - Single PREVIEW 4:10"
+    },
+    {
+      "title": "DÁKITI",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%A1kiti/1542103620",
+      "creator": "Bad Bunny, JHAYCO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1542103620",
+      "attributes": {
+        "album": "EL ÚLTIMO TOUR DEL MUNDO",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "21",
+        "explicit": true
+      },
+      "evidenceText": "DÁKITI 21 Bad Bunny, JHAYCO EL ÚLTIMO TOUR DEL MUNDO PREVIEW 3:25"
+    },
+    {
+      "title": "SIEMPRE",
+      "canonicalUrl": "https://music.apple.com/us/song/siempre/1866903508",
+      "creator": "Fran Aliss, Corona",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/83/bf/b983bfa5-9797-506e-8f23-ff3d537b648e/199806901243.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1866903508",
+      "attributes": {
+        "album": "SIEMPRE - Single",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "22",
+        "explicit": true
+      },
+      "evidenceText": "SIEMPRE 22 Fran Aliss, Corona SIEMPRE - Single PREVIEW 2:46"
+    },
+    {
+      "title": "Ya no tengo tiempo",
+      "canonicalUrl": "https://music.apple.com/us/song/ya-no-tengo-tiempo/6764162610",
+      "creator": "Fran Aliss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/74/a1/e074a12f-fe09-1076-b820-71f488d7a510/820233194730.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6764162610",
+      "attributes": {
+        "album": "Ya no tengo tiempo - Single",
+        "duration": "3:58",
+        "durationIso": "PT3M58S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "Ya no tengo tiempo 23 Fran Aliss Ya no tengo tiempo - Single PREVIEW 3:58"
+    },
+    {
+      "title": "TU SANCHO",
+      "canonicalUrl": "https://music.apple.com/us/song/tu-sancho/1804142885",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/0a/a3/510aa39f-7a41-b53c-70a0-6a0df60645bb/196872995978.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1804142885",
+      "attributes": {
+        "album": "111XPANTIA",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "24",
+        "explicit": true
+      },
+      "evidenceText": "TU SANCHO 24 Fuerza Regida 111XPANTIA PREVIEW 2:57"
+    },
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 25 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Pa' Que La Pases Bien",
+      "canonicalUrl": "https://music.apple.com/us/song/pa-que-la-pases-bien/1247228818",
+      "creator": "Arcángel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1247228818",
+      "attributes": {
+        "album": "El Fenómeno",
+        "duration": "3:34",
+        "durationIso": "PT3M34S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "Pa' Que La Pases Bien 26 Arcángel El Fenómeno PREVIEW 3:34"
+    },
+    {
+      "title": "Khé?",
+      "canonicalUrl": "https://music.apple.com/us/song/kh%C3%A9/1775463293",
+      "creator": "Rauw Alejandro, Romeo Santos",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1775463293",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "27",
+        "explicit": false
+      },
+      "evidenceText": "Khé? 27 Rauw Alejandro, Romeo Santos Cosa Nuestra PREVIEW 3:26"
+    },
+    {
+      "title": "Me Porto Bonito",
+      "canonicalUrl": "https://music.apple.com/us/song/me-porto-bonito/1622045634",
+      "creator": "Bad Bunny, Chencho Corleone",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1622045634",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "28",
+        "explicit": true
+      },
+      "evidenceText": "Me Porto Bonito 28 Bad Bunny, Chencho Corleone Un Verano Sin Ti PREVIEW 2:58"
+    },
+    {
+      "title": "Dile a El",
+      "canonicalUrl": "https://music.apple.com/us/song/dile-a-el/1536861744",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/85/36/3585365d-4678-0648-1bfd-76ea49ba8c9c/886448841388.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1536861744",
+      "attributes": {
+        "album": "Afrodisíaco",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "29",
+        "explicit": true
+      },
+      "evidenceText": "Dile a El 29 Rauw Alejandro Afrodisíaco PREVIEW 3:29"
+    },
+    {
+      "title": "⁠LUCES DE COLORES",
+      "canonicalUrl": "https://music.apple.com/us/song/luces-de-colores/1760194670",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1760194670",
+      "attributes": {
+        "album": "PRIMERA MUSA",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "30",
+        "explicit": true
+      },
+      "evidenceText": "⁠LUCES DE COLORES 30 Omar Courtz PRIMERA MUSA PREVIEW 3:36"
+    },
+    {
+      "title": "MOJABI GHOST",
+      "canonicalUrl": "https://music.apple.com/us/song/mojabi-ghost/1709197783",
+      "creator": "Tainy, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ad/da/1f/adda1f4a-f2d3-fe31-c965-e0753d2990ad/196922654572_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1709197783",
+      "attributes": {
+        "album": "DATA",
+        "duration": "3:52",
+        "durationIso": "PT3M52S",
+        "chartPosition": "31",
+        "explicit": true
+      },
+      "evidenceText": "MOJABI GHOST 31 Tainy, Bad Bunny DATA PREVIEW 3:52"
+    },
+    {
+      "title": "COQUETA",
+      "canonicalUrl": "https://music.apple.com/us/song/coqueta/1786262016",
+      "creator": "Fuerza Regida, Grupo Frontera",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/96/9e/ba969e5d-857d-bbda-08e2-edc08642d188/196872772869.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1786262016",
+      "attributes": {
+        "album": "MALA MÍA - EP",
+        "duration": "4:01",
+        "durationIso": "PT4M1S",
+        "chartPosition": "32",
+        "explicit": false
+      },
+      "evidenceText": "COQUETA 32 Fuerza Regida, Grupo Frontera MALA MÍA - EP PREVIEW 4:01"
+    },
+    {
+      "title": "no tiene sentido",
+      "canonicalUrl": "https://music.apple.com/us/song/no-tiene-sentido/1812537122",
+      "creator": "Beéle",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/95/6b/8b956b63-4f21-899a-f912-f1c8a9f5d9f5/196873015750.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1812537122",
+      "attributes": {
+        "album": "BORONDO",
+        "duration": "2:38",
+        "durationIso": "PT2M38S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "no tiene sentido 33 Beéle BORONDO PREVIEW 2:38"
+    },
+    {
+      "title": "LUNA",
+      "canonicalUrl": "https://music.apple.com/us/song/luna/1719170507",
+      "creator": "Feid, ATL Jacob",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1719170507",
+      "attributes": {
+        "album": "FERXXOCALIPSIS",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "LUNA 34 Feid, ATL Jacob FERXXOCALIPSIS PREVIEW 3:16"
+    },
+    {
+      "title": "EoO",
+      "canonicalUrl": "https://music.apple.com/us/song/eoo/1787023929",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1787023929",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:24",
+        "durationIso": "PT3M24S",
+        "chartPosition": "35",
+        "explicit": true
+      },
+      "evidenceText": "EoO 35 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 3:24"
+    },
+    {
+      "title": "Q U E V A S H A C E R H O Y ?",
+      "canonicalUrl": "https://music.apple.com/us/song/q-u-e-v-a-s-h-a-c-e-r-h-o-y/1760194559",
+      "creator": "Omar Courtz, De La Rose",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1760194559",
+      "attributes": {
+        "album": "PRIMERA MUSA",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "36",
+        "explicit": true
+      },
+      "evidenceText": "Q U E V A S H A C E R H O Y ? 36 Omar Courtz, De La Rose PRIMERA MUSA PREVIEW 3:44"
+    },
+    {
+      "title": "Hey Mor (feat. Feid)",
+      "canonicalUrl": "https://music.apple.com/us/song/hey-mor-feat-feid/1646180883",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/b1/35/46b135cc-592e-8b51-1e91-ac955d4200a0/196925396240.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1646180883",
+      "attributes": {
+        "album": "OzuTochi",
+        "duration": "3:16",
+        "durationIso": "PT3M16S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "Hey Mor (feat. Feid) 37 Ozuna OzuTochi PREVIEW 3:16"
+    },
+    {
+      "title": "BAILE INoLVIDABLE",
+      "canonicalUrl": "https://music.apple.com/us/song/baile-inolvidable/1787022842",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1787022842",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "6:07",
+        "durationIso": "PT6M7S",
+        "chartPosition": "38",
+        "explicit": true
+      },
+      "evidenceText": "BAILE INoLVIDABLE 38 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 6:07"
+    },
+    {
+      "title": "Hipnotizado",
+      "canonicalUrl": "https://music.apple.com/us/song/hipnotizado/6805612098",
+      "creator": "Fran Aliss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/c7/ac/c3c7acb8-f7d7-a103-0bc7-79453a01fd67/885288425055.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6805612098",
+      "attributes": {
+        "album": "Hipnotizado - Single",
+        "duration": "3:23",
+        "durationIso": "PT3M23S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "Hipnotizado 39 Fran Aliss Hipnotizado - Single PREVIEW 3:23"
+    },
+    {
+      "title": "DILUVIO",
+      "canonicalUrl": "https://music.apple.com/us/song/diluvio/1695651429",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1695651429",
+      "attributes": {
+        "album": "PLAYA SATURNO",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "40",
+        "explicit": true
+      },
+      "evidenceText": "DILUVIO 40 Rauw Alejandro PLAYA SATURNO PREVIEW 3:17"
+    },
+    {
+      "title": "Si Antes Te Hubiera Conocido",
+      "canonicalUrl": "https://music.apple.com/us/song/si-antes-te-hubiera-conocido/1752031539",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1752031539",
+      "attributes": {
+        "album": "Si Antes Te Hubiera Conocido - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "Si Antes Te Hubiera Conocido 41 KAROL G Si Antes Te Hubiera Conocido - Single PREVIEW 3:15"
+    },
+    {
+      "title": "11 PM",
+      "canonicalUrl": "https://music.apple.com/us/song/11-pm/1461912470",
+      "creator": "Maluma",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/09/c5/c2/09c5c2c4-b022-bcbe-a3ab-7e85e1d7084d/886447616321.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1461912470",
+      "attributes": {
+        "album": "11:11",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "11 PM 42 Maluma 11:11 PREVIEW 2:55"
+    },
+    {
+      "title": "ME JALO",
+      "canonicalUrl": "https://music.apple.com/us/song/me-jalo/1786262012",
+      "creator": "Fuerza Regida, Grupo Frontera",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/96/9e/ba969e5d-857d-bbda-08e2-edc08642d188/196872772869.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1786262012",
+      "attributes": {
+        "album": "MALA MÍA - EP",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "43",
+        "explicit": true
+      },
+      "evidenceText": "ME JALO 43 Fuerza Regida, Grupo Frontera MALA MÍA - EP PREVIEW 3:32"
+    },
+    {
+      "title": "ERROR 403",
+      "canonicalUrl": "https://music.apple.com/us/song/error-403/1716952959",
+      "creator": "Lu de la Tower, Corona",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/77/94/bf7794ea-c644-fd7d-14d6-07eed03c612b/8447053027417.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1716952959",
+      "attributes": {
+        "album": "ERROR 403 - Single",
+        "duration": "2:29",
+        "durationIso": "PT2M29S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "ERROR 403 44 Lu de la Tower, Corona ERROR 403 - Single PREVIEW 2:29"
+    },
+    {
+      "title": "Fuga",
+      "canonicalUrl": "https://music.apple.com/us/song/fuga/6770655331",
+      "creator": "Jay Wheeler",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/98/7a/71987aa4-557e-61fd-66c8-a5536d21d31c/ticket.snrwquok.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6770655331",
+      "attributes": {
+        "album": "La Voz Favorita",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "45",
+        "explicit": true
+      },
+      "evidenceText": "Fuga 45 Jay Wheeler La Voz Favorita PREVIEW 3:01"
+    },
+    {
+      "title": "AMARGURA",
+      "canonicalUrl": "https://music.apple.com/us/song/amargura/1670246089",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1670246089",
+      "attributes": {
+        "album": "MAÑANA SERÁ BONITO",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "46",
+        "explicit": true
+      },
+      "evidenceText": "AMARGURA 46 KAROL G MAÑANA SERÁ BONITO PREVIEW 2:50"
+    },
+    {
+      "title": "Macacoa 2000",
+      "canonicalUrl": "https://music.apple.com/us/song/macacoa-2000/6812477299",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6812477299",
+      "attributes": {
+        "album": "Grand Theft Auto VI: The Album",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "47",
+        "explicit": true
+      },
+      "evidenceText": "Macacoa 2000 47 Rauw Alejandro Grand Theft Auto VI: The Album PREVIEW 2:53"
+    },
+    {
+      "title": "Safari (feat. Pharrell Williams, BIA & Sky)",
+      "canonicalUrl": "https://music.apple.com/us/song/safari-feat-pharrell-williams-bia-sky/1526901701",
+      "creator": "J Balvin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6b/5c/77/6b5c7743-5e90-52a4-23bb-b7a3de19a681/21UM1IM03179.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1526901701",
+      "attributes": {
+        "album": "Summer Vacation - EP",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Safari (feat. Pharrell Williams, BIA & Sky) 48 J Balvin Summer Vacation - EP PREVIEW 3:25"
+    },
+    {
+      "title": "Hasta Que Dios Diga",
+      "canonicalUrl": "https://music.apple.com/us/song/hasta-que-dios-diga/1515739167",
+      "creator": "Anuel AA, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/95/c7/5095c702-2159-c3ac-be67-9a1c16cc0ed9/195081694399.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1515739167",
+      "attributes": {
+        "album": "Emmanuel",
+        "duration": "4:06",
+        "durationIso": "PT4M6S",
+        "chartPosition": "49",
+        "explicit": true
+      },
+      "evidenceText": "Hasta Que Dios Diga 49 Anuel AA, Bad Bunny Emmanuel PREVIEW 4:06"
+    },
+    {
+      "title": "Tuyo",
+      "canonicalUrl": "https://music.apple.com/us/song/tuyo/1552010795",
+      "creator": "Mora",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/f1/f4/8cf1f4c0-9eff-8b85-7310-5cc6d8ffc081/196006084233.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1552010795",
+      "attributes": {
+        "album": "Primer Día de Clases",
+        "duration": "4:29",
+        "durationIso": "PT4M29S",
+        "chartPosition": "50",
+        "explicit": true
+      },
+      "evidenceText": "Tuyo 50 Mora Primer Día de Clases PREVIEW 4:29"
+    },
+    {
+      "title": "Coco Chanel",
+      "canonicalUrl": "https://music.apple.com/us/song/coco-chanel/1676736128",
+      "creator": "Eladio Carrión, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2d/59/b6/2d59b6d2-bd1a-474c-1ee6-09099dce30d6/197188331313.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1676736128",
+      "attributes": {
+        "album": "3MEN2 KBRN",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "51",
+        "explicit": true
+      },
+      "evidenceText": "Coco Chanel 51 Eladio Carrión, Bad Bunny 3MEN2 KBRN PREVIEW 3:28"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "52",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 52 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "AL GOLPITO",
+      "canonicalUrl": "https://music.apple.com/us/song/al-golpito/1894271858",
+      "creator": "Quevedo, Nueva Línea",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1894271858",
+      "attributes": {
+        "album": "EL BAIFO",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "AL GOLPITO 53 Quevedo, Nueva Línea EL BAIFO PREVIEW 3:27"
+    },
+    {
+      "title": "L a k e n o s h i",
+      "canonicalUrl": "https://music.apple.com/us/song/l-a-k-e-n-o-s-h-i/1877482430",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1877482430",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "54",
+        "explicit": true
+      },
+      "evidenceText": "L a k e n o s h i 54 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 3:27"
+    },
+    {
+      "title": "Amanece",
+      "canonicalUrl": "https://music.apple.com/us/song/amanece/1445474682",
+      "creator": "Anuel AA, Haze",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bb/60/83/bb6083b2-1d5d-4459-6f8e-870954717c96/050742349004_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1445474682",
+      "attributes": {
+        "album": "Amanece - Single",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "55",
+        "explicit": true
+      },
+      "evidenceText": "Amanece 55 Anuel AA, Haze Amanece - Single PREVIEW 3:10"
+    },
+    {
+      "title": "QUÉ PRETENDES",
+      "canonicalUrl": "https://music.apple.com/us/song/qu%C3%A9-pretendes/1470146805",
+      "creator": "J Balvin, Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1470146805",
+      "attributes": {
+        "album": "OASIS",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "QUÉ PRETENDES 56 J Balvin, Bad Bunny OASIS PREVIEW 3:42"
+    },
+    {
+      "title": "POR SI MAÑANA NO ESTOY",
+      "canonicalUrl": "https://music.apple.com/us/song/por-si-ma%C3%B1ana-no-estoy/1877482849",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1877482849",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "4:24",
+        "durationIso": "PT4M24S",
+        "chartPosition": "57",
+        "explicit": true
+      },
+      "evidenceText": "POR SI MAÑANA NO ESTOY 57 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 4:24"
+    },
+    {
+      "title": "CHOLERO FUNK",
+      "canonicalUrl": "https://music.apple.com/us/song/cholero-funk/6802891324",
+      "creator": "JERÔME, Tupay",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/c4/7e/dbc47ef9-bab1-7ad5-39e7-c6f3ecbc0287/885288285611.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6802891324",
+      "attributes": {
+        "album": "FUNKY BOLIVIANO",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "CHOLERO FUNK 58 JERÔME, Tupay FUNKY BOLIVIANO PREVIEW 3:17"
+    },
+    {
+      "title": "La Foto",
+      "canonicalUrl": "https://music.apple.com/us/song/la-foto/1759642319",
+      "creator": "Luis Vega",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/d5/29/a9d529aa-2c12-6b5b-eb67-f1ae6f3cd547/7509848030864.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1759642319",
+      "attributes": {
+        "album": "La Foto - Single",
+        "duration": "3:13",
+        "durationIso": "PT3M13S",
+        "chartPosition": "59",
+        "explicit": false
+      },
+      "evidenceText": "La Foto 59 Luis Vega La Foto - Single PREVIEW 3:13"
+    },
+    {
+      "title": "Déjame Entrar",
+      "canonicalUrl": "https://music.apple.com/us/song/d%C3%A9jame-entrar/1775462852",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1775462852",
+      "attributes": {
+        "album": "Cosa Nuestra",
+        "duration": "4:14",
+        "durationIso": "PT4M14S",
+        "chartPosition": "60",
+        "explicit": true
+      },
+      "evidenceText": "Déjame Entrar 60 Rauw Alejandro Cosa Nuestra PREVIEW 4:14"
+    },
+    {
+      "title": "Insuperable",
+      "canonicalUrl": "https://music.apple.com/us/song/insuperable/1825214129",
+      "creator": "Luis Vega",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/e5/16/83e516bc-8b5a-95ae-7a84-3611ff36bc5d/196032629453.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1825214129",
+      "attributes": {
+        "album": "Insuperable - Single",
+        "duration": "2:51",
+        "durationIso": "PT2M51S",
+        "chartPosition": "61",
+        "explicit": false
+      },
+      "evidenceText": "Insuperable 61 Luis Vega Insuperable - Single PREVIEW 2:51"
+    },
+    {
+      "title": "LA INOCENTE",
+      "canonicalUrl": "https://music.apple.com/us/song/la-inocente/1617075257",
+      "creator": "Mora, Feid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/4f/71/5b4f715a-5323-cc45-382a-7d0b4b69f418/196626706898.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1617075257",
+      "attributes": {
+        "album": "MICRODOSIS",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "62",
+        "explicit": true
+      },
+      "evidenceText": "LA INOCENTE 62 Mora, Feid MICRODOSIS PREVIEW 3:22"
+    },
+    {
+      "title": "Todo De Ti",
+      "canonicalUrl": "https://music.apple.com/us/song/todo-de-ti/1567154924",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/d6/4d/24d64d11-dcba-a475-7a0f-87fbef4c6ba6/886449222681.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1567154924",
+      "attributes": {
+        "album": "Todo De Ti - Single",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "63",
+        "explicit": true
+      },
+      "evidenceText": "Todo De Ti 63 Rauw Alejandro Todo De Ti - Single PREVIEW 3:19"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 64 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "neo roneo",
+      "canonicalUrl": "https://music.apple.com/us/song/neo-roneo/1761885875",
+      "creator": "rusowsky, LATIN MAFIA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/92/a7/0392a738-9c23-4d9b-ce73-60a514fb5b08/054391249197.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1761885875",
+      "attributes": {
+        "album": "neo roneo - Single",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "neo roneo 65 rusowsky, LATIN MAFIA neo roneo - Single PREVIEW 2:46"
+    },
+    {
+      "title": "Dueles",
+      "canonicalUrl": "https://music.apple.com/us/song/dueles/1056389999",
+      "creator": "Jesse & Joy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f1/df/95/f1df95e7-2f98-595b-b43c-47e65e4e5f4d/mzm.xdnsvjcu.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1056389999",
+      "attributes": {
+        "album": "Un Besito Más",
+        "duration": "4:07",
+        "durationIso": "PT4M7S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "Dueles 66 Jesse & Joy Un Besito Más PREVIEW 4:07"
+    },
+    {
+      "title": "AURORA",
+      "canonicalUrl": "https://music.apple.com/us/song/aurora/1811397153",
+      "creator": "Mora, De La Rose",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/a1/3f/01a13ff7-c95c-9cb6-2776-695f8ed829d3/199350474521.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1811397153",
+      "attributes": {
+        "album": "LO MISMO DE SIEMPRE",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "67",
+        "explicit": true
+      },
+      "evidenceText": "AURORA 67 Mora, De La Rose LO MISMO DE SIEMPRE PREVIEW 3:12"
+    },
+    {
+      "title": "top diesel",
+      "canonicalUrl": "https://music.apple.com/us/song/top-diesel/1812537134",
+      "creator": "Beéle",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/95/6b/8b956b63-4f21-899a-f912-f1c8a9f5d9f5/196873015750.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1812537134",
+      "attributes": {
+        "album": "BORONDO",
+        "duration": "3:09",
+        "durationIso": "PT3M9S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "top diesel 68 Beéle BORONDO PREVIEW 3:09"
+    },
+    {
+      "title": "VAMO A VEL",
+      "canonicalUrl": "https://music.apple.com/us/song/vamo-a-vel/6808400640",
+      "creator": "ROA, Anuel AA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/66/11/50661123-1d80-1054-62f2-2e786fa631c3/26UM1IM14326.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6808400640",
+      "attributes": {
+        "album": "VAMO A VEL - Single",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "69",
+        "explicit": true
+      },
+      "evidenceText": "VAMO A VEL 69 ROA, Anuel AA VAMO A VEL - Single PREVIEW 4:00"
+    },
+    {
+      "title": "Se Preparó",
+      "canonicalUrl": "https://music.apple.com/us/song/se-prepar%C3%B3/1269286798",
+      "creator": "Ozuna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/7c/1b/df7c1b32-0fca-94f0-866b-ba89e420ca04/697691884103.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1269286798",
+      "attributes": {
+        "album": "Odisea",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "Se Preparó 70 Ozuna Odisea PREVIEW 3:08"
+    },
+    {
+      "title": "Me Rehúso",
+      "canonicalUrl": "https://music.apple.com/us/song/me-reh%C3%BAso/1248528301",
+      "creator": "Danny Ocean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/38/8c/26/388c26af-a2d3-bb9c-391d-bf02e3b2319c/190296949630.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1248528301",
+      "attributes": {
+        "album": "Me Rehúso - Single",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "Me Rehúso 71 Danny Ocean Me Rehúso - Single PREVIEW 3:25"
+    },
+    {
+      "title": "NEL",
+      "canonicalUrl": "https://music.apple.com/us/song/nel/1759045296",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1759045296",
+      "attributes": {
+        "album": "PERO NO TE ENAMORES",
+        "duration": "2:29",
+        "durationIso": "PT2M29S",
+        "chartPosition": "72",
+        "explicit": true
+      },
+      "evidenceText": "NEL 72 Fuerza Regida PERO NO TE ENAMORES PREVIEW 2:29"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 73 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "SORRY 4 THAT MUCH",
+      "canonicalUrl": "https://music.apple.com/us/song/sorry-4-that-much/1750132050",
+      "creator": "Feid",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/20/ab/9c20ab01-62e6-239c-fcce-79dc1d711ac1/24UMGIM61720.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1750132050",
+      "attributes": {
+        "album": "SORRY 4 THAT MUCH - Single",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "74",
+        "explicit": true
+      },
+      "evidenceText": "SORRY 4 THAT MUCH 74 Feid SORRY 4 THAT MUCH - Single PREVIEW 3:27"
+    },
+    {
+      "title": "SI ESTÁS CON ALGUIEN",
+      "canonicalUrl": "https://music.apple.com/us/song/si-est%C3%A1s-con-alguien/1877482619",
+      "creator": "Omar Courtz",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1877482619",
+      "attributes": {
+        "album": "POR SI MAÑANA NO ESTOY",
+        "duration": "4:11",
+        "durationIso": "PT4M11S",
+        "chartPosition": "75",
+        "explicit": true
+      },
+      "evidenceText": "SI ESTÁS CON ALGUIEN 75 Omar Courtz POR SI MAÑANA NO ESTOY PREVIEW 4:11"
+    },
+    {
+      "title": "LATINA FOREVA",
+      "canonicalUrl": "https://music.apple.com/us/song/latina-foreva/1819544623",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/39/f5/1e39f58c-e5c1-6431-d6ed-d6c32e29d63f/25UMGIM79234.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1819544623",
+      "attributes": {
+        "album": "Tropicoqueta",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "76",
+        "explicit": true
+      },
+      "evidenceText": "LATINA FOREVA 76 KAROL G Tropicoqueta PREVIEW 2:39"
+    },
+    {
+      "title": "DONDE SE APRENDE A QUERER?",
+      "canonicalUrl": "https://music.apple.com/us/song/donde-se-aprende-a-querer/1704060593",
+      "creator": "Mora",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/e3/6d/ffe36d58-d153-826d-4f7f-7ba38e81c75a/197189639050.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1704060593",
+      "attributes": {
+        "album": "ESTRELLA",
+        "duration": "2:24",
+        "durationIso": "PT2M24S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "DONDE SE APRENDE A QUERER? 77 Mora ESTRELLA PREVIEW 2:24"
+    },
+    {
+      "title": "Brickell",
+      "canonicalUrl": "https://music.apple.com/us/song/brickell/1740674376",
+      "creator": "Feid, Yandel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/48/03/cf480322-e907-87b3-e933-217d2a73892e/24UMGIM42176.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1740674376",
+      "attributes": {
+        "album": "MANIFESTING 20-05 - EP",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "78",
+        "explicit": true
+      },
+      "evidenceText": "Brickell 78 Feid, Yandel MANIFESTING 20-05 - EP PREVIEW 3:00"
+    },
+    {
+      "title": "DtMF",
+      "canonicalUrl": "https://music.apple.com/us/song/dtmf/1787023936",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1787023936",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "79",
+        "explicit": true
+      },
+      "evidenceText": "DtMF 79 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 3:57"
+    },
+    {
+      "title": "Holanda",
+      "canonicalUrl": "https://music.apple.com/us/song/holanda/1699106722",
+      "creator": "JHAYCO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/c6/ff/a6c6ff16-b92a-72f6-600c-112d69305cd6/23UMGIM80474.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1699106722",
+      "attributes": {
+        "album": "Holanda - Single",
+        "duration": "3:51",
+        "durationIso": "PT3M51S",
+        "chartPosition": "80",
+        "explicit": true
+      },
+      "evidenceText": "Holanda 80 JHAYCO Holanda - Single PREVIEW 3:51"
+    },
+    {
+      "title": "LA FALDA",
+      "canonicalUrl": "https://music.apple.com/us/song/la-falda/1717187395",
+      "creator": "Myke Towers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/f9/40/fdf9402c-95ae-8152-17b0-984649c6172a/5054197903205.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1717187395",
+      "attributes": {
+        "album": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "duration": "2:54",
+        "durationIso": "PT2M54S",
+        "chartPosition": "81",
+        "explicit": true
+      },
+      "evidenceText": "LA FALDA 81 Myke Towers LVEU: VIVE LA TUYA...NO LA MIA PREVIEW 2:54"
+    },
+    {
+      "title": "La Plena (W Sound 05)",
+      "canonicalUrl": "https://music.apple.com/us/song/la-plena-w-sound-05/1796306971",
+      "creator": "W Sound, Beéle, Ovy On the Drums",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/45/82/f0458283-370b-26e6-c592-a66df10ab07d/5021732661593.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1796306971",
+      "attributes": {
+        "album": "La Plena (W Sound 05) - Single",
+        "duration": "2:30",
+        "durationIso": "PT2M30S",
+        "chartPosition": "82",
+        "explicit": true
+      },
+      "evidenceText": "La Plena (W Sound 05) 82 W Sound, Beéle, Ovy On the Drums La Plena (W Sound 05) - Single PREVIEW 2:30"
+    },
+    {
+      "title": "Qué ironía",
+      "canonicalUrl": "https://music.apple.com/us/song/qu%C3%A9-iron%C3%ADa/6805997092",
+      "creator": "La T y la M, J Balvin",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/49/6d/fd496dd1-e6a0-b1a8-9c34-5ee12f1a2cf3/196874653005.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6805997092",
+      "attributes": {
+        "album": "Qué ironía - Single",
+        "duration": "2:17",
+        "durationIso": "PT2M17S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "Qué ironía 83 La T y la M, J Balvin Qué ironía - Single PREVIEW 2:17"
+    },
+    {
+      "title": "SAYA FUNK",
+      "canonicalUrl": "https://music.apple.com/us/song/saya-funk/6788145704",
+      "creator": "JERÔME, Mc Leléto",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/08/b6/b708b6c7-436b-335f-e232-19649be0708c/820233976862.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6788145704",
+      "attributes": {
+        "album": "SAYA FUNK - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "SAYA FUNK 84 JERÔME, Mc Leléto SAYA FUNK - Single PREVIEW 3:15"
+    },
+    {
+      "title": "Moscow Mule",
+      "canonicalUrl": "https://music.apple.com/us/song/moscow-mule/1622045625",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1622045625",
+      "attributes": {
+        "album": "Un Verano Sin Ti",
+        "duration": "4:05",
+        "durationIso": "PT4M5S",
+        "chartPosition": "85",
+        "explicit": true
+      },
+      "evidenceText": "Moscow Mule 85 Bad Bunny Un Verano Sin Ti PREVIEW 4:05"
+    },
+    {
+      "title": "Mi Refe",
+      "canonicalUrl": "https://music.apple.com/us/song/mi-refe/1780922407",
+      "creator": "Beéle, Ovy On the Drums",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/05/5c/50055c58-0020-4fc1-7ec3-973e94123c39/196872465983.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1780922407",
+      "attributes": {
+        "album": "Mi Refe - Single",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "Mi Refe 86 Beéle, Ovy On the Drums Mi Refe - Single PREVIEW 2:39"
+    },
+    {
+      "title": "LOKERA",
+      "canonicalUrl": "https://music.apple.com/us/song/lokera/1665295987",
+      "creator": "Rauw Alejandro, Lyanno, Brray",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/99/0f/ef/990fefcb-db12-0cf0-90f9-44115c095c73/196589764720.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1665295987",
+      "attributes": {
+        "album": "SATURNO",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "87",
+        "explicit": true
+      },
+      "evidenceText": "LOKERA 87 Rauw Alejandro, Lyanno, Brray SATURNO PREVIEW 3:17"
+    },
+    {
+      "title": "VOY A LLeVARTE PA PR",
+      "canonicalUrl": "https://music.apple.com/us/song/voy-a-llevarte-pa-pr/1787022587",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1787022587",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "88",
+        "explicit": true
+      },
+      "evidenceText": "VOY A LLeVARTE PA PR 88 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 2:36"
+    },
+    {
+      "title": "Qué Onda",
+      "canonicalUrl": "https://music.apple.com/us/song/qu%C3%A9-onda/1705125233",
+      "creator": "Calle 24, Chino Pacas, Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/32/72/2c327216-8562-911a-f6e8-5c268f55afd6/717340552815_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1705125233",
+      "attributes": {
+        "album": "Qué Onda - Single",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "89",
+        "explicit": true
+      },
+      "evidenceText": "Qué Onda 89 Calle 24, Chino Pacas, Fuerza Regida Qué Onda - Single PREVIEW 3:11"
+    },
+    {
+      "title": "QLONA",
+      "canonicalUrl": "https://music.apple.com/us/song/qlona/1699662671",
+      "creator": "KAROL G, Peso Pluma",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1699662671",
+      "attributes": {
+        "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+        "duration": "2:52",
+        "durationIso": "PT2M52S",
+        "chartPosition": "90",
+        "explicit": true
+      },
+      "evidenceText": "QLONA 90 KAROL G, Peso Pluma MAÑANA SERÁ BONITO (BICHOTA SEASON) PREVIEW 2:52"
+    },
+    {
+      "title": "Marlboro Rojo",
+      "canonicalUrl": "https://music.apple.com/us/song/marlboro-rojo/1804142886",
+      "creator": "Fuerza Regida",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/0a/a3/510aa39f-7a41-b53c-70a0-6a0df60645bb/196872995978.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1804142886",
+      "attributes": {
+        "album": "111XPANTIA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "91",
+        "explicit": true
+      },
+      "evidenceText": "Marlboro Rojo 91 Fuerza Regida 111XPANTIA PREVIEW 3:04"
+    },
+    {
+      "title": "QLOO*",
+      "canonicalUrl": "https://music.apple.com/us/song/qloo/1814889919",
+      "creator": "Young Cister, Kreamly",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/e0/2f/30e02f69-f1d1-72a3-48f1-12622b7d886c/196873191843.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1814889919",
+      "attributes": {
+        "album": "QLOO* - Single",
+        "duration": "2:26",
+        "durationIso": "PT2M26S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "QLOO* 92 Young Cister, Kreamly QLOO* - Single PREVIEW 2:26"
+    },
+    {
+      "title": "Lo Siento BB:/",
+      "canonicalUrl": "https://music.apple.com/us/song/lo-siento-bb/1586673104",
+      "creator": "Tainy, Bad Bunny, Julieta Venegas",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5d/6a/00/5d6a0054-5145-6011-c638-3e2666d0e8dd/192641833472_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1586673104",
+      "attributes": {
+        "album": "Lo Siento BB:/ - Single",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "93",
+        "explicit": false
+      },
+      "evidenceText": "Lo Siento BB:/ 93 Tainy, Bad Bunny, Julieta Venegas Lo Siento BB:/ - Single PREVIEW 3:27"
+    },
+    {
+      "title": "WHERE SHE GOES",
+      "canonicalUrl": "https://music.apple.com/us/song/where-she-goes/1687809996",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/b7/0e/adb70ef8-c456-3b31-136c-450d196d7cda/197188909819.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1687809996",
+      "attributes": {
+        "album": "WHERE SHE GOES - Single",
+        "duration": "3:51",
+        "durationIso": "PT3M51S",
+        "chartPosition": "94",
+        "explicit": true
+      },
+      "evidenceText": "WHERE SHE GOES 94 Bad Bunny WHERE SHE GOES - Single PREVIEW 3:51"
+    },
+    {
+      "title": "PAPAYA",
+      "canonicalUrl": "https://music.apple.com/us/song/papaya/6777325934",
+      "creator": "Eddy LaBusch",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/65/aa/e865aaba-c54c-efea-d9fc-9bdab3bc4190/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6777325934",
+      "attributes": {
+        "album": "PAPAYA - Single",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "95",
+        "explicit": false
+      },
+      "evidenceText": "PAPAYA 95 Eddy LaBusch PAPAYA - Single PREVIEW 3:12"
+    },
+    {
+      "title": "SEJODIOTO",
+      "canonicalUrl": "https://music.apple.com/us/song/sejodioto/1586194354",
+      "creator": "KAROL G",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/6e/d3/396ed3df-c154-f562-e9e3-202361a1406a/21UM1IM11796.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1586194354",
+      "attributes": {
+        "album": "SEJODIOTO - Single",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "96",
+        "explicit": true
+      },
+      "evidenceText": "SEJODIOTO 96 KAROL G SEJODIOTO - Single PREVIEW 3:00"
+    },
+    {
+      "title": "Encantadora",
+      "canonicalUrl": "https://music.apple.com/us/song/encantadora/1046026054",
+      "creator": "Yandel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/70/53/c77053a9-01ba-55e6-338d-8e617daccabb/886445457346.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1046026054",
+      "attributes": {
+        "album": "Dangerous",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "Encantadora 97 Yandel Dangerous PREVIEW 4:00"
+    },
+    {
+      "title": "YOGURCITO REMIX (feat. ROA, Yan Block)",
+      "canonicalUrl": "https://music.apple.com/us/song/yogurcito-remix-feat-roa-yan-block/1834983632",
+      "creator": "Blessd, Anuel AA, Kris R., Luar La L",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/a5/13/22a513f5-01b0-7001-26b0-46e01b903218/5021732963437.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1834983632",
+      "attributes": {
+        "album": "YOGURCITO REMIX (feat. ROA, Yan Block) - Single",
+        "duration": "6:15",
+        "durationIso": "PT6M15S",
+        "chartPosition": "98",
+        "explicit": true
+      },
+      "evidenceText": "YOGURCITO REMIX (feat. ROA, Yan Block) 98 Blessd, Anuel AA, Kris R., Luar La L YOGURCITO REMIX (feat. ROA, Yan Block) - Single PREVIEW 6:15"
+    },
+    {
+      "title": "BnB",
+      "canonicalUrl": "https://music.apple.com/us/song/bnb/6769579994",
+      "creator": "Young Miko, Clarent",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/a1/98/e4a1980a-1b1e-cbbe-612f-51d5a0516114/850083983352_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "6769579994",
+      "attributes": {
+        "album": "Do Not Disturb: Late Checkout",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "99",
+        "explicit": true
+      },
+      "evidenceText": "BnB 99 Young Miko, Clarent Do Not Disturb: Late Checkout PREVIEW 2:37"
+    },
+    {
+      "title": "Buenos Términos",
+      "canonicalUrl": "https://music.apple.com/us/song/buenos-t%C3%A9rminos/1839980822",
+      "creator": "Rauw Alejandro",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/2b/5f/1c2b5fdf-9a6a-9e07-bea3-ff92f7da2796/196873615424.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-bolivia/pl.cfcd547b034d47648a16fb8e2df0623f",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Bolivia",
+      "externalId": "1839980822",
+      "attributes": {
+        "album": "Cosa Nuestra: Capítulo 0",
+        "duration": "2:28",
+        "durationIso": "PT2M28S",
+        "chartPosition": "100",
+        "explicit": true
+      },
+      "evidenceText": "Buenos Términos 100 Rauw Alejandro Cosa Nuestra: Capítulo 0 PREVIEW 2:28"
+    }
+  ]
+}

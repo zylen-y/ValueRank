@@ -1,0 +1,4 @@
+Observed current browser DOM after timed-out navigation.
+URL: https://arxiv.org/search/?query=recommender%20systems&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=0
+Body: Rate exceeded.
+No result cards. Collection stopped.

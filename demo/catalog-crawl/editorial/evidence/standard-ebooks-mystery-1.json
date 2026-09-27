@@ -1,0 +1,1019 @@
+{
+  "url": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+  "title": "Browse Standard Ebooks - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover",
+  "heading": "Browse Ebooks",
+  "observedAt": "2026-09-27T00:12:14.077Z",
+  "itemCount": 48,
+  "items": [
+    {
+      "attributes": {
+        "readingEase": 80.51,
+        "subjects": "Fiction, Mystery, Shorts",
+        "wordCount": 104582
+      },
+      "creator": "Arthur Conan Doyle",
+      "description": "104,582 words • 80.51 reading ease Fiction Mystery Shorts",
+      "externalId": "arthur-conan-doyle/the-adventures-of-sherlock-holmes",
+      "imageUrl": "https://standardebooks.org/images/covers/arthur-conan-doyle_the-adventures-of-sherlock-holmes/a8e833d443c0db97e1e05312725bbf2a406f0df8/cover@2x.jpg",
+      "title": "The Adventures of Sherlock Holmes",
+      "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 70.33,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 143801
+      },
+      "creator": "Anna Katharine Green",
+      "description": "143,801 words • 70.33 reading ease Fiction Mystery",
+      "externalId": "anna-katharine-green/hand-and-ring",
+      "imageUrl": "https://standardebooks.org/images/covers/anna-katharine-green_hand-and-ring/cd12fa279bab2f216e0d16461cdfb1bdb2f57830/cover@2x.jpg",
+      "title": "Hand and Ring",
+      "url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.65,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 43367
+      },
+      "creator": "Arthur Conan Doyle",
+      "description": "43,367 words • 71.65 reading ease Fiction Mystery",
+      "externalId": "arthur-conan-doyle/a-study-in-scarlet",
+      "imageUrl": "https://standardebooks.org/images/covers/arthur-conan-doyle_a-study-in-scarlet/44a3935fc9a56519dc626a81da840514406d8542/cover@2x.jpg",
+      "title": "A Study in Scarlet",
+      "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 57.3,
+        "subjects": "Adventure, Comedy, Horror, Mystery, Satire, Science Fiction, Shorts",
+        "wordCount": 318069
+      },
+      "creator": "Edgar Allan Poe",
+      "description": "318,069 words • 57.3 reading ease Adventure Comedy Horror Mystery Satire Science Fiction Shorts",
+      "externalId": "edgar-allan-poe/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/edgar-allan-poe_short-fiction/113021f2b2d2f3b5cdb4751661bf742b6e3ee6b4/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 77.84,
+        "subjects": "Mystery",
+        "wordCount": 70092
+      },
+      "creator": "Agatha Christie",
+      "description": "70,092 words • 77.84 reading ease Mystery",
+      "externalId": "agatha-christie/the-murder-of-roger-ackroyd",
+      "imageUrl": "https://standardebooks.org/images/covers/agatha-christie_the-murder-of-roger-ackroyd/fecb9a11330ee4abaa5f9d7cf812c67298f819ae/cover@2x.jpg",
+      "title": "The Murder of Roger Ackroyd",
+      "url": "https://standardebooks.org/ebooks/agatha-christie/the-murder-of-roger-ackroyd",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 80.92,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 59283
+      },
+      "creator": "Arthur Conan Doyle",
+      "description": "59,283 words • 80.92 reading ease Fiction Mystery",
+      "externalId": "arthur-conan-doyle/the-hound-of-the-baskervilles",
+      "imageUrl": "https://standardebooks.org/images/covers/arthur-conan-doyle_the-hound-of-the-baskervilles/9ff4741cfbade82411497b30564629eed7b5abdc/cover@2x.jpg",
+      "title": "The Hound of the Baskervilles",
+      "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 77.03,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 56894
+      },
+      "creator": "Agatha Christie",
+      "description": "56,894 words • 77.03 reading ease Fiction Mystery",
+      "externalId": "agatha-christie/the-mysterious-affair-at-styles",
+      "imageUrl": "https://standardebooks.org/images/covers/agatha-christie_the-mysterious-affair-at-styles/874a507e8c66788c24dcd38bc8258dc9d259280c/cover@2x.jpg",
+      "title": "The Mysterious Affair at Styles",
+      "url": "https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.95,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 87834
+      },
+      "creator": "Marie Belloc Lowndes",
+      "description": "87,834 words • 71.95 reading ease Fiction Mystery",
+      "externalId": "marie-belloc-lowndes/the-chink-in-the-armour",
+      "imageUrl": "https://standardebooks.org/images/covers/marie-belloc-lowndes_the-chink-in-the-armour/1c0dd286bbc484c68da6af89e2ea0420c8002b49/cover@2x.jpg",
+      "title": "The Chink in the Armour",
+      "url": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-chink-in-the-armour",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 81.63,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 43106
+      },
+      "creator": "Arthur Conan Doyle",
+      "description": "43,106 words • 81.63 reading ease Fiction Mystery",
+      "externalId": "arthur-conan-doyle/the-sign-of-the-four",
+      "imageUrl": "https://standardebooks.org/images/covers/arthur-conan-doyle_the-sign-of-the-four/e8a84e2927c1585adedf623e51c9d90a2127baab/cover@2x.jpg",
+      "title": "The Sign of the Four",
+      "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 77.74,
+        "subjects": "Fiction, Mystery, Shorts",
+        "wordCount": 68985
+      },
+      "creator": "Agatha Christie",
+      "description": "68,985 words • 77.74 reading ease Fiction Mystery Shorts",
+      "externalId": "agatha-christie/partners-in-crime",
+      "imageUrl": "https://standardebooks.org/images/covers/agatha-christie_partners-in-crime/1b33b1863b16a731c708021de8dfa6ebcb3ae789/cover@2x.jpg",
+      "title": "Partners in Crime",
+      "url": "https://standardebooks.org/ebooks/agatha-christie/partners-in-crime",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 84.98,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 67019
+      },
+      "creator": "Dashiell Hammett",
+      "description": "67,019 words • 84.98 reading ease Fiction Mystery",
+      "externalId": "dashiell-hammett/the-maltese-falcon",
+      "imageUrl": "https://standardebooks.org/images/covers/dashiell-hammett_the-maltese-falcon/67a10762bd78ee34cf1075efee2db8f0224292c0/cover@2x.jpg",
+      "title": "The Maltese Falcon",
+      "url": "https://standardebooks.org/ebooks/dashiell-hammett/the-maltese-falcon",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 75.2,
+        "subjects": "Fiction, Mystery, Shorts",
+        "wordCount": 82835
+      },
+      "creator": "Arthur Conan Doyle",
+      "description": "82,835 words • 75.2 reading ease Fiction Mystery Shorts",
+      "externalId": "arthur-conan-doyle/the-casebook-of-sherlock-holmes",
+      "imageUrl": "https://standardebooks.org/images/covers/arthur-conan-doyle_the-casebook-of-sherlock-holmes/96f25ea975187ade2334c96e23cdb375efbafe03/cover@2x.jpg",
+      "title": "The Casebook of Sherlock Holmes",
+      "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 77.84,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 70129
+      },
+      "creator": "Agatha Christie",
+      "description": "70,129 words • 77.84 reading ease Fiction Mystery",
+      "externalId": "agatha-christie/the-murder-at-the-vicarage",
+      "imageUrl": "https://standardebooks.org/images/covers/agatha-christie_the-murder-at-the-vicarage/d1ab017a76d7b992c1d4be43c637ec6e0b7c4f2a/cover@2x.jpg",
+      "title": "The Murder at the Vicarage",
+      "url": "https://standardebooks.org/ebooks/agatha-christie/the-murder-at-the-vicarage",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 80.01,
+        "subjects": "Fiction, Mystery, Shorts",
+        "wordCount": 95478
+      },
+      "creator": "Arthur Conan Doyle",
+      "description": "95,478 words • 80.01 reading ease Fiction Mystery Shorts",
+      "externalId": "arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
+      "imageUrl": "https://standardebooks.org/images/covers/arthur-conan-doyle_the-memoirs-of-sherlock-holmes/0518bee426617429fe30ea8f0a96744f07497a5a/cover@2x.jpg",
+      "title": "The Memoirs of Sherlock Holmes",
+      "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.37,
+        "subjects": "Fiction, Mystery, Shorts",
+        "wordCount": 112462
+      },
+      "creator": "Arthur Conan Doyle",
+      "description": "112,462 words • 73.37 reading ease Fiction Mystery Shorts",
+      "externalId": "arthur-conan-doyle/the-return-of-sherlock-holmes",
+      "imageUrl": "https://standardebooks.org/images/covers/arthur-conan-doyle_the-return-of-sherlock-holmes/d71b38fc2f07bc237fcafa4e90ba0931efb0b3c6/cover@2x.jpg",
+      "title": "The Return of Sherlock Holmes",
+      "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 75.91,
+        "subjects": "Children’s, Mystery",
+        "wordCount": 40460
+      },
+      "creator": "Carolyn Keene",
+      "description": "40,460 words • 75.91 reading ease Children’s Mystery",
+      "externalId": "carolyn-keene/the-secret-of-the-old-clock",
+      "imageUrl": "https://standardebooks.org/images/covers/carolyn-keene_the-secret-of-the-old-clock/12626fe1f7f1e90149a0fc819959b9527faa9e7d/cover@2x.jpg",
+      "title": "The Secret of the Old Clock",
+      "url": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.72,
+        "subjects": "Mystery, Shorts",
+        "wordCount": 52707
+      },
+      "creator": "Agatha Christie",
+      "description": "52,707 words • 76.72 reading ease Mystery Shorts",
+      "externalId": "agatha-christie/poirot-investigates",
+      "imageUrl": "https://standardebooks.org/images/covers/agatha-christie_poirot-investigates/bb7f5759366852f68c7f9161bd8b145e5cc922e9/cover@2x.jpg",
+      "title": "Poirot Investigates",
+      "url": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 77.23,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 70358
+      },
+      "creator": "Agatha Christie",
+      "description": "70,358 words • 77.23 reading ease Fiction Mystery",
+      "externalId": "agatha-christie/the-mystery-of-the-blue-train",
+      "imageUrl": "https://standardebooks.org/images/covers/agatha-christie_the-mystery-of-the-blue-train/6ae11ea2dc01a06f01f02d5755b67a4bf21552cb/cover@2x.jpg",
+      "title": "The Mystery of the Blue Train",
+      "url": "https://standardebooks.org/ebooks/agatha-christie/the-mystery-of-the-blue-train",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 82.65,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 57756
+      },
+      "creator": "Arthur Conan Doyle",
+      "description": "57,756 words • 82.65 reading ease Fiction Mystery",
+      "externalId": "arthur-conan-doyle/the-valley-of-fear",
+      "imageUrl": "https://standardebooks.org/images/covers/arthur-conan-doyle_the-valley-of-fear/c8efe77eb29387b882a71c32e0a310aa833cf415/cover@2x.jpg",
+      "title": "The Valley of Fear",
+      "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-valley-of-fear",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.79,
+        "subjects": "Fiction, Mystery, Shorts",
+        "wordCount": 59170
+      },
+      "creator": "Arthur Conan Doyle",
+      "description": "59,170 words • 74.79 reading ease Fiction Mystery Shorts",
+      "externalId": "arthur-conan-doyle/his-last-bow",
+      "imageUrl": "https://standardebooks.org/images/covers/arthur-conan-doyle_his-last-bow/6048f229472d2899a6cdf0448fa0cfe341063247/cover@2x.jpg",
+      "title": "His Last Bow",
+      "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 77.33,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 64890
+      },
+      "creator": "Agatha Christie",
+      "description": "64,890 words • 77.33 reading ease Fiction Mystery",
+      "externalId": "agatha-christie/the-murder-on-the-links",
+      "imageUrl": "https://standardebooks.org/images/covers/agatha-christie_the-murder-on-the-links/adbba0379aa5f64f2d2dd27b541580a6a38331c5/cover@2x.jpg",
+      "title": "The Murder on the Links",
+      "url": "https://standardebooks.org/ebooks/agatha-christie/the-murder-on-the-links",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.55,
+        "subjects": "Mystery",
+        "wordCount": 95978
+      },
+      "creator": "Charles Dickens",
+      "description": "95,978 words • 71.55 reading ease Mystery",
+      "externalId": "charles-dickens/the-mystery-of-edwin-drood",
+      "imageUrl": "https://standardebooks.org/images/covers/charles-dickens_the-mystery-of-edwin-drood/d2888d6e4281f9f89814de9d7fbafc3d8ed01527/cover@2x.jpg",
+      "title": "The Mystery of Edwin Drood",
+      "url": "https://standardebooks.org/ebooks/charles-dickens/the-mystery-of-edwin-drood",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.27,
+        "subjects": "Fiction, Mystery",
+        "translation": "Translated by Alexander Teixeira de Mattos",
+        "wordCount": 82108
+      },
+      "creator": "Gaston Leroux",
+      "description": "Translated by Alexander Teixeira de Mattos 82,108 words • 73.27 reading ease Fiction Mystery",
+      "externalId": "gaston-leroux/the-phantom-of-the-opera/alexander-teixeira-de-mattos",
+      "imageUrl": "https://standardebooks.org/images/covers/gaston-leroux_the-phantom-of-the-opera_alexander-teixeira-de-mattos/e6451ae72a4f6a6be93dbda9fcc525d19285593c/cover@2x.jpg",
+      "title": "The Phantom of the Opera",
+      "url": "https://standardebooks.org/ebooks/gaston-leroux/the-phantom-of-the-opera/alexander-teixeira-de-mattos",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 84.47,
+        "subjects": "Adventure, Children’s, Fiction, Mystery",
+        "wordCount": 41281
+      },
+      "creator": "Franklin W. Dixon",
+      "description": "41,281 words • 84.47 reading ease Adventure Children’s Fiction Mystery",
+      "externalId": "franklin-w-dixon/the-tower-treasure",
+      "imageUrl": "https://standardebooks.org/images/covers/franklin-w-dixon_the-tower-treasure/1a20850b7a6468ebf3a1f1c5738ca4870a7e67a5/cover@2x.jpg",
+      "title": "The Tower Treasure",
+      "url": "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.62,
+        "subjects": "Mystery",
+        "wordCount": 55818
+      },
+      "creator": "Agatha Christie",
+      "description": "55,818 words • 76.62 reading ease Mystery",
+      "externalId": "agatha-christie/the-big-four",
+      "imageUrl": "https://standardebooks.org/images/covers/agatha-christie_the-big-four/c6e74b10d4336a838614f5e3f77ecd1e6af64942/cover@2x.jpg",
+      "title": "The Big Four",
+      "url": "https://standardebooks.org/ebooks/agatha-christie/the-big-four",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 78.14,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 75651
+      },
+      "creator": "Agatha Christie",
+      "description": "75,651 words • 78.14 reading ease Fiction Mystery",
+      "externalId": "agatha-christie/the-secret-adversary",
+      "imageUrl": "https://standardebooks.org/images/covers/agatha-christie_the-secret-adversary/186f49bd186a34cbc8f527212a232e37e2cb1208/cover@2x.jpg",
+      "title": "The Secret Adversary",
+      "url": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 78.25,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 65723
+      },
+      "creator": "Agatha Christie",
+      "description": "65,723 words • 78.25 reading ease Fiction Mystery",
+      "externalId": "agatha-christie/the-seven-dials-mystery",
+      "imageUrl": "https://standardebooks.org/images/covers/agatha-christie_the-seven-dials-mystery/9b4302af02f0fab9ca022a00e6825631d03a9606/cover@2x.jpg",
+      "title": "The Seven Dials Mystery",
+      "url": "https://standardebooks.org/ebooks/agatha-christie/the-seven-dials-mystery",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 70.02,
+        "subjects": "Fiction, Mystery, Shorts",
+        "wordCount": 79040
+      },
+      "creator": "G. K. Chesterton",
+      "description": "79,040 words • 70.02 reading ease Fiction Mystery Shorts",
+      "externalId": "g-k-chesterton/the-innocence-of-father-brown",
+      "imageUrl": "https://standardebooks.org/images/covers/g-k-chesterton_the-innocence-of-father-brown/5d3ab33e782ab1c27c626c029e18e24c4762fc09/cover@2x.jpg",
+      "title": "The Innocence of Father Brown",
+      "url": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.82,
+        "subjects": "Adventure, Fiction, Mystery",
+        "wordCount": 75682
+      },
+      "creator": "Agatha Christie",
+      "description": "75,682 words • 76.82 reading ease Adventure Fiction Mystery",
+      "externalId": "agatha-christie/the-man-in-the-brown-suit",
+      "imageUrl": "https://standardebooks.org/images/covers/agatha-christie_the-man-in-the-brown-suit/cbf559c2dd21b431f97654bd6b596bfc1e03e762/cover@2x.jpg",
+      "title": "The Man in the Brown Suit",
+      "url": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 77.84,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 74869
+      },
+      "creator": "Agatha Christie",
+      "description": "74,869 words • 77.84 reading ease Fiction Mystery",
+      "externalId": "agatha-christie/the-secret-of-chimneys",
+      "imageUrl": "https://standardebooks.org/images/covers/agatha-christie_the-secret-of-chimneys/5a9985e3511b560267f9785a89e55077dbc10a2d/cover@2x.jpg",
+      "title": "The Secret of Chimneys",
+      "url": "https://standardebooks.org/ebooks/agatha-christie/the-secret-of-chimneys",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 84.88,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 60936
+      },
+      "creator": "Dashiell Hammett",
+      "description": "60,936 words • 84.88 reading ease Fiction Mystery",
+      "externalId": "dashiell-hammett/red-harvest",
+      "imageUrl": "https://standardebooks.org/images/covers/dashiell-hammett_red-harvest/7c43aa3112c6d371a9d795ee4a42da958e766fe5/cover@2x.jpg",
+      "title": "Red Harvest",
+      "url": "https://standardebooks.org/ebooks/dashiell-hammett/red-harvest",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 84.07,
+        "subjects": "Adventure, Children’s, Fiction, Mystery",
+        "wordCount": 40687
+      },
+      "creator": "Franklin W. Dixon",
+      "description": "40,687 words • 84.07 reading ease Adventure Children’s Fiction Mystery",
+      "externalId": "franklin-w-dixon/the-house-on-the-cliff",
+      "imageUrl": "https://standardebooks.org/images/covers/franklin-w-dixon_the-house-on-the-cliff/2b13ac658bb7e84d05356327854e82e6757ba06b/cover@2x.jpg",
+      "title": "The House on the Cliff",
+      "url": "https://standardebooks.org/ebooks/franklin-w-dixon/the-house-on-the-cliff",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.62,
+        "subjects": "Children’s, Mystery",
+        "wordCount": 38228
+      },
+      "creator": "Carolyn Keene",
+      "description": "38,228 words • 76.62 reading ease Children’s Mystery",
+      "externalId": "carolyn-keene/the-hidden-staircase",
+      "imageUrl": "https://standardebooks.org/images/covers/carolyn-keene_the-hidden-staircase/53f76b6a9066fd9993b03e8ac0cccadaa87c2b5e/cover@2x.jpg",
+      "title": "The Hidden Staircase",
+      "url": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.93,
+        "subjects": "Children’s, Mystery",
+        "wordCount": 38014
+      },
+      "creator": "Carolyn Keene",
+      "description": "38,014 words • 76.93 reading ease Children’s Mystery",
+      "externalId": "carolyn-keene/the-mystery-at-lilac-inn",
+      "imageUrl": "https://standardebooks.org/images/covers/carolyn-keene_the-mystery-at-lilac-inn/29665f008cf80952b9c844b4321b4337bee1be88/cover@2x.jpg",
+      "title": "The Mystery at Lilac Inn",
+      "url": "https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.97,
+        "subjects": "Fiction, Mystery, Shorts",
+        "wordCount": 89709
+      },
+      "creator": "Arthur B. Reeve",
+      "description": "89,709 words • 72.97 reading ease Fiction Mystery Shorts",
+      "externalId": "arthur-b-reeve/craig-kennedy-stories",
+      "imageUrl": "https://standardebooks.org/images/covers/arthur-b-reeve_craig-kennedy-stories/d748fac6dd88cff213a5eb73743d648ac9b5ff83/cover@2x.jpg",
+      "title": "Craig Kennedy Stories",
+      "url": "https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.78,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 59079
+      },
+      "creator": "Dorothy L. Sayers",
+      "description": "59,079 words • 73.78 reading ease Fiction Mystery",
+      "externalId": "dorothy-l-sayers/whose-body",
+      "imageUrl": "https://standardebooks.org/images/covers/dorothy-l-sayers_whose-body/0868a63005e464f57f59daf3febe71f28b46ceb1/cover@2x.jpg",
+      "title": "Whose Body?",
+      "url": "https://standardebooks.org/ebooks/dorothy-l-sayers/whose-body",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.82,
+        "subjects": "Children’s, Mystery",
+        "wordCount": 37989
+      },
+      "creator": "Carolyn Keene",
+      "description": "37,989 words • 76.82 reading ease Children’s Mystery",
+      "externalId": "carolyn-keene/the-bungalow-mystery",
+      "imageUrl": "https://standardebooks.org/images/covers/carolyn-keene_the-bungalow-mystery/13db096460d988656653672b16f2f706f730cf88/cover@2x.jpg",
+      "title": "The Bungalow Mystery",
+      "url": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 67.89,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 149600
+      },
+      "creator": "M. E. Braddon",
+      "description": "149,600 words • 67.89 reading ease Fiction Mystery",
+      "externalId": "m-e-braddon/lady-audleys-secret",
+      "imageUrl": "https://standardebooks.org/images/covers/m-e-braddon_lady-audleys-secret/9b8712f2784f28ca45642537b3fee3c6ded11323/cover@2x.jpg",
+      "title": "Lady Audley’s Secret",
+      "url": "https://standardebooks.org/ebooks/m-e-braddon/lady-audleys-secret",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.19,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 78064
+      },
+      "creator": "Dorothy L. Sayers",
+      "description": "78,064 words • 74.19 reading ease Fiction Mystery",
+      "externalId": "dorothy-l-sayers/strong-poison",
+      "imageUrl": "https://standardebooks.org/images/covers/dorothy-l-sayers_strong-poison/ac4cea0f731468bb4a3d3156c775bafe8984d624/cover@2x.jpg",
+      "title": "Strong Poison",
+      "url": "https://standardebooks.org/ebooks/dorothy-l-sayers/strong-poison",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 85.28,
+        "subjects": "Adventure, Children’s, Fiction, Mystery",
+        "wordCount": 40471
+      },
+      "creator": "Franklin W. Dixon",
+      "description": "40,471 words • 85.28 reading ease Adventure Children’s Fiction Mystery",
+      "externalId": "franklin-w-dixon/the-mystery-of-cabin-island",
+      "imageUrl": "https://standardebooks.org/images/covers/franklin-w-dixon_the-mystery-of-cabin-island/50b3a61d76bbb3a0298011f1d6fb68589b9fa711/cover@2x.jpg",
+      "title": "The Mystery of Cabin Island",
+      "url": "https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 78.89,
+        "subjects": "Fantasy, Horror, Mystery",
+        "wordCount": 40210
+      },
+      "creator": "George MacDonald",
+      "description": "40,210 words • 78.89 reading ease Fantasy Horror Mystery",
+      "externalId": "george-macdonald/the-portent",
+      "imageUrl": "https://standardebooks.org/images/covers/george-macdonald_the-portent/ef438c1c425c14d20fa557e4b911163b572600db/cover@2x.jpg",
+      "title": "The Portent",
+      "url": "https://standardebooks.org/ebooks/george-macdonald/the-portent",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 84.37,
+        "subjects": "Adventure, Children’s, Fiction, Mystery",
+        "wordCount": 39956
+      },
+      "creator": "Franklin W. Dixon",
+      "description": "39,956 words • 84.37 reading ease Adventure Children’s Fiction Mystery",
+      "externalId": "franklin-w-dixon/the-secret-of-the-caves",
+      "imageUrl": "https://standardebooks.org/images/covers/franklin-w-dixon_the-secret-of-the-caves/9cc07ea07346ebda086eef042c2db2b820ff242b/cover@2x.jpg",
+      "title": "The Secret of the Caves",
+      "url": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 83.76,
+        "subjects": "Adventure, Children’s, Fiction, Mystery",
+        "wordCount": 42341
+      },
+      "creator": "Franklin W. Dixon",
+      "description": "42,341 words • 83.76 reading ease Adventure Children’s Fiction Mystery",
+      "externalId": "franklin-w-dixon/hunting-for-hidden-gold",
+      "imageUrl": "https://standardebooks.org/images/covers/franklin-w-dixon_hunting-for-hidden-gold/75ba6f6e01ed8d2cf43fcc3948dc42d70a133d69/cover@2x.jpg",
+      "title": "Hunting for Hidden Gold",
+      "url": "https://standardebooks.org/ebooks/franklin-w-dixon/hunting-for-hidden-gold",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 83.25,
+        "subjects": "Adventure, Children’s, Fiction, Mystery",
+        "wordCount": 40735
+      },
+      "creator": "Franklin W. Dixon",
+      "description": "40,735 words • 83.25 reading ease Adventure Children’s Fiction Mystery",
+      "externalId": "franklin-w-dixon/the-secret-of-the-old-mill",
+      "imageUrl": "https://standardebooks.org/images/covers/franklin-w-dixon_the-secret-of-the-old-mill/0e38fe5778ea28885bd2ac79533106a6b9c76afc/cover@2x.jpg",
+      "title": "The Secret of the Old Mill",
+      "url": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-old-mill",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 70.23,
+        "subjects": "Fiction, Mystery, Shorts",
+        "wordCount": 62994
+      },
+      "creator": "G. K. Chesterton",
+      "description": "62,994 words • 70.23 reading ease Fiction Mystery Shorts",
+      "externalId": "g-k-chesterton/the-secret-of-father-brown",
+      "imageUrl": "https://standardebooks.org/images/covers/g-k-chesterton_the-secret-of-father-brown/70597629c8227e80242da9c3aafed53bf0650c2c/cover@2x.jpg",
+      "title": "The Secret of Father Brown",
+      "url": "https://standardebooks.org/ebooks/g-k-chesterton/the-secret-of-father-brown",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.07,
+        "subjects": "Fiction, Mystery",
+        "wordCount": 77725
+      },
+      "creator": "Dorothy L. Sayers, Robert Eustace",
+      "description": "77,725 words • 73.07 reading ease Fiction Mystery",
+      "externalId": "dorothy-l-sayers_robert-eustace/the-documents-in-the-case",
+      "imageUrl": "https://standardebooks.org/images/covers/dorothy-l-sayers_robert-eustace_the-documents-in-the-case/87f43042b11731c9a20a8df79331f6b65f02d5cd/cover@2x.jpg",
+      "title": "The Documents in the Case",
+      "url": "https://standardebooks.org/ebooks/dorothy-l-sayers_robert-eustace/the-documents-in-the-case",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 68.6,
+        "subjects": "Fiction, Mystery, Shorts",
+        "wordCount": 71793
+      },
+      "creator": "G. K. Chesterton",
+      "description": "71,793 words • 68.6 reading ease Fiction Mystery Shorts",
+      "externalId": "g-k-chesterton/the-wisdom-of-father-brown",
+      "imageUrl": "https://standardebooks.org/images/covers/g-k-chesterton_the-wisdom-of-father-brown/53d06eb3adc89ee70ba093719689511927b0b1e8/cover@2x.jpg",
+      "title": "The Wisdom of Father Brown",
+      "url": "https://standardebooks.org/ebooks/g-k-chesterton/the-wisdom-of-father-brown",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.34,
+        "subjects": "Fiction, Mystery",
+        "translation": "Translated by Brentano’s",
+        "wordCount": 73826
+      },
+      "creator": "Gaston Leroux",
+      "description": "Translated by Brentano’s 73,826 words • 71.34 reading ease Fiction Mystery",
+      "externalId": "gaston-leroux/the-mystery-of-the-yellow-room/brentanos",
+      "imageUrl": "https://standardebooks.org/images/covers/gaston-leroux_the-mystery-of-the-yellow-room_brentanos/db39873e9db763243c6d363973e7b70e58225695/cover@2x.jpg",
+      "title": "The Mystery of the Yellow Room",
+      "url": "https://standardebooks.org/ebooks/gaston-leroux/the-mystery-of-the-yellow-room/brentanos",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-mystery"
+      ],
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "listingUrl": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    }
+  ]
+}

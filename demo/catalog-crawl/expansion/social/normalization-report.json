@@ -1,0 +1,16 @@
+{
+  "instagram": {
+    "uniqueItems": 438,
+    "collections": 22,
+    "queries": 88,
+    "nonemptyCaptures": 88,
+    "images": 438
+  },
+  "pinterest": {
+    "uniqueItems": 1045,
+    "collections": 15,
+    "queries": 14,
+    "nonemptyCaptures": 124,
+    "images": 1045
+  }
+}

@@ -1,0 +1,4088 @@
+{
+  "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+  "collection": "Veritasium · Videos",
+  "fetchedAt": "2026-09-27T03:42:37.760Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "The Insane Real Engineering of the Nazi Enigma Machine",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JsBZOcqZerk",
+      "externalId": "JsBZOcqZerk",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/JsBZOcqZerk/hq720_custom_1.jpg?sqp=CJCg4tUG-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCaBIEPyf11yU5OD8HM0OhsQHvPbw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "47:42",
+        "metadata": "8.9M 5d ago"
+      },
+      "evidenceText": "47:42 The Insane Real Engineering of the Nazi Enigma Machine 8.9M 5d ago"
+    },
+    {
+      "title": "We sent a camera to space to film the solar eclipse",
+      "canonicalUrl": "https://www.youtube.com/watch?v=J1WoNuemKOg",
+      "externalId": "J1WoNuemKOg",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/J1WoNuemKOg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZd0yr9VLSIiExSx8EhaHpkhj9Kg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "22:45",
+        "metadata": "2.6M 1mo ago"
+      },
+      "evidenceText": "22:45 We sent a camera to space to film the solar eclipse 2.6M 1mo ago"
+    },
+    {
+      "title": "Is spider web really stronger than steel?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wt4p2oalmRY",
+      "externalId": "wt4p2oalmRY",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/wt4p2oalmRY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLApZrSuO8_xfxEjXlMfGQZWE5rVOw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "26:58",
+        "metadata": "9.2M 1mo ago"
+      },
+      "evidenceText": "26:58 Is spider web really stronger than steel? 9.2M 1mo ago"
+    },
+    {
+      "title": "Why does every mammal get 1 billion heartbeats in their life?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tL9Lw250spc",
+      "externalId": "tL9Lw250spc",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "35:32",
+        "metadata": "6.4M 2mo ago"
+      },
+      "evidenceText": "35:32 Why does every mammal get 1 billion heartbeats in their life? 6.4M 2mo ago"
+    },
+    {
+      "title": "The Scariest Chart in Electrical Engineering",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GK2pZ_oVU1o",
+      "externalId": "GK2pZ_oVU1o",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "39:44",
+        "metadata": "5.8M 2mo ago"
+      },
+      "evidenceText": "39:44 The Scariest Chart in Electrical Engineering 5.8M 2mo ago"
+    },
+    {
+      "title": "We've Been Using The Wrong Science In Court For 50 years",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mvcesPWvUIc",
+      "externalId": "mvcesPWvUIc",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "23:22",
+        "metadata": "2.6M 3mo ago"
+      },
+      "evidenceText": "23:22 We've Been Using The Wrong Science In Court For 50 years 2.6M 3mo ago"
+    },
+    {
+      "title": "We're 99.9% sure this pattern is true, but no one can prove it",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8HBDE-msUjw",
+      "externalId": "8HBDE-msUjw",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "41:30",
+        "metadata": "6.3M 3mo ago"
+      },
+      "evidenceText": "41:30 We're 99.9% sure this pattern is true, but no one can prove it 6.3M 3mo ago"
+    },
+    {
+      "title": "Something is jamming GPS over Europe. Here's what we found",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tz23G_UXCGA",
+      "externalId": "tz23G_UXCGA",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "34:17",
+        "metadata": "11M 3mo ago"
+      },
+      "evidenceText": "34:17 Something is jamming GPS over Europe. Here's what we found 11M 3mo ago"
+    },
+    {
+      "title": "Google Maps is unreasonably fast. Let me explain",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kS-CGkiPetQ",
+      "externalId": "kS-CGkiPetQ",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "29:54",
+        "metadata": "Veritasiumand 2swap8.5M3mo ago"
+      },
+      "evidenceText": "29:54 Google Maps is unreasonably fast. Let me explain Veritasium and 2swap 8.5M 3mo ago"
+    },
+    {
+      "title": "The CIA's new tech doesn't make sense",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SVTPv4sI_Jc",
+      "externalId": "SVTPv4sI_Jc",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/SVTPv4sI_Jc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB36J_CEh5bKDOkmbnBpqhOZeGhpg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "21:18",
+        "metadata": "3.1M 4mo ago"
+      },
+      "evidenceText": "21:18 The CIA's new tech doesn't make sense 3.1M 4mo ago"
+    },
+    {
+      "title": "The Crystal That Could Destroy All Medicine",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ksn5yrsC3Wg",
+      "externalId": "ksn5yrsC3Wg",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/ksn5yrsC3Wg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCroLOrPF1fdkUbfyKuQJjAY_S5fQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "33:25",
+        "metadata": "10M 4mo ago"
+      },
+      "evidenceText": "33:25 The Crystal That Could Destroy All Medicine 10M 4mo ago"
+    },
+    {
+      "title": "How easy is it to steal $10,000 from a locked phone?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PPJ6NJkmDAo",
+      "externalId": "PPJ6NJkmDAo",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/PPJ6NJkmDAo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBv2G7N51L9ZxhhMlMySFTRRv7uUQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "25:44",
+        "metadata": "9.2M 5mo ago"
+      },
+      "evidenceText": "25:44 How easy is it to steal $10,000 from a locked phone? 9.2M 5mo ago"
+    },
+    {
+      "title": "What happens if you drop 0.125 grams of antimatter?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=jjp3WC8Unj8",
+      "externalId": "jjp3WC8Unj8",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/jjp3WC8Unj8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAwSOyLG9xhuMgAfdm-OI54XXbURw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "58:54",
+        "metadata": "11M 5mo ago"
+      },
+      "evidenceText": "58:54 What happens if you drop 0.125 grams of antimatter? 11M 5mo ago"
+    },
+    {
+      "title": "The Secret Spy Tech Inside Every Credit Card",
+      "canonicalUrl": "https://www.youtube.com/watch?v=YSJY3DvnybE",
+      "externalId": "YSJY3DvnybE",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/YSJY3DvnybE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDY_2yetZ-Ocm8qPGLAAKdLfLUcYQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "28:43",
+        "metadata": "6M 6mo ago"
+      },
+      "evidenceText": "28:43 The Secret Spy Tech Inside Every Credit Card 6M 6mo ago"
+    },
+    {
+      "title": "We Made A Giant Zipper To Explain How It Works",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9szhjhO9epA",
+      "externalId": "9szhjhO9epA",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/9szhjhO9epA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBFES3Fi2ZiPqBRj4rgSAk86VqLHA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "20:45",
+        "metadata": "9.4M 6mo ago"
+      },
+      "evidenceText": "20:45 We Made A Giant Zipper To Explain How It Works 9.4M 6mo ago"
+    },
+    {
+      "title": "This Paradox Splits Smart People 50/50",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Ol18JoeXlVI",
+      "externalId": "Ol18JoeXlVI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Ol18JoeXlVI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAbcRgzN_zejQzE5EcfgLKJ1pp8Qw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "25:40",
+        "metadata": "9.3M 6mo ago"
+      },
+      "evidenceText": "25:40 This Paradox Splits Smart People 50/50 9.3M 6mo ago"
+    },
+    {
+      "title": "The Internet Was Weeks Away From Disaster And No One Knew",
+      "canonicalUrl": "https://www.youtube.com/watch?v=aoag03mSuXQ",
+      "externalId": "aoag03mSuXQ",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/aoag03mSuXQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDaj9ECtANFaWFuYXfRw07puB264A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "53:00",
+        "metadata": "15M 7mo ago"
+      },
+      "evidenceText": "53:00 The Internet Was Weeks Away From Disaster And No One Knew 15M 7mo ago"
+    },
+    {
+      "title": "What does asbestos do to a person?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cMx139eTxoc",
+      "externalId": "cMx139eTxoc",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/cMx139eTxoc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLALRICXRcbrnNPPB84awo3OvLxtug",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "54:46",
+        "metadata": "10M 7mo ago"
+      },
+      "evidenceText": "54:46 What does asbestos do to a person? 10M 7mo ago"
+    },
+    {
+      "title": "Why Cold Drinks Were Deadly Before 1914",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6HVYHNTDOFs",
+      "externalId": "6HVYHNTDOFs",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "30:17",
+        "metadata": "11M 7mo ago"
+      },
+      "evidenceText": "30:17 Why Cold Drinks Were Deadly Before 1914 11M 7mo ago"
+    },
+    {
+      "title": "Do we know how magnets work yet?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XKSjCOKDtpk",
+      "externalId": "XKSjCOKDtpk",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "35:53",
+        "metadata": "10M 7mo ago"
+      },
+      "evidenceText": "35:53 Do we know how magnets work yet? 10M 7mo ago"
+    },
+    {
+      "title": "What Happens If You Keep Slowing Down?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=P-4pbFcERnk",
+      "externalId": "P-4pbFcERnk",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "30:09",
+        "metadata": "11M 8mo ago"
+      },
+      "evidenceText": "30:09 What Happens If You Keep Slowing Down? 11M 8mo ago"
+    },
+    {
+      "title": "The Closest Thing We Have to Alien Technology",
+      "canonicalUrl": "https://www.youtube.com/watch?v=MiUHjLxm3V0",
+      "externalId": "MiUHjLxm3V0",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "55:00",
+        "metadata": "57M 8mo ago"
+      },
+      "evidenceText": "55:00 The Closest Thing We Have to Alien Technology 57M 8mo ago"
+    },
+    {
+      "title": "The Future of Veritasium",
+      "canonicalUrl": "https://www.youtube.com/watch?v=piHGnG4LsmQ",
+      "externalId": "piHGnG4LsmQ",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "17:35",
+        "metadata": "5M 9mo ago"
+      },
+      "evidenceText": "17:35 The Future of Veritasium 5M 9mo ago"
+    },
+    {
+      "title": "There Is Something Faster Than Light",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NIk_0AW5hFU",
+      "externalId": "NIk_0AW5hFU",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "44:16",
+        "metadata": "16M 9mo ago"
+      },
+      "evidenceText": "44:16 There Is Something Faster Than Light 16M 9mo ago"
+    },
+    {
+      "title": "Why is there antimatter?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Y-W-w8yNiKU",
+      "externalId": "Y-W-w8yNiKU",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Y-W-w8yNiKU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr1efu8uxg4QQEv-aXumpRU9zsXQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "35:23",
+        "metadata": "9.9M 9mo ago"
+      },
+      "evidenceText": "35:23 Why is there antimatter? 9.9M 9mo ago"
+    },
+    {
+      "title": "You've (Likely) Been Playing The Game Of Life Wrong",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HBluLfX2F_k",
+      "externalId": "HBluLfX2F_k",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/HBluLfX2F_k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5aR3zOV6QYZNrDeAV14sLvlDHLg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "45:13",
+        "metadata": "10M 10mo ago"
+      },
+      "evidenceText": "45:13 You've (Likely) Been Playing The Game Of Life Wrong 10M 10mo ago"
+    },
+    {
+      "title": "The Ridiculous Engineering Of Jet Engines",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QtxVdC7pBQM",
+      "externalId": "QtxVdC7pBQM",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/QtxVdC7pBQM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBJseHOwnCYboy_kjuHpFK-lR-GYQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "39:34",
+        "metadata": "15M 10mo ago"
+      },
+      "evidenceText": "39:34 The Ridiculous Engineering Of Jet Engines 15M 10mo ago"
+    },
+    {
+      "title": "Why People Are So Confident When They're Wrong",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9M_QK4stCJU",
+      "externalId": "9M_QK4stCJU",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/9M_QK4stCJU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAimO368gduAE0Gi0FwaQtL8kOgjg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "24:02",
+        "metadata": "6.2M 10mo ago"
+      },
+      "evidenceText": "24:02 Why People Are So Confident When They're Wrong 6.2M 10mo ago"
+    },
+    {
+      "title": "The Most Controversial Idea In Biology",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XX7PdJIGiCw",
+      "externalId": "XX7PdJIGiCw",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/XX7PdJIGiCw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDAJhuLTep7Ghm03BPnKRd-yMgXgA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "28:50",
+        "metadata": "8.9M 10mo ago"
+      },
+      "evidenceText": "28:50 The Most Controversial Idea In Biology 8.9M 10mo ago"
+    },
+    {
+      "title": "Can you really reach anyone in 6 steps?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CYlon2tvywA",
+      "externalId": "CYlon2tvywA",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/CYlon2tvywA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC-nO19Cs93sgjQX1fm1II-Cscjxw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "33:17",
+        "metadata": "11M 11mo ago"
+      },
+      "evidenceText": "33:17 Can you really reach anyone in 6 steps? 11M 11mo ago"
+    },
+    {
+      "title": "Alfred Nobel: The Man Who Fooled The World",
+      "canonicalUrl": "https://www.youtube.com/watch?v=onr80iOoEXs",
+      "externalId": "onr80iOoEXs",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/onr80iOoEXs/hq720_custom_1.jpg?sqp=CJCg4tUG-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdZqgO-s2dGzf-6WcJnfqIb3e0Hg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "46:09",
+        "metadata": "10M 1y ago"
+      },
+      "evidenceText": "46:09 Alfred Nobel: The Man Who Fooled The World 10M 1y ago"
+    },
+    {
+      "title": "Why Do Escalator Steps Have Teeth?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tZ8ehplVFp4",
+      "externalId": "tZ8ehplVFp4",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/tZ8ehplVFp4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAP6oqhQiJlUkExlsq5YY6VcgiQrA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "22:18",
+        "metadata": "16M 1y ago"
+      },
+      "evidenceText": "22:18 Why Do Escalator Steps Have Teeth? 16M 1y ago"
+    },
+    {
+      "title": "Why Farmers Can't Legally Replant Their Own Seeds",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CxVXvFOPIyQ",
+      "externalId": "CxVXvFOPIyQ",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/CxVXvFOPIyQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAhuyIJ_tWNpWW1XQxx4OZjxX_u4g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "46:59",
+        "metadata": "22M 1y ago"
+      },
+      "evidenceText": "46:59 Why Farmers Can't Legally Replant Their Own Seeds 22M 1y ago"
+    },
+    {
+      "title": "This is the natural disaster to worry about",
+      "canonicalUrl": "https://www.youtube.com/watch?v=AFXLZ7FEJc4",
+      "externalId": "AFXLZ7FEJc4",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "41:07",
+        "metadata": "10M 1y ago"
+      },
+      "evidenceText": "41:07 This is the natural disaster to worry about 10M 1y ago"
+    },
+    {
+      "title": "The Perfect Battery Material Is Dangerous",
+      "canonicalUrl": "https://www.youtube.com/watch?v=AGglJehON5g",
+      "externalId": "AGglJehON5g",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "34:42",
+        "metadata": "13M 1y ago"
+      },
+      "evidenceText": "34:42 The Perfect Battery Material Is Dangerous 13M 1y ago"
+    },
+    {
+      "title": "The Strange Math That Predicts (Almost) Anything",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KZeIEiBrT_w",
+      "externalId": "KZeIEiBrT_w",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "32:32",
+        "metadata": "12M 1y ago"
+      },
+      "evidenceText": "32:32 The Strange Math That Predicts (Almost) Anything 12M 1y ago"
+    },
+    {
+      "title": "This mechanism shrinks when pulled",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-QTkPfq7w1A",
+      "externalId": "-QTkPfq7w1A",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "23:07",
+        "metadata": "13M 1y ago"
+      },
+      "evidenceText": "23:07 This mechanism shrinks when pulled 13M 1y ago"
+    },
+    {
+      "title": "The Obviously True Theorem No One Can Prove",
+      "canonicalUrl": "https://www.youtube.com/watch?v=x32Zq-XvID4",
+      "externalId": "x32Zq-XvID4",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "42:34",
+        "metadata": "Veritasiumand fern9.6M1y ago"
+      },
+      "evidenceText": "42:34 The Obviously True Theorem No One Can Prove Veritasium and fern 9.6M 1y ago"
+    },
+    {
+      "title": "The Biggest Misconception in Football (ft. Tom Brady)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=J3i3F2e4IYs",
+      "externalId": "J3i3F2e4IYs",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "27:17",
+        "metadata": "9M 1y ago"
+      },
+      "evidenceText": "27:17 The Biggest Misconception in Football (ft. Tom Brady) 9M 1y ago"
+    },
+    {
+      "title": "How One Company Secretly Poisoned The Planet",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SC2eSujzrUY",
+      "externalId": "SC2eSujzrUY",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/SC2eSujzrUY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBXji6zM_eKvLgm90PifDFsayBqzA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "54:08",
+        "metadata": "36M 1y ago"
+      },
+      "evidenceText": "54:08 How One Company Secretly Poisoned The Planet 36M 1y ago"
+    },
+    {
+      "title": "How A Student's Question Saved This NYC Skyscraper",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Q56PMJbCFXQ",
+      "externalId": "Q56PMJbCFXQ",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Q56PMJbCFXQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLByQgIRbToHiTl9wjuqU1_L7kFqPg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "33:39",
+        "metadata": "25M 1y ago"
+      },
+      "evidenceText": "33:39 How A Student's Question Saved This NYC Skyscraper 25M 1y ago"
+    },
+    {
+      "title": "The Biggest Misconception in Physics",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lcjdwSY2AzM",
+      "externalId": "lcjdwSY2AzM",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/lcjdwSY2AzM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCoZ05t0i9XhgjoYLd3NZGKflXuhA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "27:40",
+        "metadata": "13M 1y ago"
+      },
+      "evidenceText": "27:40 The Biggest Misconception in Physics 13M 1y ago"
+    },
+    {
+      "title": "The Most Controversial Idea In Math",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_cr46G2K5Fo",
+      "externalId": "_cr46G2K5Fo",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/_cr46G2K5Fo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAHolcv6KiVjISKWFuzAX_XDjt8ng",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "33:01",
+        "metadata": "14M 1y ago"
+      },
+      "evidenceText": "33:01 The Most Controversial Idea In Math 14M 1y ago"
+    },
+    {
+      "title": "How this helicopter survived 1004 days on Mars, then disappeared...",
+      "canonicalUrl": "https://www.youtube.com/watch?v=20vUNgRdB4o",
+      "externalId": "20vUNgRdB4o",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/20vUNgRdB4o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCwXxezhxRAIrELnMBWZcKk8044Jg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "29:08",
+        "metadata": "Veritasiumand Astrum11M1y ago"
+      },
+      "evidenceText": "29:08 How this helicopter survived 1004 days on Mars, then disappeared... Veritasium and Astrum 11M 1y ago"
+    },
+    {
+      "title": "The Strangest Implication of Quantum Mechanics",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qJZ1Ez28C-A",
+      "externalId": "qJZ1Ez28C-A",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/qJZ1Ez28C-A/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAG-YXEH5K_tROn3eLugu4tgYkWQQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "33:01",
+        "metadata": "20M 1y ago"
+      },
+      "evidenceText": "33:01 The Strangest Implication of Quantum Mechanics 20M 1y ago"
+    },
+    {
+      "title": "The Interview Question Everyone Gets Wrong",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dFVrncgIvos",
+      "externalId": "dFVrncgIvos",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/dFVrncgIvos/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjy2F9nJRebxEJkGS_106rWYyd6Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "20:13",
+        "metadata": "10M 1y ago"
+      },
+      "evidenceText": "20:13 The Interview Question Everyone Gets Wrong 10M 1y ago"
+    },
+    {
+      "title": "AlphaFold - The Most Useful Thing AI Has Ever Done",
+      "canonicalUrl": "https://www.youtube.com/watch?v=P_fHJIYENdI",
+      "externalId": "P_fHJIYENdI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/P_fHJIYENdI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDzXYr0WoQegwJovJIwLvvuUMvalA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "24:52",
+        "metadata": "10M 1y ago"
+      },
+      "evidenceText": "24:52 AlphaFold - The Most Useful Thing AI Has Ever Done 10M 1y ago"
+    },
+    {
+      "title": "Can You Keep Zooming In Infinitely?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=88bMVbx1dzM",
+      "externalId": "88bMVbx1dzM",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/88bMVbx1dzM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAY0-BLX8cc1YWIdfh9C2kx-EH2Fg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "21:29",
+        "metadata": "30M 1y ago"
+      },
+      "evidenceText": "21:29 Can You Keep Zooming In Infinitely? 30M 1y ago"
+    },
+    {
+      "title": "Why Super Glue Is Perfect For Gluing Skin",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Ni82f1-cAXg",
+      "externalId": "Ni82f1-cAXg",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Ni82f1-cAXg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBBDxZW_TJLoHWKgviGMQ5SEuFU9Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "26:20",
+        "metadata": "17M 1y ago"
+      },
+      "evidenceText": "26:20 Why Super Glue Is Perfect For Gluing Skin 17M 1y ago"
+    },
+    {
+      "title": "Why Is MIT Making Robot Insects?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=H6q6pYZ9Fho",
+      "externalId": "H6q6pYZ9Fho",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/H6q6pYZ9Fho/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBcwQAmMBNyIEsZTjsIkU4D219Byw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "21:16",
+        "metadata": "10M 1y ago"
+      },
+      "evidenceText": "21:16 Why Is MIT Making Robot Insects? 10M 1y ago"
+    },
+    {
+      "title": "Why Don’t Railroads Need Expansion Joints?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Rdj5-6t6QI8",
+      "externalId": "Rdj5-6t6QI8",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Rdj5-6t6QI8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZoSoDpXygOzROSoCInmhT4-kiQg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "27:20",
+        "metadata": "10M 1y ago"
+      },
+      "evidenceText": "27:20 Why Don’t Railroads Need Expansion Joints? 10M 1y ago"
+    },
+    {
+      "title": "The Man Who Took LSD and Changed The World",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zaXKQ70q4KQ",
+      "externalId": "zaXKQ70q4KQ",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "33:40",
+        "metadata": "11M 1y ago"
+      },
+      "evidenceText": "33:40 The Man Who Took LSD and Changed The World 11M 1y ago"
+    },
+    {
+      "title": "This Is the Oldest, Weirdest Instrument On Earth",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rjXZzB5bUAo",
+      "externalId": "rjXZzB5bUAo",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "11:15",
+        "metadata": "2M 1y ago"
+      },
+      "evidenceText": "11:15 This Is the Oldest, Weirdest Instrument On Earth 2M 1y ago"
+    },
+    {
+      "title": "34 Years Of Strandbeest Evolution",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IFaAjR_RRJs",
+      "externalId": "IFaAjR_RRJs",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "21:39",
+        "metadata": "10M 1y ago"
+      },
+      "evidenceText": "21:39 34 Years Of Strandbeest Evolution 10M 1y ago"
+    },
+    {
+      "title": "What They (Probably) Don't Teach You About Rainbows At School",
+      "canonicalUrl": "https://www.youtube.com/watch?v=24GfgNtnjXc",
+      "externalId": "24GfgNtnjXc",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/24GfgNtnjXc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCa0TtBGg3eE8Nnl2lVODpbJiYtFg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "27:11",
+        "metadata": "9.8M 1y ago"
+      },
+      "evidenceText": "27:11 What They (Probably) Don't Teach You About Rainbows At School 9.8M 1y ago"
+    },
+    {
+      "title": "What Actually Happened To Amelia Earhart?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zTDFhWWPZ4Q",
+      "externalId": "zTDFhWWPZ4Q",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/zTDFhWWPZ4Q/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCl_rK6cnyFGvIy1fsNTb2V9WNdBg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "36:36",
+        "metadata": "15M 1y ago"
+      },
+      "evidenceText": "36:36 What Actually Happened To Amelia Earhart? 15M 1y ago"
+    },
+    {
+      "title": "The Most Important Material Ever Made",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2oDXbFcHliM",
+      "externalId": "2oDXbFcHliM",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/2oDXbFcHliM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBDEg5PbJp2QCdaoTBxUhqGHU_V3g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "22:23",
+        "metadata": "9.5M 1y ago"
+      },
+      "evidenceText": "22:23 The Most Important Material Ever Made 9.5M 1y ago"
+    },
+    {
+      "title": "On These Math Problems, Smarter People Do Worse",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zB_OApdxcno",
+      "externalId": "zB_OApdxcno",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/zB_OApdxcno/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLATXsaOoxGuEdmKtUrFyGbMzWWXfQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "14:35",
+        "metadata": "6M 1y ago"
+      },
+      "evidenceText": "14:35 On These Math Problems, Smarter People Do Worse 6M 1y ago"
+    },
+    {
+      "title": "The Closest We’ve Come to a Theory of Everything",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Q10_srZ-pbs",
+      "externalId": "Q10_srZ-pbs",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Q10_srZ-pbs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDSQBQuCcWEdH7qI377N38LQLM99g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "32:44",
+        "metadata": "17M 1y ago"
+      },
+      "evidenceText": "32:44 The Closest We’ve Come to a Theory of Everything 17M 1y ago"
+    },
+    {
+      "title": "We Might Find Alien Life In 1,688 Days",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DJO_9auJhJQ",
+      "externalId": "DJO_9auJhJQ",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/DJO_9auJhJQ/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLYOqQcVOF6Exn_ojQthSRyrjtgg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "17:55",
+        "metadata": "15M 1y ago"
+      },
+      "evidenceText": "17:55 We Might Find Alien Life In 1,688 Days 15M 1y ago"
+    },
+    {
+      "title": "People said this experiment was impossible, so we tested it",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cUBz04LlLVk",
+      "externalId": "cUBz04LlLVk",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/cUBz04LlLVk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCr2q-6dB9q9nru2MqjKo5DcTJXQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "34:49",
+        "metadata": "10M 1y ago"
+      },
+      "evidenceText": "34:49 People said this experiment was impossible, so we tested it 10M 1y ago"
+    },
+    {
+      "title": "I built a QR code with my bare hands to see how it works",
+      "canonicalUrl": "https://www.youtube.com/watch?v=w5ebcowAJD8",
+      "externalId": "w5ebcowAJD8",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/w5ebcowAJD8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCFEHjJH1I8eksjx2xd3tHjtjqw9g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "35:13",
+        "metadata": "9.6M 1y ago"
+      },
+      "evidenceText": "35:13 I built a QR code with my bare hands to see how it works 9.6M 1y ago"
+    },
+    {
+      "title": "Exposing The Flaw In Our Phone System",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wVyu7NB7W6Y",
+      "externalId": "wVyu7NB7W6Y",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/wVyu7NB7W6Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAV5LUZT5dFSFcT0v8eHOTtoNixjg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "31:55",
+        "metadata": "Veritasiumand Linus Tech Tips10M2y ago"
+      },
+      "evidenceText": "31:55 Exposing The Flaw In Our Phone System Veritasium and Linus Tech Tips 10M 2y ago"
+    },
+    {
+      "title": "What Everyone Gets Wrong About Planes",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vjDYfvPW4mA",
+      "externalId": "vjDYfvPW4mA",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "18:49",
+        "metadata": "Veritasiumand Mentour Pilot16M2y ago"
+      },
+      "evidenceText": "18:49 What Everyone Gets Wrong About Planes Veritasium and Mentour Pilot 16M 2y ago"
+    },
+    {
+      "title": "Why Democracy Is Mathematically Impossible",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qf7ws2DF-zk",
+      "externalId": "qf7ws2DF-zk",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "23:34",
+        "metadata": "9.8M 2y ago"
+      },
+      "evidenceText": "23:34 Why Democracy Is Mathematically Impossible 9.8M 2y ago"
+    },
+    {
+      "title": "These Illusions Fool Almost Everyone",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Sn07AMCfaAI",
+      "externalId": "Sn07AMCfaAI",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "24:55",
+        "metadata": "5.3M 2y ago"
+      },
+      "evidenceText": "24:55 These Illusions Fool Almost Everyone 5.3M 2y ago"
+    },
+    {
+      "title": "The Real Reason Robots Shouldn’t Look Like Humans | Supercut",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eLVAMG_3fLg",
+      "externalId": "eLVAMG_3fLg",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "1:27:20",
+        "metadata": "6.2M 2y ago"
+      },
+      "evidenceText": "1:27:20 The Real Reason Robots Shouldn’t Look Like Humans | Supercut 6.2M 2y ago"
+    },
+    {
+      "title": "Why People Prefer More Pain",
+      "canonicalUrl": "https://www.youtube.com/watch?v=v4r71kEdYME",
+      "externalId": "v4r71kEdYME",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "17:03",
+        "metadata": "4.9M 2y ago"
+      },
+      "evidenceText": "17:03 Why People Prefer More Pain 4.9M 2y ago"
+    },
+    {
+      "title": "What Jumping Spiders Teach Us About Color",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nfAqTSjMBJk",
+      "externalId": "nfAqTSjMBJk",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "32:37",
+        "metadata": "4.9M 2y ago"
+      },
+      "evidenceText": "32:37 What Jumping Spiders Teach Us About Color 4.9M 2y ago"
+    },
+    {
+      "title": "The Terrifying Real Science Of Avalanches",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Zce-V0YVzeI",
+      "externalId": "Zce-V0YVzeI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Zce-V0YVzeI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBRfXDFtk8h6nC32ODfWL-DlBFSGQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "25:04",
+        "metadata": "4.3M 2y ago"
+      },
+      "evidenceText": "25:04 The Terrifying Real Science Of Avalanches 4.3M 2y ago"
+    },
+    {
+      "title": "Something Strange Happens When You Follow Einstein's Math",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6akmv1bsz1M",
+      "externalId": "6akmv1bsz1M",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/6akmv1bsz1M/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAzwcHVvFK6jlM7xnEzE-5nyz5mBA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "37:03",
+        "metadata": "37M 2y ago"
+      },
+      "evidenceText": "37:03 Something Strange Happens When You Follow Einstein's Math 37M 2y ago"
+    },
+    {
+      "title": "Why is this number everywhere?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=d6iQrh2TK98",
+      "externalId": "d6iQrh2TK98",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/d6iQrh2TK98/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCnumQULukibQW9u1Z6QbPByQtGyw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "23:51",
+        "metadata": "12M 2y ago"
+      },
+      "evidenceText": "23:51 Why is this number everywhere? 12M 2y ago"
+    },
+    {
+      "title": "How Japanese Masters Turn Sand Into Swords",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Tt6WQYtefXA",
+      "externalId": "Tt6WQYtefXA",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Tt6WQYtefXA/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDuos5BB5ThvQZeVgl0mwvwjvo1EQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "25:27",
+        "metadata": "22M 2y ago"
+      },
+      "evidenceText": "25:27 How Japanese Masters Turn Sand Into Swords 22M 2y ago"
+    },
+    {
+      "title": "The Oldest Unsolved Problem in Math",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Zrv1EDIqHkY",
+      "externalId": "Zrv1EDIqHkY",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Zrv1EDIqHkY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBShM3SjZ7LqimrC700zJmxNwKUzw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "31:33",
+        "metadata": "21M 2y ago"
+      },
+      "evidenceText": "31:33 The Oldest Unsolved Problem in Math 21M 2y ago"
+    },
+    {
+      "title": "The Equation That Beat Wall Street",
+      "canonicalUrl": "https://www.youtube.com/watch?v=A5w-dEgIU1M",
+      "externalId": "A5w-dEgIU1M",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/A5w-dEgIU1M/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD6-cuvcMDUzAJwfOPYZBJkEcav-g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "30:11",
+        "metadata": "17M 2y ago"
+      },
+      "evidenceText": "30:11 The Equation That Beat Wall Street 17M 2y ago"
+    },
+    {
+      "title": "Why It Was Almost Impossible to Make the Blue LED",
+      "canonicalUrl": "https://www.youtube.com/watch?v=AF8d72mA41M",
+      "externalId": "AF8d72mA41M",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/AF8d72mA41M/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCcmikxAKuNAUfSp1C5evtY5oFVcA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "33:45",
+        "metadata": "55M 2y ago"
+      },
+      "evidenceText": "33:45 Why It Was Almost Impossible to Make the Blue LED 55M 2y ago"
+    },
+    {
+      "title": "The Rainiest Place On Earth",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lGJEihgN4OU",
+      "externalId": "lGJEihgN4OU",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/lGJEihgN4OU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCUye7-2Xth-OcBbbixJbkqAydmrg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "15:02",
+        "metadata": "8.3M 2y ago"
+      },
+      "evidenceText": "15:02 The Rainiest Place On Earth 8.3M 2y ago"
+    },
+    {
+      "title": "Do people understand the scale of the universe?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fG8SwAFQFuU",
+      "externalId": "fG8SwAFQFuU",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/fG8SwAFQFuU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCXfQ3_8SttlKiNi_K_liZwr8Zewg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "15:11",
+        "metadata": "7.5M 2y ago"
+      },
+      "evidenceText": "15:11 Do people understand the scale of the universe? 7.5M 2y ago"
+    },
+    {
+      "title": "This game theory problem will change the way you see the world",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mScpHTIi-kM",
+      "externalId": "mScpHTIi-kM",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/mScpHTIi-kM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA-_Kwwo-krkdH0UbmChsytb5EhtQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "27:19",
+        "metadata": "25M 2y ago"
+      },
+      "evidenceText": "27:19 This game theory problem will change the way you see the world 25M 2y ago"
+    },
+    {
+      "title": "How To Earthquake-Proof A House",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Q51-gLL_MRM",
+      "externalId": "Q51-gLL_MRM",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Q51-gLL_MRM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAHy-et9ob84rqqs408m_j_V2ejPg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "19:03",
+        "metadata": "2.3M 2y ago"
+      },
+      "evidenceText": "19:03 How To Earthquake-Proof A House 2.3M 2y ago"
+    },
+    {
+      "title": "The SAT Question Everyone Got Wrong",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FUHkTs-Ipfg",
+      "externalId": "FUHkTs-Ipfg",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/FUHkTs-Ipfg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCVuGiipgY_qfZp5b-_iBXxqK0M1g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "18:25",
+        "metadata": "18M 2y ago"
+      },
+      "evidenceText": "18:25 The SAT Question Everyone Got Wrong 18M 2y ago"
+    },
+    {
+      "title": "You (likely) don't understand how a sewing machine works",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RQYuyHNLPTQ",
+      "externalId": "RQYuyHNLPTQ",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "18:43",
+        "metadata": "15M 2y ago"
+      },
+      "evidenceText": "18:43 You (likely) don't understand how a sewing machine works 15M 2y ago"
+    },
+    {
+      "title": "What is the secret of a good life? Lessons from the longest study on happiness",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vSQjk9jKarg",
+      "externalId": "vSQjk9jKarg",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "23:26",
+        "metadata": "6.9M 2y ago"
+      },
+      "evidenceText": "23:26 What is the secret of a good life? Lessons from the longest study on happiness 6.9M 2y ago"
+    },
+    {
+      "title": "How Do Night Vision Goggles Work?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UAeJHAFjwPM",
+      "externalId": "UAeJHAFjwPM",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "27:16",
+        "metadata": "8.2M 2y ago"
+      },
+      "evidenceText": "27:16 How Do Night Vision Goggles Work? 8.2M 2y ago"
+    },
+    {
+      "title": "The Problem With Science Communication",
+      "canonicalUrl": "https://www.youtube.com/watch?v=czjisEGe5Cw",
+      "externalId": "czjisEGe5Cw",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/czjisEGe5Cw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCter6L6XW0TNAUe-mVbFqfGS9lYw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "16:34",
+        "metadata": "3.5M 2y ago"
+      },
+      "evidenceText": "16:34 The Problem With Science Communication 3.5M 2y ago"
+    },
+    {
+      "title": "How One Line in the Oldest Math Text Hinted at Hidden Universes",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lFlu60qs7_4",
+      "externalId": "lFlu60qs7_4",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/lFlu60qs7_4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1kmNcfKadvMp8K4JjyqIEQQYmCA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "31:12",
+        "metadata": "18M 2y ago"
+      },
+      "evidenceText": "31:12 How One Line in the Oldest Math Text Hinted at Hidden Universes 18M 2y ago"
+    },
+    {
+      "title": "The Man Who Killed Millions and Saved Billions (Clean Version)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QQkmJI63ykI",
+      "externalId": "QQkmJI63ykI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/QQkmJI63ykI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAphzrhGrU-r-KdQ2KvfB92TBZxLw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "20:44",
+        "metadata": "10M 2y ago"
+      },
+      "evidenceText": "20:44 The Man Who Killed Millions and Saved Billions (Clean Version) 10M 2y ago"
+    },
+    {
+      "title": "Pushing The Limits Of Extreme Breath-Holding",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Is2Lip1cJUc",
+      "externalId": "Is2Lip1cJUc",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Is2Lip1cJUc/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA7L6Z5YGwBE8-xOmzQftvTGA9W5A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "18:39",
+        "metadata": "4M 2y ago"
+      },
+      "evidenceText": "18:39 Pushing The Limits Of Extreme Breath-Holding 4M 2y ago"
+    },
+    {
+      "title": "How Humanity Almost Destroyed Itself",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ILgSesWMUEI",
+      "externalId": "ILgSesWMUEI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/ILgSesWMUEI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCWnC-O5Q3rSgqCb4VuVOtbK2EjcA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "16:46",
+        "metadata": "4.8M 3y ago"
+      },
+      "evidenceText": "16:46 How Humanity Almost Destroyed Itself 4.8M 3y ago"
+    },
+    {
+      "title": "The Insane Math Of Knot Theory",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8DBhTXM_Br4",
+      "externalId": "8DBhTXM_Br4",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/8DBhTXM_Br4/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB2PQ6y8O9NWmlfucz7nQHJDzyIiA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "35:21",
+        "metadata": "10M 3y ago"
+      },
+      "evidenceText": "35:21 The Insane Math Of Knot Theory 10M 3y ago"
+    },
+    {
+      "title": "Why Airships Might Make A Comeback",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZjBgEkbnX2I",
+      "externalId": "ZjBgEkbnX2I",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/ZjBgEkbnX2I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCw7dJVBNujv94naQdK8qI97ky9OA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "21:27",
+        "metadata": "5.6M 3y ago"
+      },
+      "evidenceText": "21:27 Why Airships Might Make A Comeback 5.6M 3y ago"
+    },
+    {
+      "title": "I took an IQ test to explain what's wrong with them",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FkKPsLxgpuY",
+      "externalId": "FkKPsLxgpuY",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/FkKPsLxgpuY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADgnLpeCBCIQGGTSGgawiw4J5bKw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "34:29",
+        "metadata": "12M 3y ago"
+      },
+      "evidenceText": "34:29 I took an IQ test to explain what's wrong with them 12M 3y ago"
+    },
+    {
+      "title": "The Man Who Gave us the Power To Destroy Ourselves (Oppenheimer)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Xzv84ZdtlE0",
+      "externalId": "Xzv84ZdtlE0",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Xzv84ZdtlE0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBbq3AgWL_RBaKMgMEzexWoQMUw0w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "32:52",
+        "metadata": "19M 3y ago"
+      },
+      "evidenceText": "32:52 The Man Who Gave us the Power To Destroy Ourselves (Oppenheimer) 19M 3y ago"
+    },
+    {
+      "title": "The Hidden Science of Fireworks",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lfkjm2YRG-Q",
+      "externalId": "lfkjm2YRG-Q",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "31:11",
+        "metadata": "7.3M 3y ago"
+      },
+      "evidenceText": "31:11 The Hidden Science of Fireworks 7.3M 3y ago"
+    },
+    {
+      "title": "The Most Misunderstood Concept in Physics",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DxL2HoqLbyA",
+      "externalId": "DxL2HoqLbyA",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "27:15",
+        "metadata": "30M 3y ago"
+      },
+      "evidenceText": "27:15 The Most Misunderstood Concept in Physics 30M 3y ago"
+    },
+    {
+      "title": "I Vacuum Venom from the World's Deadliest Spider",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6bgNm9l_3qU",
+      "externalId": "6bgNm9l_3qU",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "9:01",
+        "metadata": "2.8M 3y ago"
+      },
+      "evidenceText": "9:01 I Vacuum Venom from the World's Deadliest Spider 2.8M 3y ago"
+    },
+    {
+      "title": "What happens if you just keep squaring?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tRaq4aYPzCc",
+      "externalId": "tRaq4aYPzCc",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "33:06",
+        "metadata": "10M 3y ago"
+      },
+      "evidenceText": "33:06 What happens if you just keep squaring? 10M 3y ago"
+    },
+    {
+      "title": "The Fastest Maze-Solving Competition On Earth",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZMQbHMgK2rw",
+      "externalId": "ZMQbHMgK2rw",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "25:22",
+        "metadata": "25M 3y ago"
+      },
+      "evidenceText": "25:22 The Fastest Maze-Solving Competition On Earth 25M 3y ago"
+    },
+    {
+      "title": "Why The First Computers Were Made Out Of Light Bulbs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FU_YFpfDqqA",
+      "externalId": "FU_YFpfDqqA",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "18:56",
+        "metadata": "8.6M 3y ago"
+      },
+      "evidenceText": "18:56 Why The First Computers Were Made Out Of Light Bulbs 8.6M 3y ago"
+    },
+    {
+      "title": "How NASA Made The Indestructible Wheel",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vSNtifE0Z2Q",
+      "externalId": "vSNtifE0Z2Q",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/vSNtifE0Z2Q/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCu-Va04sd-wOzGcz5E2-nmo9_STw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "25:34",
+        "metadata": "17M 3y ago"
+      },
+      "evidenceText": "25:34 How NASA Made The Indestructible Wheel 17M 3y ago"
+    },
+    {
+      "title": "I got buried in concrete to explain how it works",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rWVAzS5duAs",
+      "externalId": "rWVAzS5duAs",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/rWVAzS5duAs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB3uzAPqShlEY-v1Qe336SGJOSpcg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "24:03",
+        "metadata": "14M 3y ago"
+      },
+      "evidenceText": "24:03 I got buried in concrete to explain how it works 14M 3y ago"
+    },
+    {
+      "title": "What makes quantum computers SO powerful?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-UrdExQW0cs",
+      "externalId": "-UrdExQW0cs",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/-UrdExQW0cs/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcaAJcM0R_hz3WIMB9VVg9Wt986A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "24:29",
+        "metadata": "13M 3y ago"
+      },
+      "evidenceText": "24:29 What makes quantum computers SO powerful? 13M 3y ago"
+    },
+    {
+      "title": "World's Strongest Magnet!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=g0amdIcZt5I",
+      "externalId": "g0amdIcZt5I",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/g0amdIcZt5I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDafs2CB0nWXqoCheW64wUrELnk7Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "23:05",
+        "metadata": "16M 3y ago"
+      },
+      "evidenceText": "23:05 World's Strongest Magnet! 16M 3y ago"
+    },
+    {
+      "title": "The Most Controversial Problem in Philosophy",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XeSu9fBJ2sI",
+      "externalId": "XeSu9fBJ2sI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/XeSu9fBJ2sI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBiWCV3nAXjS9D-9d4ZmgklCX0ExA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "10:19",
+        "metadata": "5.9M 3y ago"
+      },
+      "evidenceText": "10:19 The Most Controversial Problem in Philosophy 5.9M 3y ago"
+    },
+    {
+      "title": "The Stickiest *Non-Sticky* Substance",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vS0TuIPoeBs",
+      "externalId": "vS0TuIPoeBs",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/vS0TuIPoeBs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDYHJC5p9atwajPVbLQPXYPVMF9ug",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "13:19",
+        "metadata": "7.8M 3y ago"
+      },
+      "evidenceText": "13:19 The Stickiest *Non-Sticky* Substance 7.8M 3y ago"
+    },
+    {
+      "title": "The Science Behind Dogs' Incredible Sense Of Smell",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TILjzuBGkRc",
+      "externalId": "TILjzuBGkRc",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/TILjzuBGkRc/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzAH38q5PZoPwVwrt_5xcmkaIgow",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "21:48",
+        "metadata": "7.4M 3y ago"
+      },
+      "evidenceText": "21:48 The Science Behind Dogs' Incredible Sense Of Smell 7.4M 3y ago"
+    },
+    {
+      "title": "The US Military's Worst Idea",
+      "canonicalUrl": "https://www.youtube.com/watch?v=J_n1FZaKzF8",
+      "externalId": "J_n1FZaKzF8",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/J_n1FZaKzF8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLARIwTq7YdTQZAxBZ4JIjdogZ9VRw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "24:39",
+        "metadata": "15M 3y ago"
+      },
+      "evidenceText": "24:39 The US Military's Worst Idea 15M 3y ago"
+    },
+    {
+      "title": "How To Measure The Tiniest Forces In The Universe",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pXoZQsZP2PY",
+      "externalId": "pXoZQsZP2PY",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/pXoZQsZP2PY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC7r0EdI7mTIzKs29poM_mhvvmCCw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "15:34",
+        "metadata": "7.9M 3y ago"
+      },
+      "evidenceText": "15:34 How To Measure The Tiniest Forces In The Universe 7.9M 3y ago"
+    },
+    {
+      "title": "Inside The Navy's Indoor Ocean",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pir_muTzYM8",
+      "externalId": "pir_muTzYM8",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/pir_muTzYM8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCVUtgyEWXuVCEuqGIzI-DBE1fz1A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "20:25",
+        "metadata": "45M 3y ago"
+      },
+      "evidenceText": "20:25 Inside The Navy's Indoor Ocean 45M 3y ago"
+    },
+    {
+      "title": "The world depends on a collection of strange items. They're not cheap",
+      "canonicalUrl": "https://www.youtube.com/watch?v=esQyYGezS7c",
+      "externalId": "esQyYGezS7c",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/esQyYGezS7c/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDiShlQWNAY2grkV-uHPRSv_t_nsQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "18:32",
+        "metadata": "12M 3y ago"
+      },
+      "evidenceText": "18:32 The world depends on a collection of strange items. They're not cheap 12M 3y ago"
+    },
+    {
+      "title": "What if a star explodes near Earth?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=evUfG3lrk5U",
+      "externalId": "evUfG3lrk5U",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/evUfG3lrk5U/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBI_uwmlGRpmC0SYZQ42mRAjqcJSA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "19:26",
+        "metadata": "14M 3y ago"
+      },
+      "evidenceText": "19:26 What if a star explodes near Earth? 14M 3y ago"
+    },
+    {
+      "title": "The Most Underrated Algorithm",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nmgFG7PUHfo",
+      "externalId": "nmgFG7PUHfo",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "26:33",
+        "metadata": "10M 3y ago"
+      },
+      "evidenceText": "26:33 The Most Underrated Algorithm 10M 3y ago"
+    },
+    {
+      "title": "How Dangerous is a Penny Dropped From a Skyscraper?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=16Ci_2bN_zc",
+      "externalId": "16Ci_2bN_zc",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "22:41",
+        "metadata": "19M 3y ago"
+      },
+      "evidenceText": "22:41 How Dangerous is a Penny Dropped From a Skyscraper? 19M 3y ago"
+    },
+    {
+      "title": "World's Highest Jumping Robot",
+      "canonicalUrl": "https://www.youtube.com/watch?v=daaDuC1kbds",
+      "externalId": "daaDuC1kbds",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "13:16",
+        "metadata": "14M 4y ago"
+      },
+      "evidenceText": "13:16 World's Highest Jumping Robot 14M 4y ago"
+    },
+    {
+      "title": "The Expert Myth",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5eW6Eagr9XA",
+      "externalId": "5eW6Eagr9XA",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/5eW6Eagr9XA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC3afUBgvJQjnbAoE-svGK8QXLe9g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "17:59",
+        "metadata": "15M 4y ago"
+      },
+      "evidenceText": "17:59 The Expert Myth 15M 4y ago"
+    },
+    {
+      "title": "The Man Who Killed Millions and Saved Billions",
+      "canonicalUrl": "https://www.youtube.com/watch?v=EvknN89JoWo",
+      "externalId": "EvknN89JoWo",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/EvknN89JoWo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBRNI3elT7S8nJ3AhkK-GmV5gvamg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "22:35",
+        "metadata": "15M 4y ago"
+      },
+      "evidenceText": "22:35 The Man Who Killed Millions and Saved Billions 15M 4y ago"
+    },
+    {
+      "title": "The Riddle That Seems Impossible Even If You Know The Answer",
+      "canonicalUrl": "https://www.youtube.com/watch?v=iSNsgj1OCLA",
+      "externalId": "iSNsgj1OCLA",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/iSNsgj1OCLA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBsTBVKpUg9-ousWzV9h8Oz0CZR3w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "17:45",
+        "metadata": "18M 4y ago"
+      },
+      "evidenceText": "17:45 The Riddle That Seems Impossible Even If You Know The Answer 18M 4y ago"
+    },
+    {
+      "title": "The Absurd Search For Dark Matter",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6etTERFUlUI",
+      "externalId": "6etTERFUlUI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/6etTERFUlUI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBvCp-LSYuXiq6s0hEqXzAhR1d3IA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "16:32",
+        "metadata": "11M 4y ago"
+      },
+      "evidenceText": "16:32 The Absurd Search For Dark Matter 11M 4y ago"
+    },
+    {
+      "title": "How did they actually take this picture? (Very Long Baseline Interferometry)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Q1bSDnuIPbo",
+      "externalId": "Q1bSDnuIPbo",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Q1bSDnuIPbo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA9iv7C8Teiybb9fBPOZ3pYRSy9CA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "19:47",
+        "metadata": "8.1M 4y ago"
+      },
+      "evidenceText": "19:47 How did they actually take this picture? (Very Long Baseline Interferometry) 8.1M 4y ago"
+    },
+    {
+      "title": "How Electricity Actually Works",
+      "canonicalUrl": "https://www.youtube.com/watch?v=oI_X2cMHNe0",
+      "externalId": "oI_X2cMHNe0",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/oI_X2cMHNe0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdLiGclrBnP0UkzM9kSoISZYyX7g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "24:31",
+        "metadata": "12M 4y ago"
+      },
+      "evidenceText": "24:31 How Electricity Actually Works 12M 4y ago"
+    },
+    {
+      "title": "The Man Who Accidentally Killed The Most People In History",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IV3dnLzthDA",
+      "externalId": "IV3dnLzthDA",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/IV3dnLzthDA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJSn4XxEQcPTVxEg2metRyJtVEOw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "24:57",
+        "metadata": "43M 4y ago"
+      },
+      "evidenceText": "24:57 The Man Who Accidentally Killed The Most People In History 43M 4y ago"
+    },
+    {
+      "title": "How Horses Save Humans From Snakebites",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7ziWrneMYss",
+      "externalId": "7ziWrneMYss",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/7ziWrneMYss/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCg356P7V32MYDofefd4gwTumTTtQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "16:06",
+        "metadata": "15M 4y ago"
+      },
+      "evidenceText": "16:06 How Horses Save Humans From Snakebites 15M 4y ago"
+    },
+    {
+      "title": "Future Computers Will Be Radically Different (Analog Computing)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GVsUOuSjvcg",
+      "externalId": "GVsUOuSjvcg",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/GVsUOuSjvcg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmmHgFnswuQ_7vQnQcQKjmoYq_sA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "21:42",
+        "metadata": "13M 4y ago"
+      },
+      "evidenceText": "21:42 Future Computers Will Be Radically Different (Analog Computing) 13M 4y ago"
+    },
+    {
+      "title": "The Most Powerful Computers You've Never Heard Of",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IgF3OX8nT0w",
+      "externalId": "IgF3OX8nT0w",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "20:13",
+        "metadata": "13M 4y ago"
+      },
+      "evidenceText": "20:13 The Most Powerful Computers You've Never Heard Of 13M 4y ago"
+    },
+    {
+      "title": "The Snowflake Myth",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ao2Jfm35XeE",
+      "externalId": "ao2Jfm35XeE",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "18:49",
+        "metadata": "10M 4y ago"
+      },
+      "evidenceText": "18:49 The Snowflake Myth 10M 4y ago"
+    },
+    {
+      "title": "Most People Don't Know How Bikes Work",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9cNmUNHSBac",
+      "externalId": "9cNmUNHSBac",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "11:22",
+        "metadata": "24M 4y ago"
+      },
+      "evidenceText": "11:22 Most People Don't Know How Bikes Work 24M 4y ago"
+    },
+    {
+      "title": "The Biggest Misconception About Electricity",
+      "canonicalUrl": "https://www.youtube.com/watch?v=bHIhgxav9LY",
+      "externalId": "bHIhgxav9LY",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "14:48",
+        "metadata": "28M 4y ago"
+      },
+      "evidenceText": "14:48 The Biggest Misconception About Electricity 28M 4y ago"
+    },
+    {
+      "title": "How Imaginary Numbers Were Invented",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cUzklzVXJwo",
+      "externalId": "cUzklzVXJwo",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "23:29",
+        "metadata": "22M 4y ago"
+      },
+      "evidenceText": "23:29 How Imaginary Numbers Were Invented 22M 4y ago"
+    },
+    {
+      "title": "I Rented A Helicopter To Settle A Physics Debate",
+      "canonicalUrl": "https://www.youtube.com/watch?v=q-_7y0WUnW4",
+      "externalId": "q-_7y0WUnW4",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "12:59",
+        "metadata": "8.1M 4y ago"
+      },
+      "evidenceText": "12:59 I Rented A Helicopter To Settle A Physics Debate 8.1M 4y ago"
+    },
+    {
+      "title": "A Robot That Walks, Flies, Skateboards, Slacklines",
+      "canonicalUrl": "https://www.youtube.com/watch?v=H1_OpWiyijU",
+      "externalId": "H1_OpWiyijU",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/H1_OpWiyijU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGt1_dReiZZX7opBpoWI9zKbgJCw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "10:47",
+        "metadata": "3.8M 4y ago"
+      },
+      "evidenceText": "10:47 A Robot That Walks, Flies, Skateboards, Slacklines 3.8M 4y ago"
+    },
+    {
+      "title": "How They Caught The Golden State Killer",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KT18KJouHWg",
+      "externalId": "KT18KJouHWg",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/KT18KJouHWg/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAasfx_F020qHlBAIf10qIr_ecwCw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "27:12",
+        "metadata": "10M 4y ago"
+      },
+      "evidenceText": "27:12 How They Caught The Golden State Killer 10M 4y ago"
+    },
+    {
+      "title": "How Hidden Technology Transformed Bowling",
+      "canonicalUrl": "https://www.youtube.com/watch?v=aFPJf-wKTd0",
+      "externalId": "aFPJf-wKTd0",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/aFPJf-wKTd0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBfoJbjApBl-OPLjpiv_wm9mJNgrw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "28:01",
+        "metadata": "19M 5y ago"
+      },
+      "evidenceText": "28:01 How Hidden Technology Transformed Bowling 19M 5y ago"
+    },
+    {
+      "title": "Why Scorpions Glow in the Dark",
+      "canonicalUrl": "https://www.youtube.com/watch?v=f-Nr2z5X7Rs",
+      "externalId": "f-Nr2z5X7Rs",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/f-Nr2z5X7Rs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCHo30Jb6ZUci25ZcVWLJNr6Pzdrw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "9:31",
+        "metadata": "2.2M 5y ago"
+      },
+      "evidenceText": "9:31 Why Scorpions Glow in the Dark 2.2M 5y ago"
+    },
+    {
+      "title": "The Universe is Hostile to Computers",
+      "canonicalUrl": "https://www.youtube.com/watch?v=AaZ_RSt0KP8",
+      "externalId": "AaZ_RSt0KP8",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/AaZ_RSt0KP8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC8xd_8i9bqy9n675fv7Wk21cT0MA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "23:03",
+        "metadata": "26M 5y ago"
+      },
+      "evidenceText": "23:03 The Universe is Hostile to Computers 26M 5y ago"
+    },
+    {
+      "title": "Clickbait is Unreasonably Effective",
+      "canonicalUrl": "https://www.youtube.com/watch?v=S2xHZPH5Sng",
+      "externalId": "S2xHZPH5Sng",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/S2xHZPH5Sng/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBCCvpfa4hpxytWlAdA31XiH3i55g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "19:25",
+        "metadata": "8.2M 5y ago"
+      },
+      "evidenceText": "19:25 Clickbait is Unreasonably Effective 8.2M 5y ago"
+    },
+    {
+      "title": "The Genius of 3D Printed Rockets",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kz165f1g8-E",
+      "externalId": "kz165f1g8-E",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/kz165f1g8-E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBpTq4cUQMF-80jlZjsartUMnP7yw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "19:58",
+        "metadata": "13M 5y ago"
+      },
+      "evidenceText": "19:58 The Genius of 3D Printed Rockets 13M 5y ago"
+    },
+    {
+      "title": "The Simplest Math Problem No One Can Solve - Collatz Conjecture",
+      "canonicalUrl": "https://www.youtube.com/watch?v=094y1Z2wpJg",
+      "externalId": "094y1Z2wpJg",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/094y1Z2wpJg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtZazAz0ii7XCvccPQcTuVGjBdsg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "22:09",
+        "metadata": "46M 5y ago"
+      },
+      "evidenceText": "22:09 The Simplest Math Problem No One Can Solve - Collatz Conjecture 46M 5y ago"
+    },
+    {
+      "title": "Why You Should Want Driverless Cars On Roads Now",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yjztvddhZmI",
+      "externalId": "yjztvddhZmI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/yjztvddhZmI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCe8qbFIC0nW8KkkxYgXgggJ2yMqw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "18:08",
+        "metadata": "3.5M 5y ago"
+      },
+      "evidenceText": "18:08 Why You Should Want Driverless Cars On Roads Now 3.5M 5y ago"
+    },
+    {
+      "title": "The Biggest Myth In Education",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rhgwIhB58PA",
+      "externalId": "rhgwIhB58PA",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/rhgwIhB58PA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcRmS43hs15Dk4CXvVSGXBtQW39w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "14:27",
+        "metadata": "15M 5y ago"
+      },
+      "evidenceText": "14:27 The Biggest Myth In Education 15M 5y ago"
+    },
+    {
+      "title": "A Physics Professor Bet Me $10,000 I'm Wrong",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yCsgoLc_fzI",
+      "externalId": "yCsgoLc_fzI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/yCsgoLc_fzI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDo0QQYLzUHkEINlZ2gwWoohpyFwg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "17:56",
+        "metadata": "25M 5y ago"
+      },
+      "evidenceText": "17:56 A Physics Professor Bet Me $10,000 I'm Wrong 25M 5y ago"
+    },
+    {
+      "title": "The Longest-Running Evolution Experiment",
+      "canonicalUrl": "https://www.youtube.com/watch?v=w4sLAQvEH-M",
+      "externalId": "w4sLAQvEH-M",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/w4sLAQvEH-M/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCO6ak25smZH16ZLgRsp-wF_UK9kw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "17:17",
+        "metadata": "6.9M 5y ago"
+      },
+      "evidenceText": "17:17 The Longest-Running Evolution Experiment 6.9M 5y ago"
+    },
+    {
+      "title": "Risking My Life To Settle A Physics Debate",
+      "canonicalUrl": "https://www.youtube.com/watch?v=jyQwgBAaBag",
+      "externalId": "jyQwgBAaBag",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "21:38",
+        "metadata": "12M 5y ago"
+      },
+      "evidenceText": "21:38 Risking My Life To Settle A Physics Debate 12M 5y ago"
+    },
+    {
+      "title": "Math's Fundamental Flaw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+      "externalId": "HeQX2HjkcNo",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "34:00",
+        "metadata": "30M 5y ago"
+      },
+      "evidenceText": "34:00 Math's Fundamental Flaw 30M 5y ago"
+    },
+    {
+      "title": "How An Infinite Hotel Ran Out Of Room",
+      "canonicalUrl": "https://www.youtube.com/watch?v=OxGsU8oIWjY",
+      "externalId": "OxGsU8oIWjY",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "6:07",
+        "metadata": "38M 5y ago"
+      },
+      "evidenceText": "6:07 How An Infinite Hotel Ran Out Of Room 38M 5y ago"
+    },
+    {
+      "title": "This Unstoppable Robot Could Save Your Life",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qevIIQHrJZg",
+      "externalId": "qevIIQHrJZg",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/qevIIQHrJZg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLATq2FSbrGpJBXGlukcjMLxNfTNGg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "14:30",
+        "metadata": "35M 5y ago"
+      },
+      "evidenceText": "14:30 This Unstoppable Robot Could Save Your Life 35M 5y ago"
+    },
+    {
+      "title": "The Surprising Secret of Synchronization",
+      "canonicalUrl": "https://www.youtube.com/watch?v=t-_VPRCtiUg",
+      "externalId": "t-_VPRCtiUg",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/t-_VPRCtiUg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzbICrAY14fDngPxGMIXDMs9oZoA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "19:29",
+        "metadata": "27M 5y ago"
+      },
+      "evidenceText": "19:29 The Surprising Secret of Synchronization 27M 5y ago"
+    },
+    {
+      "title": "This is why we can't have nice things",
+      "canonicalUrl": "https://www.youtube.com/watch?v=j5v8D-alAKE",
+      "externalId": "j5v8D-alAKE",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/j5v8D-alAKE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDuOPeEeulHhFI_GeeZyKejy27E8g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "17:30",
+        "metadata": "25M 5y ago"
+      },
+      "evidenceText": "17:30 This is why we can't have nice things 25M 5y ago"
+    },
+    {
+      "title": "The Discovery That Transformed Pi",
+      "canonicalUrl": "https://www.youtube.com/watch?v=gMlf1ELvRzc",
+      "externalId": "gMlf1ELvRzc",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/gMlf1ELvRzc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBalqn_pOfkN1OVJAQdUiWuNjasoA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "18:40",
+        "metadata": "17M 5y ago"
+      },
+      "evidenceText": "18:40 The Discovery That Transformed Pi 17M 5y ago"
+    },
+    {
+      "title": "Why Robots That Bend Are Better",
+      "canonicalUrl": "https://www.youtube.com/watch?v=058hRtaCWC0",
+      "externalId": "058hRtaCWC0",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/058hRtaCWC0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCbH98Rf6l4mjwTl766z6dJ3-56rQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "10:35",
+        "metadata": "4.1M 5y ago"
+      },
+      "evidenceText": "10:35 Why Robots That Bend Are Better 4.1M 5y ago"
+    },
+    {
+      "title": "I Asked Bill Gates What's The Next Crisis?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Grv1RJkdyqI",
+      "externalId": "Grv1RJkdyqI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Grv1RJkdyqI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCj7Cav456TFdki-MydWQM7XkFYgg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "13:14",
+        "metadata": "7.9M 5y ago"
+      },
+      "evidenceText": "13:14 I Asked Bill Gates What's The Next Crisis? 7.9M 5y ago"
+    },
+    {
+      "title": "The Explosive Element That Changed The World",
+      "canonicalUrl": "https://www.youtube.com/watch?v=YMDJA4UvXLA",
+      "externalId": "YMDJA4UvXLA",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/YMDJA4UvXLA/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC6J-DfII1XKuTAR8YV-29CyyAD-w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "19:25",
+        "metadata": "10M 5y ago"
+      },
+      "evidenceText": "19:25 The Explosive Element That Changed The World 10M 5y ago"
+    },
+    {
+      "title": "Q&A + Giveaway for 10 Years on YouTube",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0dqX3NjwaQs",
+      "externalId": "0dqX3NjwaQs",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/0dqX3NjwaQs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAcQ_XfnM-XDuNBajKmJ2qFE-bc9g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "13:00",
+        "metadata": "672K 5y ago"
+      },
+      "evidenceText": "13:00 Q&A + Giveaway for 10 Years on YouTube 672K 5y ago"
+    },
+    {
+      "title": "The Illusion Only Some People Can See",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dBap_Lp-0oc",
+      "externalId": "dBap_Lp-0oc",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/dBap_Lp-0oc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTnqpxgoDnuR-I4d9AazObGsE7NA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "16:57",
+        "metadata": "10M 5y ago"
+      },
+      "evidenceText": "16:57 The Illusion Only Some People Can See 10M 5y ago"
+    },
+    {
+      "title": "These are the asteroids to worry about",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4Wrc4fHSCpw",
+      "externalId": "4Wrc4fHSCpw",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "20:06",
+        "metadata": "80M 5y ago"
+      },
+      "evidenceText": "20:06 These are the asteroids to worry about 80M 5y ago"
+    },
+    {
+      "title": "Why No One Has Measured The Speed Of Light",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pTn6Ewhb27k",
+      "externalId": "pTn6Ewhb27k",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "19:05",
+        "metadata": "24M 5y ago"
+      },
+      "evidenceText": "19:05 Why No One Has Measured The Speed Of Light 24M 5y ago"
+    },
+    {
+      "title": "What Actually Expands In An Expanding Universe?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9DrBQg_n2Uo",
+      "externalId": "9DrBQg_n2Uo",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "12:28",
+        "metadata": "4.7M 5y ago"
+      },
+      "evidenceText": "12:28 What Actually Expands In An Expanding Universe? 4.7M 5y ago"
+    },
+    {
+      "title": "How One Supernova Measured The Universe",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ljoeOLuX6Z4",
+      "externalId": "ljoeOLuX6Z4",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "13:42",
+        "metadata": "5.4M 5y ago"
+      },
+      "evidenceText": "13:42 How One Supernova Measured The Universe 5.4M 5y ago"
+    },
+    {
+      "title": "What Everyone Gets Wrong About Gravity",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XRr1kaXKBsU",
+      "externalId": "XRr1kaXKBsU",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "17:34",
+        "metadata": "15M 5y ago"
+      },
+      "evidenceText": "17:34 What Everyone Gets Wrong About Gravity 15M 5y ago"
+    },
+    {
+      "title": "The Infinite Pattern That Never Repeats",
+      "canonicalUrl": "https://www.youtube.com/watch?v=48sCx-wBs34",
+      "externalId": "48sCx-wBs34",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "21:12",
+        "metadata": "21M 5y ago"
+      },
+      "evidenceText": "21:12 The Infinite Pattern That Never Repeats 21M 5y ago"
+    },
+    {
+      "title": "How Kodak Exposed Nuclear Testing",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7pSqk-XV2QM",
+      "externalId": "7pSqk-XV2QM",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/7pSqk-XV2QM/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAkS6vDMjcjkMWQC7wx4ikB_irGjw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "13:20",
+        "metadata": "6.6M 6y ago"
+      },
+      "evidenceText": "13:20 How Kodak Exposed Nuclear Testing 6.6M 6y ago"
+    },
+    {
+      "title": "Why Being Delusional is a Superpower",
+      "canonicalUrl": "https://www.youtube.com/watch?v=3LopI4YeC4I",
+      "externalId": "3LopI4YeC4I",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/3LopI4YeC4I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD6v4q1lN-DRTN1tQHdKddMuZgccQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "12:04",
+        "metadata": "14M 6y ago"
+      },
+      "evidenceText": "12:04 Why Being Delusional is a Superpower 14M 6y ago"
+    },
+    {
+      "title": "Is Dust Mostly Dead Skin?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=jn5M48MVWyg",
+      "externalId": "jn5M48MVWyg",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/jn5M48MVWyg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZy0YdnV3RYhGetp0Qfp_n8eTfrQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "15:13",
+        "metadata": "4.8M 6y ago"
+      },
+      "evidenceText": "15:13 Is Dust Mostly Dead Skin? 4.8M 6y ago"
+    },
+    {
+      "title": "Half the universe was missing... until now",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Kp_kqamkYpw",
+      "externalId": "Kp_kqamkYpw",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Kp_kqamkYpw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAhhxF3hwaiQg1gmEcFKIxxlFxV7Q",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "14:10",
+        "metadata": "5.3M 6y ago"
+      },
+      "evidenceText": "14:10 Half the universe was missing... until now 5.3M 6y ago"
+    },
+    {
+      "title": "The Launch of Perseverance to Mars",
+      "canonicalUrl": "https://www.youtube.com/watch?v=m85qDk849_o",
+      "externalId": "m85qDk849_o",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/m85qDk849_o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBxCJ-xn7TJ_BKTUBsBxIukh7pdBA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "3:35",
+        "metadata": "807K 6y ago"
+      },
+      "evidenceText": "3:35 The Launch of Perseverance to Mars 807K 6y ago"
+    },
+    {
+      "title": "Turbulent Flow is MORE Awesome Than Laminar Flow",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5zI9sG3pjVU",
+      "externalId": "5zI9sG3pjVU",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/5zI9sG3pjVU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAwYZlRJxoYVPkcymqB2Nmh5JXCIg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "18:32",
+        "metadata": "11M 6y ago"
+      },
+      "evidenceText": "18:32 Turbulent Flow is MORE Awesome Than Laminar Flow 11M 6y ago"
+    },
+    {
+      "title": "Why Parallel Universes Are Probably Real",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kTXTPe3wahc",
+      "externalId": "kTXTPe3wahc",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/kTXTPe3wahc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCaXmd6PveWrCi7w4nDUSmlB6CtLQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "20:00",
+        "metadata": "25M 6y ago"
+      },
+      "evidenceText": "20:00 Why Parallel Universes Are Probably Real 25M 6y ago"
+    },
+    {
+      "title": "This equation will change how you see the world (the logistic map)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ovJcsL7vyrk",
+      "externalId": "ovJcsL7vyrk",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/ovJcsL7vyrk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5YDpfWS1kagw_rnhVUVHTLe3rWA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "18:39",
+        "metadata": "17M 6y ago"
+      },
+      "evidenceText": "18:39 This equation will change how you see the world (the logistic map) 17M 6y ago"
+    },
+    {
+      "title": "Why New Years Resolutions Fail & How To Succeed",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Pm9CQn07OjU",
+      "externalId": "Pm9CQn07OjU",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Pm9CQn07OjU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkbEIvGGxmmarjtXQ_mgPmn5E-lg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "10:20",
+        "metadata": "834K 6y ago"
+      },
+      "evidenceText": "10:20 Why New Years Resolutions Fail & How To Succeed 834K 6y ago"
+    },
+    {
+      "title": "How to Slow Aging (and even reverse it)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QRt7LjqJ45k",
+      "externalId": "QRt7LjqJ45k",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/QRt7LjqJ45k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBAmJ-8gL67cWwCIRK2XvGBViOLxw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "21:10",
+        "metadata": "7.4M 6y ago"
+      },
+      "evidenceText": "21:10 How to Slow Aging (and even reverse it) 7.4M 6y ago"
+    },
+    {
+      "title": "Chaos: The Science of the Butterfly Effect",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fDek6cYijxI",
+      "externalId": "fDek6cYijxI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/fDek6cYijxI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCuYu8bIaDzDsilcCcrM4y-gbpFdQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "12:51",
+        "metadata": "7.8M 6y ago"
+      },
+      "evidenceText": "12:51 Chaos: The Science of the Butterfly Effect 7.8M 6y ago"
+    },
+    {
+      "title": "3 Perplexing Physics Problems",
+      "canonicalUrl": "https://www.youtube.com/watch?v=K-Fc08X56R0",
+      "externalId": "K-Fc08X56R0",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/K-Fc08X56R0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBRvrF30Y-6bc93Pe-SbKGRT6LzAA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "14:00",
+        "metadata": "10M 6y ago"
+      },
+      "evidenceText": "14:00 3 Perplexing Physics Problems 10M 6y ago"
+    },
+    {
+      "title": "Why Trees Are Out to Get You",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-PWMQR59M68",
+      "externalId": "-PWMQR59M68",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "10:08",
+        "metadata": "1.5M 6y ago"
+      },
+      "evidenceText": "10:08 Why Trees Are Out to Get You 1.5M 6y ago"
+    },
+    {
+      "title": "Engineering with Origami",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ThwuT3_AG6w",
+      "externalId": "ThwuT3_AG6w",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "18:22",
+        "metadata": "14M 6y ago"
+      },
+      "evidenceText": "18:22 Engineering with Origami 14M 6y ago"
+    },
+    {
+      "title": "The Bizarre Behavior of Rotating Bodies",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1VPfZ_XzisU",
+      "externalId": "1VPfZ_XzisU",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "14:49",
+        "metadata": "13M 7y ago"
+      },
+      "evidenceText": "14:49 The Bizarre Behavior of Rotating Bodies 13M 7y ago"
+    },
+    {
+      "title": "Does Planet 9 Exist?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pe83T9hISoY",
+      "externalId": "pe83T9hISoY",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/pe83T9hISoY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdrLZpayTBBQaM2DGus-VYxCnhJw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "16:20",
+        "metadata": "7.6M 7y ago"
+      },
+      "evidenceText": "16:20 Does Planet 9 Exist? 7.6M 7y ago"
+    },
+    {
+      "title": "Flamethrower vs Aerogel",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qnOoDE9rj6w",
+      "externalId": "qnOoDE9rj6w",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/qnOoDE9rj6w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_RB-sr7UHSUPcpgNg6KTsAGzDlg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "13:21",
+        "metadata": "2M 7y ago"
+      },
+      "evidenceText": "13:21 Flamethrower vs Aerogel 2M 7y ago"
+    },
+    {
+      "title": "Making Liquid Nitrogen From Scratch!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dCXkaQa53QQ",
+      "externalId": "dCXkaQa53QQ",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/dCXkaQa53QQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDPwwV7_YlqYO3aP9-M1ZqZI4KkcQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "13:43",
+        "metadata": "8M 7y ago"
+      },
+      "evidenceText": "13:43 Making Liquid Nitrogen From Scratch! 8M 7y ago"
+    },
+    {
+      "title": "Mars Helicopter (before it went to Mars)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GhsZUZmJvaM",
+      "externalId": "GhsZUZmJvaM",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/GhsZUZmJvaM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAc6WrNFBGNwN8hnvMeSpE-MEbi6g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "16:01",
+        "metadata": "6.1M 7y ago"
+      },
+      "evidenceText": "16:01 Mars Helicopter (before it went to Mars) 6.1M 7y ago"
+    },
+    {
+      "title": "Why the Future of Cars is Electric",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GATuMWAFBUA",
+      "externalId": "GATuMWAFBUA",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/GATuMWAFBUA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmR-ZW7Zbrc6o5YssXou1asNfCEg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "5:40",
+        "metadata": "1M 7y ago"
+      },
+      "evidenceText": "5:40 Why the Future of Cars is Electric 1M 7y ago"
+    },
+    {
+      "title": "Why Apollo Astronauts Trained in Nuclear Bomb Craters",
+      "canonicalUrl": "https://www.youtube.com/watch?v=E7uGvsT_nnM",
+      "externalId": "E7uGvsT_nnM",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/E7uGvsT_nnM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9f73LVDYVLk930DIuVScHVQHRtg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "13:08",
+        "metadata": "9M 7y ago"
+      },
+      "evidenceText": "13:08 Why Apollo Astronauts Trained in Nuclear Bomb Craters 9M 7y ago"
+    },
+    {
+      "title": "How Cod Saved the Vikings",
+      "canonicalUrl": "https://www.youtube.com/watch?v=BtCNBh0AsWM",
+      "externalId": "BtCNBh0AsWM",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/BtCNBh0AsWM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBHa6m2rSXKnUZ4iF1lKm2px10uWg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "9:12",
+        "metadata": "1.7M 7y ago"
+      },
+      "evidenceText": "9:12 How Cod Saved the Vikings 1.7M 7y ago"
+    },
+    {
+      "title": "I Waterproofed Myself With Aerogel!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GcdB5bFwio4",
+      "externalId": "GcdB5bFwio4",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/GcdB5bFwio4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCRXJ9s5gdcNeCDmx7FGpTlDMYnoQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "12:22",
+        "metadata": "40M 7y ago"
+      },
+      "evidenceText": "12:22 I Waterproofed Myself With Aerogel! 40M 7y ago"
+    },
+    {
+      "title": "Can You Swim in Shade Balls?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=BZbChKzedEk",
+      "externalId": "BZbChKzedEk",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/BZbChKzedEk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdUVghcN_XPJjbrl3mVnGyzZGzvg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "10:42",
+        "metadata": "32M 7y ago"
+      },
+      "evidenceText": "10:42 Can You Swim in Shade Balls? 32M 7y ago"
+    },
+    {
+      "title": "World's Lightest Solid!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=AeJ9q45PfD0",
+      "externalId": "AeJ9q45PfD0",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "12:02",
+        "metadata": "63M 7y ago"
+      },
+      "evidenceText": "12:02 World's Lightest Solid! 63M 7y ago"
+    },
+    {
+      "title": "My Video Went Viral. Here's Why",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fHsa9DqmId8",
+      "externalId": "fHsa9DqmId8",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "23:43",
+        "metadata": "5.5M 7y ago"
+      },
+      "evidenceText": "23:43 My Video Went Viral. Here's Why 5.5M 7y ago"
+    },
+    {
+      "title": "Why Are 96,000,000 Black Balls on This Reservoir?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=uxPdPpi5W4o",
+      "externalId": "uxPdPpi5W4o",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "12:07",
+        "metadata": "112M 7y ago"
+      },
+      "evidenceText": "12:07 Why Are 96,000,000 Black Balls on This Reservoir? 112M 7y ago"
+    },
+    {
+      "title": "Magnetic Micro-Robots",
+      "canonicalUrl": "https://www.youtube.com/watch?v=N7lXymxsdhw",
+      "externalId": "N7lXymxsdhw",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "7:42",
+        "metadata": "1.9M 7y ago"
+      },
+      "evidenceText": "7:42 Magnetic Micro-Robots 1.9M 7y ago"
+    },
+    {
+      "title": "Three Awesome High School Science Projects",
+      "canonicalUrl": "https://www.youtube.com/watch?v=q3kSW633bsk",
+      "externalId": "q3kSW633bsk",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "11:48",
+        "metadata": "1.2M 7y ago"
+      },
+      "evidenceText": "11:48 Three Awesome High School Science Projects 1.2M 7y ago"
+    },
+    {
+      "title": "First Image of a Black Hole!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=S_GVbuddri8",
+      "externalId": "S_GVbuddri8",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "5:29",
+        "metadata": "10M 7y ago"
+      },
+      "evidenceText": "5:29 First Image of a Black Hole! 10M 7y ago"
+    },
+    {
+      "title": "How to Understand What Black Holes Look Like",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zUyH3XhpLTo",
+      "externalId": "zUyH3XhpLTo",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/zUyH3XhpLTo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDMt9GbNQyZ1Uxg09FmY4m5SbDAaw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "9:19",
+        "metadata": "10M 7y ago"
+      },
+      "evidenceText": "9:19 How to Understand What Black Holes Look Like 10M 7y ago"
+    },
+    {
+      "title": "How Was Video Invented?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rjDX5ItsOnQ",
+      "externalId": "rjDX5ItsOnQ",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/rjDX5ItsOnQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBm5P5RP_VU0JBiGv8xaWYdLR3xqg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "13:13",
+        "metadata": "5.9M 7y ago"
+      },
+      "evidenceText": "13:13 How Was Video Invented? 5.9M 7y ago"
+    },
+    {
+      "title": "Can Humans Sense Magnetic Fields?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=dg3pza4y2ws",
+      "externalId": "dg3pza4y2ws",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/dg3pza4y2ws/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCStnwop5Tgw96aSjqy9PfOLbSZ3g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "13:53",
+        "metadata": "4M 7y ago"
+      },
+      "evidenceText": "13:53 Can Humans Sense Magnetic Fields? 4M 7y ago"
+    },
+    {
+      "title": "Why Machines That Bend Are Better",
+      "canonicalUrl": "https://www.youtube.com/watch?v=97t7Xj_iBv0",
+      "externalId": "97t7Xj_iBv0",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/97t7Xj_iBv0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLASa8_nOea_5zJYtITRW3ZBfkoGJw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "12:52",
+        "metadata": "13M 7y ago"
+      },
+      "evidenceText": "12:52 Why Machines That Bend Are Better 13M 7y ago"
+    },
+    {
+      "title": "Can You Recover Sound From Images?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eUzB0L0mSCI",
+      "externalId": "eUzB0L0mSCI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/eUzB0L0mSCI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXkZ1xAVfC7AdTPbR_yTNQSf-DCA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "11:23",
+        "metadata": "3.9M 7y ago"
+      },
+      "evidenceText": "11:23 Can You Recover Sound From Images? 3.9M 7y ago"
+    },
+    {
+      "title": "Microwaving Grapes Makes Plasma",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wCrtk-pyP0I",
+      "externalId": "wCrtk-pyP0I",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/wCrtk-pyP0I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD26t8Ds_jj01sPNhAm36ZedEcVhg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "8:16",
+        "metadata": "20M 7y ago"
+      },
+      "evidenceText": "8:16 Microwaving Grapes Makes Plasma 20M 7y ago"
+    },
+    {
+      "title": "Do Salt Lamps Work?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZQ--scjcAZ4",
+      "externalId": "ZQ--scjcAZ4",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/ZQ--scjcAZ4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBbvaew4tnfDI6bRhdB-Dd9xskaGQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "16:31",
+        "metadata": "7.1M 7y ago"
+      },
+      "evidenceText": "16:31 Do Salt Lamps Work? 7.1M 7y ago"
+    },
+    {
+      "title": "The Inverse Leidenfrost Effect",
+      "canonicalUrl": "https://www.youtube.com/watch?v=M2CMH57hXmY",
+      "externalId": "M2CMH57hXmY",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/M2CMH57hXmY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAzeBu4K-eq37KluO-8i4GZTdi-gg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "8:38",
+        "metadata": "1.8M 7y ago"
+      },
+      "evidenceText": "8:38 The Inverse Leidenfrost Effect 1.8M 7y ago"
+    },
+    {
+      "title": "Spinning Black Holes",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fu3645D4ZlI",
+      "externalId": "fu3645D4ZlI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/fu3645D4ZlI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlrTbahDQKYaVEWGnOl4kUYtbr_A",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "10:14",
+        "metadata": "5.7M 7y ago"
+      },
+      "evidenceText": "10:14 Spinning Black Holes 5.7M 7y ago"
+    },
+    {
+      "title": "The Best Test of General Relativity (by 2 Misplaced Satellites)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=aKwJayXTZUs",
+      "externalId": "aKwJayXTZUs",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/aKwJayXTZUs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBuPph8aLgJ1_4Qpy79SXTuRAMI_w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "11:52",
+        "metadata": "2.1M 7y ago"
+      },
+      "evidenceText": "11:52 The Best Test of General Relativity (by 2 Misplaced Satellites) 2.1M 7y ago"
+    },
+    {
+      "title": "How Ultrasound Can Deactivate Parts of the Brain",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qQhUxd82Rr0",
+      "externalId": "qQhUxd82Rr0",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/qQhUxd82Rr0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBe6EiMxyVcSO99erK-mou5VPS4cQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "7:56",
+        "metadata": "624K 7y ago"
+      },
+      "evidenceText": "7:56 How Ultrasound Can Deactivate Parts of the Brain 624K 7y ago"
+    },
+    {
+      "title": "Five Firsts for Mars InSight",
+      "canonicalUrl": "https://www.youtube.com/watch?v=u3FB2SuKFfI",
+      "externalId": "u3FB2SuKFfI",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/u3FB2SuKFfI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB6dG3Cpsbh0kWMuzB0C1WopvM34g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "5:34",
+        "metadata": "672K 7y ago"
+      },
+      "evidenceText": "5:34 Five Firsts for Mars InSight 672K 7y ago"
+    },
+    {
+      "title": "The kg is dead, long live the kg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=c_e1wITe_ig",
+      "externalId": "c_e1wITe_ig",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "9:58",
+        "metadata": "4M 7y ago"
+      },
+      "evidenceText": "9:58 The kg is dead, long live the kg 4M 7y ago"
+    },
+    {
+      "title": "Drinking in ZERO-G! (and other challenges of a trip to Mars)",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SAQ-iIJkLzA",
+      "externalId": "SAQ-iIJkLzA",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "7:35",
+        "metadata": "10M 7y ago"
+      },
+      "evidenceText": "7:35 Drinking in ZERO-G! (and other challenges of a trip to Mars) 10M 7y ago"
+    },
+    {
+      "title": "What Actually Causes Dandruff?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TIe2oerd25c",
+      "externalId": "TIe2oerd25c",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "9:02",
+        "metadata": "6.1M 7y ago"
+      },
+      "evidenceText": "9:02 What Actually Causes Dandruff? 6.1M 7y ago"
+    },
+    {
+      "title": "Why Boredom is Good For You",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LKPwKFigF8U",
+      "externalId": "LKPwKFigF8U",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/LKPwKFigF8U/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBa9Lf3M3jLDYvasXlaoB1k9Ia3GA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "7:22",
+        "metadata": "7.3M 7y ago"
+      },
+      "evidenceText": "7:22 Why Boredom is Good For You 7.3M 7y ago"
+    },
+    {
+      "title": "This Toy Can Open Any Garage",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CNodxp9Jy4A",
+      "externalId": "CNodxp9Jy4A",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/CNodxp9Jy4A/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAtCl5KpikVxq9lRr7-nQRC5dkejg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "12:47",
+        "metadata": "3.3M 8y ago"
+      },
+      "evidenceText": "12:47 This Toy Can Open Any Garage 3.3M 8y ago"
+    },
+    {
+      "title": "How UV Causes Cancer and Aging",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Cf7Ar3nEUmw",
+      "externalId": "Cf7Ar3nEUmw",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Cf7Ar3nEUmw/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGQgZChkMA8=&rs=AOn4CLCFMqvy6JtX44hBJrDYtk4aUrRzlg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "4:46",
+        "metadata": "603K 8y ago"
+      },
+      "evidenceText": "4:46 How UV Causes Cancer and Aging 603K 8y ago"
+    },
+    {
+      "title": "Is Our Food Becoming Less Nutritious?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Yl_K2Ata6XY",
+      "externalId": "Yl_K2Ata6XY",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/Yl_K2Ata6XY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCLqCA8wQd3Sg-fGjp-ELy2jWrCGQ",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "7:30",
+        "metadata": "2.1M 8y ago"
+      },
+      "evidenceText": "7:30 Is Our Food Becoming Less Nutritious? 2.1M 8y ago"
+    },
+    {
+      "title": "Can You Overdose on Vitamins?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=AY6Bg4GzCGs",
+      "externalId": "AY6Bg4GzCGs",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/AY6Bg4GzCGs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCkYm7mxozzdl5NIlAU2FjURFAzHA",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "4:58",
+        "metadata": "862K 8y ago"
+      },
+      "evidenceText": "4:58 Can You Overdose on Vitamins? 862K 8y ago"
+    },
+    {
+      "title": "What if you could only see the world in UV?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=V9K6gjR07Po",
+      "externalId": "V9K6gjR07Po",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/V9K6gjR07Po/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDB1hKF6rDwtb1hOC4M0bf4OU0X1g",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "11:13",
+        "metadata": "5.5M 8y ago"
+      },
+      "evidenceText": "11:13 What if you could only see the world in UV? 5.5M 8y ago"
+    },
+    {
+      "title": "Spinning Sphere of Molten Sodium",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rAYW9n8i-C4",
+      "externalId": "rAYW9n8i-C4",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/rAYW9n8i-C4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAR2KrXL0ItKmSnITCkvhFX77kA6w",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "8:27",
+        "metadata": "3M 8y ago"
+      },
+      "evidenceText": "8:27 Spinning Sphere of Molten Sodium 3M 8y ago"
+    },
+    {
+      "title": "My Life Story",
+      "canonicalUrl": "https://www.youtube.com/watch?v=S1tFT4smd6E",
+      "externalId": "S1tFT4smd6E",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/S1tFT4smd6E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB8xJ-tF7zjkoTGNPl75Cj7cWGUsg",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "11:41",
+        "metadata": "4.2M 8y ago"
+      },
+      "evidenceText": "11:41 My Life Story 4.2M 8y ago"
+    },
+    {
+      "title": "Why Einstein Thought Nuclear Weapons Were Impossible",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HD3k1hgbUXQ",
+      "externalId": "HD3k1hgbUXQ",
+      "creator": "Veritasium",
+      "imageUrl": "https://i.ytimg.com/vi/HD3k1hgbUXQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB-ppR7kGLDPU4CMxko27hDJ3WnFw",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "7:38",
+        "metadata": "6.8M 8y ago"
+      },
+      "evidenceText": "7:38 Why Einstein Thought Nuclear Weapons Were Impossible 6.8M 8y ago"
+    },
+    {
+      "title": "The Threat of AI Weapons",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XAgXwUwQoPA",
+      "externalId": "XAgXwUwQoPA",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "6:47",
+        "metadata": "891K 8y ago"
+      },
+      "evidenceText": "6:47 The Threat of AI Weapons 891K 8y ago"
+    },
+    {
+      "title": "Why Mosquitoes Bite Some People More Than Others",
+      "canonicalUrl": "https://www.youtube.com/watch?v=38gVZgE39K8",
+      "externalId": "38gVZgE39K8",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "12:10",
+        "metadata": "10M 8y ago"
+      },
+      "evidenceText": "12:10 Why Mosquitoes Bite Some People More Than Others 10M 8y ago"
+    },
+    {
+      "title": "This Particle Breaks Time Symmetry",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yArprk0q9eE",
+      "externalId": "yArprk0q9eE",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "9:00",
+        "metadata": "4.7M 8y ago"
+      },
+      "evidenceText": "9:00 This Particle Breaks Time Symmetry 4.7M 8y ago"
+    },
+    {
+      "title": "World's First Car!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DL_mJeb6O04",
+      "externalId": "DL_mJeb6O04",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "9:14",
+        "metadata": "4.8M 8y ago"
+      },
+      "evidenceText": "9:14 World's First Car! 4.8M 8y ago"
+    },
+    {
+      "title": "Your Body's Molecular Machines",
+      "canonicalUrl": "https://www.youtube.com/watch?v=X_tYrnv_o6A",
+      "externalId": "X_tYrnv_o6A",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "6:21",
+        "metadata": "5M 8y ago"
+      },
+      "evidenceText": "6:21 Your Body's Molecular Machines 5M 8y ago"
+    },
+    {
+      "title": "Neutron Star Merger Gravitational Waves and Gamma Rays",
+      "canonicalUrl": "https://www.youtube.com/watch?v=EAyk2OsKvtU",
+      "externalId": "EAyk2OsKvtU",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "5:26",
+        "metadata": "1.1M 8y ago"
+      },
+      "evidenceText": "5:26 Neutron Star Merger Gravitational Waves and Gamma Rays 1.1M 8y ago"
+    },
+    {
+      "title": "Schlieren Imaging in Color!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=K7pQsR8WFSo",
+      "externalId": "K7pQsR8WFSo",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "8:59",
+        "metadata": "1.4M 8y ago"
+      },
+      "evidenceText": "8:59 Schlieren Imaging in Color! 1.4M 8y ago"
+    },
+    {
+      "title": "What it’s like to watch a Total Solar Eclipse",
+      "canonicalUrl": "https://www.youtube.com/watch?v=G10m2ZZRH4U",
+      "externalId": "G10m2ZZRH4U",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "5:21",
+        "metadata": "10M 9y ago"
+      },
+      "evidenceText": "5:21 What it’s like to watch a Total Solar Eclipse 10M 9y ago"
+    },
+    {
+      "title": "How We're Redefining the kg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Oo0jm1PPRuo",
+      "externalId": "Oo0jm1PPRuo",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "9:49",
+        "metadata": "2.7M 9y ago"
+      },
+      "evidenceText": "9:49 How We're Redefining the kg 2.7M 9y ago"
+    },
+    {
+      "title": "Hydrodynamic Levitation!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mNHp8iyyIjo",
+      "externalId": "mNHp8iyyIjo",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "6:09",
+        "metadata": "2.1M 9y ago"
+      },
+      "evidenceText": "6:09 Hydrodynamic Levitation! 2.1M 9y ago"
+    },
+    {
+      "title": "How To See Air Currents",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4tgOyU34D44",
+      "externalId": "4tgOyU34D44",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "6:32",
+        "metadata": "1.6M 9y ago"
+      },
+      "evidenceText": "6:32 How To See Air Currents 1.6M 9y ago"
+    },
+    {
+      "title": "Sandwich Bag Fire Starter",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kvARvzMErnk",
+      "externalId": "kvARvzMErnk",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "5:36",
+        "metadata": "2.3M 9y ago"
+      },
+      "evidenceText": "5:36 Sandwich Bag Fire Starter 2.3M 9y ago"
+    },
+    {
+      "title": "NEW Gravitational Wave Discovery!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NVKO7UCIlgs",
+      "externalId": "NVKO7UCIlgs",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "5:02",
+        "metadata": "1.3M 9y ago"
+      },
+      "evidenceText": "5:02 NEW Gravitational Wave Discovery! 1.3M 9y ago"
+    },
+    {
+      "title": "World's Heaviest Weight",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_k9egfWvb7Y",
+      "externalId": "_k9egfWvb7Y",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "5:45",
+        "metadata": "22M 9y ago"
+      },
+      "evidenceText": "5:45 World's Heaviest Weight 22M 9y ago"
+    },
+    {
+      "title": "Mars 2020: Nasa's Next Mission To Mars",
+      "canonicalUrl": "https://www.youtube.com/watch?v=iZCRFRgSgas",
+      "externalId": "iZCRFRgSgas",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "8:58",
+        "metadata": "1.7M 9y ago"
+      },
+      "evidenceText": "8:58 Mars 2020: Nasa's Next Mission To Mars 1.7M 9y ago"
+    },
+    {
+      "title": "Is America Actually Metric?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SmSJXC6_qQ8",
+      "externalId": "SmSJXC6_qQ8",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "8:52",
+        "metadata": "3.4M 9y ago"
+      },
+      "evidenceText": "8:52 Is America Actually Metric? 3.4M 9y ago"
+    },
+    {
+      "title": "Fire in ZERO-G!!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=xdJwG_9kF8s",
+      "externalId": "xdJwG_9kF8s",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "7:48",
+        "metadata": "14M 9y ago"
+      },
+      "evidenceText": "7:48 Fire in ZERO-G!! 14M 9y ago"
+    },
+    {
+      "title": "The Sun Sneeze Gene",
+      "canonicalUrl": "https://www.youtube.com/watch?v=e69XZJ9DEj0",
+      "externalId": "e69XZJ9DEj0",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "6:17",
+        "metadata": "2.3M 9y ago"
+      },
+      "evidenceText": "6:17 The Sun Sneeze Gene 2.3M 9y ago"
+    },
+    {
+      "title": "4 Revolutionary Riddles Resolved!",
+      "canonicalUrl": "https://www.youtube.com/watch?v=72DCj3BztG4",
+      "externalId": "72DCj3BztG4",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "8:51",
+        "metadata": "4.1M 9y ago"
+      },
+      "evidenceText": "8:51 4 Revolutionary Riddles Resolved! 4.1M 9y ago"
+    },
+    {
+      "title": "4 Revolutionary Riddles",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HgCXdNhVC1Q",
+      "externalId": "HgCXdNhVC1Q",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "4:24",
+        "metadata": "5.1M 9y ago"
+      },
+      "evidenceText": "4:24 4 Revolutionary Riddles 5.1M 9y ago"
+    },
+    {
+      "title": "The Bayesian Trap",
+      "canonicalUrl": "https://www.youtube.com/watch?v=R13BD8qKeTg",
+      "externalId": "R13BD8qKeTg",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "10:37",
+        "metadata": "4.5M 9y ago"
+      },
+      "evidenceText": "10:37 The Bayesian Trap 4.5M 9y ago"
+    },
+    {
+      "title": "Does Water Swirl the Other Way in the Southern Hemisphere?",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mXaad0rsV38",
+      "externalId": "mXaad0rsV38",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "5:59",
+        "metadata": "1.9M 9y ago"
+      },
+      "evidenceText": "5:59 Does Water Swirl the Other Way in the Southern Hemisphere? 1.9M 9y ago"
+    },
+    {
+      "title": "The Science of Thinking",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UBVV8pch1dM",
+      "externalId": "UBVV8pch1dM",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "12:10",
+        "metadata": "9.2M 9y ago"
+      },
+      "evidenceText": "12:10 The Science of Thinking 9.2M 9y ago"
+    },
+    {
+      "title": "3 Sources of Water on the Moon",
+      "canonicalUrl": "https://www.youtube.com/watch?v=hbXDLKFkjm0",
+      "externalId": "hbXDLKFkjm0",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "6:04",
+        "metadata": "968K 9y ago"
+      },
+      "evidenceText": "6:04 3 Sources of Water on the Moon 968K 9y ago"
+    },
+    {
+      "title": "Electromagnetic Levitation Quadcopter",
+      "canonicalUrl": "https://www.youtube.com/watch?v=pCON4zfMzjU",
+      "externalId": "pCON4zfMzjU",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "6:19",
+        "metadata": "4.9M 9y ago"
+      },
+      "evidenceText": "6:19 Electromagnetic Levitation Quadcopter 4.9M 9y ago"
+    },
+    {
+      "title": "The Real Moral Dilemma of Self-Driving Cars",
+      "canonicalUrl": "https://www.youtube.com/watch?v=WBjY3QGNdAw",
+      "externalId": "WBjY3QGNdAw",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "3:41",
+        "metadata": "1.8M 9y ago"
+      },
+      "evidenceText": "3:41 The Real Moral Dilemma of Self-Driving Cars 1.8M 9y ago"
+    },
+    {
+      "title": "The Absurdity of Detecting Gravitational Waves",
+      "canonicalUrl": "https://www.youtube.com/watch?v=iphcyNWFD10",
+      "externalId": "iphcyNWFD10",
+      "creator": "Veritasium",
+      "description": "",
+      "sourceUrl": "https://www.youtube.com/@veritasium/videos",
+      "source": "YouTube",
+      "category": "youtube",
+      "collection": "Veritasium · Videos",
+      "attributes": {
+        "duration": "9:07",
+        "metadata": "7.8M 9y ago"
+      },
+      "evidenceText": "9:07 The Absurdity of Detecting Gravitational Waves 7.8M 9y ago"
+    }
+  ],
+  "topic": "Science",
+  "captures": [
+    {
+      "step": 0,
+      "visible": 30,
+      "unique": 30,
+      "observedAt": "2026-09-27T03:42:06.065Z"
+    },
+    {
+      "step": 1,
+      "visible": 30,
+      "unique": 30,
+      "observedAt": "2026-09-27T03:42:08.859Z"
+    },
+    {
+      "step": 2,
+      "visible": 60,
+      "unique": 60,
+      "observedAt": "2026-09-27T03:42:11.770Z"
+    },
+    {
+      "step": 3,
+      "visible": 60,
+      "unique": 60,
+      "observedAt": "2026-09-27T03:42:13.924Z"
+    },
+    {
+      "step": 4,
+      "visible": 90,
+      "unique": 90,
+      "observedAt": "2026-09-27T03:42:16.692Z"
+    },
+    {
+      "step": 5,
+      "visible": 90,
+      "unique": 90,
+      "observedAt": "2026-09-27T03:42:19.119Z"
+    },
+    {
+      "step": 6,
+      "visible": 120,
+      "unique": 120,
+      "observedAt": "2026-09-27T03:42:21.142Z"
+    },
+    {
+      "step": 7,
+      "visible": 120,
+      "unique": 120,
+      "observedAt": "2026-09-27T03:42:23.290Z"
+    },
+    {
+      "step": 8,
+      "visible": 150,
+      "unique": 150,
+      "observedAt": "2026-09-27T03:42:25.413Z"
+    },
+    {
+      "step": 9,
+      "visible": 150,
+      "unique": 150,
+      "observedAt": "2026-09-27T03:42:27.405Z"
+    },
+    {
+      "step": 10,
+      "visible": 180,
+      "unique": 180,
+      "observedAt": "2026-09-27T03:42:29.424Z"
+    },
+    {
+      "step": 11,
+      "visible": 180,
+      "unique": 180,
+      "observedAt": "2026-09-27T03:42:31.521Z"
+    },
+    {
+      "step": 12,
+      "visible": 210,
+      "unique": 210,
+      "observedAt": "2026-09-27T03:42:33.615Z"
+    },
+    {
+      "step": 13,
+      "visible": 210,
+      "unique": 210,
+      "observedAt": "2026-09-27T03:42:35.714Z"
+    },
+    {
+      "step": 14,
+      "visible": 240,
+      "unique": 240,
+      "observedAt": "2026-09-27T03:42:37.760Z"
+    }
+  ]
+}

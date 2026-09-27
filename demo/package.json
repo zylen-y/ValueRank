@@ -1,31 +1,48 @@
 {
-  "name": "demo",
+  "name": "valuerank",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "concurrently -k -n api,web \"npm:dev:api\" \"npm:dev:web\"",
+    "dev:api": "tsx watch server/index.ts",
+    "dev:web": "vite --host 127.0.0.1 --port 5188 --strictPort",
     "build": "tsc -b && vite build",
+    "typecheck": "tsc -b",
+    "test": "vitest run",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "catalog:import": "node --import tsx server/catalog-cli.ts import",
+    "catalog:stats": "node --import tsx server/catalog-cli.ts stats",
+    "catalog:export": "node --import tsx server/catalog-cli.ts export",
+    "start": "tsx server/index.ts",
+    "preview": "vite preview --host 127.0.0.1 --port 4173 --strictPort"
   },
   "dependencies": {
     "@fontsource-variable/geist": "^5.2.9",
+    "@mozilla/readability": "^0.6.0",
     "@tailwindcss/vite": "^4.3.2",
-    "framer-motion": "^12.42.2",
+    "@typesafe-ai/sdk": "^0.6.0",
+    "ai": "^7.0.116",
+    "ipaddr.js": "^2.5.0",
+    "linkedom": "^0.18.13",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
-    "recharts": "^3.9.2",
-    "tailwindcss": "^4.3.2"
+    "tailwindcss": "^4.3.2",
+    "zod": "^4.6.5"
   },
   "devDependencies": {
     "@types/node": "^24.13.2",
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.3",
+    "concurrently": "^10.0.5",
     "oxlint": "^1.71.0",
+    "tsx": "^4.23.15",
     "typescript": "~6.0.2",
     "vite": "^8.1.1",
     "vitest": "^4.1.10"
+  },
+  "engines": {
+    "node": ">=24"
   }
 }

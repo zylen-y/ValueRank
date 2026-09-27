@@ -1,0 +1,1385 @@
+{
+  "category": "003000",
+  "items": [
+    {
+      "attributes": {
+        "brandId": "branded",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "78,400원",
+        "price": 78400,
+        "rankingTheme": "NEW",
+        "sourceRank": 78
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "브랜디드",
+      "externalId": "6986707",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260804/6986707/6986707_17870389291701_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "78\n\n브랜디드\n\nUNIFORM CARGO PANTS [DEEP BROWN]\n\n20%\n78,400원\n24명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "UNIFORM CARGO PANTS [DEEP BROWN]",
+      "url": "https://www.musinsa.com/products/6986707"
+    },
+    {
+      "attributes": {
+        "brandId": "trillion",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "29,990원",
+        "price": 29990,
+        "rankingTheme": "NEW",
+        "sourceRank": 79
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "트릴리온",
+      "externalId": "6970666",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260731/6970666/6970666_17872090931006_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "79\n\n트릴리온\n\n[논페이드] 커브드 로우 다트 데님 팬츠_인디고\n\n54%\n29,990원\n39명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "[논페이드] 커브드 로우 다트 데님 팬츠_인디고",
+      "url": "https://www.musinsa.com/products/6970666"
+    },
+    {
+      "attributes": {
+        "brandId": "dimitriblack",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "29,900원",
+        "price": 29900,
+        "rankingTheme": "NEW",
+        "sourceRank": 80
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "디미트리블랙",
+      "externalId": "7051963",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260811/7051963/7051963_17879098344327_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "80\n\n디미트리블랙\n\n[10주년기획] © 모두의 에센셜 데님 팬츠_(세미 플레어 핏) 4 COLOR\n\n40%\n29,900원\n117명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "[10주년기획] © 모두의 에센셜 데님 팬츠_(세미 플레어 핏) 4 COLOR",
+      "url": "https://www.musinsa.com/products/7051963"
+    },
+    {
+      "attributes": {
+        "brandId": "dimitriblack",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "29,900원",
+        "price": 29900,
+        "rankingTheme": "NEW",
+        "sourceRank": 81
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "디미트리블랙",
+      "externalId": "7051965",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260811/7051965/7051965_17901357571385_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "81\n판매 2.1천개\n\n디미트리블랙\n\n[10주년기획] © 모두의 에센셜 데님 팬츠_(커브드 핏) 4 COLOR\n\n40%\n29,900원\n259명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "[10주년기획] © 모두의 에센셜 데님 팬츠_(커브드 핏) 4 COLOR",
+      "url": "https://www.musinsa.com/products/7051965"
+    },
+    {
+      "attributes": {
+        "brandId": "againstallodds",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "29,400원",
+        "price": 29400,
+        "rankingTheme": "NEW",
+        "sourceRank": 82
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "에이지오디",
+      "externalId": "6637088",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260609/6637088/6637088_17875473687892_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "82\n\n에이지오디\n\n스냅 버튼 커브드 팬츠 [다크 블루]\n\n40%\n29,400원",
+      "sourceId": "musinsa",
+      "title": "스냅 버튼 커브드 팬츠 [다크 블루]",
+      "url": "https://www.musinsa.com/products/6637088"
+    },
+    {
+      "attributes": {
+        "brandId": "etce",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "175,000원",
+        "price": 175000,
+        "rankingTheme": "NEW",
+        "sourceRank": 83
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "이티씨이",
+      "externalId": "7147768",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260824/7147768/7147768_17876308122002_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "83\n\n이티씨이\n\nDestroyed Painting Washed Denim (Black)\n\n175,000원",
+      "sourceId": "musinsa",
+      "title": "Destroyed Painting Washed Denim (Black)",
+      "url": "https://www.musinsa.com/products/7147768"
+    },
+    {
+      "attributes": {
+        "brandId": "hyojinoriko",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "42,900원",
+        "price": 42900,
+        "rankingTheme": "NEW",
+        "sourceRank": 84
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "효지",
+      "externalId": "7066723",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260813/7066723/7066723_17878172080794_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "84\n\n효지\n\n26 FW 논페이드 세미 커브드 데님 팬츠 (2컬러)\n\n44%\n42,900원\n82명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "26 FW 논페이드 세미 커브드 데님 팬츠 (2컬러)",
+      "url": "https://www.musinsa.com/products/7066723"
+    },
+    {
+      "attributes": {
+        "brandId": "looxp",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "40,600원",
+        "price": 40600,
+        "rankingTheme": "NEW",
+        "sourceRank": 85
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "루프",
+      "externalId": "6298002",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260413/6298002/6298002_17766741816342_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "85\n판매 2.3천개\n\n루프\n\n스터드 백포켓 코튼 벌룬 롱팬츠 블랙\n\n30%\n40,600원\n81명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "스터드 백포켓 코튼 벌룬 롱팬츠 블랙",
+      "url": "https://www.musinsa.com/products/6298002"
+    },
+    {
+      "attributes": {
+        "brandId": "2twodul",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "159,000원",
+        "price": 159000,
+        "rankingTheme": "NEW",
+        "sourceRank": 87
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "이투둘",
+      "externalId": "6622016",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260607/6622016/6622016_17890540608081_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "87\n\n이투둘\n\nLAYERED DENIM 003 (BLACK)\n\n159,000원",
+      "sourceId": "musinsa",
+      "title": "LAYERED DENIM 003 (BLACK)",
+      "url": "https://www.musinsa.com/products/6622016"
+    },
+    {
+      "attributes": {
+        "brandId": "kyoiii",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "138,510원",
+        "price": 138510,
+        "rankingTheme": "NEW",
+        "sourceRank": 88
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "쿄이",
+      "externalId": "7331739",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260915/7331739/7331739_17894479374129_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "88\n\n쿄이\n\nZIP POCKET BOOTCUT DENIM (BLACK)\n\n15%\n138,510원\n10명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "ZIP POCKET BOOTCUT DENIM (BLACK)",
+      "url": "https://www.musinsa.com/products/7331739"
+    },
+    {
+      "attributes": {
+        "brandId": "aakam",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "152,100원",
+        "price": 152100,
+        "rankingTheme": "NEW",
+        "sourceRank": 89
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "아캄",
+      "externalId": "7170795",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260826/7170795/7170795_17890204654743_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "89\n\n아캄\n\nDestroyed Streak Flare Denim Pants (Blue)\n\n10%\n152,100원",
+      "sourceId": "musinsa",
+      "title": "Destroyed Streak Flare Denim Pants (Blue)",
+      "url": "https://www.musinsa.com/products/7170795"
+    },
+    {
+      "attributes": {
+        "brandId": "aakam",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "152,100원",
+        "price": 152100,
+        "rankingTheme": "NEW",
+        "sourceRank": 90
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "아캄",
+      "externalId": "7170799",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260826/7170799/7170799_17890207589740_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "90\n\n아캄\n\nFireman Hook Denim Pants (Black)\n\n10%\n152,100원\n14명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "Fireman Hook Denim Pants (Black)",
+      "url": "https://www.musinsa.com/products/7170799"
+    },
+    {
+      "attributes": {
+        "brandId": "kyoiii",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "135,090원",
+        "price": 135090,
+        "rankingTheme": "NEW",
+        "sourceRank": 91
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "쿄이",
+      "externalId": "7331670",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260915/7331670/7331670_17894532861669_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "91\n\n쿄이\n\nTRIPLE ZIP FOIL SHORTS (BLACK)\n\n15%\n135,090원\n13명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "TRIPLE ZIP FOIL SHORTS (BLACK)",
+      "url": "https://www.musinsa.com/products/7331670"
+    },
+    {
+      "attributes": {
+        "brandId": "glowny",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "133,200원",
+        "price": 133200,
+        "rankingTheme": "NEW",
+        "sourceRank": 92
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "글로니",
+      "externalId": "6331947",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260417/6331947/6331947_17781128380748_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "92\n\n글로니\n\nG CONTRAST SWEATPANTS 2.0 (NAVY)\n\n10%\n133,200원",
+      "sourceId": "musinsa",
+      "title": "G CONTRAST SWEATPANTS 2.0 (NAVY)",
+      "url": "https://www.musinsa.com/products/6331947"
+    },
+    {
+      "attributes": {
+        "brandId": "badblood",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "128,790원",
+        "price": 128790,
+        "rankingTheme": "NEW",
+        "sourceRank": 93
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "배드블러드",
+      "externalId": "6664155",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260612/6664155/6664155_17848527335497_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "93\n\n배드블러드\n\nH.B.B. 로얄 레이스 라인스톤 라이트웨이트 조거 팬츠 - 블루\n\n19%\n128,790원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "H.B.B. 로얄 레이스 라인스톤 라이트웨이트 조거 팬츠 - 블루",
+      "url": "https://www.musinsa.com/products/6664155"
+    },
+    {
+      "attributes": {
+        "brandId": "roughneck",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "139,500원",
+        "price": 139500,
+        "rankingTheme": "NEW",
+        "sourceRank": 94
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "러프넥",
+      "externalId": "6527319",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260521/6527319/6527319_17872972064145_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "94\n\n러프넥\n\nBold Stich BootCut Denim Black\n\n10%\n139,500원",
+      "sourceId": "musinsa",
+      "title": "Bold Stich BootCut Denim Black",
+      "url": "https://www.musinsa.com/products/6527319"
+    },
+    {
+      "attributes": {
+        "brandId": "anglan",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "139,500원",
+        "price": 139500,
+        "rankingTheme": "NEW",
+        "sourceRank": 95
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "앵글런",
+      "externalId": "6941864",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260728/6941864/6941864_17859047104542_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "95\n\n앵글런\n\nPanel Mix Balloon Pants - Blue\n\n10%\n139,500원",
+      "sourceId": "musinsa",
+      "title": "Panel Mix Balloon Pants - Blue",
+      "url": "https://www.musinsa.com/products/6941864"
+    },
+    {
+      "attributes": {
+        "brandId": "umbro",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "132,050원",
+        "price": 132050,
+        "rankingTheme": "NEW",
+        "sourceRank": 96
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "엄브로",
+      "externalId": "7305724",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260911/7305724/7305724_17900582336658_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "96\n\n엄브로\n\n더비클럽 기모 안감 조거 & 와이드 2WAY 카고 팬츠 블랙 UR321CPT95\n\n5%\n132,050원\n11명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "더비클럽 기모 안감 조거 & 와이드 2WAY 카고 팬츠 블랙 UR321CPT95",
+      "url": "https://www.musinsa.com/products/7305724"
+    },
+    {
+      "attributes": {
+        "brandId": "allunee",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "97,300원",
+        "price": 97300,
+        "rankingTheme": "NEW",
+        "sourceRank": 97
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "올유니",
+      "externalId": "7259581",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260907/7259581/7259581_17887421750551_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "97\n\n올유니\n\nSoft Cupro Pants_Soft Black\n\n30%\n97,300원",
+      "sourceId": "musinsa",
+      "title": "Soft Cupro Pants_Soft Black",
+      "url": "https://www.musinsa.com/products/7259581"
+    },
+    {
+      "attributes": {
+        "brandId": "odor",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "123,300원",
+        "price": 123300,
+        "rankingTheme": "NEW",
+        "sourceRank": 98
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "오도어",
+      "externalId": "7275943",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260908/7275943/7275943_17889123349816_500.jpeg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "98\n\n오도어\n\nMolly wide jogger in Archive - Charcoal\n\n10%\n123,300원\n10명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "Molly wide jogger in Archive - Charcoal",
+      "url": "https://www.musinsa.com/products/7275943"
+    },
+    {
+      "attributes": {
+        "brandId": "intempomood",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "58,100원",
+        "price": 58100,
+        "rankingTheme": "NEW",
+        "sourceRank": 99
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "인템포무드",
+      "externalId": "7024043",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260807/7024043/7024043_17899674950158_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "99\n\n인템포무드\n\n더스트 페이드 스트레이트 팬츠 : 2컬러\n\n30%\n58,100원\n73명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "더스트 페이드 스트레이트 팬츠 : 2컬러",
+      "url": "https://www.musinsa.com/products/7024043"
+    },
+    {
+      "attributes": {
+        "brandId": "043y",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "135,000원",
+        "price": 135000,
+        "rankingTheme": "NEW",
+        "sourceRank": 100
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "043Y",
+      "externalId": "6856363",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260716/6856363/6856363_17841334111946_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "100\n\n043Y\n\nUnion Fade Wide Denim Pants\n\n135,000원\n10명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "Union Fade Wide Denim Pants",
+      "url": "https://www.musinsa.com/products/6856363"
+    },
+    {
+      "attributes": {
+        "brandId": "alyss",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "51,950원",
+        "price": 51950,
+        "rankingTheme": "NEW",
+        "sourceRank": 101
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "알리스",
+      "externalId": "7095348",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260818/7095348/7095348_17887453000984_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "101\n판매 2.3천개\n\n알리스\n\n[NERDKING x ALYSS] 슬릭 세미와이드 코튼 치노 팬츠_3COLOR\n\n30%\n51,950원\n48명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "[NERDKING x ALYSS] 슬릭 세미와이드 코튼 치노 팬츠_3COLOR",
+      "url": "https://www.musinsa.com/products/7095348"
+    },
+    {
+      "attributes": {
+        "brandId": "alyss",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "51,950원",
+        "price": 51950,
+        "rankingTheme": "NEW",
+        "sourceRank": 102
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "알리스",
+      "externalId": "6255590",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260403/6255590/6255590_17890998028541_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "102\n판매 7.2천개\n\n알리스\n\n[NERDKING x ALYSS] 슬릭 커브드 데님 팬츠_4COLOR\n\n30%\n51,950원\n40명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "[NERDKING x ALYSS] 슬릭 커브드 데님 팬츠_4COLOR",
+      "url": "https://www.musinsa.com/products/6255590"
+    },
+    {
+      "attributes": {
+        "brandId": "badblood",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "120,690원",
+        "price": 120690,
+        "rankingTheme": "NEW",
+        "sourceRank": 103
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "배드블러드",
+      "externalId": "6482000",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260514/6482000/6482000_17847874876991_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "103\n\n배드블러드\n\n다크 클래식2 커브드 조거 - 블랙\n\n19%\n120,690원",
+      "sourceId": "musinsa",
+      "title": "다크 클래식2 커브드 조거 - 블랙",
+      "url": "https://www.musinsa.com/products/6482000"
+    },
+    {
+      "attributes": {
+        "brandId": "anotheryouth",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "124,800원",
+        "price": 124800,
+        "rankingTheme": "NEW",
+        "sourceRank": 104
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "어나더유스",
+      "externalId": "6548856",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260526/6548856/6548856_17798013847669_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "104\n\n어나더유스\n\n더블 레이어드 스웻팬츠 - 그레이\n\n40%\n124,800원",
+      "sourceId": "musinsa",
+      "title": "더블 레이어드 스웻팬츠 - 그레이",
+      "url": "https://www.musinsa.com/products/6548856"
+    },
+    {
+      "attributes": {
+        "brandId": "whoau",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "17,960원",
+        "price": 17960,
+        "rankingTheme": "NEW",
+        "sourceRank": 105
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "후아유",
+      "externalId": "6278544",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260408/6278544/6278544_17756427265891_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "105\n\n후아유\n\nCampus Letter Wide Pants / WHTMG2422U\n\n55%\n17,960원",
+      "sourceId": "musinsa",
+      "title": "Campus Letter Wide Pants / WHTMG2422U",
+      "url": "https://www.musinsa.com/products/6278544"
+    },
+    {
+      "attributes": {
+        "brandId": "polhamkids",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "16,920원",
+        "price": 16920,
+        "rankingTheme": "NEW",
+        "sourceRank": 106
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "폴햄키즈",
+      "externalId": "7195877",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260828/7195877/7195877_17879097360065_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "106\n\n폴햄키즈\n\n공용 무브 조거 팬츠_PKF4PP3511\n\n72%\n16,920원",
+      "sourceId": "musinsa",
+      "title": "공용 무브 조거 팬츠_PKF4PP3511",
+      "url": "https://www.musinsa.com/products/7195877"
+    },
+    {
+      "attributes": {
+        "brandId": "rockcake",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "95,770원",
+        "price": 95770,
+        "rankingTheme": "NEW",
+        "sourceRank": 107
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "락케이크",
+      "externalId": "7020677",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260807/7020677/7020677_17872922353179_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "107\n\n락케이크\n\nZip Pocket Shirring Pants - Black\n\n40%\n95,770원\n14명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "Zip Pocket Shirring Pants - Black",
+      "url": "https://www.musinsa.com/products/7020677"
+    },
+    {
+      "attributes": {
+        "brandId": "gilaarchive",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "107,280원",
+        "price": 107280,
+        "rankingTheme": "NEW",
+        "sourceRank": 108
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "길라아카이브",
+      "externalId": "7037327",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260810/7037327/7037327_17885152764038_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "108\n\n길라아카이브\n\nGR-LOW RISE BOOTSCUT DENIM PANTS_GREY\n\n28%\n107,280원",
+      "sourceId": "musinsa",
+      "title": "GR-LOW RISE BOOTSCUT DENIM PANTS_GREY",
+      "url": "https://www.musinsa.com/products/7037327"
+    },
+    {
+      "attributes": {
+        "brandId": "divein",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "119,000원",
+        "price": 119000,
+        "rankingTheme": "NEW",
+        "sourceRank": 109
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "다이브인",
+      "externalId": "7118491",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260820/7118491/7118491_17882313221424_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "109\n\n다이브인\n\n[DIVEIN X 무민서] WASHED VERN CARGO PANTS (BLUE)\n\n119,000원\n50명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "[DIVEIN X 무민서] WASHED VERN CARGO PANTS (BLUE)",
+      "url": "https://www.musinsa.com/products/7118491"
+    },
+    {
+      "attributes": {
+        "brandId": "losersclub",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "112,250원",
+        "price": 112250,
+        "rankingTheme": "NEW",
+        "sourceRank": 110
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "루저스클럽",
+      "externalId": "7133155",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260821/7133155/7133155_17882676761668_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "110\n\n루저스클럽\n\n멀티 카고포켓 와이드 데님 팬츠 미디엄블루\n\n19%\n112,250원",
+      "sourceId": "musinsa",
+      "title": "멀티 카고포켓 와이드 데님 팬츠 미디엄블루",
+      "url": "https://www.musinsa.com/products/7133155"
+    },
+    {
+      "attributes": {
+        "brandId": "badblood",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "106,340원",
+        "price": 106340,
+        "rankingTheme": "NEW",
+        "sourceRank": 111
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "배드블러드",
+      "externalId": "6339091",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260420/6339091/6339091_17775126342794_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "111\n\n배드블러드\n\n109 Low-Rise Cargo Bootcut Pants - Beige\n\n23%\n106,340원",
+      "sourceId": "musinsa",
+      "title": "109 Low-Rise Cargo Bootcut Pants - Beige",
+      "url": "https://www.musinsa.com/products/6339091"
+    },
+    {
+      "attributes": {
+        "brandId": "danswer",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "93,600원",
+        "price": 93600,
+        "rankingTheme": "NEW",
+        "sourceRank": 112
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "디앤에스알",
+      "externalId": "7269907",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260908/7269907/7269907_17888449585282_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "112\n\n디앤에스알\n\n빈티지 커브드 카고 가먼트 그레이\n\n28%\n93,600원",
+      "sourceId": "musinsa",
+      "title": "빈티지 커브드 카고 가먼트 그레이",
+      "url": "https://www.musinsa.com/products/7269907"
+    },
+    {
+      "attributes": {
+        "brandId": "xtonzwoman",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "104,490원",
+        "price": 104490,
+        "rankingTheme": "NEW",
+        "sourceRank": 113
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "루나키후",
+      "externalId": "7250712",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260904/7250712/7250712_17895482750116_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "113\n\n루나키후\n\nWXP105 밤비 코듀로이 워싱 벌룬 팬츠 (BLACK)\n\n19%\n104,490원",
+      "sourceId": "musinsa",
+      "title": "WXP105 밤비 코듀로이 워싱 벌룬 팬츠 (BLACK)",
+      "url": "https://www.musinsa.com/products/7250712"
+    },
+    {
+      "attributes": {
+        "brandId": "areuban",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "116,100원",
+        "price": 116100,
+        "rankingTheme": "NEW",
+        "sourceRank": 114
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "아르반",
+      "externalId": "7044645",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260811/7044645/7044645_17871114013008_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "114\n\n아르반\n\n오픈 플라이 배기 팬츠_블랙\n\n10%\n116,100원",
+      "sourceId": "musinsa",
+      "title": "오픈 플라이 배기 팬츠_블랙",
+      "url": "https://www.musinsa.com/products/7044645"
+    },
+    {
+      "attributes": {
+        "brandId": "standarderror",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "18,500원",
+        "price": 18500,
+        "rankingTheme": "NEW",
+        "sourceRank": 115
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "스탠다드에러",
+      "externalId": "6816381",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260709/6816381/6816381_17835937348539_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "115\n\n스탠다드에러\n\n87-STAN290 백 커브드 원턱 윈드브레이커 나일론 와이드 팬츠 (3color)\n\n62%\n18,500원\n75명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "87-STAN290 백 커브드 원턱 윈드브레이커 나일론 와이드 팬츠 (3color)",
+      "url": "https://www.musinsa.com/products/6816381"
+    },
+    {
+      "attributes": {
+        "brandId": "musinsastandard",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "109,900원",
+        "price": 109900,
+        "rankingTheme": "NEW",
+        "sourceRank": 116
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "무신사 스탠다드",
+      "externalId": "7060798",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260812/7060798/7060798_17901432859895_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "116\n\n무신사 스탠다드\n\n[시티 레저] 스트럭처드 벨티드 카고 팬츠 [블랙]\n\n109,900원\n71명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "[시티 레저] 스트럭처드 벨티드 카고 팬츠 [블랙]",
+      "url": "https://www.musinsa.com/products/7060798"
+    },
+    {
+      "attributes": {
+        "brandId": "xtonzwoman",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "98,690원",
+        "price": 98690,
+        "rankingTheme": "NEW",
+        "sourceRank": 117
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "루나키후",
+      "externalId": "7036645",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260810/7036645/7036645_17883239977178_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "117\n\n루나키후\n\nWXP104 츠기타비 레이스 벌룬 팬츠 (KHAKI)\n\n23%\n98,690원",
+      "sourceId": "musinsa",
+      "title": "WXP104 츠기타비 레이스 벌룬 팬츠 (KHAKI)",
+      "url": "https://www.musinsa.com/products/7036645"
+    },
+    {
+      "attributes": {
+        "brandId": "xtonzwoman",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "98,690원",
+        "price": 98690,
+        "rankingTheme": "NEW",
+        "sourceRank": 118
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "루나키후",
+      "externalId": "7036641",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260810/7036641/7036641_17883240666692_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "118\n\n루나키후\n\nWXP104 츠기타비 레이스 벌룬 팬츠 (PLUM)\n\n23%\n98,690원",
+      "sourceId": "musinsa",
+      "title": "WXP104 츠기타비 레이스 벌룬 팬츠 (PLUM)",
+      "url": "https://www.musinsa.com/products/7036641"
+    },
+    {
+      "attributes": {
+        "brandId": "scenery",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "17,700원",
+        "price": 17700,
+        "rankingTheme": "NEW",
+        "sourceRank": 119
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "오프메이드",
+      "externalId": "7209038",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260831/7209038/7209038_17881792192436_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "119\n\n오프메이드\n\n사이드스냅 커브드 스웻팬츠\n\n50%\n17,700원",
+      "sourceId": "musinsa",
+      "title": "사이드스냅 커브드 스웻팬츠",
+      "url": "https://www.musinsa.com/products/7209038"
+    },
+    {
+      "attributes": {
+        "brandId": "kai",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "85,680원",
+        "price": 85680,
+        "rankingTheme": "NEW",
+        "sourceRank": 120
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "카이",
+      "externalId": "6483905",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260514/6483905/6483905_17847752050712_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "120\n\n카이\n\nWashed Double knee Denim pants\n\n28%\n85,680원",
+      "sourceId": "musinsa",
+      "title": "Washed Double knee Denim pants",
+      "url": "https://www.musinsa.com/products/6483905"
+    },
+    {
+      "attributes": {
+        "brandId": "noun",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "95,580원",
+        "price": 95580,
+        "rankingTheme": "NEW",
+        "sourceRank": 121
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "노운",
+      "externalId": "7177819",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260827/7177819/7177819_17890205345986_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "121\n\n노운\n\n드라이 플리츠드 팬츠 (머드 그레이)\n\n19%\n95,580원",
+      "sourceId": "musinsa",
+      "title": "드라이 플리츠드 팬츠 (머드 그레이)",
+      "url": "https://www.musinsa.com/products/7177819"
+    },
+    {
+      "attributes": {
+        "brandId": "passer",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "93,870원",
+        "price": 93870,
+        "rankingTheme": "NEW",
+        "sourceRank": 122
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "빠쎄",
+      "externalId": "6639324",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260609/6639324/6639324_17810016215097_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "122\n\n빠쎄\n\n커브드 아웃심 슬랙스 V2 [블랙]\n\n37%\n93,870원",
+      "sourceId": "musinsa",
+      "title": "커브드 아웃심 슬랙스 V2 [블랙]",
+      "url": "https://www.musinsa.com/products/6639324"
+    },
+    {
+      "attributes": {
+        "brandId": "enzoblues",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "101,150원",
+        "price": 101150,
+        "rankingTheme": "NEW",
+        "sourceRank": 123
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "엔조 블루스",
+      "externalId": "6731413",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260625/6731413/6731413_17871229321043_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "123\n\n엔조 블루스\n\n클래식 밴딩 카고 팬츠 (Khaki Beige)\n\n15%\n101,150원",
+      "sourceId": "musinsa",
+      "title": "클래식 밴딩 카고 팬츠 (Khaki Beige)",
+      "url": "https://www.musinsa.com/products/6731413"
+    },
+    {
+      "attributes": {
+        "brandId": "abeehums",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "42,900원",
+        "price": 42900,
+        "rankingTheme": "NEW",
+        "sourceRank": 124
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "어비험즈",
+      "externalId": "7286845",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260909/7286845/7286845_17890937237688_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "124\n\n어비험즈\n\n백포켓 아일렛 스웻팬츠 ABH367-349 멜란지그레이\n\n52%\n42,900원\n126명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "백포켓 아일렛 스웻팬츠 ABH367-349 멜란지그레이",
+      "url": "https://www.musinsa.com/products/7286845"
+    },
+    {
+      "attributes": {
+        "brandId": "partimento",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "94,910원",
+        "price": 94910,
+        "rankingTheme": "NEW",
+        "sourceRank": 125
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "파르티멘토",
+      "externalId": "7156751",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260825/7156751/7156751_17877908293743_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "125\n\n파르티멘토\n\n덕 캔버스 카펜터 팬츠 더스트 퍼플\n\n24%\n94,910원",
+      "sourceId": "musinsa",
+      "title": "덕 캔버스 카펜터 팬츠 더스트 퍼플",
+      "url": "https://www.musinsa.com/products/7156751"
+    },
+    {
+      "attributes": {
+        "brandId": "not4nerd",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "99,000원",
+        "price": 99000,
+        "rankingTheme": "NEW",
+        "sourceRank": 126
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "낫포너드",
+      "externalId": "7272035",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260908/7272035/7272035_17896967989311_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "126\n\n낫포너드\n\nDirty Washed Thorns Line Track Pants - Light Grey\n\n5%\n99,000원\n14명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "Dirty Washed Thorns Line Track Pants - Light Grey",
+      "url": "https://www.musinsa.com/products/7272035"
+    },
+    {
+      "attributes": {
+        "brandId": "rockcake",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "78,920원",
+        "price": 78920,
+        "rankingTheme": "NEW",
+        "sourceRank": 127
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "락케이크",
+      "externalId": "7020516",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260807/7020516/7020516_17890895746802_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "127\n\n락케이크\n\nHarlow Semi Bootcut Denim - Ash Blue\n\n39%\n78,920원\n57명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "Harlow Semi Bootcut Denim - Ash Blue",
+      "url": "https://www.musinsa.com/products/7020516"
+    },
+    {
+      "attributes": {
+        "brandId": "wkndrs",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "96,750원",
+        "price": 96750,
+        "rankingTheme": "NEW",
+        "sourceRank": 128
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "위캔더스",
+      "externalId": "6966849",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260731/6966849/6966849_17878820618242_500.png?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "128\n\n위캔더스\n\nWKNDRS x CHAMPION STRIPED SWEAT PANTS (M.GREY)\n\n25%\n96,750원\n44명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "WKNDRS x CHAMPION STRIPED SWEAT PANTS (M.GREY)",
+      "url": "https://www.musinsa.com/products/6966849"
+    },
+    {
+      "attributes": {
+        "brandId": "oy",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "96,750원",
+        "price": 96750,
+        "rankingTheme": "NEW",
+        "sourceRank": 129
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "오픈야드(오와이)",
+      "externalId": "7047639",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/prd_img/20260811/7047639/detail_7047639_17877254602398_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "129\n\n오픈야드(오와이)\n\nNAPOLEON TRIM WIDE HEM PANTS - BLACK\n\n25%\n96,750원\n25명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "NAPOLEON TRIM WIDE HEM PANTS - BLACK",
+      "url": "https://www.musinsa.com/products/7047639"
+    },
+    {
+      "attributes": {
+        "brandId": "trillion",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "23,990원",
+        "price": 23990,
+        "rankingTheme": "NEW",
+        "sourceRank": 130
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "트릴리온",
+      "externalId": "6970664",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260731/6970664/6970664_17872073077264_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "130\n판매 1.5천개\n\n트릴리온\n\n에센셜 CP 원턱 스웨트 팬츠_3color\n\n44%\n23,990원\n56명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "에센셜 CP 원턱 스웨트 팬츠_3color",
+      "url": "https://www.musinsa.com/products/6970664"
+    },
+    {
+      "attributes": {
+        "brandId": "dauspice",
+        "category": "Pants",
+        "categoryCode": "003000",
+        "currency": "KRW",
+        "displayedPrice": "76,800원",
+        "price": 76800,
+        "rankingTheme": "NEW",
+        "sourceRank": 131
+      },
+      "collectionIds": [
+        "musinsa-003000"
+      ],
+      "creator": "디오스피스",
+      "externalId": "7173262",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260826/7173262/7173262_17882265364965_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:28.170Z",
+      "rawVisibleText": "131\n\n디오스피스\n\n(DUC) Waffle Relaxed Fit Lounge Pants Flower\n\n40%\n76,800원",
+      "sourceId": "musinsa",
+      "title": "(DUC) Waffle Relaxed Fit Lounge Pants Flower",
+      "url": "https://www.musinsa.com/products/7173262"
+    }
+  ],
+  "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=003000&ageBand=AGE_BAND_ALL&subPan=product",
+  "observedAt": "2026-09-27T00:08:28.170Z"
+}

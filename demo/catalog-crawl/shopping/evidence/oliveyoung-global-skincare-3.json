@@ -1,0 +1,3608 @@
+{
+  "category": "1000000008",
+  "items": [
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$20.01",
+        "price": 20.01,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Dr. Althea",
+      "externalId": "GA260136559",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1976/e17ecc0c-14f3-44b2-a57c-02b825426fff.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Dr. Althea Dr. Althea 345 Relief Cream 50ml Set (+10ml*2ea+Tube Wringer) 4.9 US$20.01US$27.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Dr. Althea 345 Relief Cream 50ml Set (+10ml*2ea+Tube Wringer)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136559"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$25.95",
+        "price": 25.95,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "S.NATURE",
+      "externalId": "GA231121124",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1149/b2e09d76-bf30-4b8b-9c1a-ae619d523883.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL S.NATURE [Sanrio EDITION] S.NATURE Aqua Squalane Moisturizing Cream 60ml+60ml (2 Options) 4.8 US$25.95US$50.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION] S.NATURE Aqua Squalane Moisturizing Cream 60ml+60ml (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA231121124"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$31.50",
+        "price": 31.5,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Torriden",
+      "externalId": "GA260539969",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1877/a0e8b385-a4cf-42af-bd68-508d6ca23528.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Torriden [Sanrio EDITION][Upgraded] Torriden Dive In Low Molecular Hyaluronic Acid Serum 50ml Double/Refill (3 Options) 4.8 US$31.50US$42.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION][Upgraded] Torriden Dive In Low Molecular Hyaluronic Acid Serum 50ml Double/Refill (3 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260539969"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$16.71",
+        "price": 16.71,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "celimax",
+      "externalId": "GA260339051",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1054/a5786dc8-3109-406c-b8fe-69f590503abb.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST celimax celimax The Vita A Retinal Shot Tightening Booster 15ml Set (+3ml) 4.7 US$16.71US$24.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "celimax The Vita A Retinal Shot Tightening Booster 15ml Set (+3ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260339051"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$31.82 - US$32.00",
+        "priceMax": 32,
+        "priceMin": 31.82,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "BIOHEAL BOH",
+      "externalId": "GA260338983",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1015/e5430e66-b466-49a2-b826-2be136643dcd.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL BIOHEAL BOH BIOHEAL BOH Probioderm 3D Lifting Cream 50mL (4 Options) 4.8 US$31.82 - US$32.00US$32.00 - US$56.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "BIOHEAL BOH Probioderm 3D Lifting Cream 50mL (4 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260338983"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$46.55",
+        "price": 46.55,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA260439734",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1905/404a0447-5ea4-4951-96c1-3ae8101a3cd5.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua [Sanrio EDITION] Anua PDRN Hyaluronic Capsule 100 Serum 30ml+30ml (2 Options) 4.8 US$46.55US$95.96 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION] Anua PDRN Hyaluronic Capsule 100 Serum 30ml+30ml (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439734"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$59.00",
+        "price": 59,
+        "rating": 5,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Centellian24",
+      "externalId": "GA260641417",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1942/40a710f3-dafc-4067-b776-383897665a9c.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Centellian24 Centellian24 Madeca Cream Time Reverse 50ml Triple Set 5.0 US$59.00US$132.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Centellian24 Madeca Cream Time Reverse 50ml Triple Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260641417"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$24.65",
+        "price": 24.65,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "numbuzin",
+      "externalId": "GA250127641",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1712/e6266e35-548c-4d70-ac51-bc69de4d85a0.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST numbuzin numbuzin No.9 NAD Bio Lifting-sil Essence 50ml 4.9 US$24.65US$33.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "numbuzin No.9 NAD Bio Lifting-sil Essence 50ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250127641"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$92.00",
+        "price": 92,
+        "rating": 5,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "AESTURA",
+      "externalId": "GA260439764",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1001/e8edc943-bd86-44df-83bc-963d11912148.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST AESTURA AESTURA Atobarrier 365 Cream 80ml Triple Limited Set 5.0 US$92.00US$115.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "AESTURA Atobarrier 365 Cream 80ml Triple Limited Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439764"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$38.75",
+        "price": 38.75,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA260237304",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1361/c808abf3-f3f7-4ff9-9363-0fdbfa10d9ff.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua Anua PDRN Hyaluronic Acid Hydrating Capsule Mist 100ml Double Pack 4.8 US$38.75US$81.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Anua PDRN Hyaluronic Acid Hydrating Capsule Mist 100ml Double Pack",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260237304"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$39.60",
+        "price": 39.6,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "AESTURA",
+      "externalId": "GA240121573",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1048/80ed7799-c56a-4351-a814-16097ad1a702.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST AESTURA AESTURA Atobarrier 365 Cream 80mL 4.9 US$39.60US$44.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "AESTURA Atobarrier 365 Cream 80mL",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240121573"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$27.30",
+        "price": 27.3,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "numbuzin",
+      "externalId": "GA230820183",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1288/473d92c6-0a5f-4e73-8e0d-9be7350e85c2.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST numbuzin numbuzin No.5 Glutatione Vitamin Concentrated Serum 30ml Duo Set 4.8 US$27.30US$42.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "numbuzin No.5 Glutatione Vitamin Concentrated Serum 30ml Duo Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230820183"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$25.60",
+        "price": 25.6,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "PURCELL",
+      "externalId": "GA250127656",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1689/6a82e4a7-4062-4e9e-9a20-5dd4746f18fb.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST PURCELL PURCELL 88B/mL L-Glutathione Flexible Liposome 20ml (+7ml) 4.8 US$25.60US$32.00 Save More with Coupon bag",
+      "sourceId": "oliveyoung-global",
+      "title": "PURCELL 88B/mL L-Glutathione Flexible Liposome 20ml (+7ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250127656"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$41.10",
+        "price": 41.1,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Centellian24",
+      "externalId": "GA240423317",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1019/da3e28cf-6b7e-4f78-9600-86def867be34.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL Centellian24 Centellian24 Madeca Cream Time Reverse 50ml Double Pack (+15ml*2ea) 4.8 US$41.10US$88.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Centellian24 Madeca Cream Time Reverse 50ml Double Pack (+15ml*2ea)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240423317"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$32.54 - US$49.00",
+        "priceMax": 49,
+        "priceMin": 32.54,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "VT",
+      "externalId": "GA250832756",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/catalog/product/GA250832756/thumbnail/588d40c3e5bb4a3f975357b50481136b.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST VT VT PDRN Reedle Shot Firming Eye Cream (2 Options) 4.8 US$32.54 - US$49.00US$49.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "VT PDRN Reedle Shot Firming Eye Cream (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250832756"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$30.10",
+        "price": 30.1,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "manyo",
+      "externalId": "GA240724566",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1829/3a3ea8cb-86cf-4000-b46b-a50be781c0f5.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST manyo manyo Pure Cleansing Oil 200ml Double Pack (2 Options) 4.8 US$30.10US$43.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "manyo Pure Cleansing Oil 200ml Double Pack (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240724566"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$34.89",
+        "price": 34.89,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA260439574",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1821/b741dc67-aa1b-461f-9cd7-56596397d61f.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua Anua Niacinamide 10 TXA 4 Serum 30ml Refill Set (+Refill 30ml) 4.8 US$34.89US$74.24 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Anua Niacinamide 10 TXA 4 Serum 30ml Refill Set (+Refill 30ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439574"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$39.67",
+        "price": 39.67,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "d'Alba",
+      "externalId": "GA260842596",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1125/362483ce-bacd-4b3a-a998-3283fa69c2f7.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST d'Alba [Upgraded][SET] d'Alba White Truffle First Spray Serum Peptide 100mL+100mL 4.9 US$39.67US$70.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Upgraded][SET] d'Alba White Truffle First Spray Serum Peptide 100mL+100mL",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260842596"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$49.99",
+        "price": 49.99,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "S.NATURE",
+      "externalId": "GS260943907",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1707/30329cc8-6e1e-4d2a-ad7e-b9c13d61be4b.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL S.NATURE S.NATURE Aqua Squalane Essentials Set 4.8 US$49.99 (Value: US$98.00) Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "S.NATURE Aqua Squalane Essentials Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GS260943907"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$24.20",
+        "price": 24.2,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Centellian24",
+      "externalId": "GA260136971",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1508/76476ed4-3c57-4648-8f4c-54c8957553b8.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Centellian24 Centellian24 Madeca Cream Time Reverse 50ml Set (+15ml*2ea+Derma Mask Sheet 3ea) 4.8 US$24.20US$44.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Centellian24 Madeca Cream Time Reverse 50ml Set (+15ml*2ea+Derma Mask Sheet 3ea)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136971"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$27.91",
+        "price": 27.91,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Arencia",
+      "externalId": "GA260439702",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1413/4535bd26-483a-4e87-88ef-8d6a0c0cb098.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Arencia Arencia Vitamin C Booster Shot 30ml Double Set 4.7 US$27.91US$44.00 Save More with Coupon bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Arencia Vitamin C Booster Shot 30ml Double Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439702"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$11.97",
+        "price": 11.97,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "It's skin",
+      "externalId": "GA211012129",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1754/b3da2f8c-27d5-4541-ac30-363bc3f13cd0.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST It's skin It's skin Power 10 Formula LI Effector Firefighter 30mL 4.8 US$11.97US$18.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "It's skin Power 10 Formula LI Effector Firefighter 30mL",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA211012129"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$29.25",
+        "price": 29.25,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "BANILA CO",
+      "externalId": "GA260540552",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1322/c1f96ab4-4fd8-4749-a671-d97c67584c93.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST BANILA CO BANILA CO Clean It Zero Cleansing Balm 100ml Double Pack (+3ml*4ea+Lip & Eye Remover 100ml) (2 Options) 4.9 US$29.25US$47.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "BANILA CO Clean It Zero Cleansing Balm 100ml Double Pack (+3ml*4ea+Lip & Eye Remover 100ml) (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260540552"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$32.81",
+        "price": 32.81,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "ongredients",
+      "externalId": "GA260842499",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1107/0e367771-2a88-4d59-b747-d8799f0955e2.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST ongredients [Sanrio EDITION] ongredients Skin Barrier Calming Lotion EX 220ml Set (+30ml+HELLO KITTY Character Squishy) 4.9 US$32.81US$42.00 Save More with CouponGift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION] ongredients Skin Barrier Calming Lotion EX 220ml Set (+30ml+HELLO KITTY Character Squishy)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260842499"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$31.64",
+        "price": 31.64,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "ROUND LAB",
+      "externalId": "GA260439706",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1261/db23f6f4-9e0d-44e1-b587-42d2927bc540.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST ROUND LAB ROUND LAB Birch Juice Moisturizing Cream 80ml Double Pack (+40ml) 4.8 US$31.64US$51.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "ROUND LAB Birch Juice Moisturizing Cream 80ml Double Pack (+40ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439706"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$29.86",
+        "price": 29.86,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "medicube",
+      "externalId": "GA260842693",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1668/03fcfbb5-f583-4778-a887-38f4af61929f.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST medicube medicube PDRN Pink Peptide Ampoule 30ml (+Refill Pack 50ml+Ampoule 10ml) 4.8 US$29.86US$55.86 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "medicube PDRN Pink Peptide Ampoule 30ml (+Refill Pack 50ml+Ampoule 10ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260842693"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$34.99",
+        "price": 34.99,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA250329148",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1966/87f3fa2f-116d-4477-8816-16a24426f754.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua Anua PDRN Hyaluronic Capsule 100 Serum 30ml Refill Set 4.8 US$34.99US$74.45 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Anua PDRN Hyaluronic Capsule 100 Serum 30ml Refill Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329148"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$24.00",
+        "price": 24,
+        "rating": 5,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "AESTURA",
+      "externalId": "GA260136613",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1947/e754aba9-215e-466a-9602-10c799022273.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST AESTURA AESTURA Atobarrier 365 Foaming Cleanser 150ml 5.0 US$24.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "AESTURA Atobarrier 365 Foaming Cleanser 150ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136613"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$16.80",
+        "price": 16.8,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "numbuzin",
+      "externalId": "GA250631809",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1622/72cffcf9-cc5f-4e17-a32f-cb88cca2ff2d.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST numbuzin numbuzin No.9 NAD Retinol Volumetox Eye Cream 10ml 4.7 US$16.80US$21.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "numbuzin No.9 NAD Retinol Volumetox Eye Cream 10ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250631809"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$28.00",
+        "price": 28,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Torriden",
+      "externalId": "GA260640908",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1302/4b18f605-ff8f-474b-871c-7497bcd91899.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Torriden [Upgraded] Torriden Dive-In Low Molecular Hyaluronic Acid Soothing Cream 100ml Set (+20ml) 4.8 US$28.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Upgraded] Torriden Dive-In Low Molecular Hyaluronic Acid Soothing Cream 100ml Set (+20ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260640908"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$33.02",
+        "price": 33.02,
+        "rating": 5,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "goodal",
+      "externalId": "GA260842441",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1379/eef465e7-9a06-4605-b8b5-289b8b601de6.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL goodal [Sanrio EDITION] goodal Green Tangerine Vita-C Dark Spot Care Serum α 50ml+Refill 50ml (+POMPOMPURIN Magnet Figure) 5.0 US$33.02US$50.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION] goodal Green Tangerine Vita-C Dark Spot Care Serum α 50ml+Refill 50ml (+POMPOMPURIN Magnet Figure)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260842441"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$34.10",
+        "price": 34.1,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA250732564",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1247/f84231b6-c401-4992-8169-93cbcae83c49.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua [Sanrio EDITION] Anua PDRN Hyaluronic Acid 100 Moisturizing Cream 60ml*2ea (2 Options) 4.8 US$34.10US$74.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION] Anua PDRN Hyaluronic Acid 100 Moisturizing Cream 60ml*2ea (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732564"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$23.21",
+        "price": 23.21,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Torriden",
+      "externalId": "GA260539967",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1289/eb0f3866-02a1-47bd-8cf8-b335f4017204.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Torriden [Sanrio EDITION][Upgraded] Torriden Dive In Low Molecular Hyaluronic Acid Toner 500ml (+Stretchable Cotton Pad 60P) (2 Options) 4.7 US$23.21US$34.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION][Upgraded] Torriden Dive In Low Molecular Hyaluronic Acid Toner 500ml (+Stretchable Cotton Pad 60P) (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260539967"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$29.00",
+        "price": 29,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Dr. Althea",
+      "externalId": "GA250933794",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1954/d6f0b62d-1f1c-41ca-8367-4fe5ce61882d.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Dr. Althea Dr. Althea 345 Relief Cream Mist 100ml 4.8 US$29.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Dr. Althea 345 Relief Cream Mist 100ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933794"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$55.44",
+        "price": 55.44,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "REJURAN",
+      "externalId": "GA250329440",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1573/745ef934-f510-4ced-b127-df7e3ab97784.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST REJURAN REJURAN Biome Healer Youth Formula Ampoule 30ml Set (+Derma Healer Ampoule 1ml*7ea+Derma Healer Cream 10g+Derma Healer Mask 23ml) 4.8 US$55.44US$70.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "REJURAN Biome Healer Youth Formula Ampoule 30ml Set (+Derma Healer Ampoule 1ml*7ea+Derma Healer Cream 10g+Derma Healer Mask 23ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329440"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$33.20",
+        "price": 33.2,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "ROUND LAB",
+      "externalId": "GA250732639",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1812/572a7a3d-5b34-4f94-b366-0a64b04f6c57.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST ROUND LAB Round Lab 1025 Dokdo Cleansing Oil 200ml + Dokdo Cleanser 150ml Set 4.9 US$33.20US$42.85 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Round Lab 1025 Dokdo Cleansing Oil 200ml + Dokdo Cleanser 150ml Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732639"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$34.30",
+        "price": 34.3,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Torriden",
+      "externalId": "GA260539968",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1971/ef7db90d-eb6d-4253-99a2-d529ae1ee26a.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Torriden [Sanrio EDITION][Upgraded] Torriden Dive-In Low Molecular Hyaluronic Acid Soothing Cream 100ml+100ml (2 Options) 4.8 US$34.30US$49.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION][Upgraded] Torriden Dive-In Low Molecular Hyaluronic Acid Soothing Cream 100ml+100ml (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260539968"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$29.01",
+        "price": 29.01,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "celimax",
+      "externalId": "GA250329696",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1169/fea01b77-c632-406a-9f0c-d2a9639fb16a.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST celimax celimax The Vita A Retinol Shot Tightening Serum 30ml 4.8 US$29.01US$37.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "celimax The Vita A Retinol Shot Tightening Serum 30ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329696"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$25.47",
+        "price": 25.47,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "S.NATURE",
+      "externalId": "GA230719556",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1611/9552c3c9-aa6a-4e29-aff7-dfb961c53a22.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST S.NATURE [Sanrio EDITION] S.NATURE Aqua Squalane Serum 50mL (+50ml Refill) (2 Options) 4.8 US$25.47US$41.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION]  S.NATURE Aqua Squalane Serum 50mL (+50ml Refill) (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230719556"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$39.89",
+        "price": 39.89,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA250530674",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1301/09077532-d06d-47ca-9669-879720b29ae1.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua Anua Niacinamide 10 TXA 4 Dark Spot Correcting Serum 30ml*2ea 4.7 US$39.89US$92.86 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Anua Niacinamide 10 TXA 4 Dark Spot Correcting Serum 30ml*2ea",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250530674"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$22.53",
+        "price": 22.53,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "ilso",
+      "externalId": "GA250530726",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1881/1c0e6de8-c21e-49d5-aa79-fd4e3021be27.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST ilso ilso Super Melting Sebum Softener 150ml Set (+Cotton Pad 40P+Pore Tension Mask Sheet 1ea) 4.7 US$22.53US$31.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "ilso Super Melting Sebum Softener 150ml Set (+Cotton Pad 40P+Pore Tension Mask Sheet 1ea)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250530726"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$38.00",
+        "price": 38,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "The Ordinary",
+      "externalId": "GA260439247",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1309/1ce0178c-36b4-4210-9982-ba74f193eaf8.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST The Ordinary The Ordinary Volufiline 92% + Pal-Isoleucine 1% 15ml 4.7 US$38.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "The Ordinary Volufiline 92% + Pal-Isoleucine 1% 15ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439247"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$34.89 - US$40.83",
+        "priceMax": 40.83,
+        "priceMin": 34.89,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "REJURAN",
+      "externalId": "GA251236125",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1032/46b4e265-12dc-46ad-a158-65bd35f434da.PNG?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST REJURAN REJURAN Derma Healer Pore Tightening Ampoule 30ml (SINGLE/SET) 4.7 US$34.89 - US$40.83US$47.00 - US$55.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "REJURAN Derma Healer Pore Tightening Ampoule 30ml (SINGLE/SET)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251236125"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$50.00",
+        "price": 50,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "SUNGBOON EDITOR",
+      "externalId": "GA250933422",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1277/bdadefe8-c7f2-408f-b30c-1fd9b0d2f915.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST SUNGBOON EDITOR SUNGBOON EDITOR Silk Peptide EGF Heart Fit Volume Lifting Ampoule 40ml Double Pack 4.7 US$50.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "SUNGBOON EDITOR Silk Peptide EGF Heart Fit Volume Lifting Ampoule 40ml Double Pack",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933422"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$31.57",
+        "price": 31.57,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "REJURAN",
+      "externalId": "GA250933433",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1269/10a41627-df6c-4fad-b386-b6181068ab7f.PNG?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST REJURAN REJURAN Healer Turnover Active Cream 50ml Set (+Turnover Ampoule 5ml*1ea) 4.8 US$31.57US$38.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "REJURAN Healer Turnover Active Cream 50ml Set (+Turnover Ampoule 5ml*1ea)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933433"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$18.40",
+        "price": 18.4,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Purito Seoul",
+      "externalId": "GA240724704",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1085/bb9866fb-c08f-4817-8928-fd42996c5c0f.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Purito Seoul Purito Seoul Mighty Bamboo Panthenol Cream 100mL 4.8 US$18.40US$23.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Purito Seoul Mighty Bamboo Panthenol Cream 100mL",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240724704"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$48.24",
+        "price": 48.24,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "REJURAN",
+      "externalId": "GA250832684",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1717/815b2032-c06c-4425-bb3d-02e27d263826.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST REJURAN REJURAN Healer Turnover Ampoule 10mlx2ea Double Pack (+Ampoule 10ml) 4.7 US$48.24US$59.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "REJURAN Healer Turnover Ampoule 10mlx2ea Double Pack (+Ampoule 10ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250832684"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$23.79",
+        "price": 23.79,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "SKIN1004",
+      "externalId": "GA240825327",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1524/f525e094-bc56-4a4d-8c4b-3ab1368e001c.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST SKIN1004 SKIN1004 Madagascar Centella Double Cleansing Duo 4.8 US$23.79US$28.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "SKIN1004 Madagascar Centella Double Cleansing Duo",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240825327"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$29.32",
+        "price": 29.32,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "LANEIGE",
+      "externalId": "GA240925584",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1434/20db99aa-d65f-4bd8-8074-367b31368ba5.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST LANEIGE LANEIGE Cream Skin 170mL (+50mL) 4.8 US$29.32US$39.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "LANEIGE Cream Skin 170mL (+50mL)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240925584"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$3.00 - US$21.00",
+        "priceMax": 21,
+        "priceMin": 3,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "CAREPLUS",
+      "externalId": "GA260741717",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1930/f5acf664-6eaf-41a1-bd0d-6f1818a4743b.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST CAREPLUS [Sanrio EDITION] CARE PLUS Scar Cover Spot Patch 4.8 US$3.00 - US$21.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION] CARE PLUS Scar Cover Spot Patch",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260741717"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$50.00",
+        "price": 50,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "AESTURA",
+      "externalId": "GA250329242",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1177/83ec4926-2648-491f-8333-febe47953e68.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST AESTURA AESTURA A-Cica 365 Soothing Relief Serum pH4.5 40ml Special Set (+A-Cica Serum 20ml+A-Cica Cream 1ml) 4.7 US$50.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "AESTURA A-Cica 365 Soothing Relief Serum pH4.5 40ml Special Set (+A-Cica Serum 20ml+A-Cica Cream 1ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329242"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$75.22",
+        "price": 75.22,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "ROUND LAB",
+      "externalId": "GA260338899",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1834/d646d1e9-317a-487b-a252-160ee403817c.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL ROUND LAB ROUND LAB Signature Best Sellers Set 4.8 US$75.22US$125.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "ROUND LAB Signature Best Sellers Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260338899"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$25.59",
+        "price": 25.59,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "makeprem",
+      "externalId": "GA260842457",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1423/0704f616-fea9-40b9-8902-b447dc848f9e.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST makeprem [Sanrio EDITION] makeprem Safe Me Relief Moisture Cleansing Milk 200ml (+Refill 200ml+mini 21ml+POMPOMPURIN Wristband for Face Was 4.9 US$25.59US$40.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION] makeprem Safe Me Relief Moisture Cleansing Milk 200ml (+Refill 200ml+mini 21ml+POMPOMPURIN Wristband for Face Was",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260842457"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$26.82",
+        "price": 26.82,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "celimax",
+      "externalId": "GA260439381",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1966/bd6d23a6-2b67-4fda-b4a7-f9f31af447f9.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST celimax celimax Pore + Dark Spot Brightening Cream 35ml Set (+7ml*2ea) 4.7 US$26.82US$41.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "celimax Pore + Dark Spot Brightening Cream 35ml Set (+7ml*2ea)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439381"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$66.99",
+        "price": 66.99,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "S.NATURE",
+      "externalId": "GS260943909",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1836/40e07452-0adf-450a-b92a-953f93c4a5b0.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL S.NATURE S.NATURE Aqua Squalane Full Routine Set 4.8 US$66.99 (Value: US$137.00) Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "S.NATURE Aqua Squalane Full Routine Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GS260943909"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$34.30",
+        "price": 34.3,
+        "rating": 5,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Torriden",
+      "externalId": "GA260640907",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1161/f4290e92-521e-4c38-9367-1e2b059395ad.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Torriden [Upgraded] Torriden Dive-In Low Molecular Hyaluronic Acid Soothing Cream 100ml Double Set 5.0 US$34.30US$49.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Upgraded] Torriden Dive-In Low Molecular Hyaluronic Acid Soothing Cream 100ml Double Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260640907"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$28.00",
+        "price": 28,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "idplacosmetic",
+      "externalId": "GA260136458",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1985/2372f48c-76e4-4482-9025-93ef8258e172.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST idplacosmetic idplacosmetic EXO-V Booster Ampoule 30ml 4.9 US$28.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "idplacosmetic EXO-V Booster Ampoule 30ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136458"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$25.30",
+        "price": 25.3,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Centellian24",
+      "externalId": "GA250530658",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1995/19e353b7-2a2e-4e81-9bb1-8b63810b6b2b.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL Centellian24 Centellian24 Madeca Cream Mist 120ml 4.8 US$25.30US$32.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Centellian24 Madeca Cream Mist 120ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250530658"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$12.63",
+        "price": 12.63,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "numbuzin",
+      "externalId": "GA250732548",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1191/47481575-2c93-4197-97cf-2b974baa6fb7.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST numbuzin numbuzin No. 1 Pantothenic Skincare 100 Blur Powder Set (+Puff 1ea) 4.8 US$12.63US$20.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "numbuzin No. 1 Pantothenic Skincare 100 Blur Powder Set (+Puff 1ea)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732548"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$31.98",
+        "price": 31.98,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA260237924",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1740/54a9bac9-b980-4b9b-89f7-4e8e71d905b9.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua Anua Heartleaf 77 Hyaluron Soothing Toner 350ml Refill Set (+Refill 350ml) 4.7 US$31.98US$57.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Anua Heartleaf 77 Hyaluron Soothing Toner 350ml Refill Set (+Refill 350ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260237924"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$31.95",
+        "price": 31.95,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Dr.G",
+      "externalId": "GA260540500",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1276/21b56d04-5c28-4693-96c6-1ba01ffd8988.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Dr.G Dr.G Red Blemish Clear Soothing Cream EX 70ml Set (2 Options) 4.8 US$31.95US$44.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Dr.G Red Blemish Clear Soothing Cream EX 70ml Set (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260540500"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$30.13",
+        "price": 30.13,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Dr.Jart+",
+      "externalId": "GA260137025",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1609/96e6b2d5-8d59-4cdf-a27e-c89c83b210fd.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Dr.Jart+ Dr.Jart+ Ceramidin Skin Barrier Moisturizing Cream 50ml Set (+15ml*2ea) 4.8 US$30.13US$58.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Dr.Jart+ Ceramidin Skin Barrier Moisturizing Cream 50ml Set (+15ml*2ea)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260137025"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$30.00",
+        "price": 30,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA250530720",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1199/8e1ca699-ff6e-4bba-947a-99e46b54cdc3.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua Anua Heartleaf Double Cleansing Set (Heartleaf Pore Control Cleansing Oil 200ml+Heartleaf Quercetinol Pore Deep Cleansing Foam 150 4.8 US$30.00US$40.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Anua Heartleaf Double Cleansing Set (Heartleaf Pore Control Cleansing Oil 200ml+Heartleaf Quercetinol Pore Deep Cleansing Foam 150",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250530720"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$18.51",
+        "price": 18.51,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Arencia",
+      "externalId": "GA240624282",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1757/d607c13e-d2f7-4af4-adea-e4a284373cbe.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL Arencia [Sanrio EDITION] Arencia Fresh Green Rice Mochi Cleanser 120g (2 Options) 4.7 US$18.51US$23.00 Save More with Coupon bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION] Arencia Fresh Green Rice Mochi Cleanser 120g (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240624282"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$12.75",
+        "price": 12.75,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "SKIN1004",
+      "externalId": "GA220113371",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1043/c6e6f83b-710c-43d5-bd6d-37ab73c30dbc.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST SKIN1004 SKIN1004 Madagascar Centella Ampoule Foam 125mL 4.8 US$12.75US$15.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "SKIN1004 Madagascar Centella Ampoule Foam 125mL",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220113371"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$25.00",
+        "price": 25,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Dr. Althea",
+      "externalId": "GA260439584",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1948/a73c2896-4aa7-45e5-a4ce-bf690f906b72.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Dr. Althea Dr. Althea 345 Relief Serum 30ml 4.9 US$25.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Dr. Althea 345 Relief Serum 30ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439584"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$35.21",
+        "price": 35.21,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Dr.G",
+      "externalId": "GA230317951",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1119/53314b13-269f-4222-b341-5833ea888c0d.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Dr.G Dr.G Black Snail Cream Duo Set (50ml+50ml+15ml Gift) 4.8 US$35.21US$39.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Dr.G Black Snail Cream Duo Set (50ml+50ml+15ml Gift)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230317951"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$17.60",
+        "price": 17.6,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "numbuzin",
+      "externalId": "GA250631811",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1501/4f5d0c36-6085-4fc0-9466-c99c797522e2.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST numbuzin numbuzin No.9 NAD PDRN Glow Boosting Toner 150ml 4.8 US$17.60US$22.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "numbuzin No.9 NAD PDRN Glow Boosting Toner 150ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250631811"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$17.50",
+        "price": 17.5,
+        "rating": 5,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "numbuzin",
+      "externalId": "GA260842939",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1018/91da9fb4-f213-4154-8974-ae5cea0461bc.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST numbuzin numbuzin No.9 NAD+ Retinal Volumetox Eye Cream 20ml 5.0 US$17.50US$25.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "numbuzin No.9 NAD+ Retinal Volumetox Eye Cream 20ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260842939"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$39.20",
+        "price": 39.2,
+        "rating": 4.6,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "S.NATURE",
+      "externalId": "GA251135117",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1325/dd84fb15-082b-49e4-8c4d-e46ad8598330.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST S.NATURE S.NATURE Aqua Squalane Mist 100ml Double Pack 4.6 US$39.20US$56.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "S.NATURE Aqua Squalane Mist 100ml Double Pack",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251135117"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$39.00",
+        "price": 39,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "AESTURA",
+      "externalId": "GA260439765",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1658/cae1c986-cf3a-48bf-9688-b215fd07a6cf.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST AESTURA AESTURA Atobarrier 365 Hydro Soothing Cream 80ml Set (+Toner 25ml+Cleansing Foam 30g) 4.9 US$39.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "AESTURA Atobarrier 365 Hydro Soothing Cream 80ml Set (+Toner 25ml+Cleansing Foam 30g)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439765"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$29.16",
+        "price": 29.16,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "REJURAN",
+      "externalId": "GA251235935",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1176/bf8bc040-51f5-4b14-b903-fafe16f589a7.PNG?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST REJURAN REJURAN Derma Healer Pore Tightening Toner Pad 60P Limited Set (+Pore Ampoule 2mlX6ea) 4.8 US$29.16US$36.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "REJURAN Derma Healer Pore Tightening Toner Pad 60P Limited Set (+Pore Ampoule 2mlX6ea)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251235935"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$34.00",
+        "price": 34,
+        "rating": 4.5,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "The Harnay",
+      "externalId": "GA231020865",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1303/6f83b592-2ef7-431d-b088-ab2c09239398.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST The Harnay The Harnay Cicaide Cream 100mL+30mL Special Set 4.5 US$34.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "The Harnay Cicaide Cream 100mL+30mL Special Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA231020865"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$12.53",
+        "price": 12.53,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA240724586",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1145/dc96d64b-aa64-411f-9f7a-6e3442a79d21.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua Anua Heartleaf Quercetinol Pore Deep Cleansing Foam 150ml (+25ml) 4.8 US$12.53US$13.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Anua Heartleaf Quercetinol Pore Deep Cleansing Foam 150ml (+25ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240724586"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$19.81 - US$24.53",
+        "priceMax": 24.53,
+        "priceMin": 19.81
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "fully",
+      "externalId": "GA260742006",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1301/9a22550d-e460-43a5-88f3-98c5f554de39.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL fully fully Pore Peptide Sebum Melting Cream To Oil 50ml (3 Options) US$19.81 - US$24.53US$21.00 - US$26.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "fully Pore Peptide Sebum Melting Cream To Oil 50ml (3 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260742006"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$24.20",
+        "price": 24.2
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "PHYSIOGEL",
+      "externalId": "GA260842548",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1604/e9c072cb-d0dd-49d6-96ca-8282159a21f2.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST PHYSIOGEL PHYSIOGEL DMT Facial Lotion 200ml (+Cream 10ml+Ampoule 4ml) US$24.20US$44.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "PHYSIOGEL DMT Facial Lotion 200ml (+Cream 10ml+Ampoule 4ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260842548"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$24.00",
+        "price": 24,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Arencia",
+      "externalId": "GA251135082",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1258/c0d41966-ae0f-4ac2-a534-c2aa9c4060b4.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Arencia Arencia Vitamin C Booster Shot 30ml 4.7 US$24.00 Save More with Coupon bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Arencia Vitamin C Booster Shot 30ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251135082"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$31.59",
+        "price": 31.59,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "PURCELL",
+      "externalId": "GA260540627",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1583/e41c4d99-2530-47db-bde1-20c3a323223d.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST PURCELL PURCELL 8B/mL L-Glutathione TXA Capsule Cream 80ml 4.9 US$31.59US$39.00 Save More with Coupon bag",
+      "sourceId": "oliveyoung-global",
+      "title": "PURCELL 8B/mL L-Glutathione TXA Capsule Cream 80ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260540627"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$12.63",
+        "price": 12.63,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "beplain",
+      "externalId": "GA210001977",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1462/f5aba34e-f723-42ba-8fae-bb040e4fc6d8.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST beplain beplain Mung Bean pH-Balanced Cleansing Foam 80ml 4.7 US$12.63US$16.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "beplain Mung Bean pH-Balanced Cleansing Foam 80ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210001977"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$31.50",
+        "price": 31.5,
+        "rating": 4.6,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "AESTURA",
+      "externalId": "GA260641276",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1951/88143f18-cbee-4fc0-b36e-4d63670c9182.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST AESTURA AESTURA Atobarrier 365 Capsule Toner 300ml Set (+Soothing Cream 30ml+Cera-Hyal Ampoule 7ml) 4.6 US$31.50US$35.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "AESTURA Atobarrier 365 Capsule Toner 300ml Set (+Soothing Cream 30ml+Cera-Hyal Ampoule 7ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260641276"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$91.00",
+        "price": 91
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "d'Alba",
+      "externalId": "GA260943510",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1475/101a1e17-8ef0-454c-a0bc-cdca3507d88d.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST d'Alba d’Alba White Truffle Double Serum & Cream 70g US$91.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "d’Alba White Truffle Double Serum & Cream 70g",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260943510"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$34.20",
+        "price": 34.2,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "AESTURA",
+      "externalId": "GA260136614",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1731/e51ec97c-6ae3-4b32-9f2f-faaeee245c68.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST AESTURA AESTURA Atobarrier 365 Foaming Cleanser 150ml Refill Set 4.9 US$34.20US$38.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "AESTURA Atobarrier 365 Foaming Cleanser 150ml Refill Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136614"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$31.50",
+        "price": 31.5,
+        "rating": 5,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "AESTURA",
+      "externalId": "GA260338835",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1771/5ddfd0c3-e3a0-4cfc-9fe9-663e961434c4.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST AESTURA AESTURA A-Cica 365 Soothing Repair Cream pH4.5 60ml Set (+Cream 20ml+Mask Sheet 2ea) 5.0 US$31.50US$35.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "AESTURA A-Cica 365 Soothing Repair Cream pH4.5 60ml Set (+Cream 20ml+Mask Sheet 2ea)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260338835"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$15.48",
+        "price": 15.48,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "ROUND LAB",
+      "externalId": "GA251135229",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1613/29f9afab-dca8-4b0b-874a-5721dea75f6c.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST ROUND LAB ROUND LAB Birch Juice Moisturizing Cleanser 150ml (+20ml) 4.9 US$15.48US$18.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "ROUND LAB Birch Juice Moisturizing Cleanser 150ml (+20ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251135229"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$29.19",
+        "price": 29.19,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "beplain",
+      "externalId": "GA260741627",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1022/622b8bdc-a04f-4105-9b2e-90c0200db9e9.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST beplain [Deep Pore Sebum Cleanse] beplain Mung Bean Cleansing Oil 200ml+Refill 200ml 4.8 US$29.19US$34.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Deep Pore Sebum Cleanse] beplain Mung Bean Cleansing Oil 200ml+Refill 200ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260741627"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$21.70 - US$61.00",
+        "priceMax": 61,
+        "priceMin": 21.7,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "BIOHEAL BOH",
+      "externalId": "GA240623965",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1115/c44ea53e-8b96-47f7-8d8c-308d76ac41ae.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL BIOHEAL BOH BIOHEAL BOH PROBIODERM 3D Lifting Eye & Wrinkle Cream SET (2 Options) 4.8 US$21.70 - US$61.00US$31.00 - US$61.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "BIOHEAL BOH PROBIODERM 3D Lifting Eye & Wrinkle Cream SET (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240623965"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$46.90",
+        "price": 46.9,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "VT",
+      "externalId": "GA250832757",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1248/fb443d18-778a-4b70-ad5a-a4d0d5493f62.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST VT VT PDRN Reedle Shot 100 50ml 4.9 US$46.90US$67.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "VT PDRN Reedle Shot 100 50ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250832757"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$17.00",
+        "price": 17,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Beauty of Joseon",
+      "externalId": "GA220816048",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1799/32abf014-9f01-46d6-bcfd-86b89e1e08ca.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Beauty of Joseon Beauty of Joseon Revive Eye Serum Ginseng + Retinal 30mL 4.7 US$17.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Beauty of Joseon Revive Eye Serum Ginseng + Retinal 30mL",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220816048"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$42.00",
+        "price": 42,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "SUNGBOON EDITOR",
+      "externalId": "GA250933423",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1612/78105347-ad53-427d-b158-f67db14fcd62.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST SUNGBOON EDITOR SUNGBOON EDITOR Green Tomato NMN Pore Lifting Amoule 40ml Double Pack 4.7 US$42.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "SUNGBOON EDITOR Green Tomato NMN Pore Lifting Amoule 40ml Double Pack",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933423"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$34.00",
+        "price": 34,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Celladix",
+      "externalId": "GA250429843",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1775/a94fcc20-4dca-44aa-abe4-1d41bdd00173.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Celladix Celladix Sebum Rebalancing RX 131 Ampoule 30ml 4.8 US$34.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Celladix Sebum Rebalancing RX 131 Ampoule 30ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250429843"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$42.00",
+        "price": 42,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "AESTURA",
+      "externalId": "GA250329240",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1749/b561a57d-3df5-492b-af3b-05b9cdb78f60.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST AESTURA AESTURA Atobarrier 365 Hydro Essence 200mL Special Set (+Cream 10ml+Cera-Hyal Ampoule 10ml) 4.9 US$42.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "AESTURA Atobarrier 365 Hydro Essence 200mL Special Set (+Cream 10ml+Cera-Hyal  Ampoule 10ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329240"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$20.50",
+        "price": 20.5,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "ROUND LAB",
+      "externalId": "GA250430110",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1853/71a70c61-4d18-4032-aede-ddf7349617bb.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST ROUND LAB [+Refill/Cotton pad] ROUND LAB 1025 Dokdo Toner 200ml Refill Set 4.9 US$20.50US$25.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[+Refill/Cotton pad] ROUND LAB 1025 Dokdo Toner 200ml Refill Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250430110"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$20.40",
+        "price": 20.4,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "SKIN1004",
+      "externalId": "GA240825329",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1215/d45c7599-b26a-4c05-b2bc-81f253960bcd.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST SKIN1004 SKIN1004 Madagascar Centella Probio-Cica Enrich Cream 50ml 4.8 US$20.40US$24.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "SKIN1004 Madagascar Centella Probio-Cica Enrich Cream 50ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240825329"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$20.01",
+        "price": 20.01,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Dr. Althea",
+      "externalId": "GA251034528",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1064/52627277-bb31-46a8-9671-2e6246b84455.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Dr. Althea Dr. Althea 345 Relief Cream 50ml 4.8 US$20.01US$27.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Dr. Althea 345 Relief Cream 50ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251034528"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$19.95",
+        "price": 19.95,
+        "rating": 4.6,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "fully",
+      "externalId": "GA250228504",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1341/62a939e0-5c24-4e53-a415-5ea24ac1570e.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL fully fully Pack Cleanser 120ml+30ml (3 Options) 4.6 US$19.95US$28.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "fully Pack Cleanser 120ml+30ml (3 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250228504"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$19.95",
+        "price": 19.95,
+        "rating": 4.4,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "fully",
+      "externalId": "GA241026435",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1143/43b8e2e4-09fa-4a39-94bf-26ccb3aa2a3e.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST fully fully Pack Cleanser 120ml – Green Tomato/ Red Tomato/ Rice Dough 4.4 US$19.95US$28.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "fully Pack Cleanser 120ml – Green Tomato/ Red Tomato/ Rice Dough",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA241026435"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$22.94",
+        "price": 22.94,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "WELLAGE",
+      "externalId": "GA210002844",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1778/9697f1bd-ef79-4b3c-ab92-71a5a4ca9e91.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST WELLAGE WELLAGE Real Hyaluronic One Day Kit 7 Count 4.8 US$22.94US$46.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "WELLAGE Real Hyaluronic One Day Kit 7 Count",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210002844"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$20.92",
+        "price": 20.92,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "S.NATURE",
+      "externalId": "GA210811700",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1735/26271c79-65d6-402f-95e6-aba4dedafa8f.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST S.NATURE S. NATURE Blanche Cleanser 260mL 4.9 US$20.92US$31.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "S. NATURE Blanche Cleanser 260mL",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210811700"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$39.60",
+        "price": 39.6,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "ZEROID",
+      "externalId": "GA250732570",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1966/ddcc2a7e-c30f-4a3d-9b9a-6de2c4292046.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST ZEROID ZEROID Soothing Cream 80ml Set (+50ml) 4.7 US$39.60US$44.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "ZEROID Soothing Cream 80ml Set (+50ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732570"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$15.60",
+        "price": 15.6,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Purito Seoul",
+      "externalId": "GA250228767",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1312/8c8fda9f-9351-486e-82af-59df9b00641e.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Purito Seoul Purito Seoul Oat-In Calming Gel Cream 100ml 4.8 US$15.60US$19.50 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Purito Seoul Oat-In Calming Gel Cream 100ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250228767"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$25.20",
+        "price": 25.2,
+        "rating": 4.5,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "charde",
+      "externalId": "GA250430320",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1737/db3a185c-19a0-41e5-b745-b786c16f7ed7.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST charde charde Eye Bag Lift 1100 Shot Patch 2+1 Set 4.5 US$25.20US$28.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "charde Eye Bag Lift 1100 Shot Patch 2+1 Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250430320"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$21.70",
+        "price": 21.7,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Torriden",
+      "externalId": "GA230820180",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1932/e4757aa2-3720-4d6b-8718-10ef2542c6a8.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Torriden [Sanrio EDITION] Torriden Dive In Low Molecular Hyaluronic Acid Foam Cleanser 150ml*2 (+Sticker) (2 Options) 4.7 US$21.70US$31.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION] Torriden Dive In Low Molecular Hyaluronic Acid Foam Cleanser 150ml*2 (+Sticker) (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230820180"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$27.87 - US$40.44",
+        "priceMax": 40.44,
+        "priceMin": 27.87,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "medicube",
+      "externalId": "GA260238016",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1116/ef200ffb-1dcd-4cee-8c46-d50f2ab9c457.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST medicube medicube PDRN Pink Collagen Capsule Cream 55g (2 Options) 4.8 US$27.87 - US$40.44US$39.00 - US$40.44 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "medicube PDRN Pink Collagen Capsule Cream 55g (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260238016"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$14.45",
+        "price": 14.45,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "SKIN1004",
+      "externalId": "GA220113372",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1564/66264603-e1a5-44d7-b8ae-2d6edae2d3ee.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST SKIN1004 SKIN1004 Madagascar Centella Soothing Cream 75mL 4.8 US$14.45US$17.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "SKIN1004 Madagascar Centella Soothing Cream 75mL",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220113372"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$39.60",
+        "price": 39.6,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "idplacosmetic",
+      "externalId": "GS260439666",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1381/f3d185af-a3f1-4e80-97da-4f9f1eaee2c9.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST idplacosmetic idplacosmetic EXO-V Booster Ampoule 30ml Double Pack 4.9 US$39.60 (Value: US$56.00) bag",
+      "sourceId": "oliveyoung-global",
+      "title": "idplacosmetic EXO-V Booster Ampoule 30ml Double Pack",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GS260439666"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$24.00",
+        "price": 24,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA260439240",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1973/69068d85-8f68-4350-b514-52d5f347ad07.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua Anua Heartleaf 77 Hyaluron Soothing Toner 350ml 4.9 US$24.00US$32.11 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Anua Heartleaf 77 Hyaluron Soothing Toner 350ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439240"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$36.00",
+        "price": 36,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Purito Seoul",
+      "externalId": "GA250530960",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1527/ff60766f-8313-462b-ad18-fff26c0a1b8b.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Purito Seoul Purito Seoul Mighty Bamboo Panthenol Cream 100ml Duo Set (+15ml) 4.9 US$36.00US$45.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Purito Seoul Mighty Bamboo Panthenol Cream 100ml Duo Set (+15ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250530960"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$14.79",
+        "price": 14.79,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "POND'S",
+      "externalId": "GA260539907",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1770/e4acf319-1829-46f3-bdad-bdef22b65356.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST POND'S POND'S Clear Face Spa Lip & Eye Make-up Remover 300ml Set (+50ml+Cotton pad 30ea) 4.9 US$14.79US$29.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "POND'S Clear Face Spa Lip & Eye Make-up Remover 300ml Set (+50ml+Cotton pad 30ea)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260539907"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$35.10",
+        "price": 35.1,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "celimax",
+      "externalId": "GA240423022",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1903/8e1bd9da-f535-4312-b90a-3e968ecc1ddb.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST celimax celimax The Real Noni Energy Ampoule 80ml Special Set (+Ampoule 10ml) 4.8 US$35.10US$39.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "celimax The Real Noni Energy Ampoule 80ml Special Set (+Ampoule 10ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240423022"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$43.00",
+        "price": 43,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "bewants",
+      "externalId": "GA250228581",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1828/1f83afb3-1567-46f3-8be5-3484343450b7.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST bewants bewants Peptide-X Firming Eye Serum Stick 15ml Set (+Refill 15ml) 4.7 US$43.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "bewants Peptide-X Firming Eye Serum Stick 15ml Set (+Refill 15ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250228581"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$24.80",
+        "price": 24.8,
+        "rating": 4.4,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "NINELESS",
+      "externalId": "GA260338248",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1446/8c02530b-9ff5-4ae9-9b68-400a8679b2e8.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST NINELESS NINELESS Mela-Pro 5% Tranexamic Acid Serum 30ml 4.4 US$24.80US$31.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "NINELESS Mela-Pro 5% Tranexamic Acid Serum 30ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260338248"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$39.93",
+        "price": 39.93,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "ongredients",
+      "externalId": "GA251236053",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1187/0b6b288a-da02-4bb1-9567-8839964eddf5.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST ongredients [Upgraded] ongredients Skin Barrier Calming Lotion EX 220ml Set (+80ml) 4.8 US$39.93US$47.00 Save More with Coupon bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Upgraded] ongredients Skin Barrier Calming Lotion EX 220ml Set (+80ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251236053"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$41.46",
+        "price": 41.46,
+        "rating": 4.5,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Eucerin",
+      "externalId": "GA250429934",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1554/ae4457d3-15fa-44c1-bc8e-2bc7a5772786.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Eucerin Eucerin Even Radiance Illuminating Serum 30ml 4.5 US$41.46US$67.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Eucerin Even Radiance Illuminating Serum 30ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250429934"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$68.04",
+        "price": 68.04,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Centellian24",
+      "externalId": "GA260439312",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1031/40e0a938-254c-4934-b6bd-528d3b469058.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Centellian24 Centellian24 Expert Madeca Cream Active Renew PDRN Double Set 4.9 US$68.04US$107.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Centellian24 Expert Madeca Cream Active Renew PDRN Double Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439312"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$17.00",
+        "price": 17,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "SKIN1004",
+      "externalId": "GA260540670",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1076/7f6e1bd6-3ee9-4000-87a5-c252d5721b0e.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST SKIN1004 SKIN1004 Madagascar Centella Teca Soothing Toner 210ml 4.8 US$17.00US$20.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "SKIN1004 Madagascar Centella Teca Soothing Toner 210ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260540670"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$37.00",
+        "price": 37,
+        "rating": 4.6,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "BIODANCE",
+      "externalId": "GA250631378",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1540/89aa5e9a-956b-4377-b76a-7cdda3ca1741.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST BIODANCE BIODANCE Pore Perfecting Collagen Peptide Serum 30ml 4.6 US$37.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "BIODANCE Pore Perfecting Collagen Peptide Serum 30ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250631378"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$13.60",
+        "price": 13.6,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Beauty of Joseon",
+      "externalId": "GA240825079",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1934/c6d88772-50c5-45df-bd19-618f781fe57f.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Beauty of Joseon Beauty of Joseon Glow Serum: Propolis+Niacinamide 30ml Set (+10ml) 4.8 US$13.60US$17.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Beauty of Joseon Glow Serum: Propolis+Niacinamide 30ml Set (+10ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240825079"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$32.75",
+        "price": 32.75,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Centellian24",
+      "externalId": "GA251235932",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1791/b57f3e25-d8c2-4356-965c-1da58adb0805.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Centellian24 Centellian24 Expert Madeca Cream Active Renew PDRN Set 50ml+15ml 4.8 US$32.75US$54.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Centellian24 Expert Madeca Cream Active Renew PDRN Set 50ml+15ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251235932"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$35.84",
+        "price": 35.84,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "WELLAGE",
+      "externalId": "GA250732567",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1360/2d22cfc2-d358-4f62-aad7-d44afd9c3dd1.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST WELLAGE WELLAGE Real Hyaluronic Blue 100 Ampoule 75ml*2ea 4.8 US$35.84US$58.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "WELLAGE Real Hyaluronic Blue 100 Ampoule 75ml*2ea",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732567"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$13.00",
+        "price": 13,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Beauty of Joseon",
+      "externalId": "GA220715371",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1519/5a81936d-44a5-4f87-9e4a-558e2c1ab1a9.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Beauty of Joseon Beauty of Joseon Radiance Cleansing Balm 100mL 4.8 US$13.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Beauty of Joseon Radiance Cleansing Balm 100mL",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220715371"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$37.00",
+        "price": 37,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "AESTURA",
+      "externalId": "GA250128323",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1942/162562d8-accc-4a27-88da-08fea6f6161f.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST AESTURA AESTURA A-Cica 365 Hydrating Relief Toner pH4.5 200ml 4.8 US$37.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "AESTURA A-Cica 365 Hydrating Relief Toner pH4.5 200ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250128323"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$31.84",
+        "price": 31.84,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Dr.G",
+      "externalId": "GA250429813",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1590/c83620ab-f0c0-42e0-ac94-2e9f8ef7510c.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Dr.G Dr.G Red Blemish Clear Hyal Cica Soothing Serum 50ml Set (+50 Refill) 4.7 US$31.84US$47.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Dr.G Red Blemish Clear Hyal Cica Soothing Serum 50ml Set (+50 Refill)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250429813"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$34.76",
+        "price": 34.76,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "goodal",
+      "externalId": "GA250731969",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1151/8cbb6eff-43f6-4397-988e-fc9cbbedc4ab.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST goodal goodal Green Tangerine Vita-C Dark Spot Care Serum α 50ml Set (+35ml) 4.7 US$34.76US$50.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "goodal Green Tangerine Vita-C Dark Spot Care Serum α 50ml Set (+35ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250731969"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$33.60",
+        "price": 33.6,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "VT",
+      "externalId": "GA241227035",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1931/0a54026d-e976-41b5-9125-521f961c4614.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST VT VT Collagen Reedle Shot 100 50ml 4.8 US$33.60US$48.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "VT Collagen Reedle Shot 100 50ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA241227035"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$20.88",
+        "price": 20.88,
+        "rating": 4.6,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "ONE THING",
+      "externalId": "GA250329559",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1665/d21457e0-8502-447c-b7e4-677a9f1037ba.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST ONE THING ONE THING Peptide Retinal Serum 50ml 4.6 US$20.88US$35.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "ONE THING Peptide Retinal Serum 50ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329559"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$15.00",
+        "price": 15,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA251034213",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1531/93b71c33-dec4-45ec-8cdf-77eb8bb7a3d2.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua Anua PDRN Hyaluronic Acid Hydrating Capsule Mist 30ml 4.7 US$15.00US$24.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Anua PDRN Hyaluronic Acid Hydrating Capsule Mist 30ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251034213"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$30.61",
+        "price": 30.61,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA251034536",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1434/84a27c76-0d60-48b3-9929-cced410eaaa1.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL Anua [Sanrio EDITION] Anua Heartleaf 77 Soothing Toner 500ml (2 Options) 4.8 US$30.61US$52.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION] Anua Heartleaf 77 Soothing Toner 500ml (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251034536"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$30.54",
+        "price": 30.54,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "WELLAGE",
+      "externalId": "GA230117261",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1356/aea01d74-e127-4200-a744-665f0c7636ca.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST WELLAGE WELLAGE Real Hyaluronic 100 Cream 50mL Double Pack 4.7 US$30.54US$46.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "WELLAGE Real Hyaluronic 100 Cream 50mL Double Pack",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230117261"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$30.40",
+        "price": 30.4,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "DERMALINE",
+      "externalId": "GA250832682",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1974/ae37d8cc-5995-4266-8e33-86ff23e59acc.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST DERMALINE DERMALINE Bio Activing PDRN Eye Patch 60P 4.9 US$30.40US$38.00 Save More with Coupon bag",
+      "sourceId": "oliveyoung-global",
+      "title": "DERMALINE Bio Activing PDRN Eye Patch 60P",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250832682"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$30.39",
+        "price": 30.39,
+        "rating": 5,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "REJURAN",
+      "externalId": "GA260640998",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1325/768d1f6e-32d9-40a4-b68e-ddcfdb749d3a.PNG?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST REJURAN REJURAN Pore Tightening Cream 50ml Set (+Pore Ampoule 10ml) 5.0 US$30.39US$39.00 Gift with Purchase bag",
+      "sourceId": "oliveyoung-global",
+      "title": "REJURAN Pore Tightening Cream 50ml Set (+Pore Ampoule 10ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260640998"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$22.54",
+        "price": 22.54,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA250329147",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1655/2f2dfe23-a360-4aea-a2d1-421ea7caf6c9.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua Anua PDRN Hyaluronic Acid 100 Moisturizing Cream 60ml Set (+30ml) 4.8 US$22.54US$37.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Anua PDRN Hyaluronic Acid 100 Moisturizing Cream 60ml Set (+30ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329147"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$34.00",
+        "price": 34,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "ROUND LAB",
+      "externalId": "GA220414579",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1903/30ecb599-d537-4d46-a715-1f8f4729bd9e.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST ROUND LAB [DOUBLE] ROUND LAB 1025 Dokdo Cleanser 200ml Double Set 4.8 US$34.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[DOUBLE] ROUND LAB 1025 Dokdo Cleanser 200ml Double Set",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220414579"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$29.40",
+        "price": 29.4,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Real Barrier",
+      "externalId": "GA240121985",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1969/b7916468-1f66-4db8-8217-7a6af654a0e3.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Real Barrier Real Barrier Extreme Cream Light 70mL Special Set (+30mL) 4.8 US$29.40US$42.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Real Barrier Extreme Cream Light 70mL Special Set (+30mL)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240121985"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$29.00",
+        "price": 29,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Meditherapy",
+      "externalId": "GA250732358",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1909/707b0e4f-1890-432b-b04c-0193d86f2829.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Meditherapy Meditherapy Retinal Skin Booster Serum 150ml 4.8 US$29.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Meditherapy Retinal Skin Booster Serum 150ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732358"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$16.00",
+        "price": 16,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "The Ordinary",
+      "externalId": "GA210004307",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/mig/prdtImg/cf90128186ad38c729c91a6767301ea7.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST The Ordinary The Ordinary Caffeine Solution 5% + EGCG 30ml 4.8 US$16.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "The Ordinary Caffeine Solution 5% + EGCG 30ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210004307"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$14.31",
+        "price": 14.31,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Isntree",
+      "externalId": "GA230518829",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1555/36849462-022f-4dfe-ad68-30c7d73bef63.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Isntree Isntree Hyaluronic Acid Aqua Gel Cream 100mL 4.8 US$14.31US$22.20 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Isntree Hyaluronic Acid Aqua Gel Cream 100mL",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230518829"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$28.50",
+        "price": 28.5,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "medicube",
+      "externalId": "GA260338954",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1765/a22a400c-051b-46f2-9837-60e42ca3d75e.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST medicube medicube Kojic Acid Turmeric Resurfacing Toner 250ml 4.7 US$28.50US$30.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "medicube Kojic Acid Turmeric Resurfacing Toner 250ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260338954"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$57.00",
+        "price": 57,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "COSRX",
+      "externalId": "GA250933401",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1532/a7739ec6-9b70-486c-8856-6d5cf920b073.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST COSRX COSRX Advanced The Vitamin C 23 Serum 20g*2ea 4.8 US$57.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "COSRX Advanced The Vitamin C 23 Serum 20g*2ea",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933401"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$28.06",
+        "price": 28.06,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "HANYUL",
+      "externalId": "GA250933239",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1950/c0b0e72c-cf26-49b0-b448-56b664974891.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL HANYUL [Sanrio EDITION] HANYUL Pure Artemisia Ssuk-Hyal Serum 40ml (+Refill 40ml) (2 Options) 4.9 US$28.06US$41.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "[Sanrio EDITION] HANYUL Pure Artemisia Ssuk-Hyal Serum 40ml (+Refill 40ml) (2 Options)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933239"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$18.70",
+        "price": 18.7,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "SKIN1004",
+      "externalId": "GA240825330",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1028/42cf3591-2505-40dc-a7d4-9d07a20711a7.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST SKIN1004 SKIN1004 Madagascar Centella Probio-Cica Intensive Ampoule 50ml 4.8 US$18.70US$22.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "SKIN1004 Madagascar Centella Probio-Cica Intensive Ampoule 50ml",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240825330"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$65.88",
+        "price": 65.88,
+        "rating": 4.9,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA260439572",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1075/5826b47d-9c9b-4a28-a40b-5b90c5959571.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua Anua PDRN 4-STEP Glowy Skin Set (+Mist Keyring) (Serum 30ml+Mist 30ml+Cream 60ml+Mask Sheet 5ea) 4.9 US$65.88US$123.56 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Anua PDRN 4-STEP Glowy Skin Set (+Mist Keyring) (Serum 30ml+Mist 30ml+Cream 60ml+Mask Sheet 5ea)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439572"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$27.88",
+        "price": 27.88,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Centellian24",
+      "externalId": "GA231020695",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1835/736e89a6-f38c-470a-9642-6552e2bb2aba.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "HOT DEAL Centellian24 Centellian24 Expert Madeca Mela Capture Ampoule Max 15mL Double Set (Special Gift: 1mL*3ea) 4.8 US$27.88US$56.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Centellian24 Expert Madeca Mela Capture Ampoule Max 15mL Double Set (Special Gift: 1mL*3ea)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA231020695"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$19.60",
+        "price": 19.6,
+        "rating": 4.7,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Anua",
+      "externalId": "GA250732565",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1911/1bf20779-d93c-4225-b068-eda3a647f124.png?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Anua Anua PDRN 100 Hyaluronic Acid Booster Toner 250ml Set (+40ml) 4.7 US$19.60US$29.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Anua PDRN 100 Hyaluronic Acid Booster Toner 250ml Set (+40ml)",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732565"
+    },
+    {
+      "attributes": {
+        "category": "Skincare",
+        "categoryCode": "1000000008",
+        "currency": "USD",
+        "displayedPrice": "US$27.55",
+        "price": 27.55,
+        "rating": 4.8,
+        "ratingScale": 5
+      },
+      "collectionIds": [
+        "oliveyoung-global-1000000008"
+      ],
+      "creator": "Dr. Althea",
+      "externalId": "GA260237937",
+      "extraction": "browser-dom",
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1876/743cd371-490d-481e-b143-ac9272fe85a7.jpg?RS=810x810&AR=0&SF=webp&QT=80",
+      "kind": "beauty",
+      "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+      "observedAt": "2026-09-27T00:11:34.865Z",
+      "rawVisibleText": "BEST Dr. Althea Dr. Althea PDRN Reju 5000 Cream 20g 4.8 US$27.55US$29.00 bag",
+      "sourceId": "oliveyoung-global",
+      "title": "Dr. Althea PDRN Reju 5000 Cream 20g",
+      "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260237937"
+    }
+  ],
+  "listingUrl": "https://global.oliveyoung.com/display/category?ctgrNo=1000000008",
+  "observedAt": "2026-09-27T00:11:34.865Z"
+}

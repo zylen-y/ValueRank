@@ -1,0 +1,95 @@
+[
+  {
+    "handle": "TED",
+    "topic": "Ideas and talks",
+    "url": "https://www.youtube.com/@TED/videos",
+    "count": 240,
+    "images": 147,
+    "captures": 15
+  },
+  {
+    "handle": "Vox",
+    "topic": "Explainers and society",
+    "url": "https://www.youtube.com/@Vox/videos",
+    "count": 240,
+    "images": 147,
+    "captures": 15
+  },
+  {
+    "handle": "veritasium",
+    "topic": "Science",
+    "url": "https://www.youtube.com/@veritasium/videos",
+    "count": 240,
+    "images": 147,
+    "captures": 15
+  },
+  {
+    "handle": "kurzgesagt",
+    "topic": "Science animation",
+    "url": "https://www.youtube.com/@kurzgesagt/videos",
+    "count": 240,
+    "images": 150,
+    "captures": 15
+  },
+  {
+    "handle": "NatGeo",
+    "topic": "Nature and exploration",
+    "url": "https://www.youtube.com/@NatGeo/videos",
+    "count": 252,
+    "images": 171,
+    "captures": 19
+  },
+  {
+    "handle": "mkbhd",
+    "topic": "Consumer technology",
+    "url": "https://www.youtube.com/@mkbhd/videos",
+    "count": 240,
+    "images": 144,
+    "captures": 15
+  },
+  {
+    "handle": "theschooloflifetv",
+    "topic": "Philosophy and psychology",
+    "url": "https://www.youtube.com/@theschooloflifetv/videos",
+    "count": 240,
+    "images": 147,
+    "captures": 15
+  },
+  {
+    "handle": "crashcourse",
+    "topic": "Education",
+    "url": "https://www.youtube.com/@crashcourse/videos",
+    "count": 240,
+    "images": 147,
+    "captures": 15
+  },
+  {
+    "handle": "epicurious",
+    "topic": "Food and cooking",
+    "url": "https://www.youtube.com/@epicurious/videos",
+    "count": 240,
+    "images": 147,
+    "captures": 15
+  },
+  {
+    "handle": "ArchitecturalDigest",
+    "topic": "Architecture and interiors",
+    "error": "Error: Command failed: npx --yes agent-browser --session expand-lifestyle-video wait h3\n✗ Wait timed out after 25000ms\n"
+  },
+  {
+    "handle": "linguamarina",
+    "topic": "English learning",
+    "url": "https://www.youtube.com/@linguamarina/videos",
+    "count": 240,
+    "images": 147,
+    "captures": 15
+  },
+  {
+    "handle": "YCombinator",
+    "topic": "Startups and building",
+    "url": "https://www.youtube.com/@YCombinator/videos",
+    "count": 240,
+    "images": 150,
+    "captures": 15
+  }
+]

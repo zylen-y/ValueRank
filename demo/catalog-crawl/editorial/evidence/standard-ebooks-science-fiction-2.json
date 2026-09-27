@@ -1,0 +1,1018 @@
+{
+  "url": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+  "title": "Browse Standard Ebooks, page 2 - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover",
+  "heading": "Browse Ebooks",
+  "observedAt": "2026-09-27T00:12:09.768Z",
+  "itemCount": 48,
+  "items": [
+    {
+      "attributes": {
+        "readingEase": 54.8,
+        "subjects": "Science Fiction",
+        "wordCount": 102215
+      },
+      "creator": "M. P. Shiel",
+      "description": "102,215 words • 54.8 reading ease Science Fiction",
+      "externalId": "m-p-shiel/the-purple-cloud",
+      "imageUrl": "https://standardebooks.org/images/covers/m-p-shiel_the-purple-cloud/df66ad83b84c84e9f94d1129cbfc4d9327ac4ba8/cover@2x.jpg",
+      "title": "The Purple Cloud",
+      "url": "https://standardebooks.org/ebooks/m-p-shiel/the-purple-cloud",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 80.51,
+        "subjects": "Science Fiction",
+        "wordCount": 63795
+      },
+      "creator": "Andre Norton",
+      "description": "63,795 words • 80.51 reading ease Science Fiction",
+      "externalId": "andre-norton/the-time-traders",
+      "imageUrl": "https://standardebooks.org/images/covers/andre-norton_the-time-traders/bae251c181be6868187776aa731873b81e58352a/cover@2x.jpg",
+      "title": "The Time Traders",
+      "url": "https://standardebooks.org/ebooks/andre-norton/the-time-traders",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.78,
+        "subjects": "Science Fiction",
+        "wordCount": 49021
+      },
+      "creator": "Charlotte Perkins Gilman",
+      "description": "49,021 words • 73.78 reading ease Science Fiction",
+      "externalId": "charlotte-perkins-gilman/moving-the-mountain",
+      "imageUrl": "https://standardebooks.org/images/covers/charlotte-perkins-gilman_moving-the-mountain/b469d391063812e77cdac4b99f6ddb3f6ae75b06/cover@2x.jpg",
+      "title": "Moving the Mountain",
+      "url": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/moving-the-mountain",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.19,
+        "subjects": "Science Fiction",
+        "wordCount": 63779
+      },
+      "creator": "H. Beam Piper",
+      "description": "63,779 words • 74.19 reading ease Science Fiction",
+      "externalId": "h-beam-piper/the-cosmic-computer",
+      "imageUrl": "https://standardebooks.org/images/covers/h-beam-piper_the-cosmic-computer/77149d3ae47831b8f43288e60973aead7a98f5ac/cover@2x.jpg",
+      "title": "The Cosmic Computer",
+      "url": "https://standardebooks.org/ebooks/h-beam-piper/the-cosmic-computer",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 67.59,
+        "subjects": "Adventure, Fantasy, Science Fiction",
+        "wordCount": 37941
+      },
+      "creator": "Edgar Rice Burroughs",
+      "description": "37,941 words • 67.59 reading ease Adventure Fantasy Science Fiction",
+      "externalId": "edgar-rice-burroughs/beyond-thirty",
+      "imageUrl": "https://standardebooks.org/images/covers/edgar-rice-burroughs_beyond-thirty/bc7c8d29be56c9a0d63c331ea6ece71fa469ec07/cover@2x.jpg",
+      "title": "Beyond Thirty",
+      "url": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 49.59,
+        "subjects": "Science Fiction",
+        "wordCount": 52490
+      },
+      "creator": "Edward Bulwer-Lytton",
+      "description": "52,490 words • 49.59 reading ease Science Fiction",
+      "externalId": "edward-bulwer-lytton/the-coming-race",
+      "imageUrl": "https://standardebooks.org/images/covers/edward-bulwer-lytton_the-coming-race/57279e5250d6f0876ad6ec208fb731eb86621fa6/cover@2x.jpg",
+      "title": "The Coming Race",
+      "url": "https://standardebooks.org/ebooks/edward-bulwer-lytton/the-coming-race",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.05,
+        "subjects": "Science Fiction",
+        "wordCount": 97485
+      },
+      "creator": "A. Merritt",
+      "description": "97,485 words • 72.05 reading ease Science Fiction",
+      "externalId": "a-merritt/the-moon-pool",
+      "imageUrl": "https://standardebooks.org/images/covers/a-merritt_the-moon-pool/8bb2c93aad43c05162476a1eda0e0b55c63f2a07/cover@2x.jpg",
+      "title": "The Moon Pool",
+      "url": "https://standardebooks.org/ebooks/a-merritt/the-moon-pool",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 65.83,
+        "subjects": "Comedy, Drama, Science Fiction",
+        "wordCount": 112506
+      },
+      "creator": "George Bernard Shaw",
+      "description": "112,506 words • 65.83 reading ease Comedy Drama Science Fiction",
+      "externalId": "george-bernard-shaw/back-to-methuselah",
+      "imageUrl": "https://standardebooks.org/images/covers/george-bernard-shaw_back-to-methuselah/b39f010a892d58041098589679f056eb564d7e8c/cover@2x.jpg",
+      "title": "Back to Methuselah",
+      "url": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.27,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 186924
+      },
+      "creator": "Fritz Leiber",
+      "description": "186,924 words • 73.27 reading ease Science Fiction Shorts",
+      "externalId": "fritz-leiber/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/fritz-leiber_short-fiction/f6af5ee6c1995f0f234b9b0e9951e5cd198e70de/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 64.91,
+        "subjects": "Science Fiction",
+        "wordCount": 98352
+      },
+      "creator": "E. E. Smith",
+      "description": "98,352 words • 64.91 reading ease Science Fiction",
+      "externalId": "e-e-smith/first-lensman",
+      "imageUrl": "https://standardebooks.org/images/covers/e-e-smith_first-lensman/37e88cd805241e2153be48ec7462cd44d11858a2/cover@2x.jpg",
+      "title": "First Lensman",
+      "url": "https://standardebooks.org/ebooks/e-e-smith/first-lensman",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 59.94,
+        "subjects": "Science Fiction",
+        "wordCount": 27169
+      },
+      "creator": "Philip Francis Nowlan",
+      "description": "27,169 words • 59.94 reading ease Science Fiction",
+      "externalId": "philip-francis-nowlan/armageddon-2419-a-d",
+      "imageUrl": "https://standardebooks.org/images/covers/philip-francis-nowlan_armageddon-2419-a-d/7af7bf0c767d70a72cec31219ba3dc3a535eab82/cover@2x.jpg",
+      "title": "Armageddon 2419 A.D.",
+      "url": "https://standardebooks.org/ebooks/philip-francis-nowlan/armageddon-2419-a-d",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 55.78,
+        "subjects": "Satire, Science Fiction",
+        "wordCount": 76759
+      },
+      "creator": "Edward Bellamy",
+      "description": "76,759 words • 55.78 reading ease Satire Science Fiction",
+      "externalId": "edward-bellamy/looking-backward",
+      "imageUrl": "https://standardebooks.org/images/covers/edward-bellamy_looking-backward/df2e96e75cbdb9d0e8041d20c3227c0ef8aa796a/cover@2x.jpg",
+      "title": "Looking Backward",
+      "url": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 75.61,
+        "subjects": "Horror, Science Fiction, Shorts",
+        "wordCount": 200034
+      },
+      "creator": "Manly Wade Wellman",
+      "description": "200,034 words • 75.61 reading ease Horror Science Fiction Shorts",
+      "externalId": "manly-wade-wellman/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/manly-wade-wellman_short-fiction/7d89cfc96567a12a9d466171f201aa69445ff4b3/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.9,
+        "subjects": "Horror, Science Fiction, Shorts",
+        "wordCount": 108228
+      },
+      "creator": "Frank Belknap Long",
+      "description": "108,228 words • 74.9 reading ease Horror Science Fiction Shorts",
+      "externalId": "frank-belknap-long/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/frank-belknap-long_short-fiction/8f06cfad82c7e60091cf1f33cf3bfe0210d65aec/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 69.21,
+        "subjects": "Science Fiction",
+        "translation": "Translated by F. Tennyson Neely",
+        "wordCount": 56603
+      },
+      "creator": "Jules Verne",
+      "description": "Translated by F. Tennyson Neely 56,603 words • 69.21 reading ease Science Fiction",
+      "externalId": "jules-verne/facing-the-flag/f-tennyson-neely",
+      "imageUrl": "https://standardebooks.org/images/covers/jules-verne_facing-the-flag_f-tennyson-neely/f56bf080ab8daa104914278929b99b8086337005/cover@2x.jpg",
+      "title": "Facing the Flag",
+      "url": "https://standardebooks.org/ebooks/jules-verne/facing-the-flag/f-tennyson-neely",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 70.53,
+        "subjects": "Science Fiction",
+        "wordCount": 75503
+      },
+      "creator": "John W. Campbell",
+      "description": "75,503 words • 70.53 reading ease Science Fiction",
+      "externalId": "john-w-campbell/the-black-star-passes",
+      "imageUrl": "https://standardebooks.org/images/covers/john-w-campbell_the-black-star-passes/97a7d811805eef0c26d7f53515ef7df3e6dfb75d/cover@2x.jpg",
+      "title": "The Black Star Passes",
+      "url": "https://standardebooks.org/ebooks/john-w-campbell/the-black-star-passes",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.26,
+        "subjects": "Science Fiction",
+        "wordCount": 64804
+      },
+      "creator": "John W. Campbell",
+      "description": "64,804 words • 72.26 reading ease Science Fiction",
+      "externalId": "john-w-campbell/invaders-from-the-infinite",
+      "imageUrl": "https://standardebooks.org/images/covers/john-w-campbell_invaders-from-the-infinite/7550621a08379e2ec4a7691e323dcd10721a4932/cover@2x.jpg",
+      "title": "Invaders from the Infinite",
+      "url": "https://standardebooks.org/ebooks/john-w-campbell/invaders-from-the-infinite",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.39,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 47325
+      },
+      "creator": "Stanley G. Weinbaum",
+      "description": "47,325 words • 74.39 reading ease Science Fiction Shorts",
+      "externalId": "stanley-g-weinbaum/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/stanley-g-weinbaum_short-fiction/ca898a58adc5562a333b39a730d206ee18ce6f20/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/stanley-g-weinbaum/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 65.35,
+        "subjects": "Science Fiction",
+        "wordCount": 125249
+      },
+      "creator": "Edgar Rice Burroughs",
+      "description": "125,249 words • 65.35 reading ease Science Fiction",
+      "externalId": "edgar-rice-burroughs/the-moon-maid",
+      "imageUrl": "https://standardebooks.org/images/covers/edgar-rice-burroughs_the-moon-maid/d4b33394b620596bc56aba5b73c8433d9a9e4731/cover@2x.jpg",
+      "title": "The Moon Maid",
+      "url": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-moon-maid",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 75.91,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 19758
+      },
+      "creator": "Cordwainer Smith",
+      "description": "19,758 words • 75.91 reading ease Science Fiction Shorts",
+      "externalId": "cordwainer-smith/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/cordwainer-smith_short-fiction/2adbe491a7cd8891db51082643c175e8aa48ecd5/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/cordwainer-smith/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 82.75,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 23803
+      },
+      "creator": "Andre Norton",
+      "description": "23,803 words • 82.75 reading ease Science Fiction Shorts",
+      "externalId": "andre-norton/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/andre-norton_short-fiction/2bf5455080bda4ae02d5a8f2e306e359e581ca5e/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/andre-norton/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 65.25,
+        "subjects": "Science Fiction",
+        "wordCount": 104420
+      },
+      "creator": "S. Fowler Wright",
+      "description": "104,420 words • 65.25 reading ease Science Fiction",
+      "externalId": "s-fowler-wright/the-world-below",
+      "imageUrl": "https://standardebooks.org/images/covers/s-fowler-wright_the-world-below/cf58d5a640b371e582da633ebdfdceb0279c6961/cover@2x.jpg",
+      "title": "The World Below",
+      "url": "https://standardebooks.org/ebooks/s-fowler-wright/the-world-below",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 64.2,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 376171
+      },
+      "creator": "H. Beam Piper",
+      "description": "376,171 words • 64.2 reading ease Science Fiction Shorts",
+      "externalId": "h-beam-piper/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/h-beam-piper_short-fiction/e95169e8b8d3d750dd3ac5e893374442138791b1/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 75.4,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 138151
+      },
+      "creator": "Frederik Pohl",
+      "description": "138,151 words • 75.4 reading ease Science Fiction Shorts",
+      "externalId": "frederik-pohl/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/frederik-pohl_short-fiction/9e28ce5a0063463b3b1e5bc3e6f4890979a406f4/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.78,
+        "subjects": "Science Fiction",
+        "wordCount": 66020
+      },
+      "creator": "H. Beam Piper",
+      "description": "66,020 words • 73.78 reading ease Science Fiction",
+      "externalId": "h-beam-piper/space-viking",
+      "imageUrl": "https://standardebooks.org/images/covers/h-beam-piper_space-viking/93f0665f46894aa6a38aff0a514efec05633c66a/cover@2x.jpg",
+      "title": "Space Viking",
+      "url": "https://standardebooks.org/ebooks/h-beam-piper/space-viking",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 78.35,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 13024
+      },
+      "creator": "Charles Beaumont",
+      "description": "13,024 words • 78.35 reading ease Science Fiction Shorts",
+      "externalId": "charles-beaumont/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/charles-beaumont_short-fiction/dd66dfc4c792ad17b814e99395d847ff63a576c2/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/charles-beaumont/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.78,
+        "subjects": "Science Fiction",
+        "wordCount": 62355
+      },
+      "creator": "Joseph Conrad, Ford Madox Ford",
+      "description": "62,355 words • 73.78 reading ease Science Fiction",
+      "externalId": "joseph-conrad_ford-madox-ford/the-inheritors",
+      "imageUrl": "https://standardebooks.org/images/covers/joseph-conrad_ford-madox-ford_the-inheritors/3b1d3715949aa9dbf4d9237b5ac2b736bdac5a61/cover@2x.jpg",
+      "title": "The Inheritors",
+      "url": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.22,
+        "subjects": "Science Fiction",
+        "wordCount": 53157
+      },
+      "creator": "Frederik Pohl, C. M. Kornbluth",
+      "description": "53,157 words • 76.22 reading ease Science Fiction",
+      "externalId": "frederik-pohl_c-m-kornbluth/search-the-sky",
+      "imageUrl": "https://standardebooks.org/images/covers/frederik-pohl_c-m-kornbluth_search-the-sky/abfef7ac900160d1065012bed8f1f95eba34431d/cover@2x.jpg",
+      "title": "Search the Sky",
+      "url": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 84.57,
+        "subjects": "Science Fiction",
+        "wordCount": 52014
+      },
+      "creator": "Samuel R. Delany",
+      "description": "52,014 words • 84.57 reading ease Science Fiction",
+      "externalId": "samuel-r-delany/the-jewels-of-aptor",
+      "imageUrl": "https://standardebooks.org/images/covers/samuel-r-delany_the-jewels-of-aptor/333dacd4218ee8bf830c3bebaa0470f1b9e7c9d7/cover@2x.jpg",
+      "title": "The Jewels of Aptor",
+      "url": "https://standardebooks.org/ebooks/samuel-r-delany/the-jewels-of-aptor",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.66,
+        "subjects": "Adventure, Science Fiction",
+        "wordCount": 57711
+      },
+      "creator": "Andre Norton",
+      "description": "57,711 words • 72.66 reading ease Adventure Science Fiction",
+      "externalId": "andre-norton/the-defiant-agents",
+      "imageUrl": "https://standardebooks.org/images/covers/andre-norton_the-defiant-agents/96cd4cefdade55d3e76ca3abab1a1906f9e58a84/cover@2x.jpg",
+      "title": "The Defiant Agents",
+      "url": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.55,
+        "subjects": "Science Fiction",
+        "wordCount": 60553
+      },
+      "creator": "Andre Norton",
+      "description": "60,553 words • 71.55 reading ease Science Fiction",
+      "externalId": "andre-norton/plague-ship",
+      "imageUrl": "https://standardebooks.org/images/covers/andre-norton_plague-ship/7e12b22efc4b8d37d9303c791bee7782aedb29d6/cover@2x.jpg",
+      "title": "Plague Ship",
+      "url": "https://standardebooks.org/ebooks/andre-norton/plague-ship",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.39,
+        "subjects": "Science Fiction",
+        "wordCount": 59064
+      },
+      "creator": "H. Beam Piper",
+      "description": "59,064 words • 74.39 reading ease Science Fiction",
+      "externalId": "h-beam-piper/little-fuzzy",
+      "imageUrl": "https://standardebooks.org/images/covers/h-beam-piper_little-fuzzy/f1630a11e6c970ed51693e265b84833a64e01d73/cover@2x.jpg",
+      "title": "Little Fuzzy",
+      "url": "https://standardebooks.org/ebooks/h-beam-piper/little-fuzzy",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 63.29,
+        "subjects": "Science Fiction",
+        "wordCount": 52396
+      },
+      "creator": "H. Beam Piper",
+      "description": "52,396 words • 63.29 reading ease Science Fiction",
+      "externalId": "h-beam-piper/uller-uprising",
+      "imageUrl": "https://standardebooks.org/images/covers/h-beam-piper_uller-uprising/074a158fb0f450b0d11dbdf4477fd678f0c6a378/cover@2x.jpg",
+      "title": "Uller Uprising",
+      "url": "https://standardebooks.org/ebooks/h-beam-piper/uller-uprising",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.44,
+        "subjects": "Science Fiction",
+        "wordCount": 61955
+      },
+      "creator": "Andre Norton",
+      "description": "61,955 words • 71.44 reading ease Science Fiction",
+      "externalId": "andre-norton/storm-over-warlock",
+      "imageUrl": "https://standardebooks.org/images/covers/andre-norton_storm-over-warlock/b6941a7ccd7da9cbce20d52e3cb803aacddb3784/cover@2x.jpg",
+      "title": "Storm Over Warlock",
+      "url": "https://standardebooks.org/ebooks/andre-norton/storm-over-warlock",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 67.59,
+        "subjects": "Science Fiction",
+        "wordCount": 57523
+      },
+      "creator": "Edgar Rice Burroughs",
+      "description": "57,523 words • 67.59 reading ease Science Fiction",
+      "externalId": "edgar-rice-burroughs/pellucidar",
+      "imageUrl": "https://standardebooks.org/images/covers/edgar-rice-burroughs_pellucidar/bebc005a604b7145c18e67f2a05012700151b10a/cover@2x.jpg",
+      "title": "Pellucidar",
+      "url": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 82.54,
+        "subjects": "Science Fiction",
+        "wordCount": 33875
+      },
+      "creator": "Andre Norton",
+      "description": "33,875 words • 82.54 reading ease Science Fiction",
+      "externalId": "andre-norton/star-hunter",
+      "imageUrl": "https://standardebooks.org/images/covers/andre-norton_star-hunter/d1bc5c77f6188d5963ba7bf8f40b13b5073cf690/cover@2x.jpg",
+      "title": "Star Hunter",
+      "url": "https://standardebooks.org/ebooks/andre-norton/star-hunter",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.17,
+        "subjects": "Science Fiction",
+        "wordCount": 23410
+      },
+      "creator": "Andre Norton",
+      "description": "23,410 words • 73.17 reading ease Science Fiction",
+      "externalId": "andre-norton/voodoo-planet",
+      "imageUrl": "https://standardebooks.org/images/covers/andre-norton_voodoo-planet/d3a1bf3c1de5020315db90824e108e173192aa5c/cover@2x.jpg",
+      "title": "Voodoo Planet",
+      "url": "https://standardebooks.org/ebooks/andre-norton/voodoo-planet",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 69.52,
+        "subjects": "Science Fiction",
+        "wordCount": 96446
+      },
+      "creator": "J. J. Connington",
+      "description": "96,446 words • 69.52 reading ease Science Fiction",
+      "externalId": "j-j-connington/nordenholts-million",
+      "imageUrl": "https://standardebooks.org/images/covers/j-j-connington_nordenholts-million/42c481bc4f65760f50f8abce4235bdd375e807b1/cover@2x.jpg",
+      "title": "Nordenholt’s Million",
+      "url": "https://standardebooks.org/ebooks/j-j-connington/nordenholts-million",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 82.04,
+        "subjects": "Science Fiction",
+        "wordCount": 57076
+      },
+      "creator": "Andre Norton",
+      "description": "57,076 words • 82.04 reading ease Science Fiction",
+      "externalId": "andre-norton/key-out-of-time",
+      "imageUrl": "https://standardebooks.org/images/covers/andre-norton_key-out-of-time/be2edd7154cde75c0324da1386930da1a50cd39e/cover@2x.jpg",
+      "title": "Key Out of Time",
+      "url": "https://standardebooks.org/ebooks/andre-norton/key-out-of-time",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.32,
+        "subjects": "Fantasy, Science Fiction, Shorts",
+        "wordCount": 38386
+      },
+      "creator": "R. A. Lafferty",
+      "description": "38,386 words • 76.32 reading ease Fantasy Science Fiction Shorts",
+      "externalId": "r-a-lafferty/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/r-a-lafferty_short-fiction/ab98071b7c67b5bd99c5b8253fc791c6881b1bba/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.27,
+        "subjects": "Science Fiction",
+        "wordCount": 61967
+      },
+      "creator": "John W. Campbell",
+      "description": "61,967 words • 73.27 reading ease Science Fiction",
+      "externalId": "john-w-campbell/islands-of-space",
+      "imageUrl": "https://standardebooks.org/images/covers/john-w-campbell_islands-of-space/c1bb69db8505f49eb459a05b814ae961bb1e2c79/cover@2x.jpg",
+      "title": "Islands of Space",
+      "url": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.93,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 53825
+      },
+      "creator": "Walter M. Miller Jr.",
+      "description": "53,825 words • 76.93 reading ease Science Fiction Shorts",
+      "externalId": "walter-m-miller-jr/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/walter-m-miller-jr_short-fiction/aa5d494efe274bd4a2ec67127db30e2ac9a66e38/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 77.64,
+        "subjects": "Science Fiction",
+        "wordCount": 75007
+      },
+      "creator": "Philip Wylie",
+      "description": "75,007 words • 77.64 reading ease Science Fiction",
+      "externalId": "philip-wylie/gladiator",
+      "imageUrl": "https://standardebooks.org/images/covers/philip-wylie_gladiator/db98619c6b7c9b1853f90b185759bae83bb1843b/cover@2x.jpg",
+      "title": "Gladiator",
+      "url": "https://standardebooks.org/ebooks/philip-wylie/gladiator",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.07,
+        "subjects": "Science Fiction",
+        "wordCount": 57345
+      },
+      "creator": "H. Beam Piper",
+      "description": "57,345 words • 73.07 reading ease Science Fiction",
+      "externalId": "h-beam-piper/four-day-planet",
+      "imageUrl": "https://standardebooks.org/images/covers/h-beam-piper_four-day-planet/d806b52a9cb4888fbfa94005aadeac723c716152/cover@2x.jpg",
+      "title": "Four-Day Planet",
+      "url": "https://standardebooks.org/ebooks/h-beam-piper/four-day-planet",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 75.91,
+        "subjects": "Adventure, Science Fiction",
+        "wordCount": 56694
+      },
+      "creator": "Carey Rockwell",
+      "description": "56,694 words • 75.91 reading ease Adventure Science Fiction",
+      "externalId": "carey-rockwell/stand-by-for-mars",
+      "imageUrl": "https://standardebooks.org/images/covers/carey-rockwell_stand-by-for-mars/e23e69acc669d48276b679a5ac563ee9096e85d8/cover@2x.jpg",
+      "title": "Stand by for Mars!",
+      "url": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.79,
+        "subjects": "Science Fiction",
+        "wordCount": 39567
+      },
+      "creator": "Frederik Pohl",
+      "description": "39,567 words • 74.79 reading ease Science Fiction",
+      "externalId": "frederik-pohl/plague-of-pythons",
+      "imageUrl": "https://standardebooks.org/images/covers/frederik-pohl_plague-of-pythons/8981c48fe665e12f75d9ce3e24f644d3f38b0d38/cover@2x.jpg",
+      "title": "Plague of Pythons",
+      "url": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 70.94,
+        "subjects": "Science Fiction",
+        "wordCount": 62001
+      },
+      "creator": "Andre Norton",
+      "description": "62,001 words • 70.94 reading ease Science Fiction",
+      "externalId": "andre-norton/star-born",
+      "imageUrl": "https://standardebooks.org/images/covers/andre-norton_star-born/8381263d408a88f465a4bd22defe62313aebb3b4/cover@2x.jpg",
+      "title": "Star Born",
+      "url": "https://standardebooks.org/ebooks/andre-norton/star-born",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 64.95,
+        "subjects": "Adventure, Science Fiction",
+        "wordCount": 84001
+      },
+      "creator": "Richard Jefferies",
+      "description": "84,001 words • 64.95 reading ease Adventure Science Fiction",
+      "externalId": "richard-jefferies/after-london",
+      "imageUrl": "https://standardebooks.org/images/covers/richard-jefferies_after-london/2810613f315d1e79dadf9bb2c68be3c8ee0b8af5/cover@2x.jpg",
+      "title": "After London",
+      "url": "https://standardebooks.org/ebooks/richard-jefferies/after-london",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    }
+  ]
+}

@@ -1,0 +1,815 @@
+{
+  "url": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+  "title": "Browse Standard Ebooks, page 2 - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover",
+  "heading": "Browse Ebooks",
+  "observedAt": "2026-09-27T00:11:58.178Z",
+  "itemCount": 38,
+  "items": [
+    {
+      "attributes": {
+        "readingEase": 52.83,
+        "subjects": "Philosophy",
+        "wordCount": 86703
+      },
+      "creator": "Thomas Paine",
+      "description": "86,703 words • 52.83 reading ease Philosophy",
+      "externalId": "thomas-paine/the-rights-of-man",
+      "imageUrl": "https://standardebooks.org/images/covers/thomas-paine_the-rights-of-man/0eb54c6f744b62b6a6962a2769d2116a4a857026/cover@2x.jpg",
+      "title": "The Rights of Man",
+      "url": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 38.76,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 135762
+      },
+      "creator": "John Dewey",
+      "description": "135,762 words • 38.76 reading ease Nonfiction Philosophy",
+      "externalId": "john-dewey/democracy-and-education",
+      "imageUrl": "https://standardebooks.org/images/covers/john-dewey_democracy-and-education/4fc4ca604ec65bdfd914ccecf9e4b468f201cad4/cover@2x.jpg",
+      "title": "Democracy and Education",
+      "url": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 67.38,
+        "subjects": "Philosophy",
+        "translation": "Translated by V. V. S. Aiyar",
+        "wordCount": 38580
+      },
+      "creator": "Thiruvalluvar",
+      "description": "Translated by V. V. S. Aiyar 38,580 words • 67.38 reading ease Philosophy",
+      "externalId": "thiruvalluvar/the-kural/v-v-s-aiyar",
+      "imageUrl": "https://standardebooks.org/images/covers/thiruvalluvar_the-kural_v-v-s-aiyar/110f72898fe2f32666ab3a2d03f82cb8148badb5/cover@2x.jpg",
+      "title": "The Kural",
+      "url": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 45.8,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 37073
+      },
+      "creator": "Bertrand Russell",
+      "description": "37,073 words • 45.8 reading ease Nonfiction Philosophy",
+      "externalId": "bertrand-russell/the-practice-and-theory-of-bolshevism",
+      "imageUrl": "https://standardebooks.org/images/covers/bertrand-russell_the-practice-and-theory-of-bolshevism/085c04146592ff9ebb6a6a8cabc377d2ee62cf00/cover@2x.jpg",
+      "title": "The Practice and Theory of Bolshevism",
+      "url": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 59.26,
+        "subjects": "Philosophy",
+        "translation": "Translated by C. D. Yonge",
+        "wordCount": 76944
+      },
+      "creator": "Cicero",
+      "description": "Translated by C. D. Yonge 76,944 words • 59.26 reading ease Philosophy",
+      "externalId": "cicero/tusculan-disputations/c-d-yonge",
+      "imageUrl": "https://standardebooks.org/images/covers/cicero_tusculan-disputations_c-d-yonge/3c98dc4dee09554b9ff49e23636ee3822a5f13f4/cover@2x.jpg",
+      "title": "Tusculan Disputations",
+      "url": "https://standardebooks.org/ebooks/cicero/tusculan-disputations/c-d-yonge",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 50.4,
+        "subjects": "Philosophy",
+        "wordCount": 49811
+      },
+      "creator": "Thomas Paine",
+      "description": "49,811 words • 50.4 reading ease Philosophy",
+      "externalId": "thomas-paine/essays",
+      "imageUrl": "https://standardebooks.org/images/covers/thomas-paine_essays/e4a1aa5aa7bb59c79e4b9ec1a4cc2d5669dfe188/cover@2x.jpg",
+      "title": "Essays",
+      "url": "https://standardebooks.org/ebooks/thomas-paine/essays",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 45.9,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 67889
+      },
+      "creator": "William James",
+      "description": "67,889 words • 45.9 reading ease Nonfiction Philosophy",
+      "externalId": "william-james/a-pluralistic-universe",
+      "imageUrl": "https://standardebooks.org/images/covers/william-james_a-pluralistic-universe/f60c58e5b7c88cb1a07c52baceedfdd7cd28e504/cover@2x.jpg",
+      "title": "A Pluralistic Universe",
+      "url": "https://standardebooks.org/ebooks/william-james/a-pluralistic-universe",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 44.58,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 50806
+      },
+      "creator": "Bertrand Russell",
+      "description": "50,806 words • 44.58 reading ease Nonfiction Philosophy",
+      "externalId": "bertrand-russell/roads-to-freedom",
+      "imageUrl": "https://standardebooks.org/images/covers/bertrand-russell_roads-to-freedom/6d94e2876935f11229cef2489d1839546d5f3d9d/cover@2x.jpg",
+      "title": "Roads to Freedom",
+      "url": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 45.09,
+        "subjects": "Philosophy",
+        "translation": "Translated by T. Fisher Unwin Ltd.",
+        "wordCount": 51124
+      },
+      "creator": "Gustave Le Bon",
+      "description": "Translated by T. Fisher Unwin Ltd. 51,124 words • 45.09 reading ease Philosophy",
+      "externalId": "gustave-le-bon/the-crowd/t-fisher-unwin-ltd",
+      "imageUrl": "https://standardebooks.org/images/covers/gustave-le-bon_the-crowd_t-fisher-unwin-ltd/432c1ce6c174feab965fce311891a7c959b257b3/cover@2x.jpg",
+      "title": "The Crowd",
+      "url": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 42.65,
+        "subjects": "Philosophy",
+        "wordCount": 88271
+      },
+      "creator": "Peter Kropotkin",
+      "description": "88,271 words • 42.65 reading ease Philosophy",
+      "externalId": "peter-kropotkin/mutual-aid",
+      "imageUrl": "https://standardebooks.org/images/covers/peter-kropotkin_mutual-aid/cc7795118d68b1688cdaffe6d9b57d83aca2ab8c/cover@2x.jpg",
+      "title": "Mutual Aid",
+      "url": "https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 41.6,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 82097
+      },
+      "creator": "John Dewey",
+      "description": "82,097 words • 41.6 reading ease Nonfiction Philosophy",
+      "externalId": "john-dewey/human-nature-and-conduct",
+      "imageUrl": "https://standardebooks.org/images/covers/john-dewey_human-nature-and-conduct/153c84906ea732cb75d51731dea8750a5f848e69/cover@2x.jpg",
+      "title": "Human Nature and Conduct",
+      "url": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 53.14,
+        "subjects": "Philosophy",
+        "translation": "Translated by Chapman and Hall",
+        "wordCount": 72625
+      },
+      "creator": "Peter Kropotkin",
+      "description": "Translated by Chapman and Hall 72,625 words • 53.14 reading ease Philosophy",
+      "externalId": "peter-kropotkin/the-conquest-of-bread/chapman-and-hall",
+      "imageUrl": "https://standardebooks.org/images/covers/peter-kropotkin_the-conquest-of-bread_chapman-and-hall/79ae8a92250d6068b7fac7045fffec6993112325/cover@2x.jpg",
+      "title": "The Conquest of Bread",
+      "url": "https://standardebooks.org/ebooks/peter-kropotkin/the-conquest-of-bread/chapman-and-hall",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 58.21,
+        "subjects": "Philosophy",
+        "wordCount": 38946
+      },
+      "creator": "Geoffrey Dennis",
+      "description": "38,946 words • 58.21 reading ease Philosophy",
+      "externalId": "geoffrey-dennis/the-end-of-the-world",
+      "imageUrl": "https://standardebooks.org/images/covers/geoffrey-dennis_the-end-of-the-world/3895ce276dfb32d9d6cae949478ee015bffb2887/cover@2x.jpg",
+      "title": "The End of the World",
+      "url": "https://standardebooks.org/ebooks/geoffrey-dennis/the-end-of-the-world",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 46.58,
+        "subjects": "Philosophy",
+        "wordCount": 77901
+      },
+      "creator": "John Locke",
+      "description": "77,901 words • 46.58 reading ease Philosophy",
+      "externalId": "john-locke/some-thoughts-concerning-education",
+      "imageUrl": "https://standardebooks.org/images/covers/john-locke_some-thoughts-concerning-education/4ff56ae4b418eb7ae1a4668be5f99e706aac426f/cover@2x.jpg",
+      "title": "Some Thoughts Concerning Education",
+      "url": "https://standardebooks.org/ebooks/john-locke/some-thoughts-concerning-education",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 49.79,
+        "subjects": "Philosophy",
+        "wordCount": 76734
+      },
+      "creator": "Thomas Paine",
+      "description": "76,734 words • 49.79 reading ease Philosophy",
+      "externalId": "thomas-paine/the-american-crisis",
+      "imageUrl": "https://standardebooks.org/images/covers/thomas-paine_the-american-crisis/7b943d4716ffb1d3cfdf0b2c14cfd504ec406d55/cover@2x.jpg",
+      "title": "The American Crisis",
+      "url": "https://standardebooks.org/ebooks/thomas-paine/the-american-crisis",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 85.49,
+        "subjects": "Fiction, Philosophy, Spirituality",
+        "wordCount": 118824
+      },
+      "creator": "May Sinclair",
+      "description": "118,824 words • 85.49 reading ease Fiction Philosophy Spirituality",
+      "externalId": "may-sinclair/mary-olivier-a-life",
+      "imageUrl": "https://standardebooks.org/images/covers/may-sinclair_mary-olivier-a-life/aa5e11b2cbd14fa8f8106369f555da7dff2e1503/cover@2x.jpg",
+      "title": "Mary Olivier: A Life",
+      "url": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 41.33,
+        "subjects": "Philosophy",
+        "wordCount": 39902
+      },
+      "creator": "Hilaire Belloc",
+      "description": "39,902 words • 41.33 reading ease Philosophy",
+      "externalId": "hilaire-belloc/the-servile-state",
+      "imageUrl": "https://standardebooks.org/images/covers/hilaire-belloc_the-servile-state/b2af1cae5aca5fe4a337adb3213526daf361c8f2/cover@2x.jpg",
+      "title": "The Servile State",
+      "url": "https://standardebooks.org/ebooks/hilaire-belloc/the-servile-state",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 38.69,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 46505
+      },
+      "creator": "Jane Addams",
+      "description": "46,505 words • 38.69 reading ease Nonfiction Philosophy",
+      "externalId": "jane-addams/democracy-and-social-ethics",
+      "imageUrl": "https://standardebooks.org/images/covers/jane-addams_democracy-and-social-ethics/034d37f90e70493c2e11a7f7091df2f811a6577e/cover@2x.jpg",
+      "title": "Democracy and Social Ethics",
+      "url": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 39.3,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 77882
+      },
+      "creator": "Lewis Mumford",
+      "description": "77,882 words • 39.3 reading ease Nonfiction Philosophy",
+      "externalId": "lewis-mumford/the-story-of-utopias",
+      "imageUrl": "https://standardebooks.org/images/covers/lewis-mumford_the-story-of-utopias/e4d9cdb1759a067ff5f864db5bb9b7c4d8cab253/cover@2x.jpg",
+      "title": "The Story of Utopias",
+      "url": "https://standardebooks.org/ebooks/lewis-mumford/the-story-of-utopias",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 47.96,
+        "subjects": "Philosophy",
+        "wordCount": 92431
+      },
+      "creator": "G. E. Moore",
+      "description": "92,431 words • 47.96 reading ease Philosophy",
+      "externalId": "g-e-moore/principia-ethica",
+      "imageUrl": "https://standardebooks.org/images/covers/g-e-moore_principia-ethica/827c0a6f7ad5545753ad1d25207b394615e3e05e/cover@2x.jpg",
+      "title": "Principia Ethica",
+      "url": "https://standardebooks.org/ebooks/g-e-moore/principia-ethica",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 47.56,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 27039
+      },
+      "creator": "John Ruskin",
+      "description": "27,039 words • 47.56 reading ease Nonfiction Philosophy",
+      "externalId": "john-ruskin/unto-this-last",
+      "imageUrl": "https://standardebooks.org/images/covers/john-ruskin_unto-this-last/e47967819d170ba7c4aadb9e496963c5ac3cd5d7/cover@2x.jpg",
+      "title": "Unto This Last",
+      "url": "https://standardebooks.org/ebooks/john-ruskin/unto-this-last",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 42.08,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 64491
+      },
+      "creator": "Matthew Arnold",
+      "description": "64,491 words • 42.08 reading ease Nonfiction Philosophy",
+      "externalId": "matthew-arnold/culture-and-anarchy",
+      "imageUrl": "https://standardebooks.org/images/covers/matthew-arnold_culture-and-anarchy/bd032567bc352d3c7d013089ea048bed8fc53806/cover@2x.jpg",
+      "title": "Culture and Anarchy",
+      "url": "https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 38.96,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 52962
+      },
+      "creator": "John Dewey",
+      "description": "52,962 words • 38.96 reading ease Nonfiction Philosophy",
+      "externalId": "john-dewey/the-public-and-its-problems",
+      "imageUrl": "https://standardebooks.org/images/covers/john-dewey_the-public-and-its-problems/4561175010da4886e4bd2f52aa118b50e0a131c9/cover@2x.jpg",
+      "title": "The Public and Its Problems",
+      "url": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 47.83,
+        "subjects": "Philosophy",
+        "translation": "Translated by Benjamin Tucker",
+        "wordCount": 145861
+      },
+      "creator": "Pierre-Joseph Proudhon",
+      "description": "Translated by Benjamin Tucker 145,861 words • 47.83 reading ease Philosophy",
+      "externalId": "pierre-joseph-proudhon/what-is-property/benjamin-tucker",
+      "imageUrl": "https://standardebooks.org/images/covers/pierre-joseph-proudhon_what-is-property_benjamin-tucker/82dd187655950203b664dc262d237bbdee2e062b/cover@2x.jpg",
+      "title": "What Is Property?",
+      "url": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 46,
+        "subjects": "Philosophy",
+        "wordCount": 72872
+      },
+      "creator": "Charlotte Perkins Gilman",
+      "description": "72,872 words • 46 reading ease Philosophy",
+      "externalId": "charlotte-perkins-gilman/women-and-economics",
+      "imageUrl": "https://standardebooks.org/images/covers/charlotte-perkins-gilman_women-and-economics/2489f7d9a313b1fd1af31689c850d6915890c394/cover@2x.jpg",
+      "title": "Women and Economics",
+      "url": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.45,
+        "subjects": "Fantasy, Philosophy",
+        "wordCount": 47271
+      },
+      "creator": "James Stephens",
+      "description": "47,271 words • 76.45 reading ease Fantasy Philosophy",
+      "externalId": "james-stephens/the-demi-gods",
+      "imageUrl": "https://standardebooks.org/images/covers/james-stephens_the-demi-gods/f69ec0035d7c708f3e271c0a7c8e805df96ed07d/cover@2x.jpg",
+      "title": "The Demi-Gods",
+      "url": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 67.99,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 67628
+      },
+      "creator": "W. E. B. Du Bois",
+      "description": "67,628 words • 67.99 reading ease Nonfiction Philosophy",
+      "externalId": "w-e-b-du-bois/darkwater",
+      "imageUrl": "https://standardebooks.org/images/covers/w-e-b-du-bois_darkwater/2645e67b617214a2a6b469710b5bc64ff8547208/cover@2x.jpg",
+      "title": "Darkwater",
+      "url": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 35.51,
+        "subjects": "Philosophy",
+        "translation": "Translated by J. H. Bridges",
+        "wordCount": 131450
+      },
+      "creator": "Auguste Comte",
+      "description": "Translated by J. H. Bridges 131,450 words • 35.51 reading ease Philosophy",
+      "externalId": "auguste-comte/a-general-view-of-positivism/j-h-bridges",
+      "imageUrl": "https://standardebooks.org/images/covers/auguste-comte_a-general-view-of-positivism_j-h-bridges/8272a8af256f818d2b34628a61c9518b81a3e514/cover@2x.jpg",
+      "title": "A General View of Positivism",
+      "url": "https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 46.4,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 47740
+      },
+      "creator": "L. T. Hobhouse",
+      "description": "47,740 words • 46.4 reading ease Nonfiction Philosophy",
+      "externalId": "l-t-hobhouse/liberalism",
+      "imageUrl": "https://standardebooks.org/images/covers/l-t-hobhouse_liberalism/8e99457bc2b5f80548a45885885233cfcb8e9625/cover@2x.jpg",
+      "title": "Liberalism",
+      "url": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 39.3,
+        "subjects": "Nonfiction, Philosophy",
+        "translation": "Translated by Free Society Library, F. A. B., Industrial Syndicalist Education League, Norman Matson, and Freedom Press",
+        "wordCount": 34692
+      },
+      "creator": "Errico Malatesta",
+      "description": "Translated by Free Society Library, F. A. B., Industrial Syndicalist Education League, Norman Matson, and Freedom Press 34,692 words • 39.3 reading ease Nonfiction Philosophy",
+      "externalId": "errico-malatesta/essays/various-translators",
+      "imageUrl": "https://standardebooks.org/images/covers/errico-malatesta_essays_various-translators/25d8bfb1307e44c8ed15bb2add07e90f89a58ad6/cover@2x.jpg",
+      "title": "Essays",
+      "url": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 39.1,
+        "subjects": "Philosophy",
+        "wordCount": 48490
+      },
+      "creator": "R. H. Tawney",
+      "description": "48,490 words • 39.1 reading ease Philosophy",
+      "externalId": "r-h-tawney/the-acquisitive-society",
+      "imageUrl": "https://standardebooks.org/images/covers/r-h-tawney_the-acquisitive-society/68d962a06d4eb39eb18308a74672ad9a161be17b/cover@2x.jpg",
+      "title": "The Acquisitive Society",
+      "url": "https://standardebooks.org/ebooks/r-h-tawney/the-acquisitive-society",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.45,
+        "subjects": "Comedy, Fantasy, Philosophy",
+        "wordCount": 55740
+      },
+      "creator": "James Stephens",
+      "description": "55,740 words • 76.45 reading ease Comedy Fantasy Philosophy",
+      "externalId": "james-stephens/the-crock-of-gold",
+      "imageUrl": "https://standardebooks.org/images/covers/james-stephens_the-crock-of-gold/8bd8310ef26605169d71fd7eb90fc5a9d0fdc9ba/cover@2x.jpg",
+      "title": "The Crock of Gold",
+      "url": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 49.04,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 103306
+      },
+      "creator": "Mary Parker Follett",
+      "description": "103,306 words • 49.04 reading ease Nonfiction Philosophy",
+      "externalId": "mary-parker-follett/the-new-state",
+      "imageUrl": "https://standardebooks.org/images/covers/mary-parker-follett_the-new-state/5f2d1bdd47c9f00304a6e0d1de231c731dddd5ff/cover@2x.jpg",
+      "title": "The New State",
+      "url": "https://standardebooks.org/ebooks/mary-parker-follett/the-new-state",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 52.73,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 60360
+      },
+      "creator": "Anna Julia Cooper",
+      "description": "60,360 words • 52.73 reading ease Nonfiction Philosophy",
+      "externalId": "anna-julia-cooper/a-voice-from-the-south",
+      "imageUrl": "https://standardebooks.org/images/covers/anna-julia-cooper_a-voice-from-the-south/2b229227c84c73978cf6691299e84f3a51c556e1/cover@2x.jpg",
+      "title": "A Voice from the South",
+      "url": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 58.55,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 91667
+      },
+      "creator": "William Wollaston",
+      "description": "91,667 words • 58.55 reading ease Nonfiction Philosophy",
+      "externalId": "william-wollaston/the-religion-of-nature-delineated",
+      "imageUrl": "https://standardebooks.org/images/covers/william-wollaston_the-religion-of-nature-delineated/a619e8bf142bdae3f06020f70b94322778d408c4/cover@2x.jpg",
+      "title": "The Religion of Nature Delineated",
+      "url": "https://standardebooks.org/ebooks/william-wollaston/the-religion-of-nature-delineated",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 38.08,
+        "subjects": "Philosophy",
+        "translation": "Translated by Voltairine de Cleyre",
+        "wordCount": 66531
+      },
+      "creator": "Jean Grave",
+      "description": "Translated by Voltairine de Cleyre 66,531 words • 38.08 reading ease Philosophy",
+      "externalId": "jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre",
+      "imageUrl": "https://standardebooks.org/images/covers/jean-grave_moribund-society-and-anarchy_voltairine-de-cleyre/447407f6b7c338226f5f0cea7b966b434886af7d/cover@2x.jpg",
+      "title": "Moribund Society and Anarchy",
+      "url": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 48.47,
+        "subjects": "Philosophy",
+        "wordCount": 27435
+      },
+      "creator": "Lysander Spooner",
+      "description": "27,435 words • 48.47 reading ease Philosophy",
+      "externalId": "lysander-spooner/no-treason",
+      "imageUrl": "https://standardebooks.org/images/covers/lysander-spooner_no-treason/69c359d0169aae8aa1f8507032ba385f0363e2b8/cover@2x.jpg",
+      "title": "No Treason",
+      "url": "https://standardebooks.org/ebooks/lysander-spooner/no-treason",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 53.85,
+        "subjects": "Philosophy, Spirituality",
+        "wordCount": 45265
+      },
+      "creator": "Jonathan Dymond",
+      "description": "45,265 words • 53.85 reading ease Philosophy Spirituality",
+      "externalId": "jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
+      "imageUrl": "https://standardebooks.org/images/covers/jonathan-dymond_an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/bc5fc7cca76d932d0153fcaf8393e8991396e675/cover@2x.jpg",
+      "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
+      "url": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-philosophy"
+      ],
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "listingUrl": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    }
+  ]
+}

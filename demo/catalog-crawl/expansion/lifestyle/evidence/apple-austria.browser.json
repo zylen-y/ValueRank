@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+  "collection": "Top 100: Austria",
+  "fetchedAt": "2026-09-27T03:40:21.620Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 1 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 2 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 3 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 4 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Movin' To The Sun",
+      "canonicalUrl": "https://music.apple.com/us/song/movin-to-the-sun/6769070199",
+      "creator": "HUGEL, Imael Angel, Ultra Naté",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6769070199",
+      "attributes": {
+        "album": "Movin' To The Sun - Single",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "5",
+        "explicit": false
+      },
+      "evidenceText": "Movin' To The Sun 5 HUGEL, Imael Angel, Ultra Naté Movin' To The Sun - Single PREVIEW 2:22"
+    },
+    {
+      "title": "Dai Dai",
+      "canonicalUrl": "https://music.apple.com/us/song/dai-dai/6768469976",
+      "creator": "Shakira, Burna Boy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6768469976",
+      "attributes": {
+        "album": "Dai Dai - Single",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "6",
+        "explicit": false
+      },
+      "evidenceText": "Dai Dai 6 Shakira, Burna Boy Dai Dai - Single PREVIEW 3:43"
+    },
+    {
+      "title": "Mr. Brightside",
+      "canonicalUrl": "https://music.apple.com/us/song/mr-brightside/1526194192",
+      "creator": "The Killers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1526194192",
+      "attributes": {
+        "album": "Hot Fuss",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "7",
+        "explicit": false
+      },
+      "evidenceText": "Mr. Brightside 7 The Killers Hot Fuss PREVIEW 3:42"
+    },
+    {
+      "title": "Self Aware",
+      "canonicalUrl": "https://music.apple.com/us/song/self-aware/1877803360",
+      "creator": "Temper City",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/63/6e/ba636e4b-5c9a-e89c-87d3-1a9ab7773644/1084252.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1877803360",
+      "attributes": {
+        "album": "Self Aware - Single",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "8",
+        "explicit": false
+      },
+      "evidenceText": "Self Aware 8 Temper City Self Aware - Single PREVIEW 3:00"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "9",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 9 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "Von hier an blind",
+      "canonicalUrl": "https://music.apple.com/us/song/von-hier-an-blind/723380341",
+      "creator": "Wir sind Helden",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4a/66/fc/4a66fc5a-3230-84e8-e43d-e6d59cdf2714/13UACIM70246.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "723380341",
+      "attributes": {
+        "album": "Von Hier an Blind",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "10",
+        "explicit": false
+      },
+      "evidenceText": "Von hier an blind 10 Wir sind Helden Von Hier an Blind PREVIEW 3:30"
+    },
+    {
+      "title": "Ain't In LA",
+      "canonicalUrl": "https://music.apple.com/us/song/aint-in-la/6792884101",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6792884101",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "11",
+        "explicit": true
+      },
+      "evidenceText": "Ain't In LA 11 ADÉLA PRIMA PREVIEW 3:04"
+    },
+    {
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "canonicalUrl": "https://music.apple.com/us/song/beauty-and-a-beat-feat-nicki-minaj/1440650961",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1440650961",
+      "attributes": {
+        "album": "Believe (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "Beauty and a Beat (feat. Nicki Minaj) 12 Justin Bieber Believe (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "The One That Got Away",
+      "canonicalUrl": "https://music.apple.com/us/song/the-one-that-got-away/1013032949",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/97/31/759731eb-b429-dfe3-c41f-34435998d102/13UABIM57845.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1013032949",
+      "attributes": {
+        "album": "Teenage Dream (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "13",
+        "explicit": false
+      },
+      "evidenceText": "The One That Got Away 13 Katy Perry Teenage Dream (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "ISSA",
+      "canonicalUrl": "https://music.apple.com/us/song/issa/6801468864",
+      "creator": "Sido",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/95/ae/d695ae05-8bf2-1106-b3b1-5c6ae308caa3/26UM1IM04650.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6801468864",
+      "attributes": {
+        "album": "ISSA - Single",
+        "duration": "2:24",
+        "durationIso": "PT2M24S",
+        "chartPosition": "14",
+        "explicit": true
+      },
+      "evidenceText": "ISSA 14 Sido ISSA - Single PREVIEW 2:24"
+    },
+    {
+      "title": "Training Season",
+      "canonicalUrl": "https://music.apple.com/us/song/training-season/1745742176",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/d3/2c/bdd32c8c-bba7-def3-4e1f-2992550b2d16/5021732379115.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1745742176",
+      "attributes": {
+        "album": "Radical Optimism",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "15",
+        "explicit": false
+      },
+      "evidenceText": "Training Season 15 Dua Lipa Radical Optimism PREVIEW 3:29"
+    },
+    {
+      "title": "Jamaican (Bam Bam)",
+      "canonicalUrl": "https://music.apple.com/us/song/jamaican-bam-bam/1883679876",
+      "creator": "HUGEL, SOLTO (FR)",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1883679876",
+      "attributes": {
+        "album": "Jamaican (Bam Bam) - Single",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "Jamaican (Bam Bam) 16 HUGEL, SOLTO (FR) Jamaican (Bam Bam) - Single PREVIEW 2:36"
+    },
+    {
+      "title": "the cure",
+      "canonicalUrl": "https://music.apple.com/us/song/the-cure/1889992123",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1889992123",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "17",
+        "explicit": true
+      },
+      "evidenceText": "the cure 17 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 4:57"
+    },
+    {
+      "title": "Inundauswendig",
+      "canonicalUrl": "https://music.apple.com/us/song/inundauswendig/6799924340",
+      "creator": "makko, The Chainsmokers",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/ca/2a/86ca2a7f-9db2-8cf8-331d-c73dfb534368/196874685631.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6799924340",
+      "attributes": {
+        "album": "Inundauswendig - Single",
+        "duration": "2:41",
+        "durationIso": "PT2M41S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "Inundauswendig 18 makko, The Chainsmokers Inundauswendig - Single PREVIEW 2:41"
+    },
+    {
+      "title": "Loser",
+      "canonicalUrl": "https://music.apple.com/us/song/loser/1836226731",
+      "creator": "Tame Impala",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1836226731",
+      "attributes": {
+        "album": "Deadbeat",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "19",
+        "explicit": true
+      },
+      "evidenceText": "Loser 19 Tame Impala Deadbeat PREVIEW 3:43"
+    },
+    {
+      "title": "Lush Life",
+      "canonicalUrl": "https://music.apple.com/us/song/lush-life/1201058113",
+      "creator": "Zara Larsson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/e6/3b/74e63bb4-d593-f926-85c7-df3ca43fcf3f/886446183473.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1201058113",
+      "attributes": {
+        "album": "So Good",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "20",
+        "explicit": false
+      },
+      "evidenceText": "Lush Life 20 Zara Larsson So Good PREVIEW 3:20"
+    },
+    {
+      "title": "Opalite",
+      "canonicalUrl": "https://music.apple.com/us/song/opalite/1833328845",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1833328845",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "Opalite 21 Taylor Swift The Life of a Showgirl PREVIEW 3:55"
+    },
+    {
+      "title": "Wonderwall (Remastered)",
+      "canonicalUrl": "https://music.apple.com/us/song/wonderwall-remastered/1525933490",
+      "creator": "Oasis",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1525933490",
+      "attributes": {
+        "album": "(What's The Story) Morning Glory? [Deluxe Remastered Edition]",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "22",
+        "explicit": false
+      },
+      "evidenceText": "Wonderwall (Remastered) 22 Oasis (What's The Story) Morning Glory? [Deluxe Remastered Edition] PREVIEW 4:18"
+    },
+    {
+      "title": "MO' MONEY MO' HATERS",
+      "canonicalUrl": "https://music.apple.com/us/song/mo-money-mo-haters/1876509430",
+      "creator": "Summer Cem, Shirin David",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/34/f1/4734f183-6963-6cc7-06a2-bbec4e2991e7/5026854691664.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1876509430",
+      "attributes": {
+        "album": "DUMAN",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "23",
+        "explicit": true
+      },
+      "evidenceText": "MO' MONEY MO' HATERS 23 Summer Cem, Shirin David DUMAN PREVIEW 2:22"
+    },
+    {
+      "title": "American Girls",
+      "canonicalUrl": "https://music.apple.com/us/song/american-girls/1870984036",
+      "creator": "Harry Styles",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1870984036",
+      "attributes": {
+        "album": "Kiss All The Time. Disco, Occasionally.",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "American Girls 24 Harry Styles Kiss All The Time. Disco, Occasionally. PREVIEW 3:33"
+    },
+    {
+      "title": "Billie Jean",
+      "canonicalUrl": "https://music.apple.com/us/song/billie-jean/269573364",
+      "creator": "Michael Jackson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "269573364",
+      "attributes": {
+        "album": "Thriller",
+        "duration": "4:53",
+        "durationIso": "PT4M53S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "Billie Jean 25 Michael Jackson Thriller PREVIEW 4:53"
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia/1833328840",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1833328840",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "26",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia 26 Taylor Swift The Life of a Showgirl PREVIEW 3:46"
+    },
+    {
+      "title": "Sweater Weather",
+      "canonicalUrl": "https://music.apple.com/us/song/sweater-weather/635016640",
+      "creator": "The Neighbourhood",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "635016640",
+      "attributes": {
+        "album": "I Love You.",
+        "duration": "4:00",
+        "durationIso": "PT4M",
+        "chartPosition": "27",
+        "explicit": false
+      },
+      "evidenceText": "Sweater Weather 27 The Neighbourhood I Love You. PREVIEW 4:00"
+    },
+    {
+      "title": "drop dead",
+      "canonicalUrl": "https://music.apple.com/us/song/drop-dead/1889992113",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1889992113",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "drop dead 28 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:44"
+    },
+    {
+      "title": "Janice STFU",
+      "canonicalUrl": "https://music.apple.com/us/song/janice-stfu/6769568596",
+      "creator": "Drake",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6769568596",
+      "attributes": {
+        "album": "ICEMAN",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "29",
+        "explicit": true
+      },
+      "evidenceText": "Janice STFU 29 Drake ICEMAN PREVIEW 3:57"
+    },
+    {
+      "title": "The Emptiness Machine",
+      "canonicalUrl": "https://music.apple.com/us/song/the-emptiness-machine/1766137051",
+      "creator": "LINKIN PARK",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1766137051",
+      "attributes": {
+        "album": "From Zero",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "30",
+        "explicit": true
+      },
+      "evidenceText": "The Emptiness Machine 30 LINKIN PARK From Zero PREVIEW 3:10"
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "canonicalUrl": "https://music.apple.com/us/song/smells-like-teen-spirit/1440783625",
+      "creator": "Nirvana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1440783625",
+      "attributes": {
+        "album": "Nevermind",
+        "duration": "5:01",
+        "durationIso": "PT5M1S",
+        "chartPosition": "31",
+        "explicit": false
+      },
+      "evidenceText": "Smells Like Teen Spirit 31 Nirvana Nevermind PREVIEW 5:01"
+    },
+    {
+      "title": "Ordinary",
+      "canonicalUrl": "https://music.apple.com/us/song/ordinary/1793663645",
+      "creator": "Alex Warren",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1793663645",
+      "attributes": {
+        "album": "Ordinary - Single",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "32",
+        "explicit": false
+      },
+      "evidenceText": "Ordinary 32 Alex Warren Ordinary - Single PREVIEW 3:06"
+    },
+    {
+      "title": "KILLY MANJARO",
+      "canonicalUrl": "https://music.apple.com/us/song/killy-manjaro/1876509654",
+      "creator": "Summer Cem, BILLA JOE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/34/f1/4734f183-6963-6cc7-06a2-bbec4e2991e7/5026854691664.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1876509654",
+      "attributes": {
+        "album": "DUMAN",
+        "duration": "2:26",
+        "durationIso": "PT2M26S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "KILLY MANJARO 33 Summer Cem, BILLA JOE DUMAN PREVIEW 2:26"
+    },
+    {
+      "title": "Don't Stop Believin' (2024 Remaster)",
+      "canonicalUrl": "https://music.apple.com/us/song/dont-stop-believin-2024-remaster/169003415",
+      "creator": "Journey",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/2d/61/712d617d-f4a4-5904-1b11-d4b4b45c47c5/828768588925.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "169003415",
+      "attributes": {
+        "album": "Greatest Hits (2024 Remaster)",
+        "duration": "4:10",
+        "durationIso": "PT4M10S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "Don't Stop Believin' (2024 Remaster) 34 Journey Greatest Hits (2024 Remaster) PREVIEW 4:10"
+    },
+    {
+      "title": "stupid song",
+      "canonicalUrl": "https://music.apple.com/us/song/stupid-song/1889992115",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1889992115",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "35",
+        "explicit": false
+      },
+      "evidenceText": "stupid song 35 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:29"
+    },
+    {
+      "title": "hate that i made you love me",
+      "canonicalUrl": "https://music.apple.com/us/song/hate-that-i-made-you-love-me/6763656876",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6763656876",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "36",
+        "explicit": false
+      },
+      "evidenceText": "hate that i made you love me 36 Ariana Grande petal PREVIEW 3:17"
+    },
+    {
+      "title": "TRIPPIN",
+      "canonicalUrl": "https://music.apple.com/us/song/trippin/1751763256",
+      "creator": "BUNT., Mapei",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/fb/00/63fb000d-d9f8-ba0c-a38b-8dc3e21beaa6/196872172379.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1751763256",
+      "attributes": {
+        "album": "TRIPPIN - Single",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "TRIPPIN 37 BUNT., Mapei TRIPPIN - Single PREVIEW 3:22"
+    },
+    {
+      "title": "In the End",
+      "canonicalUrl": "https://music.apple.com/us/song/in-the-end/590431785",
+      "creator": "LINKIN PARK",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "590431785",
+      "attributes": {
+        "album": "Hybrid Theory (Deluxe Edition)",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "38",
+        "explicit": false
+      },
+      "evidenceText": "In the End 38 LINKIN PARK Hybrid Theory (Deluxe Edition) PREVIEW 3:36"
+    },
+    {
+      "title": "The Fate of Ophelia (Track by Track)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia-track-by-track/1843998667",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/74/44/3a74440e-a1c2-c2bc-22c4-c71bd4584ed1/25UM1IM53942.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1843998667",
+      "attributes": {
+        "album": "The Life of a Showgirl (Track by Track Version)",
+        "duration": "0:41",
+        "durationIso": "PT41S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia (Track by Track) 39 Taylor Swift The Life of a Showgirl (Track by Track Version) PREVIEW 0:41"
+    },
+    {
+      "title": "Every Breath You Take (Remastered 2003)",
+      "canonicalUrl": "https://music.apple.com/us/song/every-breath-you-take-remastered-2003/1440674160",
+      "creator": "The Police",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a4/67/ba/a467ba62-87df-9d10-98d2-c517f68ac870/16UMGIM60882.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1440674160",
+      "attributes": {
+        "album": "Synchronicity (Remastered 2003)",
+        "duration": "4:13",
+        "durationIso": "PT4M13S",
+        "chartPosition": "40",
+        "explicit": false
+      },
+      "evidenceText": "Every Breath You Take (Remastered 2003) 40 The Police Synchronicity (Remastered 2003) PREVIEW 4:13"
+    },
+    {
+      "title": "Rauchen ist tödlich",
+      "canonicalUrl": "https://music.apple.com/us/song/rauchen-ist-t%C3%B6dlich/6814887764",
+      "creator": "Samra, Capital Bra, Finja",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/5f/22/6f5f22ee-26de-82ad-12d5-b61939086749/26UM1IM18765.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6814887764",
+      "attributes": {
+        "album": "Rauchen ist tödlich - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "41",
+        "explicit": true
+      },
+      "evidenceText": "Rauchen ist tödlich 41 Samra, Capital Bra, Finja Rauchen ist tödlich - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Bass Persuades",
+      "canonicalUrl": "https://music.apple.com/us/song/bass-persuades/6807197459",
+      "creator": "Miley Cyrus",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6807197459",
+      "attributes": {
+        "album": "Bass Persuades",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "42",
+        "explicit": false
+      },
+      "evidenceText": "Bass Persuades 42 Miley Cyrus Bass Persuades PREVIEW 3:22"
+    },
+    {
+      "title": "back to friends",
+      "canonicalUrl": "https://music.apple.com/us/song/back-to-friends/1786481197",
+      "creator": "sombr",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d5/ad/5dd5ad1b-fabf-9218-77f0-3adbfd5328ac/054391237118.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1786481197",
+      "attributes": {
+        "album": "back to friends - Single",
+        "duration": "3:19",
+        "durationIso": "PT3M19S",
+        "chartPosition": "43",
+        "explicit": false
+      },
+      "evidenceText": "back to friends 43 sombr back to friends - Single PREVIEW 3:19"
+    },
+    {
+      "title": "Iris",
+      "canonicalUrl": "https://music.apple.com/us/song/iris/267537169",
+      "creator": "The Goo Goo Dolls",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "267537169",
+      "attributes": {
+        "album": "Greatest Hits, Vol. One: The Singles",
+        "duration": "4:49",
+        "durationIso": "PT4M49S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "Iris 44 The Goo Goo Dolls Greatest Hits, Vol. One: The Singles PREVIEW 4:49"
+    },
+    {
+      "title": "Memories (feat. Kid Cudi)",
+      "canonicalUrl": "https://music.apple.com/us/song/memories-feat-kid-cudi/726149086",
+      "creator": "David Guetta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/a4/c8/aba4c8c1-551f-875e-c2a9-86ed815ba606/5099963244755.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "726149086",
+      "attributes": {
+        "album": "Memories (feat. Kid Cudi)",
+        "duration": "3:30",
+        "durationIso": "PT3M30S",
+        "chartPosition": "45",
+        "explicit": false
+      },
+      "evidenceText": "Memories (feat. Kid Cudi) 45 David Guetta Memories (feat. Kid Cudi) PREVIEW 3:30"
+    },
+    {
+      "title": "Elizabeth Taylor",
+      "canonicalUrl": "https://music.apple.com/us/song/elizabeth-taylor/1833328842",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1833328842",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "46",
+        "explicit": false
+      },
+      "evidenceText": "Elizabeth Taylor 46 Taylor Swift The Life of a Showgirl PREVIEW 3:28"
+    },
+    {
+      "title": "New Religion",
+      "canonicalUrl": "https://music.apple.com/us/song/new-religion/1878015314",
+      "creator": "Bebe Rexha, Faithless",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1878015314",
+      "attributes": {
+        "album": "New Religion - Single",
+        "duration": "2:54",
+        "durationIso": "PT2M54S",
+        "chartPosition": "47",
+        "explicit": false
+      },
+      "evidenceText": "New Religion 47 Bebe Rexha, Faithless New Religion - Single PREVIEW 2:54"
+    },
+    {
+      "title": "Gut Genug (mit Blumengarten & Shirin David)",
+      "canonicalUrl": "https://music.apple.com/us/song/gut-genug-mit-blumengarten-shirin-david/1871520999",
+      "creator": "KITSCHKRIEG, Blumengarten, Shirin David",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/ba/74/95ba7435-5ec9-0856-1782-caa88558fa70/ticket.bcypgguw.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1871520999",
+      "attributes": {
+        "album": "KITSCHKRIEG ZWEI",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Gut Genug (mit Blumengarten & Shirin David) 48 KITSCHKRIEG, Blumengarten, Shirin David KITSCHKRIEG ZWEI PREVIEW 3:08"
+    },
+    {
+      "title": "Love Me Not",
+      "canonicalUrl": "https://music.apple.com/us/song/love-me-not/1743852427",
+      "creator": "Ravyn Lenae",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/8c/6c/078c6c94-d38d-0451-d57b-23e957b569f8/075679660893.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1743852427",
+      "attributes": {
+        "album": "Bird's Eye",
+        "duration": "3:33",
+        "durationIso": "PT3M33S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "Love Me Not 49 Ravyn Lenae Bird's Eye PREVIEW 3:33"
+    },
+    {
+      "title": "Just Keep Watching",
+      "canonicalUrl": "https://music.apple.com/us/song/just-keep-watching/1810796703",
+      "creator": "Tate McRae",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/91/da/a691dac7-4cb7-82f5-0eda-e37b96f63f55/075679610720.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1810796703",
+      "attributes": {
+        "album": "F1 The Album",
+        "duration": "2:22",
+        "durationIso": "PT2M22S",
+        "chartPosition": "50",
+        "explicit": false
+      },
+      "evidenceText": "Just Keep Watching 50 Tate McRae F1 The Album PREVIEW 2:22"
+    },
+    {
+      "title": "S&M",
+      "canonicalUrl": "https://music.apple.com/us/song/s-m/1440895995",
+      "creator": "Rihanna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c6/b1/6c/c6b16cd1-5580-a214-8745-c4f6faa490d6/16UMGIM59220.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1440895995",
+      "attributes": {
+        "album": "Loud (Deluxe)",
+        "duration": "4:03",
+        "durationIso": "PT4M3S",
+        "chartPosition": "51",
+        "explicit": true
+      },
+      "evidenceText": "S&M 51 Rihanna Loud (Deluxe) PREVIEW 4:03"
+    },
+    {
+      "title": "Into You",
+      "canonicalUrl": "https://music.apple.com/us/song/into-you/1568020292",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6e/40/14/6e401443-8c15-2f21-4d2c-effe972c3838/16UMGIM30042.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1568020292",
+      "attributes": {
+        "album": "Dangerous Woman (Bonus Tracks Edition)",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "52",
+        "explicit": false
+      },
+      "evidenceText": "Into You 52 Ariana Grande Dangerous Woman (Bonus Tracks Edition) PREVIEW 4:04"
+    },
+    {
+      "title": "BAD TIMES",
+      "canonicalUrl": "https://music.apple.com/us/song/bad-times/1894224409",
+      "creator": "Imael Angel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1894224409",
+      "attributes": {
+        "album": "BAD TIMES - Single",
+        "duration": "2:48",
+        "durationIso": "PT2M48S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "BAD TIMES 53 Imael Angel BAD TIMES - Single PREVIEW 2:48"
+    },
+    {
+      "title": "Blinding Lights",
+      "canonicalUrl": "https://music.apple.com/us/song/blinding-lights/1488408568",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1488408568",
+      "attributes": {
+        "album": "Blinding Lights - Single",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "54",
+        "explicit": false
+      },
+      "evidenceText": "Blinding Lights 54 The Weeknd Blinding Lights - Single PREVIEW 3:21"
+    },
+    {
+      "title": "Treat You Better",
+      "canonicalUrl": "https://music.apple.com/us/song/treat-you-better/1440892713",
+      "creator": "Shawn Mendes",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/57/e4/5c57e46a-0950-7ebd-8010-28453c1c0055/16UMGIM51723.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1440892713",
+      "attributes": {
+        "album": "Illuminate (Deluxe)",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "Treat You Better 55 Shawn Mendes Illuminate (Deluxe) PREVIEW 3:07"
+    },
+    {
+      "title": "Stop The Wedding!",
+      "canonicalUrl": "https://music.apple.com/us/song/stop-the-wedding/6795697687",
+      "creator": "Ashe",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6795697687",
+      "attributes": {
+        "album": "Stop The Wedding! - Single",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "56",
+        "explicit": false
+      },
+      "evidenceText": "Stop The Wedding! 56 Ashe Stop The Wedding! - Single PREVIEW 3:18"
+    },
+    {
+      "title": "12 to 12",
+      "canonicalUrl": "https://music.apple.com/us/song/12-to-12/1828036635",
+      "creator": "sombr",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/e4/44/19e44489-7f7b-3ca7-660f-98d44664bc3f/054391229144.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1828036635",
+      "attributes": {
+        "album": "12 to 12 - Single",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "12 to 12 57 sombr 12 to 12 - Single PREVIEW 4:02"
+    },
+    {
+      "title": "Mr. Know It All",
+      "canonicalUrl": "https://music.apple.com/us/song/mr-know-it-all/1889361602",
+      "creator": "Teddy Swims",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/fb/0b/7efb0b1b-8e34-5bd0-99ee-eafc83b8d5c7/054391217349.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1889361602",
+      "attributes": {
+        "album": "Mr. Know It All - Single",
+        "duration": "3:18",
+        "durationIso": "PT3M18S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "Mr. Know It All 58 Teddy Swims Mr. Know It All - Single PREVIEW 3:18"
+    },
+    {
+      "title": "AKON",
+      "canonicalUrl": "https://music.apple.com/us/song/akon/1797785856",
+      "creator": "Jazeek",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/69/54/55695499-5002-434a-6db2-8b076d1b4103/25UMGIM32592.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1797785856",
+      "attributes": {
+        "album": "MOST VALUABLE PLAYA",
+        "duration": "2:18",
+        "durationIso": "PT2M18S",
+        "chartPosition": "59",
+        "explicit": true
+      },
+      "evidenceText": "AKON 59 Jazeek MOST VALUABLE PLAYA PREVIEW 2:18"
+    },
+    {
+      "title": "Talking Body",
+      "canonicalUrl": "https://music.apple.com/us/song/talking-body/1770261748",
+      "creator": "Tove Lo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/b4/d7/3fb4d79d-d02c-6faf-9d42-a3f2001c37ae/24UM1IM00247.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1770261748",
+      "attributes": {
+        "album": "Queen Of The Clouds: X",
+        "duration": "3:58",
+        "durationIso": "PT3M58S",
+        "chartPosition": "60",
+        "explicit": true
+      },
+      "evidenceText": "Talking Body 60 Tove Lo Queen Of The Clouds: X PREVIEW 3:58"
+    },
+    {
+      "title": "WHERE IS MY HUSBAND!",
+      "canonicalUrl": "https://music.apple.com/us/song/where-is-my-husband/1838737598",
+      "creator": "RAYE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1838737598",
+      "attributes": {
+        "album": "WHERE IS MY HUSBAND! - Single",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "61",
+        "explicit": false
+      },
+      "evidenceText": "WHERE IS MY HUSBAND! 61 RAYE WHERE IS MY HUSBAND! - Single PREVIEW 3:17"
+    },
+    {
+      "title": "Creep",
+      "canonicalUrl": "https://music.apple.com/us/song/creep/1097862231",
+      "creator": "Radiohead",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/a4/ec/78a4ec7b-c6d6-c9c8-441b-660486e56a89/634904077969.png/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1097862231",
+      "attributes": {
+        "album": "Pablo Honey",
+        "duration": "3:58",
+        "durationIso": "PT3M58S",
+        "chartPosition": "62",
+        "explicit": true
+      },
+      "evidenceText": "Creep 62 Radiohead Pablo Honey PREVIEW 3:58"
+    },
+    {
+      "title": "Golden",
+      "canonicalUrl": "https://music.apple.com/us/song/golden/1820264150",
+      "creator": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1820264150",
+      "attributes": {
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "duration": "3:14",
+        "durationIso": "PT3M14S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "Golden 63 HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast KPop Demon Hunters (Soundtrack from the Netflix Film) PREVIEW 3:14"
+    },
+    {
+      "title": "Numb",
+      "canonicalUrl": "https://music.apple.com/us/song/numb/590423552",
+      "creator": "LINKIN PARK",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "590423552",
+      "attributes": {
+        "album": "Meteora (Deluxe Edition)",
+        "duration": "3:07",
+        "durationIso": "PT3M7S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "Numb 64 LINKIN PARK Meteora (Deluxe Edition) PREVIEW 3:07"
+    },
+    {
+      "title": "Just Give Me a Reason (feat. Nate Ruess)",
+      "canonicalUrl": "https://music.apple.com/us/song/just-give-me-a-reason-feat-nate-ruess/633431899",
+      "creator": "P!nk",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4a/c9/7f/4ac97f30-465f-c85b-4dfd-d911a8750fa1/886443581159.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "633431899",
+      "attributes": {
+        "album": "The Truth About Love",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "Just Give Me a Reason (feat. Nate Ruess) 65 P!nk The Truth About Love PREVIEW 4:02"
+    },
+    {
+      "title": "Sign of the Times",
+      "canonicalUrl": "https://music.apple.com/us/song/sign-of-the-times/1226034393",
+      "creator": "Harry Styles",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1226034393",
+      "attributes": {
+        "album": "Harry Styles",
+        "duration": "5:40",
+        "durationIso": "PT5M40S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "Sign of the Times 66 Harry Styles Harry Styles PREVIEW 5:40"
+    },
+    {
+      "title": "Beat It",
+      "canonicalUrl": "https://music.apple.com/us/song/beat-it/269573341",
+      "creator": "Michael Jackson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "269573341",
+      "attributes": {
+        "album": "Thriller",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "Beat It 67 Michael Jackson Thriller PREVIEW 4:18"
+    },
+    {
+      "title": "Viva La Vida",
+      "canonicalUrl": "https://music.apple.com/us/song/viva-la-vida/1122773680",
+      "creator": "Coldplay",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1122773680",
+      "attributes": {
+        "album": "Viva La Vida or Death and All His Friends",
+        "duration": "4:01",
+        "durationIso": "PT4M1S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "Viva La Vida 68 Coldplay Viva La Vida or Death and All His Friends PREVIEW 4:01"
+    },
+    {
+      "title": "Can't Hold Us (feat. Ray Dalton)",
+      "canonicalUrl": "https://music.apple.com/us/song/cant-hold-us-feat-ray-dalton/560097694",
+      "creator": "Macklemore & Ryan Lewis",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/91/c1/b5/91c1b5cc-d4f1-da61-d3dc-2dd93e6b0a7d/707541525299.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "560097694",
+      "attributes": {
+        "album": "The Heist (Deluxe Edition)",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "69",
+        "explicit": false
+      },
+      "evidenceText": "Can't Hold Us (feat. Ray Dalton) 69 Macklemore & Ryan Lewis The Heist (Deluxe Edition) PREVIEW 4:18"
+    },
+    {
+      "title": "So Easy (To Fall In Love)",
+      "canonicalUrl": "https://music.apple.com/us/song/so-easy-to-fall-in-love/1817609507",
+      "creator": "Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1817609507",
+      "attributes": {
+        "album": "The Art of Loving",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "So Easy (To Fall In Love) 70 Olivia Dean The Art of Loving PREVIEW 2:49"
+    },
+    {
+      "title": "Legendary Lovers",
+      "canonicalUrl": "https://music.apple.com/us/song/legendary-lovers/1440818912",
+      "creator": "Katy Perry",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1440818912",
+      "attributes": {
+        "album": "PRISM (Deluxe Version)",
+        "duration": "3:44",
+        "durationIso": "PT3M44S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "Legendary Lovers 71 Katy Perry PRISM (Deluxe Version) PREVIEW 3:44"
+    },
+    {
+      "title": "Shape of You",
+      "canonicalUrl": "https://music.apple.com/us/song/shape-of-you/1193701392",
+      "creator": "Ed Sheeran",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1193701392",
+      "attributes": {
+        "album": "÷ (Deluxe)",
+        "duration": "3:53",
+        "durationIso": "PT3M53S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "Shape of You 72 Ed Sheeran ÷ (Deluxe) PREVIEW 3:53"
+    },
+    {
+      "title": "Man I Need",
+      "canonicalUrl": "https://music.apple.com/us/song/man-i-need/1817609509",
+      "creator": "Olivia Dean",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1817609509",
+      "attributes": {
+        "album": "The Art of Loving",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "Man I Need 73 Olivia Dean The Art of Loving PREVIEW 3:04"
+    },
+    {
+      "title": "Don't Stop The Music",
+      "canonicalUrl": "https://music.apple.com/us/song/dont-stop-the-music/1441154439",
+      "creator": "Rihanna",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1441154439",
+      "attributes": {
+        "album": "Good Girl Gone Bad: Reloaded",
+        "duration": "4:27",
+        "durationIso": "PT4M27S",
+        "chartPosition": "74",
+        "explicit": false
+      },
+      "evidenceText": "Don't Stop The Music 74 Rihanna Good Girl Gone Bad: Reloaded PREVIEW 4:27"
+    },
+    {
+      "title": "End of Beginning",
+      "canonicalUrl": "https://music.apple.com/us/song/end-of-beginning/1632448108",
+      "creator": "Djo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1632448108",
+      "attributes": {
+        "album": "DECIDE",
+        "duration": "2:39",
+        "durationIso": "PT2M39S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "End of Beginning 75 Djo DECIDE PREVIEW 2:39"
+    },
+    {
+      "title": "Babydoll",
+      "canonicalUrl": "https://music.apple.com/us/song/babydoll/1438243880",
+      "creator": "Dominic Fike",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/37/18/2d3718e9-8620-b603-d3cc-f34ce817070d/886447290170.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1438243880",
+      "attributes": {
+        "album": "Don't Forget About Me, Demos - EP",
+        "duration": "1:37",
+        "durationIso": "PT1M37S",
+        "chartPosition": "76",
+        "explicit": false
+      },
+      "evidenceText": "Babydoll 76 Dominic Fike Don't Forget About Me, Demos - EP PREVIEW 1:37"
+    },
+    {
+      "title": "Talk To You (feat. 54 Ultra)",
+      "canonicalUrl": "https://music.apple.com/us/song/talk-to-you-feat-54-ultra/1870514330",
+      "creator": "ANOTR",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1870514330",
+      "attributes": {
+        "album": "Talk To You (feat. 54 Ultra) - Single",
+        "duration": "3:11",
+        "durationIso": "PT3M11S",
+        "chartPosition": "77",
+        "explicit": false
+      },
+      "evidenceText": "Talk To You (feat. 54 Ultra) 77 ANOTR Talk To You (feat. 54 Ultra) - Single PREVIEW 3:11"
+    },
+    {
+      "title": "My Body Isn't Ready",
+      "canonicalUrl": "https://music.apple.com/us/song/my-body-isnt-ready/6781074080",
+      "creator": "sombr",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6781074080",
+      "attributes": {
+        "album": "My Body Isn't Ready - Single",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "78",
+        "explicit": false
+      },
+      "evidenceText": "My Body Isn't Ready 78 sombr My Body Isn't Ready - Single PREVIEW 3:37"
+    },
+    {
+      "title": "bloodstream",
+      "canonicalUrl": "https://music.apple.com/us/song/bloodstream/6783576167",
+      "creator": "Alyssa Grace",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a7/ef/7fa7ef61-6e22-f30f-441c-e89e7ff4a79a/093624817147.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6783576167",
+      "attributes": {
+        "album": "spilling my guts",
+        "duration": "2:57",
+        "durationIso": "PT2M57S",
+        "chartPosition": "79",
+        "explicit": false
+      },
+      "evidenceText": "bloodstream 79 Alyssa Grace spilling my guts PREVIEW 2:57"
+    },
+    {
+      "title": "DtMF",
+      "canonicalUrl": "https://music.apple.com/us/song/dtmf/1787023936",
+      "creator": "Bad Bunny",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1787023936",
+      "attributes": {
+        "album": "DeBÍ TiRAR MáS FOToS",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "80",
+        "explicit": true
+      },
+      "evidenceText": "DtMF 80 Bad Bunny DeBÍ TiRAR MáS FOToS PREVIEW 3:57"
+    },
+    {
+      "title": "Perfect",
+      "canonicalUrl": "https://music.apple.com/us/song/perfect/1193701400",
+      "creator": "Ed Sheeran",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1193701400",
+      "attributes": {
+        "album": "÷ (Deluxe)",
+        "duration": "4:23",
+        "durationIso": "PT4M23S",
+        "chartPosition": "81",
+        "explicit": false
+      },
+      "evidenceText": "Perfect 81 Ed Sheeran ÷ (Deluxe) PREVIEW 4:23"
+    },
+    {
+      "title": "Beautiful Things",
+      "canonicalUrl": "https://music.apple.com/us/song/beautiful-things/1724488124",
+      "creator": "Benson Boone",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1724488124",
+      "attributes": {
+        "album": "Beautiful Things - Single",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "Beautiful Things 82 Benson Boone Beautiful Things - Single PREVIEW 3:00"
+    },
+    {
+      "title": "Another Love",
+      "canonicalUrl": "https://music.apple.com/us/song/another-love/1308605492",
+      "creator": "Tom Odell",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1308605492",
+      "attributes": {
+        "album": "Long Way Down (Expanded Edition)",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "83",
+        "explicit": true
+      },
+      "evidenceText": "Another Love 83 Tom Odell Long Way Down (Expanded Edition) PREVIEW 4:04"
+    },
+    {
+      "title": "Great Expectation",
+      "canonicalUrl": "https://music.apple.com/us/song/great-expectation/6769552411",
+      "creator": "SIENNA SPIRO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6769552411",
+      "attributes": {
+        "album": "Visitor (Deluxe)",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "Great Expectation 84 SIENNA SPIRO Visitor (Deluxe) PREVIEW 2:53"
+    },
+    {
+      "title": "On the Floor (feat. Pitbull)",
+      "canonicalUrl": "https://music.apple.com/us/song/on-the-floor-feat-pitbull/1440622264",
+      "creator": "Jennifer Lopez",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/9d/f6/9d9df66b-bdee-ce42-45bd-30ac44bc536b/11UMGIM10446.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1440622264",
+      "attributes": {
+        "album": "LOVE? (Deluxe Edition)",
+        "duration": "4:44",
+        "durationIso": "PT4M44S",
+        "chartPosition": "85",
+        "explicit": false
+      },
+      "evidenceText": "On the Floor (feat. Pitbull) 85 Jennifer Lopez LOVE? (Deluxe Edition) PREVIEW 4:44"
+    },
+    {
+      "title": "Homewrecker",
+      "canonicalUrl": "https://music.apple.com/us/song/homewrecker/1871595253",
+      "creator": "sombr",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1871595253",
+      "attributes": {
+        "album": "Homewrecker - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "Homewrecker 86 sombr Homewrecker - Single PREVIEW 3:29"
+    },
+    {
+      "title": "I'm Still Standing",
+      "canonicalUrl": "https://music.apple.com/us/song/im-still-standing/1440912993",
+      "creator": "Elton John",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/e5/b4/45e5b409-0564-a7a3-186c-1dc116c3ffb7/06UMGIM49712.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1440912993",
+      "attributes": {
+        "album": "Too Low For Zero (Bonus Track Version)",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "87",
+        "explicit": false
+      },
+      "evidenceText": "I'm Still Standing 87 Elton John Too Low For Zero (Bonus Track Version) PREVIEW 3:03"
+    },
+    {
+      "title": "no tears left to cry",
+      "canonicalUrl": "https://music.apple.com/us/song/no-tears-left-to-cry/1544324124",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9e/71/a4/9e71a47f-c290-a542-07fd-a3aed41eefa7/18UMGIM36924.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1544324124",
+      "attributes": {
+        "album": "sweetener (Bonus Videos Edition)",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "no tears left to cry 88 Ariana Grande sweetener (Bonus Videos Edition) PREVIEW 3:25"
+    },
+    {
+      "title": "Kein Kokain",
+      "canonicalUrl": "https://music.apple.com/us/song/kein-kokain/6788531972",
+      "creator": "Drunken Masters, Ikkimel",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/8e/75/208e751a-99ac-6b94-aa8b-ef9bba00d0e0/196874582206.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6788531972",
+      "attributes": {
+        "album": "Ikkimel die Geile EP",
+        "duration": "2:56",
+        "durationIso": "PT2M56S",
+        "chartPosition": "89",
+        "explicit": true
+      },
+      "evidenceText": "Kein Kokain 89 Drunken Masters, Ikkimel Ikkimel die Geile EP PREVIEW 2:56"
+    },
+    {
+      "title": "Africa",
+      "canonicalUrl": "https://music.apple.com/us/song/africa/185717604",
+      "creator": "Toto",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/ce/d2/69ced240-07a7-2a04-bbab-2afbacf30809/074643772822.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "185717604",
+      "attributes": {
+        "album": "Toto IV",
+        "duration": "4:55",
+        "durationIso": "PT4M55S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "Africa 90 Toto Toto IV PREVIEW 4:55"
+    },
+    {
+      "title": "Raindance",
+      "canonicalUrl": "https://music.apple.com/us/song/raindance/1847992612",
+      "creator": "Dave, Tems",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/49/24/9949241c-e52c-3018-eae8-c686013a7474/25UM1IM68216.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1847992612",
+      "attributes": {
+        "album": "The Boy Who Played the Harp",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "Raindance 91 Dave, Tems The Boy Who Played the Harp PREVIEW 3:39"
+    },
+    {
+      "title": "Levitating",
+      "canonicalUrl": "https://music.apple.com/us/song/levitating/1538003843",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/11/d6/6c11d681-aa3a-d59e-4c2e-f77e181026ab/190295092665.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1538003843",
+      "attributes": {
+        "album": "Future Nostalgia",
+        "duration": "3:23",
+        "durationIso": "PT3M23S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "Levitating 92 Dua Lipa Future Nostalgia PREVIEW 3:23"
+    },
+    {
+      "title": "Counting Stars",
+      "canonicalUrl": "https://music.apple.com/us/song/counting-stars/1440862803",
+      "creator": "OneRepublic",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/eb/26/cbeb26a5-15fd-a9e7-0eff-5ee97e28e7c7/13UMGIM15044.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1440862803",
+      "attributes": {
+        "album": "Native",
+        "duration": "4:17",
+        "durationIso": "PT4M17S",
+        "chartPosition": "93",
+        "explicit": false
+      },
+      "evidenceText": "Counting Stars 93 OneRepublic Native PREVIEW 4:17"
+    },
+    {
+      "title": "BbY WOW",
+      "canonicalUrl": "https://music.apple.com/us/song/bby-wow/6796864754",
+      "creator": "KAROL G, Judeline, rusowsky",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6796864754",
+      "attributes": {
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "94",
+        "explicit": false
+      },
+      "evidenceText": "BbY WOW 94 KAROL G, Judeline, rusowsky NO ME ARREPIENTO DE SENTIR TANTO PREVIEW 3:45"
+    },
+    {
+      "title": "ocean eyes",
+      "canonicalUrl": "https://music.apple.com/us/song/ocean-eyes/1440899467",
+      "creator": "Billie Eilish",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1440899467",
+      "attributes": {
+        "album": "dont smile at me",
+        "duration": "3:20",
+        "durationIso": "PT3M20S",
+        "chartPosition": "95",
+        "explicit": false
+      },
+      "evidenceText": "ocean eyes 95 Billie Eilish dont smile at me PREVIEW 3:20"
+    },
+    {
+      "title": "WOKE",
+      "canonicalUrl": "https://music.apple.com/us/song/woke/6812007903",
+      "creator": "Sido",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/4d/77/f74d77da-aa86-de46-7ced-e72ba5796d62/26UMGIM71066.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "6812007903",
+      "attributes": {
+        "album": "WOKE - Single",
+        "duration": "2:37",
+        "durationIso": "PT2M37S",
+        "chartPosition": "96",
+        "explicit": true
+      },
+      "evidenceText": "WOKE 96 Sido WOKE - Single PREVIEW 2:37"
+    },
+    {
+      "title": "Sexy Bitch (feat. Akon)",
+      "canonicalUrl": "https://music.apple.com/us/song/sexy-bitch-feat-akon/1715687117",
+      "creator": "David Guetta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7f/26/33/7f2633e4-dace-c4b5-2920-f3bae1b48b08/5099990785054.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1715687117",
+      "attributes": {
+        "album": "One More Love",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "97",
+        "explicit": true
+      },
+      "evidenceText": "Sexy Bitch (feat. Akon) 97 David Guetta One More Love PREVIEW 3:15"
+    },
+    {
+      "title": "Summertime Sadness",
+      "canonicalUrl": "https://music.apple.com/us/song/summertime-sadness/1442452725",
+      "creator": "Lana Del Rey",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/df/dd/c5dfdd9c-24f2-de01-246c-fcc5e028f705/12UMGIM53864.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1442452725",
+      "attributes": {
+        "album": "Born to Die – Paradise Edition (Special Version)",
+        "duration": "4:24",
+        "durationIso": "PT4M24S",
+        "chartPosition": "98",
+        "explicit": false
+      },
+      "evidenceText": "Summertime Sadness 98 Lana Del Rey Born to Die – Paradise Edition (Special Version) PREVIEW 4:24"
+    },
+    {
+      "title": "Just Dance (feat. Colby O'Donis)",
+      "canonicalUrl": "https://music.apple.com/us/song/just-dance-feat-colby-odonis/1476727861",
+      "creator": "Lady Gaga",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/98/88/1b9888da-6a1f-bff0-ec03-518f445019f6/19UMGIM73435.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1476727861",
+      "attributes": {
+        "album": "The Fame Monster (Deluxe Edition)",
+        "duration": "4:02",
+        "durationIso": "PT4M2S",
+        "chartPosition": "99",
+        "explicit": false
+      },
+      "evidenceText": "Just Dance (feat. Colby O'Donis) 99 Lady Gaga The Fame Monster (Deluxe Edition) PREVIEW 4:02"
+    },
+    {
+      "title": "Poker Face",
+      "canonicalUrl": "https://music.apple.com/us/song/poker-face/1476727864",
+      "creator": "Lady Gaga",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/98/88/1b9888da-6a1f-bff0-ec03-518f445019f6/19UMGIM73435.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-austria/pl.f34430d010a843128337927bba98048b",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Austria",
+      "externalId": "1476727864",
+      "attributes": {
+        "album": "The Fame Monster (Deluxe Edition)",
+        "duration": "3:57",
+        "durationIso": "PT3M57S",
+        "chartPosition": "100",
+        "explicit": true
+      },
+      "evidenceText": "Poker Face 100 Lady Gaga The Fame Monster (Deluxe Edition) PREVIEW 3:57"
+    }
+  ]
+}

@@ -1,0 +1,2008 @@
+{
+  "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+  "collection": "Top 100: Brazil",
+  "fetchedAt": "2026-09-27T03:40:57.075Z",
+  "method": "browser-dom",
+  "records": [
+    {
+      "title": "Patient Zero",
+      "canonicalUrl": "https://music.apple.com/us/song/patient-zero/6814996157",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6814996157",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:45",
+        "durationIso": "PT3M45S",
+        "chartPosition": "1",
+        "explicit": false
+      },
+      "evidenceText": "Patient Zero 1 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:45"
+    },
+    {
+      "title": "Cleveland!",
+      "canonicalUrl": "https://music.apple.com/us/song/cleveland/6814997427",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6814997427",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:26",
+        "durationIso": "PT3M26S",
+        "chartPosition": "2",
+        "explicit": false
+      },
+      "evidenceText": "Cleveland! 2 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:26"
+    },
+    {
+      "title": "Pink Clouding",
+      "canonicalUrl": "https://music.apple.com/us/song/pink-clouding/6814996162",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6814996162",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "3",
+        "explicit": false
+      },
+      "evidenceText": "Pink Clouding 3 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:10"
+    },
+    {
+      "title": "Babylon",
+      "canonicalUrl": "https://music.apple.com/us/song/babylon/6814996163",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6814996163",
+      "attributes": {
+        "album": "The Life of a Showgirl: The Encore",
+        "duration": "3:39",
+        "durationIso": "PT3M39S",
+        "chartPosition": "4",
+        "explicit": false
+      },
+      "evidenceText": "Babylon 4 Taylor Swift The Life of a Showgirl: The Encore PREVIEW 3:39"
+    },
+    {
+      "title": "Nicole Kidman",
+      "canonicalUrl": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6792884088",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:01",
+        "durationIso": "PT3M1S",
+        "chartPosition": "5",
+        "explicit": true
+      },
+      "evidenceText": "Nicole Kidman 5 ADÉLA PRIMA PREVIEW 3:01"
+    },
+    {
+      "title": "Ain't In LA",
+      "canonicalUrl": "https://music.apple.com/us/song/aint-in-la/6792884101",
+      "creator": "ADÉLA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6792884101",
+      "attributes": {
+        "album": "PRIMA",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "6",
+        "explicit": true
+      },
+      "evidenceText": "Ain't In LA 6 ADÉLA PRIMA PREVIEW 3:04"
+    },
+    {
+      "title": "Cuida do Pet (feat. Mc Negão Original, DU'L & Dj Aladin GDB)",
+      "canonicalUrl": "https://music.apple.com/us/song/cuida-do-pet-feat-mc-neg%C3%A3o-original-dul-dj-aladin-gdb/6766616374",
+      "creator": "Oldilla, Mc Iguinho Ct, MC Willian, Aaron Modesto",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/a8/84/83a884a7-d59b-6648-559e-e08820d1cff6/823375161233_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6766616374",
+      "attributes": {
+        "album": "Cuida do Pet (feat. Mc Negão Original, DU'L & Dj Aladin GDB) - Single",
+        "duration": "7:39",
+        "durationIso": "PT7M39S",
+        "chartPosition": "7",
+        "explicit": true
+      },
+      "evidenceText": "Cuida do Pet (feat. Mc Negão Original, DU'L & Dj Aladin GDB) 7 Oldilla, Mc Iguinho Ct, MC Willian, Aaron Modesto Cuida do Pet (feat. Mc Negão Original, DU'L & Dj Aladin GDB) - Single PREVIEW 7:39"
+    },
+    {
+      "title": "Danceteria Afterhours",
+      "canonicalUrl": "https://music.apple.com/us/song/danceteria-afterhours/6812516294",
+      "creator": "Madonna, Charli xcx",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/ea/f2/41eaf245-956f-0f32-8d9f-a409a9ae6ed0/054391208811.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6812516294",
+      "attributes": {
+        "album": "Danceteria Afterhours - Single",
+        "duration": "3:50",
+        "durationIso": "PT3M50S",
+        "chartPosition": "8",
+        "explicit": true
+      },
+      "evidenceText": "Danceteria Afterhours 8 Madonna, Charli xcx Danceteria Afterhours - Single PREVIEW 3:50"
+    },
+    {
+      "title": "Você Já Sabe",
+      "canonicalUrl": "https://music.apple.com/us/song/voc%C3%AA-j%C3%A1-sabe/6793770617",
+      "creator": "Anitta, Los Brasileros",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bf/6a/3abf6a92-7a22-5cdb-209b-54f2e38cf623/26UMGIM96099.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6793770617",
+      "attributes": {
+        "album": "EQUILIBRIVM II",
+        "duration": "2:44",
+        "durationIso": "PT2M44S",
+        "chartPosition": "9",
+        "explicit": false
+      },
+      "evidenceText": "Você Já Sabe 9 Anitta, Los Brasileros EQUILIBRIVM II PREVIEW 2:44"
+    },
+    {
+      "title": "The Fate of Ophelia (Track by Track)",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia-track-by-track/1843998667",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/74/44/3a74440e-a1c2-c2bc-22c4-c71bd4584ed1/25UM1IM53942.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1843998667",
+      "attributes": {
+        "album": "The Life of a Showgirl (Track by Track Version)",
+        "duration": "0:41",
+        "durationIso": "PT41S",
+        "chartPosition": "10",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia (Track by Track) 10 Taylor Swift The Life of a Showgirl (Track by Track Version) PREVIEW 0:41"
+    },
+    {
+      "title": "Não Me Cutuca",
+      "canonicalUrl": "https://music.apple.com/us/song/n%C3%A3o-me-cutuca/6793770625",
+      "creator": "Anitta, Alceu Valença",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bf/6a/3abf6a92-7a22-5cdb-209b-54f2e38cf623/26UMGIM96099.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6793770625",
+      "attributes": {
+        "album": "EQUILIBRIVM II",
+        "duration": "2:35",
+        "durationIso": "PT2M35S",
+        "chartPosition": "11",
+        "explicit": false
+      },
+      "evidenceText": "Não Me Cutuca 11 Anitta, Alceu Valença EQUILIBRIVM II PREVIEW 2:35"
+    },
+    {
+      "title": "Nocaute",
+      "canonicalUrl": "https://music.apple.com/us/song/nocaute/971393837",
+      "creator": "Jorge & Mateus",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/b1/13/deb1133a-2388-c753-a5ad-4d4659cef9f9/7891430378028.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "971393837",
+      "attributes": {
+        "album": "Os Anjos Cantam",
+        "duration": "2:47",
+        "durationIso": "PT2M47S",
+        "chartPosition": "12",
+        "explicit": false
+      },
+      "evidenceText": "Nocaute 12 Jorge & Mateus Os Anjos Cantam PREVIEW 2:47"
+    },
+    {
+      "title": "Opalite",
+      "canonicalUrl": "https://music.apple.com/us/song/opalite/1833328845",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1833328845",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:55",
+        "durationIso": "PT3M55S",
+        "chartPosition": "13",
+        "explicit": false
+      },
+      "evidenceText": "Opalite 13 Taylor Swift The Life of a Showgirl PREVIEW 3:55"
+    },
+    {
+      "title": "Sal Grosso",
+      "canonicalUrl": "https://music.apple.com/us/song/sal-grosso/6793770624",
+      "creator": "Anitta, KBrum",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bf/6a/3abf6a92-7a22-5cdb-209b-54f2e38cf623/26UMGIM96099.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6793770624",
+      "attributes": {
+        "album": "EQUILIBRIVM II",
+        "duration": "2:31",
+        "durationIso": "PT2M31S",
+        "chartPosition": "14",
+        "explicit": false
+      },
+      "evidenceText": "Sal Grosso 14 Anitta, KBrum EQUILIBRIVM II PREVIEW 2:31"
+    },
+    {
+      "title": "Eu Te Seguro (Ao Vivo)",
+      "canonicalUrl": "https://music.apple.com/us/song/eu-te-seguro-ao-vivo/1838576011",
+      "creator": "Panda, MJ Records",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/ec/58/62ec58ca-872b-d85a-255b-3236eb61d7b6/196873588636.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1838576011",
+      "attributes": {
+        "album": "Eu Te Seguro (Ao Vivo) - Single",
+        "duration": "2:28",
+        "durationIso": "PT2M28S",
+        "chartPosition": "15",
+        "explicit": false
+      },
+      "evidenceText": "Eu Te Seguro (Ao Vivo) 15 Panda, MJ Records Eu Te Seguro (Ao Vivo) - Single PREVIEW 2:28"
+    },
+    {
+      "title": "Peão Todo Tatuado",
+      "canonicalUrl": "https://music.apple.com/us/song/pe%C3%A3o-todo-tatuado/1884169311",
+      "creator": "Jeninho, Mariana Fagundes",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/84/ae/e484ae74-42d3-d896-bd63-50fb1d7c4484/971745.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1884169311",
+      "attributes": {
+        "album": "Abacaxi Pegou Preço (Ao Vivo em Goiânia) Ep. 01 - EP",
+        "duration": "2:13",
+        "durationIso": "PT2M13S",
+        "chartPosition": "16",
+        "explicit": false
+      },
+      "evidenceText": "Peão Todo Tatuado 16 Jeninho, Mariana Fagundes Abacaxi Pegou Preço (Ao Vivo em Goiânia) Ep. 01 - EP PREVIEW 2:13"
+    },
+    {
+      "title": "hate that i made you love me",
+      "canonicalUrl": "https://music.apple.com/us/song/hate-that-i-made-you-love-me/6763656876",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6763656876",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "17",
+        "explicit": false
+      },
+      "evidenceText": "hate that i made you love me 17 Ariana Grande petal PREVIEW 3:17"
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "canonicalUrl": "https://music.apple.com/us/song/the-fate-of-ophelia/1833328840",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1833328840",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:46",
+        "durationIso": "PT3M46S",
+        "chartPosition": "18",
+        "explicit": false
+      },
+      "evidenceText": "The Fate of Ophelia 18 Taylor Swift The Life of a Showgirl PREVIEW 3:46"
+    },
+    {
+      "title": "the cure",
+      "canonicalUrl": "https://music.apple.com/us/song/the-cure/1889992123",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1889992123",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "4:57",
+        "durationIso": "PT4M57S",
+        "chartPosition": "19",
+        "explicit": true
+      },
+      "evidenceText": "the cure 19 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 4:57"
+    },
+    {
+      "title": "Whisky e Gelo (Acústico)",
+      "canonicalUrl": "https://music.apple.com/us/song/whisky-e-gelo-ac%C3%BAstico/1449030010",
+      "creator": "Zé Neto & Cristiano",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/76/cd/95/76cd9554-bd44-605b-49b3-47b9b90dba49/7891430346072.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1449030010",
+      "attributes": {
+        "album": "Acústico de Novo - EP",
+        "duration": "2:33",
+        "durationIso": "PT2M33S",
+        "chartPosition": "20",
+        "explicit": false
+      },
+      "evidenceText": "Whisky e Gelo (Acústico) 20 Zé Neto & Cristiano Acústico de Novo - EP PREVIEW 2:33"
+    },
+    {
+      "title": "P do Pecado (Ao Vivo)",
+      "canonicalUrl": "https://music.apple.com/us/song/p-do-pecado-ao-vivo/1809247776",
+      "creator": "Grupo Menos É Mais, Simone Mendes",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/b2/e6/70b2e6a3-52e2-80e9-7bf1-f3b2317de1f4/196873095141.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1809247776",
+      "attributes": {
+        "album": "MOLHO (Ao Vivo) - EP",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "21",
+        "explicit": false
+      },
+      "evidenceText": "P do Pecado (Ao Vivo) 21 Grupo Menos É Mais, Simone Mendes MOLHO (Ao Vivo) - EP PREVIEW 3:12"
+    },
+    {
+      "title": "Puxa o Lança (feat. Honaiser, Nagalli, Stick & Toledo)",
+      "canonicalUrl": "https://music.apple.com/us/song/puxa-o-lan%C3%A7a-feat-honaiser-nagalli-stick-toledo/6804034087",
+      "creator": "MC Jvila, Kayblack, Veigh, Vulgo FK",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/9a/91/d79a911b-efe5-c604-2ad4-dfb0c17cd5a6/1200214914424.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6804034087",
+      "attributes": {
+        "album": "Puxa o Lança (feat. Honaiser, Nagalli, Stick & Toledo) - Single",
+        "duration": "4:51",
+        "durationIso": "PT4M51S",
+        "chartPosition": "22",
+        "explicit": true
+      },
+      "evidenceText": "Puxa o Lança (feat. Honaiser, Nagalli, Stick & Toledo) 22 MC Jvila, Kayblack, Veigh, Vulgo FK Puxa o Lança (feat. Honaiser, Nagalli, Stick & Toledo) - Single PREVIEW 4:51"
+    },
+    {
+      "title": "Feitiço",
+      "canonicalUrl": "https://music.apple.com/us/song/feiti%C3%A7o/6793770627",
+      "creator": "Anitta, Mart'nália",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bf/6a/3abf6a92-7a22-5cdb-209b-54f2e38cf623/26UMGIM96099.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6793770627",
+      "attributes": {
+        "album": "EQUILIBRIVM II",
+        "duration": "2:53",
+        "durationIso": "PT2M53S",
+        "chartPosition": "23",
+        "explicit": false
+      },
+      "evidenceText": "Feitiço 23 Anitta, Mart'nália EQUILIBRIVM II PREVIEW 2:53"
+    },
+    {
+      "title": "Os Anjos Cantam",
+      "canonicalUrl": "https://music.apple.com/us/song/os-anjos-cantam/971393833",
+      "creator": "Jorge & Mateus",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/b1/13/deb1133a-2388-c753-a5ad-4d4659cef9f9/7891430378028.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "971393833",
+      "attributes": {
+        "album": "Os Anjos Cantam",
+        "duration": "3:17",
+        "durationIso": "PT3M17S",
+        "chartPosition": "24",
+        "explicit": false
+      },
+      "evidenceText": "Os Anjos Cantam 24 Jorge & Mateus Os Anjos Cantam PREVIEW 3:17"
+    },
+    {
+      "title": "stupid song",
+      "canonicalUrl": "https://music.apple.com/us/song/stupid-song/1889992115",
+      "creator": "Olivia Rodrigo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1889992115",
+      "attributes": {
+        "album": "you seem pretty sad for a girl so in love",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "25",
+        "explicit": false
+      },
+      "evidenceText": "stupid song 25 Olivia Rodrigo you seem pretty sad for a girl so in love PREVIEW 3:29"
+    },
+    {
+      "title": "Ta Pedindo Toma",
+      "canonicalUrl": "https://music.apple.com/us/song/ta-pedindo-toma/6782225004",
+      "creator": "MC Leozinho Zs, MC Murilo MT, Mc DR, DJ Jhow Beats, MC RN DO CAPÃO, MC Pelourinho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/49/3d/cf493d61-8138-1d7e-d30a-de685a351aea/1200214403751.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6782225004",
+      "attributes": {
+        "album": "Ta Pedindo Toma - Single",
+        "duration": "4:36",
+        "durationIso": "PT4M36S",
+        "chartPosition": "26",
+        "explicit": true
+      },
+      "evidenceText": "Ta Pedindo Toma 26 MC Leozinho Zs, MC Murilo MT, Mc DR, DJ Jhow Beats, MC RN DO CAPÃO, MC Pelourinho Ta Pedindo Toma - Single PREVIEW 4:36"
+    },
+    {
+      "title": "Melatonin",
+      "canonicalUrl": "https://music.apple.com/us/song/melatonin/6789739143",
+      "creator": "Tinashe",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/26/5a/33265a39-a36e-9455-716c-0e63a9173b29/075679570758.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6789739143",
+      "attributes": {
+        "album": "Popstar",
+        "duration": "3:42",
+        "durationIso": "PT3M42S",
+        "chartPosition": "27",
+        "explicit": true
+      },
+      "evidenceText": "Melatonin 27 Tinashe Popstar PREVIEW 3:42"
+    },
+    {
+      "title": "Última Saudade (Ao Vivo)",
+      "canonicalUrl": "https://music.apple.com/us/song/%C3%BAltima-saudade-ao-vivo/1881788123",
+      "creator": "Henrique & Juliano",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/1f/e5/821fe59c-d4da-2c50-cb2c-e30645daa817/00602475298236_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1881788123",
+      "attributes": {
+        "album": "Manifesto Musical 2 (Ao Vivo) [EP1] - EP",
+        "duration": "2:30",
+        "durationIso": "PT2M30S",
+        "chartPosition": "28",
+        "explicit": false
+      },
+      "evidenceText": "Última Saudade (Ao Vivo) 28 Henrique & Juliano Manifesto Musical 2 (Ao Vivo) [EP1] - EP PREVIEW 2:30"
+    },
+    {
+      "title": "Elizabeth Taylor",
+      "canonicalUrl": "https://music.apple.com/us/song/elizabeth-taylor/1833328842",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1833328842",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:28",
+        "durationIso": "PT3M28S",
+        "chartPosition": "29",
+        "explicit": false
+      },
+      "evidenceText": "Elizabeth Taylor 29 Taylor Swift The Life of a Showgirl PREVIEW 3:28"
+    },
+    {
+      "title": "Pau Pra Toda Obra (feat. Mc Lele JP)",
+      "canonicalUrl": "https://music.apple.com/us/song/pau-pra-toda-obra-feat-mc-lele-jp/6782207878",
+      "creator": "Mc Jacaré, MC Ryan SP, Mc IG",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/d0/91/a6d09155-8968-8d6c-cfc2-66be355dd739/26UMGIM79846.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6782207878",
+      "attributes": {
+        "album": "Pau Pra Toda Obra (feat. Mc Lele JP) - Single",
+        "duration": "3:48",
+        "durationIso": "PT3M48S",
+        "chartPosition": "30",
+        "explicit": true
+      },
+      "evidenceText": "Pau Pra Toda Obra (feat. Mc Lele JP) 30 Mc Jacaré, MC Ryan SP, Mc IG Pau Pra Toda Obra (feat. Mc Lele JP) - Single PREVIEW 3:48"
+    },
+    {
+      "title": "JETSKI",
+      "canonicalUrl": "https://music.apple.com/us/song/jetski/1860312608",
+      "creator": "PEDRO SAMPAIO, MC Meno K, Melody",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/1e/bc/4d1ebcb1-39b0-e4df-3035-8241b367df2b/196873927060.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1860312608",
+      "attributes": {
+        "album": "JETSKI - Single",
+        "duration": "2:28",
+        "durationIso": "PT2M28S",
+        "chartPosition": "31",
+        "explicit": true
+      },
+      "evidenceText": "JETSKI 31 PEDRO SAMPAIO, MC Meno K, Melody JETSKI - Single PREVIEW 2:28"
+    },
+    {
+      "title": "Arruma Um Bão",
+      "canonicalUrl": "https://music.apple.com/us/song/arruma-um-b%C3%A3o/1769640075",
+      "creator": "Israel & Rodolffo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/1a/8b/891a8b54-0ce1-6bd8-5115-458966857e91/196872473940.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1769640075",
+      "attributes": {
+        "album": "Termômetro",
+        "duration": "2:55",
+        "durationIso": "PT2M55S",
+        "chartPosition": "32",
+        "explicit": false
+      },
+      "evidenceText": "Arruma Um Bão 32 Israel & Rodolffo Termômetro PREVIEW 2:55"
+    },
+    {
+      "title": "Wonderwall (Remastered)",
+      "canonicalUrl": "https://music.apple.com/us/song/wonderwall-remastered/1821192766",
+      "creator": "Oasis",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/e3/0d/cee30d80-d3e7-66ae-de84-4b62d8bc3b4d/5051961151107.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1821192766",
+      "attributes": {
+        "album": "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
+        "duration": "4:18",
+        "durationIso": "PT4M18S",
+        "chartPosition": "33",
+        "explicit": false
+      },
+      "evidenceText": "Wonderwall (Remastered) 33 Oasis (What's The Story) Morning Glory? (30th Anniversary Deluxe Edition) PREVIEW 4:18"
+    },
+    {
+      "title": "Midnight Sun",
+      "canonicalUrl": "https://music.apple.com/us/song/midnight-sun/1817499251",
+      "creator": "Zara Larsson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1d/2d/fb1d2d1c-0f79-53ad-ab9b-ac20918b5856/196873177199.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1817499251",
+      "attributes": {
+        "album": "Midnight Sun",
+        "duration": "3:09",
+        "durationIso": "PT3M9S",
+        "chartPosition": "34",
+        "explicit": false
+      },
+      "evidenceText": "Midnight Sun 34 Zara Larsson Midnight Sun PREVIEW 3:09"
+    },
+    {
+      "title": "Bass Persuades",
+      "canonicalUrl": "https://music.apple.com/us/song/bass-persuades/6807197459",
+      "creator": "Miley Cyrus",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6807197459",
+      "attributes": {
+        "album": "Bass Persuades",
+        "duration": "3:22",
+        "durationIso": "PT3M22S",
+        "chartPosition": "35",
+        "explicit": false
+      },
+      "evidenceText": "Bass Persuades 35 Miley Cyrus Bass Persuades PREVIEW 3:22"
+    },
+    {
+      "title": "Posso Até Não Te Dar Flores (feat. DJ DAVI DOGDOG)",
+      "canonicalUrl": "https://music.apple.com/us/song/posso-at%C3%A9-n%C3%A3o-te-dar-flores-feat-dj-davi-dogdog/1880033670",
+      "creator": "DJ Japa NK, MC Meno K, MC Ryan SP, Mc Jacaré",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/2e/b3/be2eb376-b8ce-d3d6-d2e4-40a626eb9a28/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1880033670",
+      "attributes": {
+        "album": "Posso Até Não Te Dar Flores (feat. DJ DAVI DOGDOG) - Single",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "36",
+        "explicit": true
+      },
+      "evidenceText": "Posso Até Não Te Dar Flores (feat. DJ DAVI DOGDOG) 36 DJ Japa NK, MC Meno K, MC Ryan SP, Mc Jacaré Posso Até Não Te Dar Flores (feat. DJ DAVI DOGDOG) - Single PREVIEW 2:42"
+    },
+    {
+      "title": "Gauchinha (feat. MC LUUKY)",
+      "canonicalUrl": "https://music.apple.com/us/song/gauchinha-feat-mc-luuky/1859743919",
+      "creator": "DJ Japa NK, MC Meno K, MC Ryan SP, Mc Brinquedo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/28/fc/4728fcdf-f2f0-5762-15f8-5fa766d434dc/199806683392.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1859743919",
+      "attributes": {
+        "album": "Beat Que Te Deixa Alerta",
+        "duration": "4:33",
+        "durationIso": "PT4M33S",
+        "chartPosition": "37",
+        "explicit": false
+      },
+      "evidenceText": "Gauchinha (feat. MC LUUKY) 37 DJ Japa NK, MC Meno K, MC Ryan SP, Mc Brinquedo Beat Que Te Deixa Alerta PREVIEW 4:33"
+    },
+    {
+      "title": "petal",
+      "canonicalUrl": "https://music.apple.com/us/song/petal/6763656878",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6763656878",
+      "attributes": {
+        "album": "petal",
+        "duration": "3:04",
+        "durationIso": "PT3M4S",
+        "chartPosition": "38",
+        "explicit": true
+      },
+      "evidenceText": "petal 38 Ariana Grande petal PREVIEW 3:04"
+    },
+    {
+      "title": "Postinho de Gasolina",
+      "canonicalUrl": "https://music.apple.com/us/song/postinho-de-gasolina/6794359884",
+      "creator": "João Gustavo e Murilo, Grelo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/da/e5/90dae5bf-d2e5-0d0f-2a66-5007df7d1768/3778128.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6794359884",
+      "attributes": {
+        "album": "Postinho de Gasolina - Single",
+        "duration": "2:23",
+        "durationIso": "PT2M23S",
+        "chartPosition": "39",
+        "explicit": false
+      },
+      "evidenceText": "Postinho de Gasolina 39 João Gustavo e Murilo, Grelo Postinho de Gasolina - Single PREVIEW 2:23"
+    },
+    {
+      "title": "Sunglasses",
+      "canonicalUrl": "https://music.apple.com/us/song/sunglasses/6789739140",
+      "creator": "Tinashe",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/26/5a/33265a39-a36e-9455-716c-0e63a9173b29/075679570758.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6789739140",
+      "attributes": {
+        "album": "Popstar",
+        "duration": "2:36",
+        "durationIso": "PT2M36S",
+        "chartPosition": "40",
+        "explicit": false
+      },
+      "evidenceText": "Sunglasses 40 Tinashe Popstar PREVIEW 2:36"
+    },
+    {
+      "title": "Melhor Que Muita Gente (O Copo Não Mente)",
+      "canonicalUrl": "https://music.apple.com/us/song/melhor-que-muita-gente-o-copo-n%C3%A3o-mente/1579983762",
+      "creator": "Israel & Rodolffo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/ed/60/04ed606b-2e84-2989-3d4d-c1eed43a5b82/7891430584573.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1579983762",
+      "attributes": {
+        "album": "Aqui e Agora Deluxe",
+        "duration": "2:41",
+        "durationIso": "PT2M41S",
+        "chartPosition": "41",
+        "explicit": false
+      },
+      "evidenceText": "Melhor Que Muita Gente (O Copo Não Mente) 41 Israel & Rodolffo Aqui e Agora Deluxe PREVIEW 2:41"
+    },
+    {
+      "title": "Father Figure",
+      "canonicalUrl": "https://music.apple.com/us/song/father-figure/1833328847",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1833328847",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "42",
+        "explicit": true
+      },
+      "evidenceText": "Father Figure 42 Taylor Swift The Life of a Showgirl PREVIEW 3:32"
+    },
+    {
+      "title": "Tempo Perdido",
+      "canonicalUrl": "https://music.apple.com/us/song/tempo-perdido/713514810",
+      "creator": "Legião Urbana",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/da/72/ed/da72edf4-27c8-2d20-a870-3259f853a866/13UABIM70454.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "713514810",
+      "attributes": {
+        "album": "Dois",
+        "duration": "5:02",
+        "durationIso": "PT5M2S",
+        "chartPosition": "43",
+        "explicit": false
+      },
+      "evidenceText": "Tempo Perdido 43 Legião Urbana Dois PREVIEW 5:02"
+    },
+    {
+      "title": "Mandinga",
+      "canonicalUrl": "https://music.apple.com/us/song/mandinga/1893225300",
+      "creator": "Anitta, Marina Sena",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/5a/a8/075aa8d3-d09c-2e45-63d3-214a444d0d6e/26UMGIM40596.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1893225300",
+      "attributes": {
+        "album": "EQUILIBRIVM",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "44",
+        "explicit": false
+      },
+      "evidenceText": "Mandinga 44 Anitta, Marina Sena EQUILIBRIVM PREVIEW 3:06"
+    },
+    {
+      "title": "New Rules",
+      "canonicalUrl": "https://music.apple.com/us/song/new-rules/1228739609",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1228739609",
+      "attributes": {
+        "album": "Dua Lipa (Deluxe)",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "45",
+        "explicit": false
+      },
+      "evidenceText": "New Rules 45 Dua Lipa Dua Lipa (Deluxe) PREVIEW 3:29"
+    },
+    {
+      "title": "Too Easy",
+      "canonicalUrl": "https://music.apple.com/us/song/too-easy/6774752170",
+      "creator": "Tinashe",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/87/30/15873081-c9fc-3dde-2636-070046f78ec1/075679574510.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6774752170",
+      "attributes": {
+        "album": "Too Easy - Single",
+        "duration": "1:54",
+        "durationIso": "PT1M54S",
+        "chartPosition": "46",
+        "explicit": false
+      },
+      "evidenceText": "Too Easy 46 Tinashe Too Easy - Single PREVIEW 1:54"
+    },
+    {
+      "title": "Desgraça",
+      "canonicalUrl": "https://music.apple.com/us/song/desgra%C3%A7a/1893225298",
+      "creator": "Anitta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/5a/a8/075aa8d3-d09c-2e45-63d3-214a444d0d6e/26UMGIM40596.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1893225298",
+      "attributes": {
+        "album": "EQUILIBRIVM",
+        "duration": "2:50",
+        "durationIso": "PT2M50S",
+        "chartPosition": "47",
+        "explicit": false
+      },
+      "evidenceText": "Desgraça 47 Anitta EQUILIBRIVM PREVIEW 2:50"
+    },
+    {
+      "title": "Into You",
+      "canonicalUrl": "https://music.apple.com/us/song/into-you/1568020292",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6e/40/14/6e401443-8c15-2f21-4d2c-effe972c3838/16UMGIM30042.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1568020292",
+      "attributes": {
+        "album": "Dangerous Woman (Bonus Tracks Edition)",
+        "duration": "4:04",
+        "durationIso": "PT4M4S",
+        "chartPosition": "48",
+        "explicit": false
+      },
+      "evidenceText": "Into You 48 Ariana Grande Dangerous Woman (Bonus Tracks Edition) PREVIEW 4:04"
+    },
+    {
+      "title": "Ordinary",
+      "canonicalUrl": "https://music.apple.com/us/song/ordinary/1793663645",
+      "creator": "Alex Warren",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1793663645",
+      "attributes": {
+        "album": "Ordinary - Single",
+        "duration": "3:06",
+        "durationIso": "PT3M6S",
+        "chartPosition": "49",
+        "explicit": false
+      },
+      "evidenceText": "Ordinary 49 Alex Warren Ordinary - Single PREVIEW 3:06"
+    },
+    {
+      "title": "Aurora",
+      "canonicalUrl": "https://music.apple.com/us/song/aurora/6793667889",
+      "creator": "Jão",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/07/a7/9c07a740-a651-f8be-40d3-afee76974367/26UMGIM97503.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6793667889",
+      "attributes": {
+        "album": "Memórias Póstumas",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "50",
+        "explicit": false
+      },
+      "evidenceText": "Aurora 50 Jão Memórias Póstumas PREVIEW 3:40"
+    },
+    {
+      "title": "Divino Sexual",
+      "canonicalUrl": "https://music.apple.com/us/song/divino-sexual/6793770642",
+      "creator": "Anitta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bf/6a/3abf6a92-7a22-5cdb-209b-54f2e38cf623/26UMGIM96099.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6793770642",
+      "attributes": {
+        "album": "EQUILIBRIVM II",
+        "duration": "3:32",
+        "durationIso": "PT3M32S",
+        "chartPosition": "51",
+        "explicit": false
+      },
+      "evidenceText": "Divino Sexual 51 Anitta EQUILIBRIVM II PREVIEW 3:32"
+    },
+    {
+      "title": "Oke",
+      "canonicalUrl": "https://music.apple.com/us/song/oke/6793770766",
+      "creator": "Anitta, Brô MC's, Katu Mirim",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bf/6a/3abf6a92-7a22-5cdb-209b-54f2e38cf623/26UMGIM96099.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6793770766",
+      "attributes": {
+        "album": "EQUILIBRIVM II",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "52",
+        "explicit": false
+      },
+      "evidenceText": "Oke 52 Anitta, Brô MC's, Katu Mirim EQUILIBRIVM II PREVIEW 2:42"
+    },
+    {
+      "title": "Sweet Child O' Mine",
+      "canonicalUrl": "https://music.apple.com/us/song/sweet-child-o-mine/1377826892",
+      "creator": "Guns N' Roses",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/56/47/b7/5647b700-6b9d-9e72-ec9f-51140b6d4492/00602567673781.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1377826892",
+      "attributes": {
+        "album": "Appetite For Destruction (Super Deluxe)",
+        "duration": "5:56",
+        "durationIso": "PT5M56S",
+        "chartPosition": "53",
+        "explicit": false
+      },
+      "evidenceText": "Sweet Child O' Mine 53 Guns N' Roses Appetite For Destruction (Super Deluxe) PREVIEW 5:56"
+    },
+    {
+      "title": "Sign of the Times",
+      "canonicalUrl": "https://music.apple.com/us/song/sign-of-the-times/1226034393",
+      "creator": "Harry Styles",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1226034393",
+      "attributes": {
+        "album": "Harry Styles",
+        "duration": "5:40",
+        "durationIso": "PT5M40S",
+        "chartPosition": "54",
+        "explicit": false
+      },
+      "evidenceText": "Sign of the Times 54 Harry Styles Harry Styles PREVIEW 5:40"
+    },
+    {
+      "title": "Dai Dai",
+      "canonicalUrl": "https://music.apple.com/us/song/dai-dai/6768469976",
+      "creator": "Shakira, Burna Boy",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6768469976",
+      "attributes": {
+        "album": "Dai Dai - Single",
+        "duration": "3:43",
+        "durationIso": "PT3M43S",
+        "chartPosition": "55",
+        "explicit": false
+      },
+      "evidenceText": "Dai Dai 55 Shakira, Burna Boy Dai Dai - Single PREVIEW 3:43"
+    },
+    {
+      "title": "7 rings",
+      "canonicalUrl": "https://music.apple.com/us/song/7-rings/1450330685",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/06/d3/e406d3d8-2507-e585-c919-60bc5446985c/19UMGIM03689.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1450330685",
+      "attributes": {
+        "album": "thank u, next",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "56",
+        "explicit": true
+      },
+      "evidenceText": "7 rings 56 Ariana Grande thank u, next PREVIEW 2:58"
+    },
+    {
+      "title": "no tears left to cry",
+      "canonicalUrl": "https://music.apple.com/us/song/no-tears-left-to-cry/1544324124",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9e/71/a4/9e71a47f-c290-a542-07fd-a3aed41eefa7/18UMGIM36924.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1544324124",
+      "attributes": {
+        "album": "sweetener (Bonus Videos Edition)",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "57",
+        "explicit": false
+      },
+      "evidenceText": "no tears left to cry 57 Ariana Grande sweetener (Bonus Videos Edition) PREVIEW 3:25"
+    },
+    {
+      "title": "In the End",
+      "canonicalUrl": "https://music.apple.com/us/song/in-the-end/590431785",
+      "creator": "LINKIN PARK",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "590431785",
+      "attributes": {
+        "album": "Hybrid Theory (Deluxe Edition)",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "58",
+        "explicit": false
+      },
+      "evidenceText": "In the End 58 LINKIN PARK Hybrid Theory (Deluxe Edition) PREVIEW 3:36"
+    },
+    {
+      "title": "Nobody Wanna Dance Anymore",
+      "canonicalUrl": "https://music.apple.com/us/song/nobody-wanna-dance-anymore/6789739158",
+      "creator": "Tinashe",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/26/5a/33265a39-a36e-9455-716c-0e63a9173b29/075679570758.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6789739158",
+      "attributes": {
+        "album": "Popstar",
+        "duration": "2:20",
+        "durationIso": "PT2M20S",
+        "chartPosition": "59",
+        "explicit": true
+      },
+      "evidenceText": "Nobody Wanna Dance Anymore 59 Tinashe Popstar PREVIEW 2:20"
+    },
+    {
+      "title": "Menos Foco Mais Ansiedade (Ce Tá Nervosa)",
+      "canonicalUrl": "https://music.apple.com/us/song/menos-foco-mais-ansiedade-ce-t%C3%A1-nervosa/6774044305",
+      "creator": "Mc Jacaré, MC Ryan SP, Mc Lele JP, MC LUUKY",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/fb/2e/e7fb2e38-c673-12b1-a45a-9dd58fb49187/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6774044305",
+      "attributes": {
+        "album": "Menos Foco Mais Ansiedade (Ce Tá Nervosa) - Single",
+        "duration": "3:54",
+        "durationIso": "PT3M54S",
+        "chartPosition": "60",
+        "explicit": true
+      },
+      "evidenceText": "Menos Foco Mais Ansiedade (Ce Tá Nervosa) 60 Mc Jacaré, MC Ryan SP, Mc Lele JP, MC LUUKY Menos Foco Mais Ansiedade (Ce Tá Nervosa) - Single PREVIEW 3:54"
+    },
+    {
+      "title": "Tubarões (Ao Vivo)",
+      "canonicalUrl": "https://music.apple.com/us/song/tubar%C3%B5es-ao-vivo/1852125137",
+      "creator": "Diego & Victor Hugo",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/af/27/caaf2710-03a9-86bd-4863-56dbb66d1deb/196873800271.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1852125137",
+      "attributes": {
+        "album": "Ao Vivo Em Uberlândia",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "61",
+        "explicit": false
+      },
+      "evidenceText": "Tubarões (Ao Vivo) 61 Diego & Victor Hugo Ao Vivo Em Uberlândia PREVIEW 2:42"
+    },
+    {
+      "title": "Apaga Apaga Apaga (Ao Vivo)",
+      "canonicalUrl": "https://music.apple.com/us/song/apaga-apaga-apaga-ao-vivo/1759670687",
+      "creator": "Danilo e Davi",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/b2/1a/c5b21a34-0b1b-7ff0-0bd5-b44f9668ebd3/196872340808.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1759670687",
+      "attributes": {
+        "album": "Toma Essa Verdade (Ao Vivo)",
+        "duration": "2:58",
+        "durationIso": "PT2M58S",
+        "chartPosition": "62",
+        "explicit": false
+      },
+      "evidenceText": "Apaga Apaga Apaga (Ao Vivo) 62 Danilo e Davi Toma Essa Verdade (Ao Vivo) PREVIEW 2:58"
+    },
+    {
+      "title": "Pela Última Vez (Ao Vivo)",
+      "canonicalUrl": "https://music.apple.com/us/song/pela-%C3%BAltima-vez-ao-vivo/1832056420",
+      "creator": "Grupo Menos É Mais, Nattan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/da/d1/63dad101-fc9b-606b-122a-c8c656d9c4a4/196873507996.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1832056420",
+      "attributes": {
+        "album": "MOLHO (Ao Vivo) - EP",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "63",
+        "explicit": false
+      },
+      "evidenceText": "Pela Última Vez (Ao Vivo) 63 Grupo Menos É Mais, Nattan MOLHO (Ao Vivo) - EP PREVIEW 2:42"
+    },
+    {
+      "title": "Die With A Smile",
+      "canonicalUrl": "https://music.apple.com/us/song/die-with-a-smile/1762656732",
+      "creator": "Lady Gaga, Bruno Mars",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1762656732",
+      "attributes": {
+        "album": "Die With A Smile - Single",
+        "duration": "4:11",
+        "durationIso": "PT4M11S",
+        "chartPosition": "64",
+        "explicit": false
+      },
+      "evidenceText": "Die With A Smile 64 Lady Gaga, Bruno Mars Die With A Smile - Single PREVIEW 4:11"
+    },
+    {
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "canonicalUrl": "https://music.apple.com/us/song/beauty-and-a-beat-feat-nicki-minaj/1440650961",
+      "creator": "Justin Bieber",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1440650961",
+      "attributes": {
+        "album": "Believe (Deluxe Edition)",
+        "duration": "3:47",
+        "durationIso": "PT3M47S",
+        "chartPosition": "65",
+        "explicit": false
+      },
+      "evidenceText": "Beauty and a Beat (feat. Nicki Minaj) 65 Justin Bieber Believe (Deluxe Edition) PREVIEW 3:47"
+    },
+    {
+      "title": "Empty Stadium",
+      "canonicalUrl": "https://music.apple.com/us/song/empty-stadium/6789739146",
+      "creator": "Tinashe",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/26/5a/33265a39-a36e-9455-716c-0e63a9173b29/075679570758.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6789739146",
+      "attributes": {
+        "album": "Popstar",
+        "duration": "2:45",
+        "durationIso": "PT2M45S",
+        "chartPosition": "66",
+        "explicit": false
+      },
+      "evidenceText": "Empty Stadium 66 Tinashe Popstar PREVIEW 2:45"
+    },
+    {
+      "title": "I’d Rather Be Alone",
+      "canonicalUrl": "https://music.apple.com/us/song/id-rather-be-alone/6789739155",
+      "creator": "Tinashe",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/26/5a/33265a39-a36e-9455-716c-0e63a9173b29/075679570758.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6789739155",
+      "attributes": {
+        "album": "Popstar",
+        "duration": "3:14",
+        "durationIso": "PT3M14S",
+        "chartPosition": "67",
+        "explicit": false
+      },
+      "evidenceText": "I’d Rather Be Alone 67 Tinashe Popstar PREVIEW 3:14"
+    },
+    {
+      "title": "Esqueça-Me Se For Capaz",
+      "canonicalUrl": "https://music.apple.com/us/song/esque%C3%A7a-me-se-for-capaz/1588326074",
+      "creator": "Marília Mendonça, Maiara & Maraisa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dd/a1/7c/dda17c30-f16b-d92f-ae10-7778d22296d0/7891430593179.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1588326074",
+      "attributes": {
+        "album": "Festa das Patroas 35%",
+        "duration": "2:49",
+        "durationIso": "PT2M49S",
+        "chartPosition": "68",
+        "explicit": false
+      },
+      "evidenceText": "Esqueça-Me Se For Capaz 68 Marília Mendonça, Maiara & Maraisa Festa das Patroas 35% PREVIEW 2:49"
+    },
+    {
+      "title": "Tudo Isso",
+      "canonicalUrl": "https://music.apple.com/us/song/tudo-isso/6793770632",
+      "creator": "Anitta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bf/6a/3abf6a92-7a22-5cdb-209b-54f2e38cf623/26UMGIM96099.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6793770632",
+      "attributes": {
+        "album": "EQUILIBRIVM II",
+        "duration": "3:35",
+        "durationIso": "PT3M35S",
+        "chartPosition": "69",
+        "explicit": false
+      },
+      "evidenceText": "Tudo Isso 69 Anitta EQUILIBRIVM II PREVIEW 3:35"
+    },
+    {
+      "title": "Bala Alojada (Ao Vivo)",
+      "canonicalUrl": "https://music.apple.com/us/song/bala-alojada-ao-vivo/6781402699",
+      "creator": "Gusttavo Lima",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/15/d8/1715d860-675e-0734-0ea2-362c54fd4b23/196874518007.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6781402699",
+      "attributes": {
+        "album": "Bala Alojada - Single (Ao Vivo)",
+        "duration": "3:38",
+        "durationIso": "PT3M38S",
+        "chartPosition": "70",
+        "explicit": false
+      },
+      "evidenceText": "Bala Alojada (Ao Vivo) 70 Gusttavo Lima Bala Alojada - Single (Ao Vivo) PREVIEW 3:38"
+    },
+    {
+      "title": "Expectativa x Realidade",
+      "canonicalUrl": "https://music.apple.com/us/song/expectativa-x-realidade/1572917957",
+      "creator": "Matheus & Kauan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a5/76/9d/a5769de7-c2ec-949c-366f-84b887410836/21UMGIM33210.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1572917957",
+      "attributes": {
+        "album": "Expectativa x Realidade - EP",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "71",
+        "explicit": false
+      },
+      "evidenceText": "Expectativa x Realidade 71 Matheus & Kauan Expectativa x Realidade - EP PREVIEW 2:43"
+    },
+    {
+      "title": "Training Season",
+      "canonicalUrl": "https://music.apple.com/us/song/training-season/1727526894",
+      "creator": "Dua Lipa",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/89/15/828915ea-d716-61c4-3de7-ef00c1f800fb/5054197853630.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1727526894",
+      "attributes": {
+        "album": "Training Season - Single",
+        "duration": "3:29",
+        "durationIso": "PT3M29S",
+        "chartPosition": "72",
+        "explicit": false
+      },
+      "evidenceText": "Training Season 72 Dua Lipa Training Season - Single PREVIEW 3:29"
+    },
+    {
+      "title": "Hootie Frutti",
+      "canonicalUrl": "https://music.apple.com/us/song/hootie-frutti/1891779777",
+      "creator": "KATSEYE",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/28/92/e22892a7-fe88-72cf-ecba-691030dfcf7e/26UMGIM41151.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1891779777",
+      "attributes": {
+        "album": "WILD - EP",
+        "duration": "2:20",
+        "durationIso": "PT2M20S",
+        "chartPosition": "73",
+        "explicit": false
+      },
+      "evidenceText": "Hootie Frutti 73 KATSEYE WILD - EP PREVIEW 2:20"
+    },
+    {
+      "title": "EXAGERADO",
+      "canonicalUrl": "https://music.apple.com/us/song/exagerado/6767354682",
+      "creator": "MC Jvila, MC Meno K, Mc Rodrigo do CN, DJ Glenner",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/6b/5d/5a6b5daf-8a40-6347-72d4-96fb11d56ba6/8718521304386.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6767354682",
+      "attributes": {
+        "album": "EXAGERADO - Single",
+        "duration": "3:50",
+        "durationIso": "PT3M50S",
+        "chartPosition": "74",
+        "explicit": true
+      },
+      "evidenceText": "EXAGERADO 74 MC Jvila, MC Meno K, Mc Rodrigo do CN, DJ Glenner EXAGERADO - Single PREVIEW 3:50"
+    },
+    {
+      "title": "Plano C (Ao Vivo)",
+      "canonicalUrl": "https://music.apple.com/us/song/plano-c-ao-vivo/6774797684",
+      "creator": "Zé Neto & Cristiano",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/af/a3/63afa3c3-7c7b-bc39-a050-6f66a2dcb53d/196874264478.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6774797684",
+      "attributes": {
+        "album": "Vocês & Deus (Ao Vivo no Rio de Janeiro)",
+        "duration": "2:54",
+        "durationIso": "PT2M54S",
+        "chartPosition": "75",
+        "explicit": false
+      },
+      "evidenceText": "Plano C (Ao Vivo) 75 Zé Neto & Cristiano Vocês & Deus (Ao Vivo no Rio de Janeiro) PREVIEW 2:54"
+    },
+    {
+      "title": "Everybody Wants to Rule the World",
+      "canonicalUrl": "https://music.apple.com/us/song/everybody-wants-to-rule-the-world/1440813515",
+      "creator": "Tears for Fears",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/41/43/744143ae-afad-8380-106e-1c1bc48922e4/14UMGIM34762.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1440813515",
+      "attributes": {
+        "album": "Songs from the Big Chair",
+        "duration": "4:11",
+        "durationIso": "PT4M11S",
+        "chartPosition": "76",
+        "explicit": false
+      },
+      "evidenceText": "Everybody Wants to Rule the World 76 Tears for Fears Songs from the Big Chair PREVIEW 4:11"
+    },
+    {
+      "title": "Crash Out",
+      "canonicalUrl": "https://music.apple.com/us/song/crash-out/6789739156",
+      "creator": "Tinashe",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/26/5a/33265a39-a36e-9455-716c-0e63a9173b29/075679570758.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6789739156",
+      "attributes": {
+        "album": "Popstar",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "77",
+        "explicit": true
+      },
+      "evidenceText": "Crash Out 77 Tinashe Popstar PREVIEW 3:10"
+    },
+    {
+      "title": "Coração Partido (Corazón Partío) [Ao Vivo]",
+      "canonicalUrl": "https://music.apple.com/us/song/cora%C3%A7%C3%A3o-partido-coraz%C3%B3n-part%C3%ADo-ao-vivo/1763712155",
+      "creator": "Grupo Menos É Mais",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/dd/5a/72dd5ac3-5f16-fc6a-ceb3-09b253e410d7/196872400793.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1763712155",
+      "attributes": {
+        "album": "Coração Partido (Corazón Partío) [Ao Vivo] - Single",
+        "duration": "3:15",
+        "durationIso": "PT3M15S",
+        "chartPosition": "78",
+        "explicit": false
+      },
+      "evidenceText": "Coração Partido (Corazón Partío) [Ao Vivo] 78 Grupo Menos É Mais Coração Partido (Corazón Partío) [Ao Vivo] - Single PREVIEW 3:15"
+    },
+    {
+      "title": "Ponta Do Pé",
+      "canonicalUrl": "https://music.apple.com/us/song/ponta-do-p%C3%A9/6793770628",
+      "creator": "Anitta",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bf/6a/3abf6a92-7a22-5cdb-209b-54f2e38cf623/26UMGIM96099.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6793770628",
+      "attributes": {
+        "album": "EQUILIBRIVM II",
+        "duration": "3:12",
+        "durationIso": "PT3M12S",
+        "chartPosition": "79",
+        "explicit": false
+      },
+      "evidenceText": "Ponta Do Pé 79 Anitta EQUILIBRIVM II PREVIEW 3:12"
+    },
+    {
+      "title": "Eu Não Sou Santa",
+      "canonicalUrl": "https://music.apple.com/us/song/eu-n%C3%A3o-sou-santa/6793770626",
+      "creator": "Anitta, Mestrinho",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bf/6a/3abf6a92-7a22-5cdb-209b-54f2e38cf623/26UMGIM96099.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6793770626",
+      "attributes": {
+        "album": "EQUILIBRIVM II",
+        "duration": "2:31",
+        "durationIso": "PT2M31S",
+        "chartPosition": "80",
+        "explicit": false
+      },
+      "evidenceText": "Eu Não Sou Santa 80 Anitta, Mestrinho EQUILIBRIVM II PREVIEW 2:31"
+    },
+    {
+      "title": "Leão",
+      "canonicalUrl": "https://music.apple.com/us/song/le%C3%A3o/1658237095",
+      "creator": "Marília Mendonça",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ed/f6/a7/edf6a74f-15fa-1b0e-f172-6c99841d1c32/7891430726072.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1658237095",
+      "attributes": {
+        "album": "Decretos Reais, Vol. 2 - EP",
+        "duration": "2:46",
+        "durationIso": "PT2M46S",
+        "chartPosition": "81",
+        "explicit": false
+      },
+      "evidenceText": "Leão 81 Marília Mendonça Decretos Reais, Vol. 2 - EP PREVIEW 2:46"
+    },
+    {
+      "title": "Billie Jean",
+      "canonicalUrl": "https://music.apple.com/us/song/billie-jean/269573364",
+      "creator": "Michael Jackson",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "269573364",
+      "attributes": {
+        "album": "Thriller",
+        "duration": "4:53",
+        "durationIso": "PT4M53S",
+        "chartPosition": "82",
+        "explicit": false
+      },
+      "evidenceText": "Billie Jean 82 Michael Jackson Thriller PREVIEW 4:53"
+    },
+    {
+      "title": "Flashbacks",
+      "canonicalUrl": "https://music.apple.com/us/song/flashbacks/6789739150",
+      "creator": "Tinashe",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/26/5a/33265a39-a36e-9455-716c-0e63a9173b29/075679570758.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6789739150",
+      "attributes": {
+        "album": "Popstar",
+        "duration": "2:43",
+        "durationIso": "PT2M43S",
+        "chartPosition": "83",
+        "explicit": false
+      },
+      "evidenceText": "Flashbacks 83 Tinashe Popstar PREVIEW 2:43"
+    },
+    {
+      "title": "Pra Sempre Com Você (Ao Vivo)",
+      "canonicalUrl": "https://music.apple.com/us/song/pra-sempre-com-voc%C3%AA-ao-vivo/1077864159",
+      "creator": "Jorge & Mateus",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/08/e5/8008e50e-7c33-acc3-7f9b-f4b5b09ce43b/7891430408121.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1077864159",
+      "attributes": {
+        "album": "Como. Sempre Feito. Nunca (Ao Vivo)",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "84",
+        "explicit": false
+      },
+      "evidenceText": "Pra Sempre Com Você (Ao Vivo) 84 Jorge & Mateus Como. Sempre Feito. Nunca (Ao Vivo) PREVIEW 3:27"
+    },
+    {
+      "title": "brand new chanel$",
+      "canonicalUrl": "https://music.apple.com/us/song/brand-new-chanel%24/6793636948",
+      "creator": "Slayyyter",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/f6/e1/f8f6e1ea-279c-c3a6-df70-37aedab1728b/196874456026.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6793636948",
+      "attributes": {
+        "album": "brand new chanel$ - Single",
+        "duration": "3:58",
+        "durationIso": "PT3M58S",
+        "chartPosition": "85",
+        "explicit": true
+      },
+      "evidenceText": "brand new chanel$ 85 Slayyyter brand new chanel$ - Single PREVIEW 3:58"
+    },
+    {
+      "title": "Pirulito Vermelho",
+      "canonicalUrl": "https://music.apple.com/us/song/pirulito-vermelho/1691209649",
+      "creator": "Diego & Victor Hugo, Luan Pereira",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/dd/35/2bdd3543-1edd-22bb-4246-dcdcfbc59bad/196871215114.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1691209649",
+      "attributes": {
+        "album": "Pirulito Vermelho - Single",
+        "duration": "2:32",
+        "durationIso": "PT2M32S",
+        "chartPosition": "86",
+        "explicit": false
+      },
+      "evidenceText": "Pirulito Vermelho 86 Diego & Victor Hugo, Luan Pereira Pirulito Vermelho - Single PREVIEW 2:32"
+    },
+    {
+      "title": "SaWaDiKa",
+      "canonicalUrl": "https://music.apple.com/us/song/sawadika/6804002992",
+      "creator": "LISA",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/de/67/1dde6726-f217-b447-46cd-94d5f9621797/196874712696.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "6804002992",
+      "attributes": {
+        "album": "PRESS PLAY",
+        "duration": "3:08",
+        "durationIso": "PT3M8S",
+        "chartPosition": "87",
+        "explicit": true
+      },
+      "evidenceText": "SaWaDiKa 87 LISA PRESS PLAY PREVIEW 3:08"
+    },
+    {
+      "title": "Ruído Marrom Para Dormir (Pt. 01)",
+      "canonicalUrl": "https://music.apple.com/us/song/ru%C3%ADdo-marrom-para-dormir-pt-01/1692442396",
+      "creator": "Ruído Marrom de TraxLab",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/05/24/f7052441-74ac-9e43-a58e-26a838f601b2/1963621421595_cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1692442396",
+      "attributes": {
+        "album": "Ruído Marrom Para Dormir",
+        "duration": "1:35",
+        "durationIso": "PT1M35S",
+        "chartPosition": "88",
+        "explicit": false
+      },
+      "evidenceText": "Ruído Marrom Para Dormir (Pt. 01) 88 Ruído Marrom de TraxLab Ruído Marrom Para Dormir PREVIEW 1:35"
+    },
+    {
+      "title": "Romântico (Ao Vivo)",
+      "canonicalUrl": "https://music.apple.com/us/song/rom%C3%A2ntico-ao-vivo/1881788531",
+      "creator": "Henrique & Juliano",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/80/46/3e80467a-2cfb-de51-21ed-1ba08a410614/00602475418573_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1881788531",
+      "attributes": {
+        "album": "Manifesto Musical 2 (Ao Vivo) [EP2] - EP",
+        "duration": "3:03",
+        "durationIso": "PT3M3S",
+        "chartPosition": "89",
+        "explicit": false
+      },
+      "evidenceText": "Romântico (Ao Vivo) 89 Henrique & Juliano Manifesto Musical 2 (Ao Vivo) [EP2] - EP PREVIEW 3:03"
+    },
+    {
+      "title": "Famoso Ímã | O poderoso chatão",
+      "canonicalUrl": "https://music.apple.com/us/song/famoso-%C3%ADm%C3%A3-o-poderoso-chat%C3%A3o/1876549886",
+      "creator": "Mc Lele JP, Mc Poze do Rodo, MC Leozinho Zs, DJ Gordinho da VF",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/ee/20/29ee20a8-312c-f1a3-a92e-2ed027c50881/0.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1876549886",
+      "attributes": {
+        "album": "Famoso Ímã | O poderoso chatão - Single",
+        "duration": "3:37",
+        "durationIso": "PT3M37S",
+        "chartPosition": "90",
+        "explicit": false
+      },
+      "evidenceText": "Famoso Ímã | O poderoso chatão 90 Mc Lele JP, Mc Poze do Rodo, MC Leozinho Zs, DJ Gordinho da VF Famoso Ímã | O poderoso chatão - Single PREVIEW 3:37"
+    },
+    {
+      "title": "Beautiful Things",
+      "canonicalUrl": "https://music.apple.com/us/song/beautiful-things/1724488124",
+      "creator": "Benson Boone",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1724488124",
+      "attributes": {
+        "album": "Beautiful Things - Single",
+        "duration": "3:00",
+        "durationIso": "PT3M",
+        "chartPosition": "91",
+        "explicit": false
+      },
+      "evidenceText": "Beautiful Things 91 Benson Boone Beautiful Things - Single PREVIEW 3:00"
+    },
+    {
+      "title": "Foi por Conveniência",
+      "canonicalUrl": "https://music.apple.com/us/song/foi-por-conveni%C3%AAncia/1572920324",
+      "creator": "Marília Mendonça",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/95/17/14/951714f6-8738-a035-baf6-7e8360203e31/7891430581473.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1572920324",
+      "attributes": {
+        "album": "Nosso Amor Envelheceu - EP",
+        "duration": "3:25",
+        "durationIso": "PT3M25S",
+        "chartPosition": "92",
+        "explicit": false
+      },
+      "evidenceText": "Foi por Conveniência 92 Marília Mendonça Nosso Amor Envelheceu - EP PREVIEW 3:25"
+    },
+    {
+      "title": "Completa A Frase (Completa Aí) [Ao Vivo] [feat. Marília Mendonça]",
+      "canonicalUrl": "https://music.apple.com/us/song/completa-a-frase-completa-a%C3%AD-ao-vivo-feat-mar%C3%ADlia-mendon%C3%A7a/1881794602",
+      "creator": "Henrique & Juliano",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/82/8d/be828d78-406b-d911-62cb-3ef5e8e357cf/00602438625826_Cover.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1881794602",
+      "attributes": {
+        "album": "Menos É Mais (Ao Vivo)",
+        "duration": "3:10",
+        "durationIso": "PT3M10S",
+        "chartPosition": "93",
+        "explicit": false
+      },
+      "evidenceText": "Completa A Frase (Completa Aí) [Ao Vivo] [feat. Marília Mendonça] 93 Henrique & Juliano Menos É Mais (Ao Vivo) PREVIEW 3:10"
+    },
+    {
+      "title": "thank u, next",
+      "canonicalUrl": "https://music.apple.com/us/song/thank-u-next/1450330686",
+      "creator": "Ariana Grande",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/06/d3/e406d3d8-2507-e585-c919-60bc5446985c/19UMGIM03689.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1450330686",
+      "attributes": {
+        "album": "thank u, next",
+        "duration": "3:27",
+        "durationIso": "PT3M27S",
+        "chartPosition": "94",
+        "explicit": true
+      },
+      "evidenceText": "thank u, next 94 Ariana Grande thank u, next PREVIEW 3:27"
+    },
+    {
+      "title": "SEQUÊNCIA FEITICEIRA (feat. MC Nito)",
+      "canonicalUrl": "https://music.apple.com/us/song/sequ%C3%AAncia-feiticeira-feat-mc-nito/1833592436",
+      "creator": "PEDRO SAMPAIO, Mc Gw, Mc Jhey, Mc Rodrigo do CN",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/b0/3f/0eb03faf-4b4b-b9f9-3012-003158a800fc/5021732959232.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1833592436",
+      "attributes": {
+        "album": "SEQUÊNCIA FEITICEIRA (feat. MC Nito) - Single",
+        "duration": "2:09",
+        "durationIso": "PT2M9S",
+        "chartPosition": "95",
+        "explicit": true
+      },
+      "evidenceText": "SEQUÊNCIA FEITICEIRA (feat. MC Nito) 95 PEDRO SAMPAIO, Mc Gw, Mc Jhey, Mc Rodrigo do CN SEQUÊNCIA FEITICEIRA (feat. MC Nito) - Single PREVIEW 2:09"
+    },
+    {
+      "title": "Ruin The Friendship",
+      "canonicalUrl": "https://music.apple.com/us/song/ruin-the-friendship/1833328849",
+      "creator": "Taylor Swift",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1833328849",
+      "attributes": {
+        "album": "The Life of a Showgirl",
+        "duration": "3:40",
+        "durationIso": "PT3M40S",
+        "chartPosition": "96",
+        "explicit": false
+      },
+      "evidenceText": "Ruin The Friendship 96 Taylor Swift The Life of a Showgirl PREVIEW 3:40"
+    },
+    {
+      "title": "Molhando o Volante",
+      "canonicalUrl": "https://music.apple.com/us/song/molhando-o-volante/1597533613",
+      "creator": "Jorge & Mateus",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8c/c0/ba/8cc0ba34-0422-b493-445f-ff393703bbe5/7891430624576.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1597533613",
+      "attributes": {
+        "album": "Molhando o Volante - Single",
+        "duration": "2:42",
+        "durationIso": "PT2M42S",
+        "chartPosition": "97",
+        "explicit": false
+      },
+      "evidenceText": "Molhando o Volante 97 Jorge & Mateus Molhando o Volante - Single PREVIEW 2:42"
+    },
+    {
+      "title": "Carnívoro",
+      "canonicalUrl": "https://music.apple.com/us/song/carn%C3%ADvoro/1877107828",
+      "creator": "Mc Jacaré, Mc Lele JP, Mc Negão Original, DJ Japa NK",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/90/d6/d490d660-4988-1fe7-4ede-5ed67056e536/26UMGIM15287.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1877107828",
+      "attributes": {
+        "album": "Carnívoro - Single",
+        "duration": "3:36",
+        "durationIso": "PT3M36S",
+        "chartPosition": "98",
+        "explicit": true
+      },
+      "evidenceText": "Carnívoro 98 Mc Jacaré, Mc Lele JP, Mc Negão Original, DJ Japa NK Carnívoro - Single PREVIEW 3:36"
+    },
+    {
+      "title": "Blinding Lights",
+      "canonicalUrl": "https://music.apple.com/us/song/blinding-lights/1488408568",
+      "creator": "The Weeknd",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1488408568",
+      "attributes": {
+        "album": "Blinding Lights - Single",
+        "duration": "3:21",
+        "durationIso": "PT3M21S",
+        "chartPosition": "99",
+        "explicit": false
+      },
+      "evidenceText": "Blinding Lights 99 The Weeknd Blinding Lights - Single PREVIEW 3:21"
+    },
+    {
+      "title": "Paraquedas (feat. Gusttavo Lima)",
+      "canonicalUrl": "https://music.apple.com/us/song/paraquedas-feat-gusttavo-lima/1815515099",
+      "creator": "Matheus & Kauan",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/f4/ed/7bf4edb1-a758-62eb-f4ab-6f5025f4e9f3/25UMGIM03068.rgb.jpg/80x80bb.webp",
+      "description": "",
+      "sourceUrl": "https://music.apple.com/us/playlist/top-100-brazil/pl.11ac7cc7d09741c5822e8c66e5c7edbb",
+      "source": "Apple Music",
+      "category": "music",
+      "collection": "Top 100: Brazil",
+      "externalId": "1815515099",
+      "attributes": {
+        "album": "Paraquedas",
+        "duration": "2:59",
+        "durationIso": "PT2M59S",
+        "chartPosition": "100",
+        "explicit": false
+      },
+      "evidenceText": "Paraquedas (feat. Gusttavo Lima) 100 Matheus & Kauan Paraquedas PREVIEW 2:59"
+    }
+  ]
+}
