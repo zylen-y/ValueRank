@@ -45,7 +45,7 @@ export function createCatalogService(store: CatalogStore, personal: PersonalServ
     const collection = getCollection(id); const records = store.items(id, options.query);
     const offset = Math.max(0, Math.floor(options.offset ?? 0)); const limit = Math.max(1, Math.min(60, Math.floor(options.limit ?? 24)));
     const models = personal.getModels();
-    const model = models.find(m => m.domain === `catalog-${collection.kind}` && m.schemaId === CATALOG_SCHEMA);
+    const model = models.find(m => m.domain === `catalog-${collection.kind}` && m.schemaId === CATALOG_SCHEMA && m.scopeId === undefined);
     const sort = options.sort ?? 'personal';
     // All cold-start catalog units have prior=0 and no concepts: their exact
     // score is 50. Encoding thousands of unused feature vectors is unnecessary.

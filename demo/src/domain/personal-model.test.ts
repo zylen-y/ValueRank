@@ -36,4 +36,13 @@ describe('trainable feature-based personal head', () => {
     const changed = { ...item('c', 1), features: { ...item('c', 1).features, names: ['warmth', 'minimalism'] } };
     expect(predictPair(changed, item('d', 0), model)).toBe(0.5);
   });
+  it('fits only labels from the exact requested scope while legacy fits stay unscoped', () => {
+    const a = item('a', 1); const b = item('b', -1);
+    const scoped = (scopeId: string, target: number) => ({ ...row(a, b, target, scopeId), context: { ...row(a, b, target).context, scopeId } });
+    const rows = [row(a, b, 1, 'general'), scoped('project-a', 1), scoped('project-b', 0)];
+    const legacy = fit(rows);
+    const model = fitPersonalModel({ id: 'project-b-head', domain: 'design', schemaId: 'synthetic-v1', featureNames: ['minimalism', 'warmth'], version: 1, rows, createdAt: '2026-09-26T00:00:00.000Z', scopeId: 'project-b' });
+    expect(legacy.trainingCount).toBe(1); expect(legacy.scopeId).toBeUndefined(); expect(legacy.weights[0]).toBeGreaterThan(0);
+    expect(model.trainingCount).toBe(1); expect(model.scopeId).toBe('project-b'); expect(model.weights[0]).toBeLessThan(0);
+  });
 });

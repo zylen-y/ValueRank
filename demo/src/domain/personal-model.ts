@@ -21,10 +21,10 @@ export function predictPair(a: PersonalUnit, b: PersonalUnit, model?: PersonalMo
 /** Fit actual user labels from scratch, making undo deterministic and avoiding update drift. */
 export function fitPersonalModel(input: {
   id: string; domain: string; schemaId: string; featureNames: string[]; version: number;
-  rows: PersonalTrainingRow[]; createdAt: string;
+  rows: PersonalTrainingRow[]; createdAt: string; scopeId?: string;
 }): PersonalModel {
   const count = input.featureNames.length;
-  const rows = input.rows.filter(row => row.domain === input.domain && row.schemaId === input.schemaId &&
+  const rows = input.rows.filter(row => row.domain === input.domain && row.schemaId === input.schemaId && row.context.scopeId === input.scopeId &&
     compatibleFeatures(row.a, row.b) && row.a.features.names.every((name, index) => name === input.featureNames[index]));
   const weights = Array<number>(count).fill(0);
   // L2 is stronger with sparse feedback. Loss is averaged, keeping update scale stable.
@@ -41,5 +41,5 @@ export function fitPersonalModel(input: {
     for (let index = 0; index < count; index++) weights[index] = Math.max(-8, Math.min(8, weights[index] - step * gradient[index]));
   }
   return { id: input.id, domain: input.domain, schemaId: input.schemaId, featureNames: [...input.featureNames],
-    version: input.version, weights, trainingCount: rows.length, createdAt: input.createdAt };
+    version: input.version, weights, trainingCount: rows.length, createdAt: input.createdAt, ...(input.scopeId ? { scopeId: input.scopeId } : {}) };
 }

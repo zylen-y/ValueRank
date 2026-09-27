@@ -4,10 +4,11 @@ import { resolve } from 'node:path';
 import { createHash } from 'node:crypto';
 import { demoRoot } from './config.ts';
 import type { PersonalComparison, PersonalDataset, PersonalExposure, PersonalModel, PersonalObservation, PersonalPrediction, PersonalProfileFact, PersonalSearchSession, PersonalSource, PersonalUnit } from '../src/domain/personal.ts';
+import type { PersonalEvaluationRun } from '../src/domain/personal-evaluation.ts';
 
-const tables = ['sources', 'units', 'sessions', 'datasets', 'exposures', 'predictions', 'comparisons', 'facts', 'observations', 'models'] as const;
+const tables = ['sources', 'units', 'sessions', 'datasets', 'exposures', 'predictions', 'comparisons', 'facts', 'observations', 'models', 'evaluation_runs'] as const;
 type Table = typeof tables[number];
-interface RecordTypes { sources: PersonalSource; units: PersonalUnit; sessions: PersonalSearchSession; datasets: PersonalDataset; exposures: PersonalExposure; predictions: PersonalPrediction; comparisons: PersonalComparison; facts: PersonalProfileFact; observations: PersonalObservation; models: PersonalModel }
+interface RecordTypes { sources: PersonalSource; units: PersonalUnit; sessions: PersonalSearchSession; datasets: PersonalDataset; exposures: PersonalExposure; predictions: PersonalPrediction; comparisons: PersonalComparison; facts: PersonalProfileFact; observations: PersonalObservation; models: PersonalModel; evaluation_runs: PersonalEvaluationRun }
 const hash = (value: unknown) => createHash('sha256').update(JSON.stringify(value)).digest('hex');
 
 /** Separate entity tables preserve immutable revisions rather than rewriting one workspace blob. */
@@ -29,7 +30,9 @@ export function createPersonalStore(path = resolve(demoRoot, '.data/personal.sql
     CREATE TABLE IF NOT EXISTS observations(id TEXT PRIMARY KEY, payload TEXT NOT NULL);
     CREATE TABLE IF NOT EXISTS models(id TEXT NOT NULL, version INTEGER NOT NULL, payload TEXT NOT NULL, PRIMARY KEY(id,version));
     CREATE TABLE IF NOT EXISTS undo_events(id TEXT PRIMARY KEY, comparison_id TEXT NOT NULL UNIQUE, created_at TEXT NOT NULL);
-    INSERT OR IGNORE INTO personal_migrations(version,applied_at) VALUES(1,datetime('now'));`);
+    INSERT OR IGNORE INTO personal_migrations(version,applied_at) VALUES(1,datetime('now'));
+    CREATE TABLE IF NOT EXISTS evaluation_runs(id TEXT PRIMARY KEY, dataset_id TEXT NOT NULL, domain TEXT NOT NULL, schema_id TEXT NOT NULL, payload TEXT NOT NULL);
+    INSERT OR IGNORE INTO personal_migrations(version,applied_at) VALUES(2,datetime('now'));`);
   let inTransaction = false;
   function transaction<T>(fn: () => T): T {
     if (inTransaction) return fn();
@@ -73,6 +76,28 @@ export function createPersonalStore(path = resolve(demoRoot, '.data/personal.sql
     db.prepare('UPDATE comparisons SET payload=? WHERE id=?').run(JSON.stringify({ ...comparison, undone: true }), comparison.id);
   }
   function saveModel(model: PersonalModel) { db.prepare('INSERT INTO models(id,version,payload) VALUES(?,?,?)').run(model.id, model.version, JSON.stringify(model)); }
+  function saveEvaluationRun(run: PersonalEvaluationRun) {
+    const existing = get('evaluation_runs', run.id);
+    if (existing && hash(existing) !== hash(run)) throw new Error('Evaluation runs are frozen. Start a new run instead of changing its model or test set.');
+    db.prepare('INSERT OR IGNORE INTO evaluation_runs(id,dataset_id,domain,schema_id,payload) VALUES(?,?,?,?,?)').run(run.id, run.datasetId, run.domain, run.featureSchemaId, JSON.stringify(run));
+  }
+  function invalidateEvaluationRuns(domain: string, schemaId: string, at: string, scopeId?: string) {
+    for (const run of all('evaluation_runs')) {
+      if (run.domain !== domain || run.featureSchemaId !== schemaId || run.context.scopeId !== scopeId) continue;
+      // Erase parameter snapshots derived from deleted labels, retaining only
+      // the protocol and version identifiers needed to explain excluded history.
+      const invalidated: PersonalEvaluationRun = { ...run, frozenModel: null, status: 'invalidated', invalidatedAt: at, invalidationReason: 'training-data-deleted' };
+      db.prepare('UPDATE evaluation_runs SET payload=? WHERE id=?').run(JSON.stringify(invalidated), run.id);
+    }
+  }
+  function invalidateEvaluationRun(id: string, at: string, reason: 'test-data-deleted' | 'test-entity-exposed') {
+    const run = get('evaluation_runs', id);
+    if (!run || run.status !== 'active') return;
+    // Test invalidation does not erase training-derived weights: preserve the
+    // frozen audit snapshot, but prevent its results from counting as valid.
+    const invalidated: PersonalEvaluationRun = { ...run, status: 'invalidated', invalidatedAt: at, invalidationReason: reason };
+    db.prepare('UPDATE evaluation_runs SET payload=? WHERE id=?').run(JSON.stringify(invalidated), id);
+  }
   function save<T extends 'sessions' | 'facts' | 'observations'>(table: T, value: RecordTypes[T]) {
     db.prepare(`INSERT INTO ${table}(id,payload) VALUES(?,?) ON CONFLICT(id) DO UPDATE SET payload=excluded.payload`).run(value.id, JSON.stringify(value));
   }
@@ -86,6 +111,6 @@ export function createPersonalStore(path = resolve(demoRoot, '.data/personal.sql
     });
     if (!inTransaction) db.exec('PRAGMA wal_checkpoint(TRUNCATE); VACUUM;');
   }
-  return { all, get, transaction, saveSource, saveUnit, saveDataset, saveExposure, saveComparison, undoComparison, saveModel, save, remove, removeUndo, removeVersion, clear, close: () => db.close() };
+  return { all, get, transaction, saveSource, saveUnit, saveDataset, saveExposure, saveComparison, undoComparison, saveModel, saveEvaluationRun, invalidateEvaluationRuns, invalidateEvaluationRun, save, remove, removeUndo, removeVersion, clear, close: () => db.close() };
 }
 export type PersonalStore = ReturnType<typeof createPersonalStore>;

@@ -110,9 +110,9 @@ describe('personal learning ledger', () => {
     expect(service.trainingRows()).toHaveLength(2);
     expect(service.exportData().trainingRows.some(row => row.exposureId === test.exposure.id)).toBe(false);
     const second = service.createDataset({ id: 'pack-2', title: 'Same units', domain: 'content', prompt: 'Pick', units: Array.from({ length: 16 }, (_, index) => makeItem(index)), provenance: 'Repeated pack' });
-    const anotherTest = service.startComparison({ datasetId: second.id, mode: 'test' });
-    expect([train.a.id, train.b.id, nextTrain.a.id, nextTrain.b.id]).not.toContain(anotherTest.a.id);
-    expect([train.a.id, train.b.id, nextTrain.a.id, nextTrain.b.id]).not.toContain(anotherTest.b.id);
+    // The first frozen run reserves the remaining unseen entities too. Reimporting
+    // the same pack cannot produce another apparently independent blind test.
+    expect(() => service.startComparison({ datasetId: second.id, mode: 'test' })).toThrow(/unseen held-out entities/);
   });
   it('does not permit manual pairs to consume the test partition or change an unanswered locked pair', () => {
     const { service, pack } = setup(); const dataset = pack();
@@ -152,6 +152,50 @@ describe('personal learning ledger', () => {
     const exported = service.exportData(); store.close(); toClose.splice(toClose.indexOf(store), 1);
     const reloaded = setup(path).service;
     expect(reloaded.exportData()).toEqual(exported);
+  });
+  it('resolves comparison history from the shown revisions and links only the matching session scope across restarts', () => {
+    const dir = mkdtempSync(join(tmpdir(), 'valuerank-ledger-')); toRemove.push(dir); const path = join(dir, 'db.sqlite');
+    const { store, service } = setup(path);
+    const scopedContext = { ...context, scopeId: 'project-a' };
+    const units = [makeItem(1, { title: 'Original React approach' }), makeItem(2, { title: 'Original memory approach' })];
+    const baseSession: PersonalSearchSession = { id: 'other-project-session', query: context.query, context: { ...scopedContext, scopeId: 'project-b' }, createdAt: date, updatedAt: date, status: 'completed', questions: [], answers: {}, sources: [], units, events: [], answer: '', round: 1 };
+    service.saveSession(baseSession);
+    service.saveSession({ ...baseSession, id: 'correct-session', context: scopedContext });
+    const dataset = service.createDataset({ id: 'versioned-history', title: 'Original collection', domain: 'content', prompt: 'Pick', units, context: scopedContext, provenance: 'Authored fixture', evaluation: false });
+    const first = service.startComparison({ datasetId: dataset.id, unitIds: [units[0].id, units[1].id] });
+    const answer = service.answer({ exposureId: first.exposure.id, choice: 'b', reason: 'Two-day implementation' });
+    service.createDataset({ id: dataset.id, title: 'Renamed collection', domain: 'content', prompt: 'Pick', units: units.map(item => ({ ...item, version: 2, title: `Revised ${item.title}` })), context: { ...scopedContext, version: 2, goal: 'A later decision' }, provenance: 'Authored revision', evaluation: false });
+    store.close(); toClose.splice(toClose.indexOf(store), 1);
+    const reloaded = setup(path).service;
+    const record = reloaded.snapshot().comparisons[0];
+    expect(record).toMatchObject({ ...answer.comparison, details: {
+      a: { id: first.a.id, version: 1, title: first.a.title }, b: { id: first.b.id, version: 1, title: first.b.title },
+      domain: 'content', mode: 'learn', context: scopedContext,
+      dataset: { id: dataset.id, version: 1, title: 'Original collection', available: true },
+      session: { id: 'correct-session', query: context.query },
+    } });
+    expect(reloaded.exportData().comparisons[0]).not.toHaveProperty('details');
+    reloaded.undo(answer.comparison.id);
+    expect(reloaded.snapshot().comparisons[0]).toMatchObject({ undone: true, details: record.details });
+  });
+  it('identifies held-out comparison mode without linking a similarly named unrelated session', () => {
+    const { service, pack } = setup(); pack();
+    service.saveSession({ id: 'unrelated', query: context.query, context: { ...context, id: 'other-context' }, createdAt: date, updatedAt: date, status: 'completed', questions: [], answers: {}, sources: [], units: [], events: [], answer: '', round: 1 });
+    const pair = service.startComparison({ datasetId: 'pack', mode: 'test' });
+    service.answer({ exposureId: pair.exposure.id, choice: 'a' });
+    expect(service.snapshot().comparisons[0].details).toMatchObject({ mode: 'test', domain: 'content', context, dataset: { id: 'pack', available: true } });
+    expect(service.snapshot().comparisons[0].details).not.toHaveProperty('session');
+  });
+  it('corrects one familiar concept without deleting other knowledge or retraining comparison models', () => {
+    const { service, pack } = setup(); pack();
+    const pair = service.startComparison({ datasetId: 'pack' }); service.answer({ exposureId: pair.exposure.id, choice: 'a' });
+    service.observe({ unitId: 'unit-1', kind: 'known' }); service.observe({ unitId: 'unit-2', kind: 'known' });
+    const before = service.getModels(); const corrected = service.getFacts().find(fact => fact.value === 'Concept 1')!;
+    service.deleteFact(corrected.id);
+    expect(service.rank([makeItem(1)], context)[0].knownConcepts).toEqual([]);
+    expect(service.rank([makeItem(2)], context)[0].knownConcepts).toEqual(['Concept 2']);
+    expect(service.getModels()).toEqual(before);
+    expect(service.snapshot().comparisons).toHaveLength(1);
   });
   it('hard-deletes selected training evidence and all old model snapshots derived from it', () => {
     const { service, pack } = setup(); pack();

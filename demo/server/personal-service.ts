@@ -1,20 +1,23 @@
 import { createHash, randomUUID } from 'node:crypto';
 import { z } from 'zod';
-import type { ArenaMode, ComparisonChoice, CreatePersonalDataset, PersonalComparison, PersonalComparisonPrompt, PersonalComparisonResult, PersonalContext, PersonalDataset, PersonalEvaluation, PersonalExport, PersonalExposure, PersonalFeatureVector, PersonalModel, PersonalObservation, PersonalProfileFact, PersonalRankedUnit, PersonalSearchSession, PersonalSnapshot, PersonalSource, PersonalTrainingRow, PersonalUnit } from '../src/domain/personal.ts';
+import type { ArenaMode, ComparisonChoice, CreatePersonalDataset, PersonalComparison, PersonalComparisonPrompt, PersonalComparisonRecord, PersonalComparisonResult, PersonalContext, PersonalDataset, PersonalEvaluation, PersonalExport, PersonalExposure, PersonalFeatureVector, PersonalModel, PersonalObservation, PersonalProfileFact, PersonalRankedUnit, PersonalSearchSession, PersonalSnapshot, PersonalSource, PersonalTrainingRow, PersonalUnit } from '../src/domain/personal.ts';
 import { compatibleFeatures, fitPersonalModel, personalAdjustment, predictPair, sigmoid } from '../src/domain/personal-model.ts';
 import type { PersonalStore } from './personal-store.ts';
+import { createPersonalEvaluationService, PersonalEvaluationError } from './personal-evaluation.ts';
 
 const identifier = z.string().trim().min(1).max(180);
 const plain = z.string().max(30000);
 const version = z.number().int().min(1).max(1_000_000);
-const contextSchema = z.object({ id: identifier, version, query: z.string().max(2000), goal: z.string().max(4000), answers: z.record(z.string().max(200), z.string().max(4000)) }).strict();
+const contextSchema = z.object({ id: identifier, version, query: z.string().max(2000), goal: z.string().max(4000), answers: z.record(z.string().max(200), z.string().max(4000)), scopeId: identifier.optional() }).strict();
 const featureSchema = z.object({ schemaId: identifier, names: z.array(z.string().min(1).max(100)).min(1).max(128), values: z.array(z.number().finite().min(-1).max(1)).min(1).max(128), encoder: z.string().min(1).max(200), model: z.string().min(1).max(300), contextVersion: version }).strict().refine(vector => vector.names.length === vector.values.length && new Set(vector.names).size === vector.names.length, 'Feature names and values must match with unique names.');
 const sourceSchema = z.object({ id: identifier, version, url: z.string().max(4000), title: z.string().min(1).max(500), publisher: z.string().max(300), text: z.string().max(100000), retrievedAt: z.string().datetime(), publishedAt: z.string().max(100).optional(), provenance: z.enum(['search-excerpt', 'page-extraction', 'upload', 'authored-example']), limitations: z.array(z.string().max(2000)).max(20).optional(), originalRank: z.number().int().min(0).optional() }).strict();
 const unitSchema = z.object({ id: identifier, version, domain: z.string().min(1).max(100), modality: z.enum(['text', 'image']), kind: z.string().min(1).max(100), title: z.string().min(1).max(500), body: plain, sourceIds: z.array(identifier).max(30), evidence: z.array(z.object({ sourceId: identifier, sourceVersion: version, quote: z.string().min(1).max(8000) }).strict()).max(30), concepts: z.array(z.string().min(1).max(200)).max(40), limitations: z.array(z.string().max(2000)).max(30), effortMinutes: z.number().finite().min(0).max(10000), features: featureSchema, prior: z.number().finite().min(-4).max(4), createdAt: z.string().datetime(), imageUrl: z.string().max(4000).optional(), entityId: identifier.optional(), rights: z.string().max(2000).optional(), imageSourceUrl: z.string().url().max(4000).optional() }).strict();
 const normalize = (value: string) => value.normalize('NFKC').trim().toLocaleLowerCase('en-US').replace(/\s+/g, ' ');
 const normalizeQuote = (value: string) => value.replace(/\s+/g, ' ').trim();
 const digest = (value: string) => createHash('sha256').update(value).digest('hex');
-const modelId = (domain: string, schemaId: string) => `head-${digest(`${domain}\0${schemaId}`).slice(0, 24)}`;
+// Keep the legacy unscoped identity byte-for-byte stable. A project scope creates
+// a separate head; old labels are never silently moved or copied into it.
+const modelId = (domain: string, schemaId: string, scopeId?: string) => `head-${digest(`${domain}\0${schemaId}${scopeId === undefined ? '' : `\0${scopeId}`}`).slice(0, 24)}`;
 const unitKey = (unit: { id: string; version: number }) => `${unit.id}@${unit.version}`;
 const pairKey = (a: { id: string; version: number }, b: { id: string; version: number }) => [unitKey(a), unitKey(b)].sort().join('|');
 const latest = <T extends { id: string; version: number }>(items: T[]): T[] => [...new Map(items.map(item => [item.id, item])).values()];
@@ -36,6 +39,7 @@ export function createPersonalService(store: PersonalStore, options: { now?: () 
     if (!found) throw new PersonalError('This information unit is no longer available.', 404);
     return found;
   }
+  const evaluation = createPersonalEvaluationService({ store, unit, entityKey, now, random, model: (dataset, item) => store.get('models', modelId(dataset.domain, item.features.schemaId, dataset.context.scopeId)) });
   function checkFeatureSchema(domain: string, features: PersonalFeatureVector) {
     const previous = store.all('units').find(item => item.domain === domain && item.features.schemaId === features.schemaId);
     if (previous && (previous.features.names.length !== features.names.length || previous.features.names.some((name, index) => name !== features.names[index]))) throw new PersonalError('This feature schema already exists with different dimensions. Give the changed schema a new version.');
@@ -85,10 +89,10 @@ export function createPersonalService(store: PersonalStore, options: { now?: () 
   }
   const getSession = (id: string) => store.get('sessions', id);
   const listSessions = () => store.all('sessions');
-  function rank(units: PersonalUnit[], _context?: PersonalContext): PersonalRankedUnit[] {
+  function rank(units: PersonalUnit[], context?: PersonalContext): PersonalRankedUnit[] {
     const models = getModels(); const facts = getFacts();
     return units.map(item => {
-      const model = models.find(candidate => candidate.id === modelId(item.domain, item.features.schemaId));
+      const model = models.find(candidate => candidate.id === modelId(item.domain, item.features.schemaId, context?.scopeId));
       const knownConcepts = item.concepts.filter(concept => facts.some(fact => fact.kind === 'knowledge' && (fact.domain === item.domain || fact.domain === 'all') && normalize(fact.value) === normalize(concept)));
       const adjustment = personalAdjustment(item, model);
       return { ...item, personalAdjustment: adjustment, modelVersion: model?.version ?? 0, knownConcepts, score: 100 * sigmoid(item.prior + adjustment - (knownConcepts.length / Math.max(item.concepts.length, 1)) * 0.8) };
@@ -121,9 +125,9 @@ export function createPersonalService(store: PersonalStore, options: { now?: () 
       return [{ comparisonId: comparison.id, exposureId: exposure.id, domain: a.domain, schemaId: a.features.schemaId, context: exposure.context, a, b, target: comparison.choice === 'a' ? 1 : comparison.choice === 'b' ? 0 : 0.5 }];
     });
   }
-  function rebuild(domain: string, schemaId: string, featureNames: string[], minimumVersion = 1): PersonalModel {
-    const id = modelId(domain, schemaId); const previous = store.get('models', id);
-    const model = fitPersonalModel({ id, domain, schemaId, featureNames, version: Math.max(minimumVersion, (previous?.version ?? 0) + 1), rows: trainingRows(), createdAt: now() });
+  function rebuild(domain: string, schemaId: string, featureNames: string[], minimumVersion = 1, scopeId?: string): PersonalModel {
+    const id = modelId(domain, schemaId, scopeId); const previous = store.get('models', id);
+    const model = fitPersonalModel({ id, domain, schemaId, featureNames, version: Math.max(minimumVersion, (previous?.version ?? 0) + 1), rows: trainingRows(), createdAt: now(), scopeId });
     store.saveModel(model); return model;
   }
   function startComparison(input: { datasetId: string; mode?: ArenaMode; unitIds?: [string, string] }): PersonalComparisonPrompt {
@@ -132,22 +136,26 @@ export function createPersonalService(store: PersonalStore, options: { now?: () 
     const mode = z.enum(['learn', 'test', 'tournament']).parse(input.mode ?? 'learn');
     const requested = input.unitIds ? z.tuple([identifier, identifier]).parse(input.unitIds) : undefined;
     if (requested && (mode !== 'learn' || requested[0] === requested[1])) throw new PersonalError('Manual comparison needs two distinct training items in learn mode.');
+    if (mode === 'test') {
+      try { return evaluation.startComparison(dataset); }
+      catch (error) { if (error instanceof PersonalEvaluationError) throw new PersonalError(error.message, 409); throw error; }
+    }
     const exposures = store.all('exposures'); const comparisons = store.all('comparisons');
     const answered = new Set(comparisons.map(comparison => comparison.exposureId));
     const outstanding = exposures.find(exposure => exposure.datasetId === dataset.id && exposure.datasetVersion === dataset.version && exposure.mode === mode && !answered.has(exposure.id));
     // Reload returns the same prediction-locked pair rather than sampling until one looks attractive.
     if (outstanding && requested && !(requested.includes(outstanding.a.id) && requested.includes(outstanding.b.id))) throw new PersonalError('Answer or skip the current pair before choosing another.', 409);
     if (outstanding) return { exposure: outstanding, a: unit(outstanding.a), b: unit(outstanding.b), prompt: dataset.prompt };
-    const forbiddenEntities = new Set(exposures.filter(exposure => mode === 'test' ? exposure.mode !== 'test' : exposure.mode === 'test').flatMap(exposure => [entityKey(unit(exposure.a)), entityKey(unit(exposure.b))]));
-    let candidates = dataset.itemRefs.filter(ref => ref.partition === (mode === 'test' ? 'test' : 'train')).map(unit).filter(item => !forbiddenEntities.has(entityKey(item)));
-    if (candidates.length < 2) throw new PersonalError(mode === 'test' ? 'Not enough unseen held-out items remain. Import a fresh dataset for an honest test.' : 'Not enough training items remain. Held-out test items are kept separate.', 409);
+    const forbiddenEntities = new Set([...evaluation.reservedEntities(), ...exposures.filter(exposure => exposure.mode === 'test').flatMap(exposure => [entityKey(unit(exposure.a)), entityKey(unit(exposure.b))])]);
+    let candidates = dataset.itemRefs.filter(ref => ref.partition === 'train').map(unit).filter(item => !forbiddenEntities.has(entityKey(item)));
+    if (candidates.length < 2) throw new PersonalError('Not enough training items remain. Held-out test items are kept separate.', 409);
     const past = exposures.filter(exposure => exposure.datasetId === dataset.id && exposure.datasetVersion === dataset.version && exposure.mode === mode);
     // Undo permits a corrected learning answer through a fresh exposure. Keep all
     // original predictions/audit rows, and never reopen test or tournament pairs.
     const undoneLearning = new Set(mode === 'learn' ? comparisons.filter(comparison => comparison.undone).map(comparison => comparison.exposureId) : []);
     const seenPairs = new Set(past.filter(exposure => !undoneLearning.has(exposure.id)).map(exposure => pairKey(exposure.a, exposure.b)));
     let pairs: [PersonalUnit, PersonalUnit][] = [];
-    let policy = mode === 'test' ? 'heldout-random-v1' : 'uncertainty-coverage-v1';
+    let policy = 'uncertainty-coverage-v1';
     if (mode === 'tournament') {
       policy = 'tournament-actual-choices-v1';
       const relevant = comparisons.filter(comparison => !comparison.undone && past.some(exposure => exposure.id === comparison.exposureId));
@@ -161,7 +169,7 @@ export function createPersonalService(store: PersonalStore, options: { now?: () 
       if (candidates.length < 2) throw new PersonalError(candidates.length ? 'Tournament complete. The remaining item won the comparisons you actually made.' : 'Tournament complete. Neither item was chosen in the final comparison.', 409);
     }
     for (let a = 0; a < candidates.length; a++) for (let b = a + 1; b < candidates.length; b++) {
-      if ((mode !== 'test' || entityKey(candidates[a]) !== entityKey(candidates[b])) && !seenPairs.has(pairKey(candidates[a], candidates[b]))) pairs.push([candidates[a], candidates[b]]);
+      if (!seenPairs.has(pairKey(candidates[a], candidates[b]))) pairs.push([candidates[a], candidates[b]]);
     }
     if (requested) {
       pairs = pairs.filter(([a, b]) => requested.includes(a.id) && requested.includes(b.id));
@@ -169,7 +177,7 @@ export function createPersonalService(store: PersonalStore, options: { now?: () 
       if (!pairs.length) throw new PersonalError('Choose two unseen training items. Held-out items are reserved for the blind test, and previously shown pairs cannot be repeated.', 409);
     }
     if (!pairs.length) throw new PersonalError('Every available pair in this round has been shown. Add new items to continue.', 409);
-    const model = store.get('models', modelId(dataset.domain, candidates[0].features.schemaId));
+    const model = store.get('models', modelId(dataset.domain, candidates[0].features.schemaId, dataset.context.scopeId));
     if (!requested && mode === 'learn' && random() >= 0.2) {
       const seenCounts = new Map<string, number>();
       for (const exposure of past) for (const ref of [exposure.a, exposure.b]) seenCounts.set(unitKey(ref), (seenCounts.get(unitKey(ref)) ?? 0) + 1);
@@ -194,13 +202,15 @@ export function createPersonalService(store: PersonalStore, options: { now?: () 
   function answer(input: { exposureId: string; choice: ComparisonChoice; reason?: string }): PersonalComparisonResult {
     const exposure = store.get('exposures', identifier.parse(input.exposureId));
     if (!exposure) throw new PersonalError('Comparison exposure not found.', 404);
+    if (exposure.evaluationRunId && store.get('evaluation_runs', exposure.evaluationRunId)?.status !== 'active') throw new PersonalError('This frozen test is invalidated. Request a fresh comparison.', 409);
+    if (!store.get('predictions', exposure.id)) throw new PersonalError('This prediction was invalidated by data deletion. Request a fresh comparison.', 409);
     const choice = z.enum(['a', 'b', 'tie', 'neither', 'skip']).parse(input.choice);
     if (store.all('comparisons').some(comparison => comparison.exposureId === exposure.id)) throw new PersonalError('This comparison has already been answered. Request the next pair.', 409);
     const a = unit(exposure.a);
     const comparison: PersonalComparison = { id: randomUUID(), exposureId: exposure.id, choice, createdAt: now(), undone: false, ...(input.reason ? { reason: z.string().max(2000).parse(input.reason) } : {}) };
     return store.transaction(() => {
       store.saveComparison(comparison);
-      const model = exposure.mode !== 'test' && ['a', 'b', 'tie'].includes(choice) ? rebuild(a.domain, a.features.schemaId, a.features.names) : store.get('models', modelId(a.domain, a.features.schemaId));
+      const model = exposure.mode !== 'test' && ['a', 'b', 'tie'].includes(choice) ? rebuild(a.domain, a.features.schemaId, a.features.names, 1, exposure.context.scopeId) : store.get('models', modelId(a.domain, a.features.schemaId, exposure.context.scopeId));
       const prediction = store.get('predictions', exposure.id)!;
       const correct = choice === 'a' || choice === 'b' ? (prediction.probabilityA >= 0.5 ? choice === 'a' : choice === 'b') : null;
       return { comparison, prediction, correct, modelVersion: model?.version ?? 0 };
@@ -213,7 +223,7 @@ export function createPersonalService(store: PersonalStore, options: { now?: () 
     return store.transaction(() => {
       store.undoComparison(comparison, randomUUID(), now());
       const exposure = store.get('exposures', comparison.exposureId)!; const a = unit(exposure.a);
-      if (exposure.mode !== 'test' && ['a', 'b', 'tie'].includes(comparison.choice)) rebuild(a.domain, a.features.schemaId, a.features.names);
+      if (exposure.mode !== 'test' && ['a', 'b', 'tie'].includes(comparison.choice)) rebuild(a.domain, a.features.schemaId, a.features.names, 1, exposure.context.scopeId);
       return snapshot();
     });
   }
@@ -243,40 +253,44 @@ export function createPersonalService(store: PersonalStore, options: { now?: () 
     });
   }
   function evaluations(): PersonalEvaluation[] {
-    const exposures = new Map(store.all('exposures').map(exposure => [exposure.id, exposure]));
-    const predictions = new Map(store.all('predictions').map(prediction => [prediction.exposureId, prediction]));
-    return datasets().map(dataset => {
-      const rows = store.all('comparisons').filter(comparison => !comparison.undone && ['a', 'b'].includes(comparison.choice) && exposures.get(comparison.exposureId)?.datasetId === dataset.id && exposures.get(comparison.exposureId)?.mode === 'test' && predictions.has(comparison.exposureId));
-      let correct = 0; let baselineCorrect = 0; let loss = 0; let baselineLoss = 0; let brier = 0;
-      for (const row of rows) {
-        const prediction = predictions.get(row.exposureId)!; const target = row.choice === 'a' ? 1 : 0;
-        const probability = Math.max(1e-7, Math.min(1 - 1e-7, prediction.probabilityA));
-        const baseline = Math.max(1e-7, Math.min(1 - 1e-7, prediction.baselineProbabilityA));
-        correct += Number((probability >= 0.5 ? 1 : 0) === target); baselineCorrect += Number((baseline >= 0.5 ? 1 : 0) === target);
-        loss -= target * Math.log(probability) + (1 - target) * Math.log(1 - probability);
-        baselineLoss -= target * Math.log(baseline) + (1 - target) * Math.log(1 - baseline);
-        brier += (probability - target) ** 2;
-      }
-      return { datasetId: dataset.id, domain: dataset.domain, count: rows.length, correct, baselineCorrect, logLoss: rows.length ? loss / rows.length : null, brier: rows.length ? brier / rows.length : null, baselineLogLoss: rows.length ? baselineLoss / rows.length : null };
-    });
+    return datasets().map(evaluation.latest);
   }
   function snapshot(): PersonalSnapshot {
-    const comparisons = store.all('comparisons'); const rows = trainingRows();
-    return { datasets: datasets(), facts: getFacts(), models: getModels(), comparisons: comparisons.slice(-100).reverse(), evaluations: evaluations(), observationCount: store.all('observations').length, trainingCount: rows.length, testCount: evaluations().reduce((sum, evaluation) => sum + evaluation.count, 0), recentSessions: listSessions().slice(-30).reverse().map(session => ({ id: session.id, query: session.query, status: session.status, createdAt: session.createdAt, unitCount: session.units.length })) };
+    const comparisons = store.all('comparisons'); const rows = trainingRows(); const evaluationHistory = evaluation.history();
+    const sessions = listSessions();
+    const records: PersonalComparisonRecord[] = comparisons.slice(-100).reverse().map(comparison => {
+      const exposure = store.get('exposures', comparison.exposureId);
+      if (!exposure) return comparison;
+      const a = store.get('units', exposure.a.id, exposure.a.version); const b = store.get('units', exposure.b.id, exposure.b.version);
+      if (!a || !b) return comparison;
+      const dataset = store.get('datasets', exposure.datasetId, exposure.datasetVersion);
+      // A matching query alone is not a relationship: two projects can ask the same question.
+      const session = sessions.find(item => item.context.id === exposure.context.id && item.context.scopeId === exposure.context.scopeId);
+      return { ...comparison, details: {
+        a: { ...exposure.a, title: a.title }, b: { ...exposure.b, title: b.title }, domain: a.domain,
+        mode: exposure.mode, context: exposure.context,
+        dataset: { id: exposure.datasetId, version: exposure.datasetVersion, title: dataset?.title ?? 'Unavailable collection', available: !!store.get('datasets', exposure.datasetId) },
+        ...(session ? { session: { id: session.id, query: session.query } } : {}),
+      } };
+    });
+    return { datasets: datasets(), facts: getFacts(), models: getModels(), comparisons: records, evaluations: evaluations(), evaluationHistory, observationCount: store.all('observations').length, trainingCount: rows.length, testCount: evaluationHistory.reduce((sum, result) => sum + result.count, 0), recentSessions: sessions.slice(-30).reverse().map(session => ({ id: session.id, query: session.query, status: session.status, createdAt: session.createdAt, unitCount: session.units.length })) };
   }
   function exportData(): PersonalExport {
-    return { format: 'valuerank-personal-v1', exportedAt: now(), sources: store.all('sources'), units: store.all('units'), sessions: store.all('sessions'), datasets: store.all('datasets'), exposures: store.all('exposures'), predictions: store.all('predictions').filter(prediction => store.all('comparisons').some(comparison => comparison.exposureId === prediction.exposureId)), comparisons: store.all('comparisons'), facts: getFacts(), observations: store.all('observations'), models: store.all('models'), trainingRows: trainingRows() };
+    return { format: 'valuerank-personal-v1', exportedAt: now(), sources: store.all('sources'), units: store.all('units'), sessions: store.all('sessions'), datasets: store.all('datasets'), exposures: store.all('exposures'), predictions: store.all('predictions').filter(prediction => store.all('comparisons').some(comparison => comparison.exposureId === prediction.exposureId)), comparisons: store.all('comparisons'), facts: getFacts(), observations: store.all('observations'), models: store.all('models'), trainingRows: trainingRows(), evaluationRuns: evaluation.runs() };
   }
   function deleteData(): PersonalSnapshot { store.clear(); return snapshot(); }
-  function invalidateHeadPredictions(domain: string, schemaId: string) {
+  function invalidateHeadPredictions(domain: string, schemaId: string, scopeId?: string) {
+    store.invalidateEvaluationRuns(domain, schemaId, now(), scopeId);
     const answered = new Set(store.all('comparisons').map(comparison => comparison.exposureId));
     for (const exposure of store.all('exposures')) {
       const a = unit(exposure.a);
-      if (a.domain !== domain || a.features.schemaId !== schemaId) continue;
+      if (a.domain !== domain || a.features.schemaId !== schemaId || exposure.context.scopeId !== scopeId) continue;
       // Historical forecasts are derived from the erased training data. Keep actual
       // choices for rebuilding, but exclude erased forecasts from future metrics.
       store.remove('predictions', exposure.id);
-      if (!answered.has(exposure.id)) store.remove('exposures', exposure.id);
+      // A shown test entity remains seen even when its old forecast is erased.
+      // Keep that raw exposure so another run cannot call it newly held out.
+      if (!answered.has(exposure.id) && exposure.mode !== 'test') store.remove('exposures', exposure.id);
     }
   }
   function deleteComparison(id: string): PersonalSnapshot {
@@ -284,13 +298,21 @@ export function createPersonalService(store: PersonalStore, options: { now?: () 
     if (!comparison) throw new PersonalError('Comparison not found.', 404);
     return store.transaction(() => {
       const exposure = store.get('exposures', comparison.exposureId)!; const a = unit(exposure.a);
-      store.remove('comparisons', comparison.id); store.remove('predictions', exposure.id); store.remove('exposures', exposure.id);
-      // Old parameter snapshots are derived from the deleted label and must also go.
-      const oldVersion = store.get('models', modelId(a.domain, a.features.schemaId))?.version ?? 0;
-      store.remove('models', modelId(a.domain, a.features.schemaId));
+      store.remove('comparisons', comparison.id); store.remove('predictions', exposure.id);
+      // A deleted test answer must not make a previously viewed entity unseen.
+      if (exposure.mode !== 'test') store.remove('exposures', exposure.id);
       store.removeUndo(comparison.id);
-      invalidateHeadPredictions(a.domain, a.features.schemaId);
-      rebuild(a.domain, a.features.schemaId, a.features.names, oldVersion + 1);
+      if (exposure.mode === 'test') {
+        if (exposure.evaluationRunId) store.invalidateEvaluationRun(exposure.evaluationRunId, now(), 'test-data-deleted');
+        return snapshot();
+      }
+      if (!['a', 'b', 'tie'].includes(comparison.choice)) return snapshot();
+      // Old parameter snapshots are derived from the deleted label and must also go.
+      // Undone labels still require erasing historical weights trained before undo.
+      const oldVersion = store.get('models', modelId(a.domain, a.features.schemaId, exposure.context.scopeId))?.version ?? 0;
+      store.remove('models', modelId(a.domain, a.features.schemaId, exposure.context.scopeId));
+      invalidateHeadPredictions(a.domain, a.features.schemaId, exposure.context.scopeId);
+      rebuild(a.domain, a.features.schemaId, a.features.names, oldVersion + 1, exposure.context.scopeId);
       return snapshot();
     });
   }
@@ -298,21 +320,26 @@ export function createPersonalService(store: PersonalStore, options: { now?: () 
     identifier.parse(id);
     if (!store.get('datasets', id)) throw new PersonalError('Dataset not found.', 404);
     return store.transaction(() => {
-      const affected = new Map<string, { unit: PersonalUnit; version: number }>();
+      const affected = new Map<string, { unit: PersonalUnit; version: number; scopeId?: string }>();
       for (const exposure of store.all('exposures').filter(candidate => candidate.datasetId === id)) {
-        const a = unit(exposure.a); const head = modelId(a.domain, a.features.schemaId);
-        affected.set(head, { unit: a, version: store.get('models', head)?.version ?? 0 });
         for (const comparison of store.all('comparisons').filter(candidate => candidate.exposureId === exposure.id)) {
+          // Test, skipped and unanswered exposures never contributed a label to
+          // this head. Deleting them must preserve unrelated frozen forecasts.
+          if (exposure.mode !== 'test' && ['a', 'b', 'tie'].includes(comparison.choice)) {
+            const a = unit(exposure.a); const head = modelId(a.domain, a.features.schemaId, exposure.context.scopeId);
+            affected.set(head, { unit: a, version: store.get('models', head)?.version ?? 0, scopeId: exposure.context.scopeId });
+          }
           store.removeUndo(comparison.id); store.remove('comparisons', comparison.id);
         }
         store.remove('predictions', exposure.id); store.remove('exposures', exposure.id);
       }
       store.remove('datasets', id);
+      for (const run of evaluation.runs().filter(run => run.datasetId === id)) store.remove('evaluation_runs', run.id);
       cleanupUnreferenced();
       for (const [head, value] of affected) {
         store.remove('models', head);
-        invalidateHeadPredictions(value.unit.domain, value.unit.features.schemaId);
-        rebuild(value.unit.domain, value.unit.features.schemaId, value.unit.features.names, value.version + 1);
+        invalidateHeadPredictions(value.unit.domain, value.unit.features.schemaId, value.scopeId);
+        rebuild(value.unit.domain, value.unit.features.schemaId, value.unit.features.names, value.version + 1, value.scopeId);
       }
       return snapshot();
     });
