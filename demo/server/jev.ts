@@ -45,13 +45,13 @@ const questions = {
   },
 } as const satisfies Questions;
 
-export const JEV_SUPPORT_QUESTION = 'Does source.excerpt support the material factual assertions in claim, with the same scope and qualifications?';
+export const JEV_SUPPORT_QUESTION = 'Does source.excerpt support the material factual assertions and premises in claim, with the same scope and qualifications, or does claim only propose an action or ask an open question without unsupported factual premises?';
 const supportQuestion = {
   type: 'noul',
-  instructions: DATA_RULE + JEV_SUPPORT_QUESTION + ' Judge source support, not personal relevance, plausibility, persuasion, or agreement with the recommendation. A source claim is not independently verified truth. Do not treat conditional advice or explicit uncertainty as a verified product fact.',
+  instructions: DATA_RULE + JEV_SUPPORT_QUESTION + ' Judge source support, not personal relevance, plausibility, persuasion, or agreement with the recommendation. A source claim is not independently verified truth. Explicitly conditional advice inferred from evidenced tradeoffs, proposed experiments, and unresolved questions may pass when they assert no unsupported external fact or premise. A question phrased as "Since X, what next?" still asserts X. Metadata identifies source boundaries and attribution; a publisher name, title or URL does not establish authority or supply missing factual evidence.',
   criteria: {
-    true: 'The excerpt supports the claim\'s factual assertions and qualifications. The claim does not add unsupported capabilities, prices, benchmark results, local compatibility, or implementation-timeline certainty.',
-    false: 'A material assertion is contradicted, absent, more certain, broader in scope, or more specific than the excerpt supports. Plausible outside knowledge, a title, the user goal, and the proposed recommendation cannot supply missing evidence.',
+    true: 'The excerpt supports all material factual assertions and premises with the same qualifications and product attribution, or the claim is explicitly advice, a proposed test, or an open question with no unsupported factual premise. The claim does not add unsupported capabilities, prices, benchmark results, local compatibility, or implementation-timeline certainty. User constraints do not establish feasibility or total cost.',
+    false: 'A material assertion or premise is contradicted, absent, attributed to the wrong product, more certain, broader in scope, or more specific than the excerpt supports, even inside a title, question, or proposed action. Plausible outside knowledge, a title, the user goal, and the proposed recommendation cannot supply missing evidence.',
   },
 } as const satisfies Questions[string];
 

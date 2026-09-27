@@ -5,6 +5,7 @@ import { createPersonalSearchService, selectSynthesisUnits, groundedUnitsSchema,
 import { explicitSearchDomains, matchesSearchDomains, sourceRegistry, type generateSearchJson } from './personal-search-adapter.ts';
 import type { PersonalSearchSession, PersonalSource, PersonalUnit } from '../src/domain/personal.ts';
 import type { evaluateWithJev } from './jev.ts';
+import type { VerifySourceSupport } from './source-support.ts';
 
 const quote = 'Jev uses the same model weights for every account and can create downstream ranking features.';
 const source: PersonalSource = { id: 's1', version: 1, url: 'https://example.org/docs', title: 'Source', publisher: 'example.org', text: quote, retrievedAt: '2026-09-26T00:00:00.000Z', provenance: 'search-excerpt' };
@@ -28,7 +29,7 @@ function setup(extra: Partial<Parameters<typeof createPersonalSearchService>[0]>
   }) as unknown as typeof generateSearchJson;
   const evaluate: typeof evaluateWithJev = vi.fn(async (_item, _analysis, context) => ({ decision: { relevance: .9, novelty: .8, actionability: .7, source: 'jev' as const, provider: 'openrouter' as const, model: 'typesafe/jev-1.13-20260917', profileVersion: context.version, createdAt: '2026-09-26T00:00:00.000Z' }, tokens: 50 }));
   const retrieve = vi.fn(async (_query: string, _count: number) => ({ sources: [structuredClone(source)], tokens: 20, durationMs: 1, model: 'mock/model', calls: 1 }));
-  const service = createPersonalSearchService({ store, configuration: () => settings, profile: () => profile, retrieve, generate, evaluate, ...extra });
+  const service = createPersonalSearchService({ store, configuration: () => settings, profile: () => profile, retrieve, generate, evaluate, verifySynthesis: async () => ({ score: .95, model: 'mock/jev', tokens: 0, durationMs: 1, checkedAt: source.retrievedAt, version: 'test' }), ...extra });
   return { service, sessions, units, store, generate, evaluate, retrieve };
 }
 
@@ -117,6 +118,32 @@ describe('source targeting and synthesis diversity', () => {
 });
 
 describe('durable personal search workflow', () => {
+  it('quarantines newly invented synthesis claims while retaining ranked cards and the full draft', async () => {
+    const verifySynthesis = vi.fn<VerifySourceSupport>(async () => ({ score: .2, model: 'mock/jev', tokens: 25, durationMs: 1, checkedAt: source.retrievedAt, version: 'test' }));
+    const { service, sessions } = setup({ verifySynthesis });
+    const start = service.start('Personal ranking'); await service.waitForIdle(); service.continue(start.id); await service.waitForIdle();
+    const session = sessions.get(start.id)!;
+    expect(session.status).toBe('partial'); expect(session.units).toHaveLength(1); expect(session.answer).toBe('');
+    expect(session.answerReview?.status).toBe('needs-review'); expect(session.answerReview?.draft).toContain('A separate ranking model');
+    expect(session.answerReview?.checks[0].status).toBe('flagged'); expect(verifySynthesis.mock.calls[0][0].passages).toEqual([{ quote, sourceId: source.id, sourceVersion: 1, title: source.title, publisher: source.publisher, url: source.url }]);
+  });
+  it('fails closed when synthesis support is unavailable, and does not replay checks on restart', async () => {
+    const verifySynthesis = vi.fn<VerifySourceSupport>(async () => { throw new Error('Transport unavailable'); });
+    const { service, sessions } = setup({ verifySynthesis });
+    const start = service.start('Personal ranking'); await service.waitForIdle(); service.continue(start.id); await service.waitForIdle();
+    const session = sessions.get(start.id)!;
+    expect(session.status).toBe('partial'); expect(session.answer).toBe(''); expect(session.answerReview?.checks[0].status).toBe('unavailable');
+    session.status = 'ranking'; session.answerReview!.status = 'checking'; session.answerReview!.checks[0].status = 'pending'; sessions.set(session.id, session);
+    service.recoverInterrupted();
+    expect(sessions.get(session.id)?.answerReview?.status).toBe('needs-review'); expect(sessions.get(session.id)?.answerReview?.checks[0].status).toBe('unavailable');
+    expect(verifySynthesis).toHaveBeenCalledTimes(1);
+  });
+  it('uses the production support path by default and never treats a missing estimate as a passed check', async () => {
+    const { service, sessions, evaluate } = setup({ verifySynthesis: undefined });
+    const start = service.start('Personal ranking'); await service.waitForIdle(); service.continue(start.id); await service.waitForIdle();
+    expect(evaluate).toHaveBeenCalledTimes(2);
+    expect(sessions.get(start.id)?.answer).toBe(''); expect(sessions.get(start.id)?.answerReview?.checks[0].status).toBe('unavailable');
+  });
   it('checks title and body support, preserves withheld evidence, and keeps it out of ranking and synthesis', async () => {
     const fixture = setup();
     const evaluate = vi.fn(async (...args: Parameters<typeof evaluateWithJev>) => ({ ...await fixture.evaluate(...args), support: 0.2 }));

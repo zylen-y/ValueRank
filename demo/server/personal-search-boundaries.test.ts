@@ -3,6 +3,8 @@ import type { PersonalSearchSession, PersonalSource } from '../src/domain/person
 import type { evaluateWithJev } from './jev.ts';
 import { explicitSearchDomains, type generateSearchJson, type retrievePersonalSources } from './personal-search-adapter.ts';
 import { createPersonalSearchService, type PersonalSearchStore } from './personal-search.ts';
+import { CostBudgetError } from './cost-budget.ts';
+import type { VerifySourceSupport } from './source-support.ts';
 
 const source: PersonalSource = {
   id: 'scope-source', version: 1, url: 'https://docs.example.com/memory', title: 'Memory documentation', publisher: 'docs.example.com',
@@ -38,7 +40,16 @@ function fixture(overrides: Partial<Parameters<typeof createPersonalSearchServic
   const evaluate = vi.fn(async () => ({ decision: { relevance: .9, novelty: .8, actionability: .7, source: 'jev', provider: 'openrouter', model: 'mock/jev', profileVersion: 1, createdAt: source.retrievedAt }, support: .9, tokens: 50 })) as unknown as typeof evaluateWithJev;
   const retrieve = vi.fn(async () => retrieval());
   const service = createPersonalSearchService({ store, configuration: () => ({ gatewayKey: 'mock', llmModel: 'mock/model', jevKey: 'mock', jevModel: 'mock/jev', jevProvider: 'openrouter' }), profile: () => ({ goal: 'Build a useful app', knownConcepts: [], interests: { agents: .5, ranking: .5, rl: .5, web: .5, language: .5, design: .5 }, feedbackCount: 0, version: 1 }), generate, evaluate, retrieve, ...overrides });
-  return { service, sessions, generate, evaluate, retrieve };
+  return { service, sessions, store, generate, evaluate, retrieve };
+}
+
+const support = () => ({ score: .9, model: 'mock/jev', tokens: 10, durationMs: 1, checkedAt: source.retrievedAt, version: 'test' });
+function threeParagraphs(standard: typeof generateSearchJson): typeof generateSearchJson {
+  return (async (...args: Parameters<typeof generateSearchJson>) => {
+    if (!args[1].includes('Assemble')) return standard(...args);
+    const cards = (args[2] as { cards: { id: string }[] }).cards;
+    return { value: args[0].parse({ optionAssessments: [], paragraphs: Array.from({ length: 3 }, (_, index) => ({ text: `Inspect documented operation ${index + 1} before choosing a memory component.`, unitIds: [cards[0].id] })), followUp: null }), tokens: 100, durationMs: 1, model: 'mock/model' };
+  }) as typeof generateSearchJson;
 }
 
 describe('personal search request boundaries', () => {
@@ -158,5 +169,70 @@ describe('personal search request boundaries', () => {
     const done = sessions.get(started.id)!;
     expect(done.status).toBe('cancelled'); expect(done.units).toHaveLength(0); expect(done.pendingUnits).toHaveLength(0);
     expect(evaluate).not.toHaveBeenCalled(); expect(service.isRunning()).toBe(false);
+  });
+
+  it.each(['authentication', 'budget'] as const)('stops scheduling synthesis checks on %s failure but waits for the in-flight peer', async kind => {
+    const standard = fixture(); const pending = deferred<ReturnType<typeof support>>(); const entered = deferred<void>();
+    const verifySynthesis = vi.fn<VerifySourceSupport>(async () => {
+      if (verifySynthesis.mock.calls.length === 1) throw kind === 'budget' ? new CostBudgetError('exhausted', 'Stopped') : Object.assign(new Error('Stopped'), { status: 401 });
+      entered.resolve(); return pending.promise;
+    });
+    const { service, sessions } = fixture({ generate: threeParagraphs(standard.generate), verifySynthesis });
+    const started = service.start('Compare memory implementations'); await service.waitForIdle();
+    service.continue(started.id); await entered.promise;
+    expect(service.isRunning()).toBe(true); expect(verifySynthesis).toHaveBeenCalledTimes(2);
+    pending.resolve(support()); await service.waitForIdle();
+    const done = sessions.get(started.id)!;
+    expect(verifySynthesis).toHaveBeenCalledTimes(2); expect(done.status).toBe('partial'); expect(done.answer).toBe('');
+    expect(done.answerReview?.checks.map(check => check.status)).toEqual(['unavailable', 'matched', 'unavailable']);
+    expect(done.answerReview?.status).toBe('needs-review'); expect(service.isRunning()).toBe(false);
+  });
+
+  it('halts synthesis checking after a checkpoint write fails while preserving the draft', async () => {
+    const standard = fixture(); const pending = deferred<ReturnType<typeof support>>(); const entered = deferred<void>();
+    const verifySynthesis = vi.fn<VerifySourceSupport>(async () => {
+      if (verifySynthesis.mock.calls.length === 1) return support();
+      entered.resolve(); return pending.promise;
+    });
+    const { service, sessions, store } = fixture({ generate: threeParagraphs(standard.generate), verifySynthesis });
+    const save = store.saveSession.bind(store); let failed = false;
+    vi.spyOn(store, 'saveSession').mockImplementation(session => {
+      if (!failed && session.answerReview?.checks[0].status === 'matched') { failed = true; throw new Error('Checkpoint unavailable'); }
+      save(session);
+    });
+    const started = service.start('Compare memory implementations'); await service.waitForIdle();
+    service.continue(started.id); await entered.promise; expect(service.isRunning()).toBe(true);
+    pending.resolve(support()); await service.waitForIdle();
+    const done = sessions.get(started.id)!;
+    expect(failed).toBe(true); expect(verifySynthesis).toHaveBeenCalledTimes(2);
+    expect(done.answer).toBe(''); expect(done.answerReview?.draft).toContain('Inspect documented operation');
+    expect(done.answerReview?.checks.map(check => check.status)).toEqual(['unavailable', 'matched', 'unavailable']);
+  });
+
+  it('rejects an invalid high synthesis score at the orchestration boundary', async () => {
+    const verifySynthesis = vi.fn<VerifySourceSupport>(async () => ({ ...support(), score: Infinity }));
+    const { service, sessions } = fixture({ verifySynthesis });
+    const started = service.start('Compare memory implementations'); await service.waitForIdle(); service.continue(started.id); await service.waitForIdle();
+    expect(sessions.get(started.id)?.answer).toBe('');
+    expect(sessions.get(started.id)?.answerReview?.checks[0].status).toBe('unavailable');
+  });
+
+  it('checks the published option label together with its assessment', async () => {
+    const standard = fixture(); const label = 'Guaranteed encrypted storage';
+    const generate = (async (...args: Parameters<typeof generateSearchJson>) => {
+      if (args[1].startsWith('Ask')) return { value: args[0].parse({ researchPlan: { ...plan, options: [{ id: 'memory', label }] }, questions: [] }), tokens: 100, durationMs: 1, model: 'mock/model' };
+      if (args[1].includes('Create 2-4')) {
+        const generated = await standard.generate(...args); const value = generated.value as { units: Record<string, unknown>[] };
+        return { ...generated, value: args[0].parse({ units: value.units.map(unit => ({ ...unit, optionIds: ['memory'] })) }) };
+      }
+      const cards = (args[2] as { cards: { id: string }[] }).cards;
+      return { value: args[0].parse({ optionAssessments: [{ optionId: 'memory', text: 'The component stores records in SQLite.', unitIds: [cards[0].id] }], paragraphs: [{ text: 'Inspect the documented storage operation.', unitIds: [cards[0].id] }], followUp: null }), tokens: 100, durationMs: 1, model: 'mock/model' };
+    }) as typeof generateSearchJson;
+    const verifySynthesis = vi.fn<VerifySourceSupport>(async input => ({ ...support(), score: input.claim.includes(label) ? .1 : .9 }));
+    const { service, sessions } = fixture({ generate, verifySynthesis });
+    const started = service.start('Compare memory implementations'); await service.waitForIdle(); service.continue(started.id); await service.waitForIdle();
+    const check = sessions.get(started.id)?.answerReview?.checks.find(item => item.id === 'option-memory');
+    expect(check?.claim).toBe(`${label}: The component stores records in SQLite.`); expect(check?.status).toBe('flagged');
+    expect(sessions.get(started.id)?.answer).toBe('');
   });
 });

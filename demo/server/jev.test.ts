@@ -94,6 +94,9 @@ describe('Jev request', () => {
     expect(supported.state.claim).toBe('Compare pairs before fitting preferences.');
     expect(supported.questions.support?.instructions).toContain('not independently verified truth');
     expect(supported.questions.support?.criteria.true).toContain('implementation-timeline certainty');
+    expect(supported.questions.support?.instructions).toContain('proposed experiments');
+    expect(supported.questions.support?.instructions).toContain('still asserts X');
+    expect(supported.questions.support?.criteria.true).toContain('User constraints do not establish feasibility or total cost');
     expect(() => buildRequest(item, analysis, profile, 'jev-latest', 'typesafe', ' ')).toThrow('nonempty claim');
   });
 });

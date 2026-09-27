@@ -2,6 +2,7 @@ import { randomUUID } from 'node:crypto';
 import { z } from 'zod';
 import { PERSONAL_FEATURE_NAMES, PERSONAL_FEATURE_SCHEMA, type PersonalContext, type PersonalProfileFact, type PersonalRankedUnit, type PersonalSearchSession, type PersonalSource, type PersonalUnit } from '../src/domain/personal.ts';
 import { TOPICS, type Analysis, type ContentItem, type Profile } from '../src/domain/types.ts';
+import { createSourceSupportVerifier, SOURCE_SUPPORT_RUBRIC_VERSION, type VerifySourceSupport } from './source-support.ts';
 import { languageAgreement, plainChoiceSchema, targetLanguage } from './research-quality.ts';
 import { evaluateWithJev } from './jev.ts';
 import { classifyProviderError, safeProviderError } from './provider-error.ts';
@@ -25,6 +26,7 @@ interface Options {
   retrieve?: typeof retrievePersonalSources;
   generate?: typeof generateSearchJson;
   evaluate?: typeof evaluateWithJev;
+  verifySynthesis?: VerifySourceSupport;
   now?: () => number;
 }
 const planEntry = z.object({ id: z.string().regex(/^[a-z][a-z0-9_]{0,29}$/), label: z.string().trim().min(2).max(140) });
@@ -51,7 +53,7 @@ const answerSchema = z.object({
   followUp: z.object({ id: z.literal('refine'), question: z.string().min(8).max(200), options: z.array(plainChoiceSchema).min(2).max(3) }).nullable(),
 });
 const ACTIVE = new Set(['interpreting', 'searching', 'grounding', 'ranking']);
-const HALT = new Set(['authentication', 'credits', 'access', 'rate-limit', 'model']);
+const HALT = new Set(['budget', 'authentication', 'credits', 'access', 'rate-limit', 'model']);
 const EVIDENCE_ERROR = 'A generated quotation did not match a retrieved source. The affected card was rejected.';
 
 export interface SourcePassage { id: string; sourceId: string; sourceVersion: number; start: number; end: number; text: string }
@@ -127,6 +129,7 @@ export function createPersonalSearchService(options: Options) {
   const retrieve = options.retrieve ?? retrievePersonalSources;
   const generate = options.generate ?? generateSearchJson;
   const evaluate = options.evaluate ?? evaluateWithJev;
+  const verifySynthesis = options.verifySynthesis ?? createSourceSupportVerifier(evaluate);
   const now = options.now ?? Date.now;
   const iso = () => new Date(now()).toISOString();
   let active: { id: string; controller: AbortController; task: Promise<void> } | null = null;
@@ -271,7 +274,7 @@ export function createPersonalSearchService(options: Options) {
           const result = await evaluate(item, analysis, profile, { apiKey: settings.jevKey, model: settings.jevModel, provider: settings.jevProvider, claim: `${unit.title}\n${unit.body}` }, signal);
           signal.throwIfAborted();
           if (result.support !== undefined) {
-            unit.sourceSupport = { score: result.support, model: result.decision.model, checkedAt: iso() };
+            unit.sourceSupport = { score: result.support, model: result.decision.model, checkedAt: iso(), rubricVersion: SOURCE_SUPPORT_RUBRIC_VERSION, threshold: .5 };
             if (result.support < 0.5) {
               // Development screening policy, not a calibrated probability of truth.
               session.withheldUnits ??= [];
@@ -380,6 +383,7 @@ export function createPersonalSearchService(options: Options) {
   const answer = async (session: PersonalSearchSession, selectedIds: string[], signal: AbortSignal) => {
     const selected = session.units.filter(unit => selectedIds.includes(unit.id)).slice(0, 8);
     if (!selected.length) throw new Error('Choose at least one existing information card.');
+    session.answer = ''; delete session.answerReview; session.followUp = undefined;
     event(session, 'answer', 'Composing a concise answer from the selected cards only.');
     const coveredOptions = (session.researchPlan?.options ?? []).filter(option => selected.some(unit => unit.researchTags?.optionIds.includes(option.id)));
     const schema = answerSchema.superRefine((value, ctx) => {
@@ -399,9 +403,43 @@ export function createPersonalSearchService(options: Options) {
       const assessment = result.value.optionAssessments?.find(item => item.optionId === option.id);
       return `${option.label}: ${assessment ? `${assessment.text} ${references(assessment.unitIds)}` : targetLanguage(session.query) === 'ko' ? '선택된 근거만으로 이 대안을 판단할 수 없습니다. 비교하거나 제외하기 전에 추가 근거가 필요합니다.' : 'The selected passages do not establish this alternative. More evidence is needed before comparing it or recommending against it.'}`;
     });
-    session.answer = [...result.value.paragraphs.map(paragraph => `${paragraph.text} ${paragraph.unitIds.map(id => `[unit:${id}@${selected.find(unit => unit.id === id)!.version}]`).join(' ')}`), ...assessments].join('\n\n');
-    session.followUp = result.value.followUp ?? undefined;
-    usage(session, result, 'llm', 'Answer grounded in the selected card IDs.');
+    const draft = [...result.value.paragraphs.map(paragraph => `${paragraph.text} ${paragraph.unitIds.map(id => `[unit:${id}@${selected.find(unit => unit.id === id)!.version}]`).join(' ')}`), ...assessments].join('\n\n');
+    usage(session, result, 'llm', 'Candidate synthesis references the selected cards; checking its claims against their passages.');
+    const clauses = [
+      ...result.value.paragraphs.map((item, index) => ({ id: `paragraph-${index}`, claim: item.text, unitIds: item.unitIds })),
+      ...(result.value.optionAssessments ?? []).map(item => ({ id: `option-${item.optionId}`, claim: `${session.researchPlan?.options.find(option => option.id === item.optionId)?.label ?? item.optionId}: ${item.text}`, unitIds: item.unitIds })),
+      ...(result.value.followUp ? [{ id: 'follow-up', claim: `${result.value.followUp.question} Options: ${result.value.followUp.options.join('; ')}`, unitIds: selected.map(unit => unit.id) }] : []),
+    ];
+    const review: NonNullable<PersonalSearchSession['answerReview']> = { version: 'search-synthesis-support-v1', threshold: .8, status: 'checking', draft, checks: clauses.map(item => ({ ...item, status: 'pending' })) };
+    session.answerReview = review; persist(session);
+    let cursor = 0; let halted = false;
+    const workers = await Promise.allSettled(Array.from({ length: Math.min(2, clauses.length) }, async () => {
+      while (cursor < review.checks.length && !signal.aborted && !halted) {
+        const check = review.checks[cursor++];
+        try {
+          const references = selected.filter(unit => check.unitIds.includes(unit.id)).flatMap(unit => unit.evidence);
+          const passages = [...new Map(references.map(reference => {
+            const source = session.sources.find(source => source.id === reference.sourceId && source.version === reference.sourceVersion);
+            if (!source) throw new Error(EVIDENCE_ERROR);
+            return [`${source.id}@${source.version}:${reference.quote}`, { quote: reference.quote, sourceId: source.id, sourceVersion: source.version, title: source.title, publisher: source.publisher, url: source.url }];
+          })).values()];
+          const result = await verifySynthesis({ claim: check.claim, passages, context: goal(session).slice(0, 3000) }, options.configuration(), signal);
+          signal.throwIfAborted();
+          if (!Number.isFinite(result.score) || result.score < 0 || result.score > 1) throw new Error('Source-support check returned an invalid estimate.');
+          check.score = result.score; check.model = result.model; check.rubricVersion = result.version; check.status = result.score >= review.threshold ? 'matched' : 'flagged';
+          try { usage(session, result, 'jev', 'Received a fallible source-support judgment for the generated synthesis.'); } catch (error) { halted = true; throw error; }
+        } catch (error) { if (HALT.has(classifyProviderError(error))) halted = true; check.status = 'unavailable'; check.error = signal.aborted ? 'The check was cancelled.' : safeProviderError(error, { stage: 'jev', provider: options.configuration().jevProvider }); }
+        try { persist(session); } catch (error) { halted = true; throw error; }
+      }
+    }));
+    for (const check of review.checks) if (check.status === 'pending') { check.status = 'unavailable'; check.error = 'The source check did not finish.'; }
+    review.status = review.checks.every(check => check.status === 'matched') ? 'passed' : 'needs-review';
+    persist(session); signal.throwIfAborted();
+    const workerFailure = workers.find((result): result is PromiseRejectedResult => result.status === 'rejected');
+    if (workerFailure) throw workerFailure.reason;
+    if (review.status === 'passed') { session.answer = draft; session.followUp = result.value.followUp ?? undefined; }
+    else { session.error = `${session.error ? `${session.error} ` : ''}The generated synthesis needs source review. Ranked cards and the unaccepted draft remain available.`; }
+    event(session, 'answer-review', review.status === 'passed' ? 'Synthesis passed the automated passage-support screen. This does not independently verify its sources.' : 'Synthesis held for evidence review; no completed answer was accepted.');
   };
   const processSources = async (session: PersonalSearchSession, signal: AbortSignal, candidates: PersonalSource[]) => {
     await ground(session, candidates, signal);
@@ -485,7 +523,7 @@ export function createPersonalSearchService(options: Options) {
       const instruction = input.instruction.trim();
       if (!instruction || instruction.length > 700) throw new Error('Use a refinement of 1–700 characters.');
       if (input.research && session.round >= PERSONAL_SEARCH_LIMITS.rounds) throw new Error('This session reached its two research rounds. Start a new search for another topic.');
-      session.context.version++; session.context.goal = instruction; session.pendingUnits = []; session.answer = ''; session.followUp = undefined; delete session.error;
+      session.context.version++; session.context.goal = instruction; session.pendingUnits = []; session.answer = ''; delete session.answerReview; session.followUp = undefined; delete session.error;
       session.status = input.research ? 'searching' : 'ranking'; persist(session);
       return launch(session, async signal => {
         if (input.research) { session.round++; await research(session, signal, `${session.query}\nSpecific evidence gap to research: ${instruction}`, false); }
@@ -496,11 +534,11 @@ export function createPersonalSearchService(options: Options) {
           if (!session.units.length) throw new Error('No card was scored for the refined context. Previous versions remain in the data export.');
           rank(session);
           await answer(session, automaticSelection(session), signal);
-          session.status = accepted < units.length ? 'partial' : session.followUp ? 'awaiting-refinement' : 'completed'; persist(session);
+          session.status = accepted < units.length || !!session.error ? 'partial' : session.followUp ? 'awaiting-refinement' : 'completed'; persist(session);
         }
       }, () => {
         if (session.units.some(unit => unit.features.contextVersion === session.context.version)) return false;
-        session.units = previous.units; session.pendingUnits = previous.pendingUnits; session.context = previous.context; session.answers = previous.answers; session.answer = previous.answer; session.followUp = previous.followUp;
+        session.units = previous.units; session.pendingUnits = previous.pendingUnits; session.context = previous.context; session.answers = previous.answers; session.answer = previous.answer; session.answerReview = previous.answerReview; session.followUp = previous.followUp;
         return true;
       });
     },
@@ -516,7 +554,7 @@ export function createPersonalSearchService(options: Options) {
         if ((remaining.length || session.pendingUnits?.length) && session.units.length < PERSONAL_SEARCH_LIMITS.units) await processSources(session, signal, remaining);
         else {
           rank(session); await answer(session, automaticSelection(session), signal);
-          session.status = session.followUp ? 'awaiting-refinement' : 'completed'; persist(session);
+          session.status = session.error ? 'partial' : session.followUp ? 'awaiting-refinement' : 'completed'; persist(session);
         }
       });
     },
@@ -524,7 +562,7 @@ export function createPersonalSearchService(options: Options) {
       ensureIdle(); const session = get(id);
       if (!unitIds.length || unitIds.length > 6 || unitIds.some(id => !session.units.some(unit => unit.id === id))) throw new Error('Choose 1–6 cards from this session.');
       session.status = 'grounding'; persist(session);
-      return launch(session, async signal => { await answer(session, unitIds, signal); session.status = session.followUp ? 'awaiting-refinement' : 'completed'; persist(session); });
+      return launch(session, async signal => { await answer(session, unitIds, signal); session.status = session.error ? 'partial' : session.followUp ? 'awaiting-refinement' : 'completed'; persist(session); });
     },
     cancel(id: string) {
       if (active?.id !== id) throw new Error('This search has no running operation.');
@@ -534,6 +572,7 @@ export function createPersonalSearchService(options: Options) {
       for (const session of store.listSessions()) {
         if (!ACTIVE.has(session.status)) continue;
         session.status = session.units.length ? 'partial' : 'failed';
+        if (session.answerReview?.status === 'checking') { session.answerReview.status = 'needs-review'; for (const check of session.answerReview.checks) if (check.status === 'pending') { check.status = 'unavailable'; check.error = 'The server restarted before this check finished.'; } }
         session.error = 'The server restarted before this operation finished. Completed checkpoints were preserved; no paid requests were replayed.'; persist(session);
       }
     },

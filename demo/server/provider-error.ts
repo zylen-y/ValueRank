@@ -100,6 +100,9 @@ function safeBudgetError(error: unknown) {
     'queue-full': 'Other research requests are using the available capacity. Try again after they finish.',
     'queue-timeout': 'The research request waited too long for capacity. Try again after the active requests finish.',
     'search-key-missing': 'Bounded web search needs OPENROUTER_API_KEY in the local configuration. You can also supply a public source URL.',
+    'support-key-missing': 'The source-support check needs the existing OpenRouter configuration. The unaccepted draft and its passages are preserved for review.',
+    'support-input-limit': 'The complete cited passages exceed this source check’s input limit. They were preserved in full for review; no shortened check was accepted.',
+    'single-transport-probe': 'This diagnostic probe allowed generation only. Source-support checks were not run; the draft needs separate review.',
   };
   const queue: unknown[] = [error]; const seen = new Set<object>();
   for (let inspected = 0; queue.length && inspected < 12; inspected++) {

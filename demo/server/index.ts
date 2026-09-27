@@ -17,7 +17,7 @@ import { createPersonalHttp } from './personal-http.ts';
 import { PersonalError } from './personal-service.ts';
 
 const store = createStore(process.env.VALUERANK_DB_PATH || undefined);
-const burst = createBurstService({ configuration: () => { const c = config(); return { apiKey: c.jevKey, model: c.jevModel, provider: c.jevProvider }; }, persistencePath: resolve(demoRoot, '.data/burst.json') });
+const burst = createBurstService({ configuration: () => { const c = config(); return { apiKey: c.jevKey, model: c.jevModel, provider: c.jevProvider }; }, persistencePath: process.env.VALUERANK_BURST_PATH || (process.env.VALUERANK_DB_PATH ? `${process.env.VALUERANK_DB_PATH}.burst.json` : resolve(demoRoot, '.data/burst.json')) });
 store.update(s => { if (s.run?.status === 'running') { s.run.status = 'failed'; s.run.finishedAt = new Date().toISOString(); for (const event of s.run.events) if (event.status === 'running') event.status = 'failed'; } for (const item of s.items) if (item.status === 'processing') { item.status = 'error'; item.error = 'Server restarted during processing. Run the engine again.'; } });
 function state(): AppState {
   const saved = store.get(); const c = config();
