@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { classifyProviderError, safeProviderError } from './provider-error.ts';
+import { CostBudgetError } from './cost-budget.ts';
 
 const gateway = { stage: 'llm' as const, provider: 'gateway' as const };
 const secret = 'SECRET-DO-NOT-PERSIST';
@@ -11,6 +12,15 @@ const errorWithStatus = (status: number) => Object.assign(new Error(`Raw respons
 });
 
 describe('safe actionable provider errors', () => {
+  it('reports local budget controls clearly through wrappers without exposing arbitrary messages', () => {
+    const error = new Error('Structured generation failed', { cause: new CostBudgetError('exhausted', secret) });
+    expect(classifyProviderError(error)).toBe('budget');
+    expect(safeProviderError(error, gateway)).toContain('spending limit has been reached');
+    expect(safeProviderError(error, gateway)).not.toContain(secret);
+    expect(safeProviderError(new CostBudgetError('unpriced-provider', secret), { stage: 'jev', provider: 'typesafe' })).toContain('existing OpenRouter route');
+    expect(safeProviderError(new CostBudgetError(secret, secret), gateway)).not.toContain(secret);
+    expect(classifyProviderError({ name: 'CostBudgetError', code: 'exhausted', message: secret })).toBe('unknown');
+  });
   it.each([
     [401, 'authentication'], [402, 'credits'], [403, 'access'], [429, 'rate-limit'],
     [408, 'timeout'], [504, 'timeout'], [404, 'model'], [500, 'unavailable'], [529, 'unavailable'],

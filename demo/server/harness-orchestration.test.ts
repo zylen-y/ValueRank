@@ -1,4 +1,4 @@
-import { beforeEach, describe, expect, it, vi } from 'vitest';
+import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import { MockLanguageModelV4 } from 'ai/test';
 import { APICallError, type LanguageModelV4GenerateResult } from '@ai-sdk/provider';
 import type { ContentItem, TraceEvent } from '../src/domain/types.ts';
@@ -9,6 +9,7 @@ vi.mock('ai', async (importOriginal) => ({
   createGateway: gateway.create,
 }));
 import { analyzeSource } from './harness.ts';
+import { CostBudget } from './cost-budget.ts';
 
 const source = 'Compare pairs of lessons to obtain relative preference labels. Fit a ranking model using those labels.';
 const item: ContentItem = {
@@ -42,10 +43,14 @@ const invalidJson = (text: string, finishReason: 'stop' | 'length' = 'stop'): La
   finishReason: { unified: finishReason, raw: finishReason },
   usage: usage(60, 9), warnings: [],
 });
-const settings = { apiKey: 'mock-gateway-key', model: 'mock/source-reader' };
+let settings: { apiKey: string; model: string; budget: CostBudget };
 const configure = (model: MockLanguageModelV4) => gateway.create.mockReturnValue(() => model);
 
-beforeEach(() => gateway.create.mockReset());
+beforeEach(() => {
+  gateway.create.mockReset(); const now = Date.now();
+  settings = { apiKey: 'mock-gateway-key', model: 'alibaba/qwen3.8-flash', budget: new CostBudget(':memory:', { id: 'harness-test', enabled: true, startsAt: new Date(now - 60_000).toISOString(), endsAt: new Date(now + 120_000).toISOString(), operatingLimitUsd: 80, absoluteLimitUsd: 100, maxConcurrent: 2 }) };
+});
+afterEach(() => settings.budget.close());
 
 describe('grounded two-stage harness with the real AI SDK', () => {
   it('reads the scoped source before requesting JSON and counts both model calls', async () => {
@@ -56,6 +61,8 @@ describe('grounded two-stage harness with the real AI SDK', () => {
 
     expect(result).toEqual({ ...notes, source: 'llm', model: settings.model });
     expect(model.doGenerateCalls).toHaveLength(2);
+    expect(settings.budget.snapshot()).toMatchObject({ active: 0, unknown: 0, frozen: false });
+    expect(settings.budget.snapshot().accountedUsd).toBeGreaterThan(0);
     const [read, write] = model.doGenerateCalls;
     expect(read.toolChoice).toEqual({ type: 'tool', toolName: 'read_source' });
     expect(read.responseFormat?.type).not.toBe('json');
@@ -80,22 +87,13 @@ describe('grounded two-stage harness with the real AI SDK', () => {
     expect(events.some(event => event.stage === 'llm' && event.status === 'completed')).toBe(false);
   });
 
-  it('uses MiMo JSON mode with trusted schema instructions and local validation', async () => {
-    const model = new MockLanguageModelV4({ doGenerate: [readTool(), synthesize()] });
-    configure(model);
-    const result = await analyzeSource(item, { ...settings, model: 'xiaomi/mimo-v2.6-flash' }, () => {});
-    expect(result.evidence).toEqual(notes.evidence);
-    const [read, write] = model.doGenerateCalls;
-    expect(read.reasoning).toBe('none');
-    expect(write.reasoning).toBe('none');
-    expect(write.responseFormat).toMatchObject({ type: 'json' });
-    expect(write.responseFormat?.type === 'json' && write.responseFormat.schema).toBeUndefined();
-    const instruction = write.prompt.find(message => message.role === 'system');
-    expect(JSON.stringify(instruction)).toContain('readingMinutes');
-    expect(JSON.stringify(instruction)).toContain('evidence');
+  it('rejects a model with no reviewed price before the mocked transport runs', async () => {
+    const model = new MockLanguageModelV4({ doGenerate: [readTool(), synthesize()] }); configure(model);
+    await expect(analyzeSource(item, { ...settings, model: 'xiaomi/mimo-v2.6-flash' }, () => {})).rejects.toMatchObject({ code: 'unpriced-model' });
+    expect(model.doGenerateCalls).toHaveLength(0); expect(settings.budget.snapshot().accountedUsd).toBe(0);
   });
 
-  it('rejects invalid MiMo JSON after exactly one schema repair without accepting notes', async () => {
+  it('rejects invalid structured JSON after exactly one schema repair without accepting notes', async () => {
     const model = new MockLanguageModelV4({ doGenerate: [
       readTool(),
       synthesize({ insights: ['First wrong schema'] }),
@@ -103,7 +101,7 @@ describe('grounded two-stage harness with the real AI SDK', () => {
     ] });
     configure(model);
     const events: TraceEvent[] = [];
-    await expect(analyzeSource(item, { ...settings, model: 'xiaomi/mimo-v2.6-flash' }, e => events.push(e))).rejects.toMatchObject({ name: 'ZodError' });
+    await expect(analyzeSource(item, settings, e => events.push(e))).rejects.toMatchObject({ name: 'AI_NoObjectGeneratedError' });
     expect(model.doGenerateCalls).toHaveLength(3);
     expect(events.filter(e => e.stage === 'source' && e.status === 'completed')).toHaveLength(1);
     expect(events.filter(e => e.title === 'One response-format repair requested')).toHaveLength(1);
@@ -111,15 +109,15 @@ describe('grounded two-stage harness with the real AI SDK', () => {
     expect(events.some(e => e.stage === 'evidence')).toBe(false);
   });
 
-  it('repairs MiMo field constraints once using source context and counts all three calls', async () => {
+  it('repairs field constraints once using source context and counts all three calls', async () => {
     const generatedText = 'DO_NOT_REPLAY_MODEL_TEXT';
     const invalid = { ...notes, summary: generatedText, readingMinutes: 0 };
     const model = new MockLanguageModelV4({ doGenerate: [readTool(), synthesize(invalid), synthesize()] });
     configure(model);
     const events: TraceEvent[] = [];
-    const result = await analyzeSource(item, { ...settings, model: 'xiaomi/mimo-v2.6-flash' }, event => events.push(event));
+    const result = await analyzeSource(item, settings, event => events.push(event));
 
-    expect(result).toEqual({ ...notes, source: 'llm', model: 'xiaomi/mimo-v2.6-flash' });
+    expect(result).toEqual({ ...notes, source: 'llm', model: settings.model });
     expect(model.doGenerateCalls).toHaveLength(3);
     const repair = model.doGenerateCalls[2];
     expect(repair.toolChoice).toEqual({ type: 'none' });
@@ -130,14 +128,7 @@ describe('grounded two-stage harness with the real AI SDK', () => {
     const correction = repair.prompt.at(-1);
     expect(correction).toMatchObject({ role: 'user' });
     const correctionText = correction?.content;
-    expect(JSON.stringify(correctionText)).toContain('Correct these field constraints:');
-    expect(correctionText).toEqual([expect.objectContaining({
-      type: 'text',
-      text: expect.stringContaining(JSON.stringify([
-        { field: 'summary', rule: 'too_small' },
-        { field: 'readingMinutes', rule: 'too_small' },
-      ])),
-    })]);
+    expect(JSON.stringify(correctionText)).toContain('complete, compact JSON object');
     expect(events.filter(event => event.stage === 'source' && event.status === 'completed')).toHaveLength(1);
     expect(events.filter(event => event.title === 'One response-format repair requested')).toHaveLength(1);
     expect(events.find(event => event.title === 'Reading notes extracted')).toMatchObject({
@@ -154,9 +145,9 @@ describe('grounded two-stage harness with the real AI SDK', () => {
     const model = new MockLanguageModelV4({ doGenerate: [readTool(), invalidJson(text, finishReason), synthesize()] });
     configure(model);
     const events: TraceEvent[] = [];
-    const result = await analyzeSource(item, { ...settings, model: 'xiaomi/mimo-v2.6-flash' }, event => events.push(event));
+    const result = await analyzeSource(item, settings, event => events.push(event));
 
-    expect(result).toEqual({ ...notes, source: 'llm', model: 'xiaomi/mimo-v2.6-flash' });
+    expect(result).toEqual({ ...notes, source: 'llm', model: settings.model });
     expect(model.doGenerateCalls).toHaveLength(3);
     const repair = model.doGenerateCalls[2];
     expect(repair.toolChoice).toEqual({ type: 'none' });
@@ -181,7 +172,7 @@ describe('grounded two-stage harness with the real AI SDK', () => {
     ] });
     configure(model);
     const events: TraceEvent[] = [];
-    await expect(analyzeSource(item, { ...settings, model: 'xiaomi/mimo-v2.6-flash' }, event => events.push(event)))
+    await expect(analyzeSource(item, settings, event => events.push(event)))
       .rejects.toMatchObject({ name: 'AI_NoObjectGeneratedError' });
     expect(model.doGenerateCalls).toHaveLength(3);
     expect(events.filter(event => event.stage === 'source' && event.status === 'completed')).toHaveLength(1);
@@ -203,7 +194,7 @@ describe('grounded two-stage harness with the real AI SDK', () => {
     } });
     configure(model);
     const events: TraceEvent[] = [];
-    await expect(analyzeSource(item, { ...settings, model: 'xiaomi/mimo-v2.6-flash' }, event => events.push(event)))
+    await expect(analyzeSource(item, settings, event => events.push(event)))
       .rejects.toBe(authenticationError);
     expect(model.doGenerateCalls).toHaveLength(2);
     expect(events.some(event => event.title === 'One response-format repair requested')).toBe(false);
@@ -235,7 +226,8 @@ describe('grounded two-stage harness with the real AI SDK', () => {
     configure(model);
     try {
       await expect(analyzeSource(item, settings, () => {})).rejects.toMatchObject({ name: 'AbortError' });
-      expect(timeout).toHaveBeenCalledExactlyOnceWith(90_000);
+      expect(timeout).toHaveBeenCalledWith(90_000);
+      expect(timeout).toHaveBeenCalledWith(60_000);
       expect(model.doGenerateCalls).toHaveLength(2);
       expect(model.doGenerateCalls.every(call => call.abortSignal?.aborted)).toBe(true);
     } finally {

@@ -3,6 +3,8 @@ import { z } from 'zod';
 import type { Analysis, ContentItem, TraceEvent } from '../src/domain/types.ts';
 import { TOPICS } from '../src/domain/types.ts';
 import { randomUUID } from 'node:crypto';
+import type { CostBudget } from './cost-budget.ts';
+import { budgetedGatewayOptions, meteredGatewayCall } from './metered-ai.ts';
 
 export const analysisSchema = z.object({
   summary: z.string().trim().min(30).max(700),
@@ -18,7 +20,7 @@ export function validateEvidence(source: string, analysis: Pick<Analysis, 'evide
     throw new Error('Evidence validation failed: every quote must occur in the supplied source. No result was accepted.');
   }
 }
-export async function analyzeSource(item: ContentItem, settings: { apiKey: string; model: string }, emit: (event: TraceEvent) => void, signal?: AbortSignal) {
+export async function analyzeSource(item: ContentItem, settings: { apiKey: string; model: string; budget?: CostBudget }, emit: (event: TraceEvent) => void, signal?: AbortSignal) {
   const source = item.text.slice(0, 12_000);
   const model = createGateway({ apiKey: settings.apiKey })(settings.model);
   // MiMo's Gateway route supports JSON mode but does not enforce a JSON schema.
@@ -42,26 +44,33 @@ export async function analyzeSource(item: ContentItem, settings: { apiKey: strin
   // present. Separate the source-read step from typed synthesis, retaining the
   // two normal calls and a single deadline, including one optional format repair.
   const abortSignal = signal ? AbortSignal.any([signal, AbortSignal.timeout(90_000)]) : AbortSignal.timeout(90_000);
+  const readInstructions = 'Call read_source exactly once to read the authorized document. Do not answer yet.';
   const agent = new ToolLoopAgent({
     model, tools,
-    instructions: 'Call read_source exactly once to read the authorized document. Do not answer yet.',
+    instructions: readInstructions,
     toolChoice: { type: 'tool', toolName: 'read_source' },
     stopWhen: isStepCount(1),
     ...(jsonModeOnly || settings.model === 'alibaba/qwen3.8-flash' ? { reasoning: 'none' as const } : {}),
     maxOutputTokens: 1800,
-    maxRetries: 1,
+    maxRetries: 0,
+    providerOptions: budgetedGatewayOptions('source:read'),
   });
   const prompt = 'Read the authorized source.';
-  const reading = await agent.generate({ prompt, abortSignal });
-  const synthesize = (correction = '') => generateText({
+  const toolDescriptions = Object.fromEntries(Object.entries(tools).map(([name, value]) => [name, { description: value.description, inputSchema: z.toJSONSchema(z.object({})) }]));
+  const reading = await meteredGatewayCall({ model: settings.model, operation: 'source:read', input: JSON.stringify({ instructions: readInstructions, prompt, tools: toolDescriptions }), maxOutputTokens: 1800 }, boundedSignal => agent.generate({ prompt, abortSignal: boundedSignal }), { signal: abortSignal, budget: settings.budget });
+  const synthesize = (correction = '') => {
+    const messages = [{ role: 'user' as const, content: prompt }, ...reading.responseMessages, { role: 'user' as const, content: `Return the structured, evidence-grounded reading notes from the source tool result. Aim for a summary under 500 characters, 2-5 short concepts, 1-2 exact quotes under 200 characters each, and short insights. ${correction}` }];
+    return meteredGatewayCall({ model: settings.model, operation: 'source:synthesis', input: JSON.stringify({ instructions, messages, tools: toolDescriptions, schema: z.toJSONSchema(analysisSchema) }), maxOutputTokens: 1800 }, boundedSignal => generateText({
     model, tools, toolChoice: 'none', instructions,
-    messages: [{ role: 'user', content: prompt }, ...reading.responseMessages, { role: 'user', content: `Return the structured, evidence-grounded reading notes from the source tool result. Aim for a summary under 500 characters, 2-5 short concepts, 1-2 exact quotes under 200 characters each, and short insights. ${correction}` }],
+    messages,
     output: jsonModeOnly ? Output.json() : Output.object({ schema: analysisSchema }),
     ...(jsonModeOnly || settings.model === 'alibaba/qwen3.8-flash' ? { reasoning: 'none' as const } : {}),
     maxOutputTokens: 1800,
-    maxRetries: 1,
-    abortSignal,
-  });
+    maxRetries: 0,
+    abortSignal: boundedSignal,
+    providerOptions: budgetedGatewayOptions('source:synthesis'),
+  }), { signal: abortSignal, budget: settings.budget });
+  };
   let tokens = reading.totalUsage.totalTokens ?? 0;
   let steps = reading.steps.length;
   let correction = '';

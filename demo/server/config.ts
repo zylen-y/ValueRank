@@ -10,6 +10,7 @@ export function resolveConfig(local: Record<string, string | undefined>, environ
   const jevProvider: 'typesafe' | 'openrouter' = provider === 'openrouter' || (provider === 'auto' && value('OPENROUTER_API_KEY')) ? 'openrouter' : 'typesafe';
   return {
     gatewayKey: value('AI_GATEWAY_API_KEY'),
+    openrouterKey: value('OPENROUTER_API_KEY'),
     jevProvider,
     jevKey: value(jevProvider === 'openrouter' ? 'OPENROUTER_API_KEY' : 'TYPESAFE_API_KEY'),
     llmModel: value('VALUERANK_LLM_MODEL') || 'alibaba/qwen3.8-flash',

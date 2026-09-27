@@ -1,6 +1,7 @@
 import { TypeSafeClient, type Fetch, type Questions } from '@typesafe-ai/sdk';
 import { z } from 'zod';
 import type { Analysis, ContentItem, Decision, Profile } from '../src/domain/types.js';
+import { CostBudget, CostBudgetError, getCostBudget } from './cost-budget.ts';
 
 export const JEV_RUBRIC_VERSION = 'valuerank-predicates-v1';
 const MAX_SOURCE_CHARS = 12_000;
@@ -77,11 +78,13 @@ export function buildRequest(item: ContentItem, analysis: Analysis, profile: Pro
 const probability = z.number().finite().min(0).max(1);
 const noulAnswer = z.object({ type: z.literal('noul'), noul: probability });
 const responseSchema = z.object({
+  id: z.string().optional(),
   model: z.string(),
   answers: z.object({ relevance: noulAnswer, novelty: noulAnswer, actionability: noulAnswer }),
   usage: z.object({
     input_tokens: z.number().int().nonnegative().max(Number.MAX_SAFE_INTEGER),
     output_tokens: z.number().int().nonnegative().max(Number.MAX_SAFE_INTEGER),
+    cost: z.number().finite().nonnegative().optional(),
   }),
 });
 
@@ -102,7 +105,7 @@ export function parseResponse(raw: unknown, requestedModel: string, provider: Je
   return result.data;
 }
 
-type Configuration = { apiKey: string; model: string; provider?: JevProvider };
+type Configuration = { apiKey: string; model: string; provider?: JevProvider; budget?: CostBudget };
 type EvaluationResult = { decision: Decision; tokens: number };
 
 // An injectable transport makes contract/error tests exercise the real SDK
@@ -117,19 +120,25 @@ export function createJevEvaluator(fetchImpl?: Fetch) {
   ): Promise<EvaluationResult> {
     const provider = config.provider ?? 'typesafe';
     if (!config.apiKey.trim()) throw new Error(`${provider === 'openrouter' ? 'OpenRouter' : 'TypeSafe'} API key is not configured.`);
+    if (provider !== 'openrouter') throw new CostBudgetError('unpriced-provider', 'Direct TypeSafe calls are paused because their price and transport limits have not been reviewed. Use the existing OpenRouter route.');
     const request = buildRequest(item, analysis, profile, config.model, provider);
     const client = new TypeSafeClient({
       apiKey: config.apiKey,
       baseURL: provider === 'openrouter' ? 'https://openrouter.ai/api' : 'https://api.typesafe.ai',
       defaultModel: config.model,
       timeout: 8_000,
-      retry: { maxRetries: 1 },
+      retry: { maxRetries: 0 },
       logLevel: 'off',
       ...(fetchImpl ? { fetch: fetchImpl } : {}),
     });
-    const deadline = AbortSignal.timeout(20_000);
-    const boundedSignal = signal ? AbortSignal.any([signal, deadline]) : deadline;
-    const raw: unknown = await client.systemOne(request, { signal: boundedSignal });
+    // Each question may bill the shared state again. Reserve its serialized copy
+    // for every question rather than assuming one state-token charge per batch.
+    const budgetInput = JSON.stringify(Object.values(request.questions).map(question => ({ model: request.model, state: request.state, question })));
+    const raw = await (config.budget ?? getCostBudget()).run({ provider: 'openrouter', model: config.model, operation: 'jev:evaluation', input: budgetInput, maxOutputTokens: 512, timeoutMs: 20_000 }, async ({ signal: boundedSignal }) => {
+      const value: unknown = await client.systemOne(request, { signal: boundedSignal });
+      const reported = responseSchema.pick({ id: true, usage: true }).safeParse(value);
+      return { value, usage: reported.success ? { inputTokens: reported.data.usage.input_tokens, outputTokens: reported.data.usage.output_tokens, costUsd: reported.data.usage.cost, requestId: reported.data.id } : undefined };
+    }, { signal });
     const { answers, model, usage } = parseResponse(raw, config.model, provider);
     return {
       decision: {

@@ -1,7 +1,8 @@
-import { describe, expect, it, vi } from 'vitest';
+import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import { APIUserAbortError, AuthenticationError, type Fetch } from '@typesafe-ai/sdk';
 import type { Analysis, ContentItem, Profile } from '../src/domain/types.js';
 import { buildRequest, createJevEvaluator, parseResponse } from './jev.js';
+import { CostBudget } from './cost-budget.ts';
 
 const profile: Profile = {
   goal: 'Build a language-learning content ranking engine',
@@ -131,97 +132,88 @@ describe('Jev response validation', () => {
   });
 });
 
-describe('real SDK, mocked transport', () => {
-  it('sends the exact authenticated HTTP contract and records only validated live decisions', async () => {
-    let calls = 0;
-    const transport: Fetch = async (url, init) => {
-      calls++;
-      expect(url).toBe('https://api.typesafe.ai/v1/systemone');
-      expect(init?.method).toBe('POST');
-      expect(new Headers(init?.headers).get('authorization')).toBe('Bearer mock-key');
-      expect(JSON.parse(init?.body as string)).toEqual(buildRequest(item, analysis, profile, 'jev-1.13.0'));
-      return json(response());
-    };
-    const result = await createJevEvaluator(transport)(item, analysis, profile, { apiKey: 'mock-key', model: 'jev-1.13.0' });
-    expect(calls).toBe(1);
-    expect(result.tokens).toBe(500);
-    expect(result.decision).toMatchObject({ source: 'jev', provider: 'typesafe', model: 'jev-1.13.0', profileVersion: 3, relevance: 0.9, novelty: 0.8, actionability: 0.7 });
-    expect('confidence' in result.decision).toBe(false);
+describe('real SDK with one metered transport attempt', () => {
+  let budget: CostBudget;
+  let config: { apiKey: string; model: string; provider: 'openrouter'; budget: CostBudget };
+  beforeEach(() => {
+    const now = Date.now();
+    budget = new CostBudget(':memory:', { id: 'jev-test', enabled: true, startsAt: new Date(now - 60_000).toISOString(), endsAt: new Date(now + 60_000).toISOString(), operatingLimitUsd: 80, absoluteLimitUsd: 100, maxConcurrent: 2 });
+    config = { apiKey: 'mock-openrouter-key', model: 'typesafe/jev-1.13', provider: 'openrouter', budget };
   });
+  afterEach(() => { budget.close(); vi.useRealTimers(); });
 
-  it('routes the same real SDK through OpenRouter with its own key and preserves the snapshot', async () => {
+  it('reserves before the exact authenticated OpenRouter request and preserves the model snapshot', async () => {
     const transport = vi.fn<Fetch>(async (url, init) => {
+      expect(budget.snapshot().active).toBe(1);
       expect(url).toBe('https://openrouter.ai/api/v1/systemone');
       expect(init?.method).toBe('POST');
       expect(new Headers(init?.headers).get('authorization')).toBe('Bearer mock-openrouter-key');
-      expect(JSON.parse(init?.body as string)).toEqual(buildRequest(item, analysis, profile, 'typesafe/jev-1.13', 'openrouter'));
+      expect(JSON.parse(init?.body as string)).toEqual(buildRequest(item, analysis, profile, config.model, 'openrouter'));
       return json(openRouterResponse());
     });
-    const result = await createJevEvaluator(transport)(item, analysis, profile, { apiKey: 'mock-openrouter-key', model: 'typesafe/jev-1.13', provider: 'openrouter' });
-    expect(transport).toHaveBeenCalledTimes(1);
-    expect(result.tokens).toBe(500);
+    const result = await createJevEvaluator(transport)(item, analysis, profile, config);
+    expect(transport).toHaveBeenCalledTimes(1); expect(result.tokens).toBe(500);
     expect(result.decision).toMatchObject({ source: 'jev', provider: 'openrouter', model: 'typesafe/jev-1.13-20260917', profileVersion: 3, relevance: 0.9, novelty: 0.8, actionability: 0.7 });
     expect('confidence' in result.decision).toBe(false);
+    expect(budget.snapshot()).toMatchObject({ active: 0, unknown: 0, frozen: false });
+    expect(budget.snapshot().reportedUsd).toBeCloseTo(0.000021, 6);
   });
 
-  it.each(['typesafe', 'openrouter'] as const)('rejects missing %s credentials before calling the transport', async (provider) => {
-    const transport = vi.fn<Fetch>();
-    const model = provider === 'openrouter' ? 'typesafe/jev-1.13' : 'jev-1.13.0';
-    await expect(createJevEvaluator(transport)(item, analysis, profile, { apiKey: ' ', model, provider })).rejects.toThrow(`${provider === 'openrouter' ? 'OpenRouter' : 'TypeSafe'} API key`);
+  it('blocks direct TypeSafe and unreviewed Jev versions before transport', async () => {
+    const transport = vi.fn<Fetch>(); const evaluate = createJevEvaluator(transport);
+    await expect(evaluate(item, analysis, profile, { ...config, model: 'jev-1.13.0', provider: 'typesafe' })).rejects.toMatchObject({ code: 'unpriced-provider' });
+    await expect(evaluate(item, analysis, profile, { ...config, model: 'typesafe/jev-1.14' })).rejects.toMatchObject({ code: 'unpriced-model' });
+    expect(transport).not.toHaveBeenCalled(); expect(budget.snapshot().accountedUsd).toBe(0);
+  });
+
+  it.each(['typesafe', 'openrouter'] as const)('rejects missing %s credentials before calling the transport', async provider => {
+    const transport = vi.fn<Fetch>(); const model = provider === 'openrouter' ? config.model : 'jev-1.13.0';
+    await expect(createJevEvaluator(transport)(item, analysis, profile, { ...config, apiKey: ' ', model, provider })).rejects.toThrow(`${provider === 'openrouter' ? 'OpenRouter' : 'TypeSafe'} API key`);
     expect(transport).not.toHaveBeenCalled();
   });
 
-  it('does not retry OpenRouter authentication failures or fall back to another provider', async () => {
-    const transport = vi.fn<Fetch>(async () => json({ error: { code: 401, message: 'Invalid key' } }, 401));
-    await expect(createJevEvaluator(transport)(item, analysis, profile, { apiKey: 'mock-key', model: 'typesafe/jev-1.13', provider: 'openrouter' })).rejects.toBeInstanceOf(AuthenticationError);
-    expect(transport).toHaveBeenCalledTimes(1);
-  });
-
   it('does not retry authentication failures or return heuristic predictions', async () => {
-    let calls = 0;
-    const evaluate = createJevEvaluator(async () => { calls++; return json({ detail: 'Invalid key' }, 401); });
-    await expect(evaluate(item, analysis, profile, { apiKey: 'mock-key', model: 'jev-latest' })).rejects.toBeInstanceOf(AuthenticationError);
-    expect(calls).toBe(1);
+    const transport = vi.fn<Fetch>(async () => json({ error: { code: 401, message: 'Invalid key' } }, 401));
+    await expect(createJevEvaluator(transport)(item, analysis, profile, config)).rejects.toBeInstanceOf(AuthenticationError);
+    expect(transport).toHaveBeenCalledTimes(1); expect(budget.snapshot().unknown).toBe(1);
   });
 
-  it.each([429, 529])('retries HTTP %s once', async (status) => {
-    let calls = 0;
-    const evaluate = createJevEvaluator(async () => ++calls === 1 ? json({ detail: 'Retry' }, status, { 'retry-after-ms': '1' }) : json(response()));
-    const result = await evaluate(item, analysis, profile, { apiKey: 'mock-key', model: 'jev-latest' });
-    expect(calls).toBe(2);
-    expect(result.decision.source).toBe('jev');
+  it.each([429, 529])('does not retry HTTP %s or wait through provider Retry-After', async status => {
+    const transport = vi.fn<Fetch>(async () => json({ detail: 'Busy' }, status, { 'retry-after': '60' }));
+    await expect(createJevEvaluator(transport)(item, analysis, profile, config)).rejects.toMatchObject({ status });
+    expect(transport).toHaveBeenCalledTimes(1); expect(budget.snapshot()).toMatchObject({ active: 0, unknown: 1 });
   });
 
-  it('cancels a pending 60-second provider retry wait', async () => {
-    let calls = 0;
+  it('cancels an in-flight request and keeps uncertain billed usage reserved', async () => {
     const controller = new AbortController();
-    const evaluate = createJevEvaluator(async () => { calls++; return json({ detail: 'Busy' }, 529, { 'retry-after': '60' }); });
-    const timer = setTimeout(() => controller.abort(), 20);
-    try {
-      await expect(evaluate(item, analysis, profile, { apiKey: 'mock-key', model: 'jev-latest' }, controller.signal)).rejects.toBeInstanceOf(APIUserAbortError);
-      expect(calls).toBe(1);
-    } finally {
-      clearTimeout(timer);
-    }
+    const transport = vi.fn<Fetch>(async (_url, init) => new Promise((_resolve, reject) => {
+      init?.signal?.addEventListener('abort', () => reject(new DOMException('Cancelled', 'AbortError')), { once: true });
+      queueMicrotask(() => controller.abort());
+    }));
+    await expect(createJevEvaluator(transport)(item, analysis, profile, config, controller.signal)).rejects.toBeInstanceOf(APIUserAbortError);
+    expect(transport).toHaveBeenCalledTimes(1); expect(budget.snapshot().unknown).toBe(1);
   });
 
-  it('enforces the overall 20-second deadline across a long Retry-After wait', async () => {
+  it('enforces the SDK eight-second transport deadline without automatic retry', async () => {
     vi.useFakeTimers();
-    const deadline = new AbortController();
-    const timeoutSpy = vi.spyOn(AbortSignal, 'timeout').mockImplementation((ms) => {
-      expect(ms).toBe(20_000);
-      setTimeout(() => deadline.abort(new DOMException('Deadline elapsed', 'TimeoutError')), ms);
-      return deadline.signal;
-    });
-    const evaluate = createJevEvaluator(async () => json({ detail: 'Busy' }, 529, { 'retry-after': '60' }));
-    try {
-      const pending = expect(evaluate(item, analysis, profile, { apiKey: 'mock-key', model: 'jev-latest' })).rejects.toBeInstanceOf(APIUserAbortError);
-      await vi.advanceTimersByTimeAsync(20_000);
-      await pending;
-      expect(deadline.signal.aborted).toBe(true);
-    } finally {
-      timeoutSpy.mockRestore();
-      vi.useRealTimers();
-    }
+    const transport = vi.fn<Fetch>(async (_url, init) => new Promise((_resolve, reject) => {
+      init?.signal?.addEventListener('abort', () => reject(new DOMException('Timeout', 'AbortError')), { once: true });
+    }));
+    const pending = expect(createJevEvaluator(transport)(item, analysis, profile, config)).rejects.toMatchObject({ name: 'APITimeoutError' });
+    await vi.advanceTimersByTimeAsync(8_000); await pending;
+    expect(transport).toHaveBeenCalledTimes(1); expect(budget.snapshot().unknown).toBe(1);
+  });
+
+  it('reconciles valid usage even when the returned decision is rejected', async () => {
+    const invalid = openRouterResponse(); invalid.answers.relevance.noul = 2;
+    const transport = vi.fn<Fetch>(async () => json(invalid));
+    await expect(createJevEvaluator(transport)(item, analysis, profile, config)).rejects.toThrow('invalid decision');
+    expect(budget.snapshot()).toMatchObject({ active: 0, unknown: 0 });
+  });
+
+  it('bounds repeated per-question state before any API request', async () => {
+    const transport = vi.fn<Fetch>();
+    await expect(createJevEvaluator(transport)(item, analysis, { ...profile, knownConcepts: Array(100).fill('x'.repeat(240)) }, config)).rejects.toMatchObject({ code: 'input-limit' });
+    expect(transport).not.toHaveBeenCalled();
   });
 });
