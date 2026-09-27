@@ -10,11 +10,13 @@ import { DirectSourceRetrievalError, explicitSearchDomains, explicitSourceUrls, 
 
 export const PERSONAL_SEARCH_LIMITS = { discoverySources: 4, researchSources: 8, sources: 16, units: 24, rounds: 2, jevConcurrency: 4, llmConcurrency: 2 } as const;
 export interface PersonalSearchStore {
+  /** Atomically save the session together with its accepted immutable unit revisions. */
   saveSession(session: PersonalSearchSession): unknown;
   getSession(id: string): PersonalSearchSession | null | undefined;
   listSessions(): PersonalSearchSession[];
   saveSource(source: PersonalSource): unknown;
-  saveUnit(unit: PersonalUnit): unknown;
+  /** Legacy adapters may expose this; search commits cards only via saveSession. */
+  saveUnit?(unit: PersonalUnit): unknown;
   rank(units: PersonalUnit[], context: PersonalContext): PersonalRankedUnit[];
   getFacts(): PersonalProfileFact[];
 }
@@ -55,6 +57,26 @@ const answerSchema = z.object({
 const ACTIVE = new Set(['interpreting', 'searching', 'grounding', 'ranking']);
 const HALT = new Set(['budget', 'authentication', 'credits', 'access', 'rate-limit', 'model']);
 const EVIDENCE_ERROR = 'A generated quotation did not match a retrieved source. The affected card was rejected.';
+class SearchCheckpointError extends Error {
+  constructor(cause: unknown) { super('A local research checkpoint could not be saved.', { cause }); this.name = 'SearchCheckpointError'; }
+}
+function checkpoint<T>(write: () => T): T {
+  try { return write(); } catch (error) { throw error instanceof SearchCheckpointError ? error : new SearchCheckpointError(error); }
+}
+function checkpointCause(error: unknown): SearchCheckpointError | undefined {
+  const seen = new Set<unknown>();
+  while (error instanceof Error && !seen.has(error)) {
+    if (error instanceof SearchCheckpointError) return error;
+    seen.add(error); error = error.cause;
+  }
+  return undefined;
+}
+type PipelineControl = { signal: AbortSignal; haltError?: unknown; halt(error: unknown): void };
+function pipelineControl(signal: AbortSignal): PipelineControl {
+  const controller = new AbortController();
+  const control: PipelineControl = { signal: AbortSignal.any([signal, controller.signal]), halt(error) { control.haltError ??= error; controller.abort(error); } };
+  return control;
+}
 
 export interface SourcePassage { id: string; sourceId: string; sourceVersion: number; start: number; end: number; text: string }
 /** Contiguous original text; boundaries never synthesize, normalize, or translate a quotation. */
@@ -133,7 +155,27 @@ export function createPersonalSearchService(options: Options) {
   const now = options.now ?? Date.now;
   const iso = () => new Date(now()).toISOString();
   let active: { id: string; controller: AbortController; task: Promise<void> } | null = null;
-  const persist = (session: PersonalSearchSession) => { session.updatedAt = iso(); store.saveSession(structuredClone(session)); };
+  const unsavedFailures = new Map<string, PersonalSearchSession>();
+  const persist = (session: PersonalSearchSession) => { session.updatedAt = iso(); checkpoint(() => store.saveSession(structuredClone(session))); unsavedFailures.delete(session.id); };
+  const readSession = (id: string) => structuredClone(unsavedFailures.get(id) ?? store.getSession(id));
+  const listSessions = () => store.listSessions().map(session => structuredClone(unsavedFailures.get(session.id) ?? session));
+  const retainUnsavedFailure = (session: PersonalSearchSession) => {
+    let durable: PersonalSearchSession | null | undefined;
+    try { durable = store.getSession(session.id); } catch { /* Preserve a clearly unsaved process-local view if the store cannot be read. */ }
+    const failed = structuredClone(durable ?? session);
+    failed.status = 'failed';
+    failed.answer = durable?.answer ?? '';
+    if (!durable) {
+      failed.sources = []; failed.units = []; failed.pendingUnits = []; failed.withheldUnits = [];
+      delete failed.answerReview; delete failed.followUp;
+    }
+    if (failed.answerReview?.status === 'checking') {
+      failed.answerReview.status = 'needs-review';
+      for (const check of failed.answerReview.checks) if (check.status === 'pending') { check.status = 'unavailable'; check.error = 'Source checking stopped because the final local checkpoint could not be saved.'; }
+    }
+    failed.error = `The final research update could not be saved locally. ${durable ? 'Only the last saved checkpoint is shown.' : 'The saved checkpoint could not be read, so results cannot be confirmed and are hidden.'} This failure notice is available only until the server restarts; resolve the storage problem before retrying.`;
+    unsavedFailures.set(session.id, failed);
+  };
   const event = (session: PersonalSearchSession, stage: string, message: string, extra: Partial<PersonalSearchSession['events'][number]> = {}) => {
     session.events.push({ id: randomUUID(), stage, message, at: iso(), ...extra }); persist(session);
   };
@@ -165,12 +207,14 @@ export function createPersonalSearchService(options: Options) {
     } catch (error) {
       const spent = failedSearchUsage(error);
       if (spent) usage(session, spent, 'llm', 'Generation failed; reported token usage was preserved.');
-      throw error;
+      // The structured-output adapter can wrap a failed attempt callback. Keep
+      // storage failures recognizable so the sibling pipeline is halted too.
+      throw checkpointCause(error) ?? error;
     }
   };
-  const get = (id: string) => { const session = store.getSession(id); if (!session) throw new Error('Search session was not found.'); return structuredClone(session); };
+  const get = (id: string) => { const session = readSession(id); if (!session) throw new Error('Search session was not found.'); return session; };
   const ensureIdle = () => { if (active) throw new Error('A personal search operation is already running. Cancel it or wait for completion.'); };
-  const safeError = (error: unknown) => error instanceof DirectSourceRetrievalError ? error.message : error instanceof Error && error.message === EVIDENCE_ERROR ? EVIDENCE_ERROR : safeProviderError(error, { stage: 'llm', provider: 'gateway' });
+  const safeError = (error: unknown) => error instanceof SearchCheckpointError ? 'A local research checkpoint could not be saved. The operation stopped; check local storage before retrying.' : error instanceof DirectSourceRetrievalError ? error.message : error instanceof Error && error.message === EVIDENCE_ERROR ? EVIDENCE_ERROR : safeProviderError(error, { stage: 'llm', provider: 'gateway' });
   const scopedFacts = () => store.getFacts().filter(fact => ['content', 'all', 'global'].includes(fact.domain));
   const known = () => [...new Set(scopedFacts().filter(fact => fact.kind === 'knowledge').map(fact => fact.value))].slice(0, 100);
   const launch = (session: PersonalSearchSession, operation: (signal: AbortSignal) => Promise<void>, restore?: () => boolean) => {
@@ -182,11 +226,15 @@ export function createPersonalSearchService(options: Options) {
       if (controller.signal.aborted) { session.status = 'cancelled'; session.error = 'Cancelled. Completed source and card checkpoints were preserved.'; }
       else { session.status = session.units.length ? 'partial' : 'failed'; const failure = safeError(error); session.error = session.error ? `${session.error} ${failure}` : failure; }
       if (restored) session.error = `The previous context and cards were restored because refinement did not finish. ${session.error}`;
-      event(session, 'error', session.error);
+      // Terminal persistence happens once below. A failed error-event write must
+      // never reject this task or strand the active-operation lock.
+      session.events.push({ id: randomUUID(), stage: 'error', message: session.error, at: iso() });
     }).finally(() => {
-      session.usage ??= { llmTokens: 0, jevTokens: 0, searchCalls: 0, elapsedMs: 0 };
-      session.usage.elapsedMs += now() - start; persist(session);
-      if (active?.id === session.id) active = null;
+      try {
+        session.usage ??= { llmTokens: 0, jevTokens: 0, searchCalls: 0, elapsedMs: 0 };
+        session.usage.elapsedMs += now() - start; persist(session);
+      } catch { retainUnsavedFailure(session); }
+      finally { if (active?.id === session.id) active = null; }
     });
     active = { id: session.id, controller, task };
     return structuredClone(session);
@@ -218,7 +266,7 @@ export function createPersonalSearchService(options: Options) {
       // Preserve the first retrieved version for each URL inside this session.
       if (session.sources.some(existing => existing.url === source.url)) continue;
       source.originalRank = session.sources.length + 1;
-      store.saveSource(source); session.sources.push(source);
+      checkpoint(() => store.saveSource(source)); session.sources.push(source);
     }
     persist(session);
     return result.sources.map(source => session.sources.find(saved => saved.url === source.url)?.id).filter((id): id is string => Boolean(id));
@@ -252,7 +300,7 @@ export function createPersonalSearchService(options: Options) {
     session.units = store.rank(session.units, session.context).map(unit => originals.get(unit.id)!).filter(Boolean);
     event(session, 'rank', 'Ranked with Jev judgments and the current personal model; source order remains available.', { completed: session.units.length, total: session.units.length });
   };
-  const screen = async (session: PersonalSearchSession, units: PersonalUnit[], signal: AbortSignal) => {
+  const screen = async (session: PersonalSearchSession, units: PersonalUnit[], signal: AbortSignal, control: PipelineControl) => {
     const settings = options.configuration();
     session.status = 'ranking';
     session.pendingUnits ??= [];
@@ -260,11 +308,11 @@ export function createPersonalSearchService(options: Options) {
       if (!session.pendingUnits.some(pending => pending.id === unit.id && pending.version === unit.version)) session.pendingUnits.push(unit);
     }
     event(session, 'jev', 'Jev is checking passage support and judging relevance, novelty, and actionability for each card.', { completed: 0, total: units.length, model: settings.jevModel });
-    let cursor = 0; let completed = 0; let haltError: unknown;
+    let cursor = 0; let completed = 0;
     const profile: Profile = { ...options.profile(), goal: goal(session), knownConcepts: known(), version: session.context.version };
     const accepted: PersonalUnit[] = [];
-    await Promise.all(Array.from({ length: Math.min(PERSONAL_SEARCH_LIMITS.jevConcurrency, units.length) }, async () => {
-      while (cursor < units.length && !haltError && !signal.aborted) {
+    const workers = await Promise.allSettled(Array.from({ length: Math.min(PERSONAL_SEARCH_LIMITS.jevConcurrency, units.length) }, async () => {
+      while (cursor < units.length && !control.haltError && !signal.aborted) {
         const unit = units[cursor++];
         const sourceText = unit.evidence.map(e => e.quote).join('\n\n');
         const analysis: Analysis = { summary: unit.body, concepts: unit.concepts, topics: ['ranking'], evidence: unit.evidence.map(e => ({ quote: e.quote, insight: unit.body.slice(0, 250) })), readingMinutes: unit.effortMinutes, source: 'llm', model: settings.llmModel };
@@ -289,7 +337,10 @@ export function createPersonalSearchService(options: Options) {
           unit.features.values.splice(0, 3, relevance, novelty, actionability);
           unit.features.encoder = 'llm-attributes+jev'; unit.features.model = `${settings.llmModel};${result.decision.model}`;
           unit.prior = 2 * (0.5 * relevance + 0.3 * novelty + 0.2 * actionability - 0.5);
-          store.saveUnit(unit); accepted.push(unit);
+          // The session checkpoint atomically commits its immutable scored cards.
+          // An eager unit write here would orphan v1 while the durable session
+          // still says pending v1 if its checkpoint fails, blocking a later retry.
+          accepted.push(unit);
           session.pendingUnits = session.pendingUnits?.filter(pending => pending.id !== unit.id || pending.version !== unit.version);
           const existing = session.units.findIndex(current => current.id === unit.id);
           if (existing >= 0) session.units[existing] = unit; else session.units.push(unit);
@@ -298,28 +349,28 @@ export function createPersonalSearchService(options: Options) {
           event(session, 'jev-progress', 'Real Jev judgments received.', { completed, total: units.length });
         } catch (error) {
           if (signal.aborted) break;
+          if (error instanceof SearchCheckpointError || HALT.has(classifyProviderError(error))) control.halt(error);
+          if (error instanceof SearchCheckpointError) throw error;
           const message = safeProviderError(error, { stage: 'jev', provider: settings.jevProvider });
-          event(session, 'error', message);
-          if (HALT.has(classifyProviderError(error))) haltError = error;
+          try { event(session, 'error', message); } catch (writeError) { control.halt(writeError); throw writeError; }
         }
       }
     }));
+    const workerFailure = workers.find((worker): worker is PromiseRejectedResult => worker.status === 'rejected');
+    if (workerFailure) throw workerFailure.reason;
+    if (control.haltError) throw control.haltError;
     signal.throwIfAborted();
-    if (haltError) {
-      session.error = safeProviderError(haltError, { stage: 'jev', provider: settings.jevProvider });
-      event(session, 'error', 'New Jev requests stopped after a provider access, rate, or billing error.');
-    }
     return accepted.length;
   };
-  const ground = async (session: PersonalSearchSession, sources: PersonalSource[], signal: AbortSignal) => {
+  const ground = async (session: PersonalSearchSession, sources: PersonalSource[], signal: AbortSignal, consume: (units: PersonalUnit[]) => Promise<void>, control: PipelineControl) => {
     session.status = 'grounding';
     event(session, 'grounding', 'Turning retrieved excerpts into standalone, independently rankable information cards.');
     const groups: PersonalSource[][] = [];
     for (let index = 0; index < sources.length; index += 2) groups.push(sources.slice(index, index + 2));
-    let cursor = 0; let haltError: unknown;
+    let cursor = 0;
     const units: PersonalUnit[] = [];
-    await Promise.all(Array.from({ length: Math.min(PERSONAL_SEARCH_LIMITS.llmConcurrency, groups.length) }, async () => {
-      while (cursor < groups.length && !haltError && !signal.aborted) {
+    const workers = await Promise.allSettled(Array.from({ length: Math.min(PERSONAL_SEARCH_LIMITS.llmConcurrency, groups.length) }, async () => {
+      while (cursor < groups.length && !control.haltError && !signal.aborted) {
         const group = groups[cursor++];
         try {
           const result = await json(session, groundedUnitsSchema,
@@ -328,6 +379,7 @@ export function createPersonalSearchService(options: Options) {
           signal.throwIfAborted();
           usage(session, result, 'llm', 'Generated candidate information cards; validating their quotations.');
           let acceptedCards = 0;
+          const batch: PersonalUnit[] = [];
           for (const candidate of result.value.units) {
             let card: ResolvedCard;
             try { card = resolveGroundedCard(candidate, group); }
@@ -345,21 +397,28 @@ export function createPersonalSearchService(options: Options) {
               researchTags: { optionIds: card.optionIds ?? [], facetIds: card.facetIds ?? [] }, prior: 0, createdAt: iso(),
             };
             units.push(draft);
+            batch.push(draft);
             session.pendingUnits ??= []; session.pendingUnits.push(draft);
             persist(session);
             acceptedCards++;
           }
           event(session, 'evidence', `${acceptedCards} of ${result.value.units.length} candidate cards passed exact source-quote matching. This checks provenance, not semantic truth.`);
+          // Publish checked cards from this batch before occupying the next LLM slot.
+          // Both grounding workers and card checks share the same halt boundary.
+          if (batch.length && !control.haltError) await consume(batch);
         } catch (error) {
-          if (signal.aborted) break;
+          if (signal.aborted) { if (error instanceof SearchCheckpointError) control.halt(error); break; }
+          if (error instanceof SearchCheckpointError || HALT.has(classifyProviderError(error))) control.halt(error);
+          if (error instanceof SearchCheckpointError) throw error;
           session.error ??= 'Some source batches could not produce valid grounded cards. Results below contain only accepted cards.';
-          event(session, 'error', safeError(error));
-          if (HALT.has(classifyProviderError(error))) haltError = error;
+          try { event(session, 'error', safeError(error)); } catch (writeError) { control.halt(writeError); throw writeError; }
         }
       }
     }));
+    const workerFailure = workers.find((worker): worker is PromiseRejectedResult => worker.status === 'rejected');
+    if (workerFailure) throw workerFailure.reason;
+    if (control.haltError) throw control.haltError;
     signal.throwIfAborted();
-    if (haltError && !units.length) throw haltError;
     return units;
   };
   const automaticSelection = (session: PersonalSearchSession) => {
@@ -380,7 +439,8 @@ export function createPersonalSearchService(options: Options) {
     for (const unit of selectSynthesisUnits(candidates, 8)) if (selected.length < 8 && !selected.includes(unit)) selected.push(unit);
     return selected.map(unit => unit.id);
   };
-  const answer = async (session: PersonalSearchSession, selectedIds: string[], signal: AbortSignal) => {
+  const answer = async (session: PersonalSearchSession, selectedIds: string[], parentSignal: AbortSignal) => {
+    const control = pipelineControl(parentSignal); const { signal } = control;
     const selected = session.units.filter(unit => selectedIds.includes(unit.id)).slice(0, 8);
     if (!selected.length) throw new Error('Choose at least one existing information card.');
     session.answer = ''; delete session.answerReview; session.followUp = undefined;
@@ -412,9 +472,9 @@ export function createPersonalSearchService(options: Options) {
     ];
     const review: NonNullable<PersonalSearchSession['answerReview']> = { version: 'search-synthesis-support-v1', threshold: .8, status: 'checking', draft, checks: clauses.map(item => ({ ...item, status: 'pending' })) };
     session.answerReview = review; persist(session);
-    let cursor = 0; let halted = false;
+    let cursor = 0;
     const workers = await Promise.allSettled(Array.from({ length: Math.min(2, clauses.length) }, async () => {
-      while (cursor < review.checks.length && !signal.aborted && !halted) {
+      while (cursor < review.checks.length && !signal.aborted) {
         const check = review.checks[cursor++];
         try {
           const references = selected.filter(unit => check.unitIds.includes(unit.id)).flatMap(unit => unit.evidence);
@@ -427,41 +487,63 @@ export function createPersonalSearchService(options: Options) {
           signal.throwIfAborted();
           if (!Number.isFinite(result.score) || result.score < 0 || result.score > 1) throw new Error('Source-support check returned an invalid estimate.');
           check.score = result.score; check.model = result.model; check.rubricVersion = result.version; check.status = result.score >= review.threshold ? 'matched' : 'flagged';
-          try { usage(session, result, 'jev', 'Received a fallible source-support judgment for the generated synthesis.'); } catch (error) { halted = true; throw error; }
-        } catch (error) { if (HALT.has(classifyProviderError(error))) halted = true; check.status = 'unavailable'; check.error = signal.aborted ? 'The check was cancelled.' : safeProviderError(error, { stage: 'jev', provider: options.configuration().jevProvider }); }
-        try { persist(session); } catch (error) { halted = true; throw error; }
+          usage(session, result, 'jev', 'Received a fallible source-support judgment for the generated synthesis.');
+        } catch (error) {
+          if (error instanceof SearchCheckpointError || HALT.has(classifyProviderError(error))) control.halt(error);
+          check.status = 'unavailable';
+          check.error = parentSignal.aborted ? 'The check was cancelled.' : control.haltError ? 'Source checking stopped after a provider, budget, or local storage failure.' : safeProviderError(error, { stage: 'jev', provider: options.configuration().jevProvider });
+          if (error instanceof SearchCheckpointError) throw error;
+        }
+        try { persist(session); } catch (error) { control.halt(error); throw error; }
       }
     }));
     for (const check of review.checks) if (check.status === 'pending') { check.status = 'unavailable'; check.error = 'The source check did not finish.'; }
     review.status = review.checks.every(check => check.status === 'matched') ? 'passed' : 'needs-review';
-    persist(session); signal.throwIfAborted();
+    persist(session);
     const workerFailure = workers.find((result): result is PromiseRejectedResult => result.status === 'rejected');
     if (workerFailure) throw workerFailure.reason;
+    if (control.haltError) throw control.haltError;
+    signal.throwIfAborted();
     if (review.status === 'passed') { session.answer = draft; session.followUp = result.value.followUp ?? undefined; }
     else { session.error = `${session.error ? `${session.error} ` : ''}The generated synthesis needs source review. Ranked cards and the unaccepted draft remain available.`; }
     event(session, 'answer-review', review.status === 'passed' ? 'Synthesis passed the automated passage-support screen. This does not independently verify its sources.' : 'Synthesis held for evidence review; no completed answer was accepted.');
   };
-  const processSources = async (session: PersonalSearchSession, signal: AbortSignal, candidates: PersonalSource[]) => {
-    await ground(session, candidates, signal);
-    const units = session.pendingUnits?.filter(unit => unit.features.contextVersion === session.context.version) ?? [];
+  const processSources = async (session: PersonalSearchSession, parentSignal: AbortSignal, candidates: PersonalSource[]) => {
+    const control = pipelineControl(parentSignal); const { signal } = control;
+    let attempted = 0; let accepted = 0;
+    const consume = async (units: PersonalUnit[]) => {
+      if (!units.length || control.haltError) return;
+      attempted += units.length;
+      const count = await screen(session, units, signal, control);
+      accepted += count;
+      signal.throwIfAborted();
+      if (session.units.length) rank(session);
+    };
+    const pending = session.pendingUnits?.filter(unit => unit.features.contextVersion === session.context.version) ?? [];
     const previous = session.units.filter(unit => unit.features.contextVersion !== session.context.version).map(unit => ({ ...unit, version: unit.version + 1, features: { ...unit.features, values: [...unit.features.values], contextVersion: session.context.version } }));
     session.units = session.units.filter(unit => unit.features.contextVersion === session.context.version);
-    const screening = [...previous, ...units].slice(0, PERSONAL_SEARCH_LIMITS.units);
-    const accepted = await screen(session, screening, signal);
+    await consume([...previous, ...pending].slice(0, PERSONAL_SEARCH_LIMITS.units));
+    if (!control.haltError) await ground(session, candidates, signal, consume, control);
+    if (control.haltError) throw control.haltError;
     if (!session.units.length) throw new Error('No fully grounded and Jev-scored cards were accepted.');
     rank(session);
     await answer(session, automaticSelection(session), signal);
-    session.status = accepted < screening.length || !!session.error ? 'partial' : session.followUp ? 'awaiting-refinement' : 'completed';
+    session.status = accepted < attempted || !!session.error ? 'partial' : session.followUp ? 'awaiting-refinement' : 'completed';
     event(session, 'complete', `${session.units.length} cards ready. Compare cards to teach the personal model.`);
   };
 
-  const research = async (session: PersonalSearchSession, signal: AbortSignal, query: string, includeDiscovery: boolean) => {
+  const research = async (session: PersonalSearchSession, parentSignal: AbortSignal, query: string, includeDiscovery: boolean) => {
+    const control = pipelineControl(parentSignal); const { signal } = control;
     const oldIds = new Set(includeDiscovery ? [] : session.sources.map(source => source.id));
     const direct = explicitSourceUrls(query).length > 0;
     const queries = includeDiscovery && !direct && session.researchPlan ? session.researchPlan.queries : [query];
     const retrieved: string[] = [];
     // Two focused, bounded searches run together; their slots are independent of arrival order.
-    const results = await Promise.allSettled(queries.map(async query => { retrieved.push(...await collect(session, query, queries.length > 1 ? 4 : PERSONAL_SEARCH_LIMITS.researchSources, signal)); }));
+    const results = await Promise.allSettled(queries.map(async query => {
+      try { signal.throwIfAborted(); retrieved.push(...await collect(session, query, queries.length > 1 ? 4 : PERSONAL_SEARCH_LIMITS.researchSources, signal)); }
+      catch (error) { if (error instanceof SearchCheckpointError || HALT.has(classifyProviderError(error))) control.halt(error); throw error; }
+    }));
+    if (control.haltError) throw control.haltError;
     signal.throwIfAborted();
     const failures = results.filter((result): result is PromiseRejectedResult => result.status === 'rejected');
     if (failures.length === queries.length) throw failures[0].reason;
@@ -530,7 +612,9 @@ export function createPersonalSearchService(options: Options) {
         else {
           const units = session.units.map(unit => ({ ...unit, version: unit.version + 1, features: { ...unit.features, values: [...unit.features.values], contextVersion: session.context.version } }));
           session.units = [];
-          const accepted = await screen(session, units, signal);
+          const control = pipelineControl(signal);
+          const accepted = await screen(session, units, control.signal, control);
+          if (control.haltError) throw control.haltError;
           if (!session.units.length) throw new Error('No card was scored for the refined context. Previous versions remain in the data export.');
           rank(session);
           await answer(session, automaticSelection(session), signal);
@@ -573,9 +657,13 @@ export function createPersonalSearchService(options: Options) {
         if (!ACTIVE.has(session.status)) continue;
         session.status = session.units.length ? 'partial' : 'failed';
         if (session.answerReview?.status === 'checking') { session.answerReview.status = 'needs-review'; for (const check of session.answerReview.checks) if (check.status === 'pending') { check.status = 'unavailable'; check.error = 'The server restarted before this check finished.'; } }
-        session.error = 'The server restarted before this operation finished. Completed checkpoints were preserved; no paid requests were replayed.'; persist(session);
+        session.error = 'The server restarted before this operation finished. Completed checkpoints were preserved; no paid requests were replayed.';
+        try { persist(session); } catch { retainUnsavedFailure(session); }
       }
     },
+    getSession: readSession,
+    listSessions,
+    clearTransientFailures: (id?: string) => { if (id) unsavedFailures.delete(id); else unsavedFailures.clear(); },
     isRunning: () => active !== null,
     waitForIdle: async () => { await active?.task; },
   };

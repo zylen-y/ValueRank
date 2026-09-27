@@ -26,7 +26,7 @@ export function createPersonalHttp(dependencies: { profile: () => Profile; legac
   const personal = createPersonalService(createPersonalStore(process.env.VALUERANK_PERSONAL_DB_PATH || undefined));
   const search = createPersonalSearchService({ store: personal, configuration: config, profile: dependencies.profile });
   const media = createMediaService(personal, {path:process.env.VALUERANK_MEDIA_DB_PATH || undefined});
-  const research = createResearchService(createResearchStore(process.env.VALUERANK_RESEARCH_DB_PATH || (process.env.VALUERANK_PERSONAL_DB_PATH ? `${process.env.VALUERANK_PERSONAL_DB_PATH}.research.sqlite` : undefined)), { getSession: personal.getSession, configuration: config });
+  const research = createResearchService(createResearchStore(process.env.VALUERANK_RESEARCH_DB_PATH || (process.env.VALUERANK_PERSONAL_DB_PATH ? `${process.env.VALUERANK_PERSONAL_DB_PATH}.research.sqlite` : undefined)), { getSession: search.getSession, configuration: config });
   search.recoverInterrupted();
   research.recoverInterrupted();
   const seedMarker = process.env.VALUERANK_PERSONAL_DB_PATH ? `${process.env.VALUERANK_PERSONAL_DB_PATH}.seeded` : resolve(demoRoot, '.data/personal-seeded-v1');
@@ -47,7 +47,7 @@ export function createPersonalHttp(dependencies: { profile: () => Profile; legac
   const handleCatalog = createCatalogHttp(catalog, { json: dependencies.json, body: dependencies.body, requireIdle });
   const handleResearch = createResearchHttp(research, { json: dependencies.json, body: dependencies.body, requireIdle });
   const sessionPayload = (id: string) => {
-    const session = personal.getSession(idSchema.parse(id));
+    const session = search.getSession(idSchema.parse(id));
     if (!session) throw new PersonalError('Search session not found.',404);
     const dataset=personal.datasets().find(candidate=>candidate.context.id===session.context.id&&candidate.context.version===session.context.version&&candidate.itemRefs.length===session.units.length&&session.units.every(unit=>candidate.itemRefs.some(ref=>ref.id===unit.id&&ref.version===unit.version)));
     const projectId = research.projectForSession(id);
@@ -62,12 +62,12 @@ export function createPersonalHttp(dependencies: { profile: () => Profile; legac
       if (!path.startsWith('/api/personal')) return false;
       const pieces = path.slice('/api/personal'.length).split('/').filter(Boolean).map(decodeURIComponent);
       const [resource,id,action] = pieces; const method=request.method;
-      if (!resource && method==='GET') { json(response,200,personal.snapshot()); return true; }
+      if (!resource && method==='GET') { const snapshot=personal.snapshot(); snapshot.recentSessions=snapshot.recentSessions.map(summary=>{const session=search.getSession(summary.id);return session?{...summary,status:session.status,unitCount:session.units.length}:summary;}); json(response,200,snapshot); return true; }
       if (resource==='export' && method==='GET') {
         response.writeHead(200,{'Content-Type':'application/json','Content-Disposition':'attachment; filename="valuerank-personal-data.json"','Cache-Control':'no-store'});
-        response.end(JSON.stringify({...personal.exportData(),media:media.exportData(),research:research.exportData()},null,2)); return true;
+        response.end(JSON.stringify({...personal.exportData(),sessions:search.listSessions(),media:media.exportData(),research:research.exportData()},null,2)); return true;
       }
-      if (resource==='data' && method==='DELETE') { requireIdle(); research.clear(); personal.deleteData(); media.deleteData(); json(response,200,personal.snapshot()); return true; }
+      if (resource==='data' && method==='DELETE') { requireIdle(); research.clear(); personal.deleteData(); search.clearTransientFailures(); media.deleteData(); json(response,200,personal.snapshot()); return true; }
       if (resource==='assets' && id && method==='GET') {
         const asset=media.asset(id); if(!asset) throw new PersonalError('Image not found.',404);
         response.writeHead(200,{'Content-Type':asset.mime,'Cache-Control':'private, no-store','X-Content-Type-Options':'nosniff'});response.end(Buffer.from(asset.bytes));return true;
@@ -78,9 +78,9 @@ export function createPersonalHttp(dependencies: { profile: () => Profile; legac
         if(method==='POST' && id && action==='cancel') {await body(request);json(response,200,{job:media.cancel(id)});return true;}
       }
       if(resource==='sessions') {
-        if(method==='GET') {json(response,200,id?sessionPayload(id):{sessions:personal.listSessions()});return true;}
+        if(method==='GET') {json(response,200,id?sessionPayload(id):{sessions:search.listSessions()});return true;}
         if(method==='POST'&&!id) {const input=z.object({query:z.string().trim().min(1).max(500),projectId:z.string().optional()}).strict().parse(await body(request));requireIdle();const project=input.projectId?research.get(input.projectId):undefined;const session=search.start(input.query,project?{scopeId:project.id,version:project.version,title:project.title,goal:project.goal,constraints:project.constraints}:undefined);if(project)research.link(project.id,session.id);json(response,202,{session});return true;}
-        if(method==='DELETE'&&id) {requireIdle();const result=personal.deleteSession(id);research.store.unlink(id);json(response,200,result);return true;}
+        if(method==='DELETE'&&id) {requireIdle();const result=personal.deleteSession(id);search.clearTransientFailures(id);research.store.unlink(id);json(response,200,result);return true;}
         if(method==='POST'&&id) {
           if(action==='cancel') {await body(request);json(response,200,search.cancel(id));return true;}
           if(action==='retry') {await body(request);requireIdle();json(response,202,{session:search.retry(id)});return true;}

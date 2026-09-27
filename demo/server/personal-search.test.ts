@@ -16,8 +16,8 @@ function setup(extra: Partial<Parameters<typeof createPersonalSearchService>[0]>
   const sessions = new Map<string, PersonalSearchSession>();
   const units: PersonalUnit[] = [];
   const store: PersonalSearchStore = {
-    saveSession: session => sessions.set(session.id, structuredClone(session)), getSession: id => structuredClone(sessions.get(id)), listSessions: () => [...sessions.values()].map(session => structuredClone(session)),
-    saveSource: vi.fn(), saveUnit: unit => units.push(structuredClone(unit)), getFacts: () => [],
+    saveSession: session => { for (const unit of session.units) if (!units.some(saved => saved.id === unit.id && saved.version === unit.version)) units.push(structuredClone(unit)); return sessions.set(session.id, structuredClone(session)); }, getSession: id => structuredClone(sessions.get(id)), listSessions: () => [...sessions.values()].map(session => structuredClone(session)),
+    saveSource: vi.fn(), getFacts: () => [],
     rank: value => value.map(unit => ({ ...unit, score: .8, personalAdjustment: 0, modelVersion: 0, knownConcepts: [] })),
   };
   const generate = vi.fn(async (_schema: unknown, instructions: string, data: unknown) => {
