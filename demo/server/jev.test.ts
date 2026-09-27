@@ -84,6 +84,18 @@ describe('Jev request', () => {
     expect(() => buildRequest(item, analysis, profile, 'typesafe/jev-1.13')).toThrow('model configuration');
     expect(() => buildRequest(item, analysis, profile, 'openai/gpt-6-luna', 'openrouter')).toThrow('model configuration');
   });
+
+  it('adds a separate source-support question only for an explicit claim', () => {
+    const ordinary = buildRequest(item, analysis, profile, 'typesafe/jev-1.13', 'openrouter');
+    expect(Object.keys(ordinary.questions)).toEqual(['relevance', 'novelty', 'actionability']);
+    expect(ordinary.state).not.toHaveProperty('claim');
+    const supported = buildRequest(item, analysis, profile, 'typesafe/jev-1.13', 'openrouter', '  Compare pairs before fitting preferences.  ');
+    expect(Object.keys(supported.questions)).toEqual(['relevance', 'novelty', 'actionability', 'support']);
+    expect(supported.state.claim).toBe('Compare pairs before fitting preferences.');
+    expect(supported.questions.support?.instructions).toContain('not independently verified truth');
+    expect(supported.questions.support?.criteria.true).toContain('implementation-timeline certainty');
+    expect(() => buildRequest(item, analysis, profile, 'jev-latest', 'typesafe', ' ')).toThrow('nonempty claim');
+  });
 });
 
 describe('Jev response validation', () => {
@@ -130,6 +142,12 @@ describe('Jev response validation', () => {
     expect(() => parseResponse(openRouterResponse(), 'typesafe/jev-1.13-20260918', 'openrouter')).toThrow('different model');
     expect(() => parseResponse(openRouterResponse(), 'jev-1.13.0')).toThrow('invalid decision');
   });
+
+  it.each([undefined, { type: 'noul', noul: -0.1 }, { type: 'noul', noul: 1.1 }, { type: 'noul', noul: '0.8' }, { type: 'score', noul: 0.8 }])('rejects missing or invalid requested support: %s', support => {
+    const raw = openRouterResponse();
+    Object.assign(raw.answers, { support });
+    expect(() => parseResponse(raw, 'typesafe/jev-1.13', 'openrouter', { requireSupport: true })).toThrow();
+  });
 });
 
 describe('real SDK with one metered transport attempt', () => {
@@ -155,6 +173,7 @@ describe('real SDK with one metered transport attempt', () => {
     expect(transport).toHaveBeenCalledTimes(1); expect(result.tokens).toBe(500);
     expect(result.decision).toMatchObject({ source: 'jev', provider: 'openrouter', model: 'typesafe/jev-1.13-20260917', profileVersion: 3, relevance: 0.9, novelty: 0.8, actionability: 0.7 });
     expect('confidence' in result.decision).toBe(false);
+    expect(result).not.toHaveProperty('support');
     expect(budget.snapshot()).toMatchObject({ active: 0, unknown: 0, frozen: false });
     expect(budget.snapshot().reportedUsd).toBeCloseTo(0.000021, 6);
   });
@@ -214,6 +233,40 @@ describe('real SDK with one metered transport attempt', () => {
   it('bounds repeated per-question state before any API request', async () => {
     const transport = vi.fn<Fetch>();
     await expect(createJevEvaluator(transport)(item, analysis, { ...profile, knownConcepts: Array(100).fill('x'.repeat(240)) }, config)).rejects.toMatchObject({ code: 'input-limit' });
+    expect(transport).not.toHaveBeenCalled();
+  });
+
+  it('meters all four state copies and returns support outside the legacy decision fields', async () => {
+    const claim = 'Compare lesson pairs to obtain labels for a preference model.';
+    const request = buildRequest(item, analysis, profile, config.model, 'openrouter', claim);
+    const input = JSON.stringify(Object.values(request.questions).map(question => ({ model: request.model, state: request.state, question })));
+    const reserved = Math.ceil((Buffer.byteLength(input) + 2048) * 0.06 * 1.25) / 1_000_000;
+    const transport = vi.fn<Fetch>(async (_url, init) => {
+      expect(JSON.parse(init?.body as string)).toEqual(request);
+      expect(budget.snapshot().accountedUsd).toBe(reserved);
+      const raw = openRouterResponse(); Object.assign(raw.answers, { support: { type: 'noul', noul: 0.82 } }); return json(raw);
+    });
+    const result = await createJevEvaluator(transport)(item, analysis, profile, { ...config, claim });
+    expect(result.support).toBe(0.82); expect(result.decision).not.toHaveProperty('support');
+    expect(result.decision.relevance).toBe(0.9); expect(transport).toHaveBeenCalledTimes(1);
+  });
+
+  it('reconciles usage but rejects requested missing support without falling back to relevance', async () => {
+    const transport = vi.fn<Fetch>(async () => json(openRouterResponse()));
+    await expect(createJevEvaluator(transport)(item, analysis, profile, { ...config, claim: 'Unsupported product capability.' })).rejects.toThrow('source-support');
+    expect(transport).toHaveBeenCalledTimes(1); expect(budget.snapshot()).toMatchObject({ active: 0, unknown: 0 });
+  });
+
+  it('does not send an invalid claim and applies the byte limit to the added fourth state copy', async () => {
+    const transport = vi.fn<Fetch>(); const evaluate = createJevEvaluator(transport);
+    await expect(evaluate(item, analysis, profile, { ...config, claim: ' ' })).rejects.toThrow('nonempty claim');
+    await expect(evaluate(item, analysis, profile, { ...config, claim: 'x'.repeat(2001) })).rejects.toThrow('2000 characters');
+    const largerItem = { ...item, text: 'x'.repeat(12_000) };
+    const largerProfile = { ...profile, knownConcepts: Array(14).fill('x'.repeat(240)) };
+    const request = buildRequest(largerItem, analysis, largerProfile, config.model, 'openrouter');
+    const threeStateBytes = Buffer.byteLength(JSON.stringify(Object.values(request.questions).map(question => ({ model: request.model, state: request.state, question }))));
+    expect(threeStateBytes).toBeLessThan(60_000);
+    await expect(evaluate(largerItem, analysis, largerProfile, { ...config, claim: 'The source establishes this capability.' })).rejects.toMatchObject({ code: 'input-limit' });
     expect(transport).not.toHaveBeenCalled();
   });
 });

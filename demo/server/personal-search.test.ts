@@ -8,7 +8,7 @@ import type { evaluateWithJev } from './jev.ts';
 
 const quote = 'Jev uses the same model weights for every account and can create downstream ranking features.';
 const source: PersonalSource = { id: 's1', version: 1, url: 'https://example.org/docs', title: 'Source', publisher: 'example.org', text: quote, retrievedAt: '2026-09-26T00:00:00.000Z', provenance: 'search-excerpt' };
-const card = { title: 'Personalize a downstream ranker', body: 'Use Jev probability judgments as features for a separate personal ranking model.', kind: 'method' as const, evidence: [{ sourceId: 's1', quote }], concepts: ['Personal ranking'], limitations: ['The excerpt describes an approach, not measured performance.'], effortMinutes: 2, depth: 0.8, evidenceStrength: 0.7, topics: ['ranking' as const] };
+const card = { optionIds: [], facetIds: [], title: 'Personalize a downstream ranker', body: 'Use Jev probability judgments as features for a separate personal ranking model.', kind: 'method' as const, evidence: [{ sourceId: 's1', quote }], concepts: ['Personal ranking'], limitations: ['The excerpt describes an approach, not measured performance.'], effortMinutes: 2, depth: 0.8, evidenceStrength: 0.7, topics: ['ranking' as const] };
 const profile = { goal: 'Build a personal content engine.', knownConcepts: [], interests: { agents: .5, ranking: .5, rl: .5, web: .5, language: .5, design: .5 }, feedbackCount: 0, version: 1 };
 const settings = { gatewayKey: 'mock-key', llmModel: 'mock/model', jevKey: 'mock-key', jevModel: 'typesafe/jev-1.13', jevProvider: 'openrouter' as const };
 function setup(extra: Partial<Parameters<typeof createPersonalSearchService>[0]> = {}) {
@@ -27,12 +27,39 @@ function setup(extra: Partial<Parameters<typeof createPersonalSearchService>[0]>
     return { value, tokens: 100, durationMs: 1, model: 'mock/model' };
   }) as unknown as typeof generateSearchJson;
   const evaluate: typeof evaluateWithJev = vi.fn(async (_item, _analysis, context) => ({ decision: { relevance: .9, novelty: .8, actionability: .7, source: 'jev' as const, provider: 'openrouter' as const, model: 'typesafe/jev-1.13-20260917', profileVersion: context.version, createdAt: '2026-09-26T00:00:00.000Z' }, tokens: 50 }));
-  const retrieve = vi.fn(async () => ({ sources: [structuredClone(source)], tokens: 20, durationMs: 1, model: 'mock/model', calls: 1 }));
+  const retrieve = vi.fn(async (_query: string, _count: number) => ({ sources: [structuredClone(source)], tokens: 20, durationMs: 1, model: 'mock/model', calls: 1 }));
   const service = createPersonalSearchService({ store, configuration: () => settings, profile: () => profile, retrieve, generate, evaluate, ...extra });
   return { service, sessions, units, store, generate, evaluate, retrieve };
 }
 
 describe('retrieved source registry and evidence boundaries', () => {
+  it('carries project source policy into actual retrieval without turning context links into direct-only extraction', async () => {
+    const { service, retrieve } = setup();
+    service.start('Memory architecture', { scopeId: 'p', goal: 'Build this weekend', constraints: 'Use primary documentation, including https://docs.example.com/memory, within $20.' });
+    await service.waitForIdle();
+    const query = vi.mocked(retrieve).mock.calls[0][0];
+    expect(query).toContain('Use primary documentation'); expect(query).toContain('within $20');
+    expect(query).toContain('docs.example.com'); expect(query).not.toContain('https://'); expect(query.length).toBeLessThanOrEqual(2000);
+  });
+  it('keeps an explicitly supplied source URL on the direct extraction path', async () => {
+    const { service, retrieve } = setup();
+    service.start('Read https://example.org/docs', { scopeId: 'p', goal: 'Compare systems', constraints: 'Use official docs' });
+    await service.waitForIdle();
+    expect(vi.mocked(retrieve).mock.calls[0][0]).toBe('Read https://example.org/docs');
+  });
+  it('preserves the project objective and constraints after refining a search', async () => {
+    const { service, sessions, evaluate, generate } = setup();
+    const session = service.start('Memory options', { scopeId: 'project-one', version: 3, title: 'My app', goal: 'Build a language app', constraints: 'Two days and a small budget' });
+    await service.waitForIdle(); service.continue(session.id); await service.waitForIdle();
+    service.refine(session.id, { instruction: 'Show more implementation detail' }); await service.waitForIdle();
+    expect(sessions.get(session.id)?.context.scopeId).toBe('project-one');
+    expect(sessions.get(session.id)?.context.goal).toBe('Show more implementation detail');
+    expect(sessions.get(session.id)?.projectContext).toEqual({ projectId: 'project-one', version: 3, title: 'My app', goal: 'Build a language app', constraints: 'Two days and a small budget' });
+    const received = vi.mocked(evaluate).mock.calls.at(-1)![2].goal;
+    expect(received).toContain('Two days and a small budget'); expect(received).toContain('Build a language app'); expect(received).toContain('Show more implementation detail');
+    const answerInput = vi.mocked(generate).mock.calls.at(-1)![2] as { project: { version: number } };
+    expect(answerInput.project.version).toBe(3);
+  });
   it('rejects generated-looking objects, private URLs, empty excerpts, and duplicate URLs', () => {
     const results = [{ id: 'a', url: source.url, title: 'A', text: quote }, { id: 'b', url: source.url + '#fragment', title: 'B', text: quote }, { id: 'c', url: 'http://127.0.0.1/admin', title: 'Secret', text: quote }, { id: 'd', url: 'javascript:alert(1)', title: 'X', text: quote }, { id: 'e', url: 'https://example.net/', title: 'Empty', text: '' }];
     const registry = sourceRegistry([{ results }, { requestId: 'real-tool-result', results }], 8);
@@ -90,6 +117,45 @@ describe('source targeting and synthesis diversity', () => {
 });
 
 describe('durable personal search workflow', () => {
+  it('checks title and body support, preserves withheld evidence, and keeps it out of ranking and synthesis', async () => {
+    const fixture = setup();
+    const evaluate = vi.fn(async (...args: Parameters<typeof evaluateWithJev>) => ({ ...await fixture.evaluate(...args), support: 0.2 }));
+    const database = createPersonalStore(':memory:');
+    try {
+      const personal = createPersonalService(database);
+      const { service, generate } = setup({ store: personal, evaluate });
+      const started = service.start('Personal ranking'); await service.waitForIdle(); service.continue(started.id); await service.waitForIdle();
+      const session = personal.getSession(started.id)!;
+      expect(evaluate.mock.calls[0][3].claim).toContain(card.title); expect(evaluate.mock.calls[0][3].claim).toContain(card.body);
+      expect(session.units).toHaveLength(0); expect(session.pendingUnits).toHaveLength(0); expect(session.withheldUnits).toHaveLength(1);
+      expect(session.withheldUnits![0].unit.sourceSupport?.score).toBe(.2); expect(session.withheldUnits![0].unit.evidence[0].quote).toBe(quote);
+      expect(personal.exportData().units).toHaveLength(0);
+      expect(vi.mocked(generate).mock.calls.some(call => call[1].includes('Assemble'))).toBe(false);
+      service.retry(started.id); await service.waitForIdle();
+      expect(evaluate).toHaveBeenCalledTimes(1);
+    } finally { database.close(); }
+  });
+  it('preserves a missing requested alternative instead of silently dropping it from the answer', async () => {
+    const plan = { options: [{ id: 'ranker', label: 'Learned ranking' }, { id: 'memory', label: 'Agent memory' }], facets: [{ id: 'effort', label: 'Implementation effort' }], queries: ['personal ranking research paper', 'agent memory repository documentation'] };
+    const generate = (async (...args: Parameters<typeof generateSearchJson>) => {
+      if (args[1].startsWith('Ask')) return { value: args[0].parse({ researchPlan: plan, questions: [] }), tokens: 10, durationMs: 1, model: 'mock/model' };
+      if (args[1].includes('Create 2-4')) return { value: { units: [{ ...card, optionIds: ['ranker'], facetIds: ['effort'] }] }, tokens: 10, durationMs: 1, model: 'mock/model' };
+      const data = args[2] as { cards: { id: string }[]; coveredOptions: { id: string }[] };
+      expect(data.coveredOptions.map(option => option.id)).toEqual(['ranker']);
+      const value = { optionAssessments: [{ optionId: 'ranker', text: 'A separate ranker can use Jev judgments as features.', unitIds: [data.cards[0].id] }], paragraphs: [{ text: 'Compare the alternatives only after collecting the missing evidence.', unitIds: [data.cards[0].id] }], followUp: null };
+      expect(() => args[0].parse({ ...value, optionAssessments: [] })).toThrow();
+      expect(() => args[0].parse({ ...value, optionAssessments: [{ ...value.optionAssessments[0], optionId: 'memory' }] })).toThrow();
+      return { value: args[0].parse(value), tokens: 10, durationMs: 1, model: 'mock/model' };
+    }) as typeof generateSearchJson;
+    const { service, sessions, retrieve } = setup({ generate });
+    const start = service.start('Compare a learned ranker with agent memory'); await service.waitForIdle();
+    expect(sessions.get(start.id)?.questions).toEqual([]);
+    service.continue(start.id); await service.waitForIdle();
+    const done = sessions.get(start.id)!;
+    expect(done.answer).toContain('Learned ranking:'); expect(done.answer).toContain('Agent memory: The selected passages do not establish');
+    expect(done.researchPlan).toEqual(plan); expect(retrieve).toHaveBeenCalledTimes(3);
+    expect(vi.mocked(retrieve).mock.calls.slice(1).map(call => call[1])).toEqual([4, 4]);
+  });
   it('persists the query before discovery; pauses for choices then grounds, scores and answers', async () => {
     const { service, sessions, store, evaluate } = setup();
     const session = service.start('How can I personalize Jev?');
@@ -126,7 +192,7 @@ describe('durable personal search workflow', () => {
     const fixture = setup();
     const generate = vi.fn(async (...args: Parameters<typeof generateSearchJson>) => {
       if (args[1].startsWith('Ask')) {
-        const candidate = { questions: Array.from({ length: 4 }, (_, index) => ({ id: `question_${index}`, question: `What matters for decision ${index}?`, options: ['Implementation', 'Overview'] })) };
+        const candidate = { researchPlan: { options: [], facets: [{ id: 'implementation', label: 'Implementation' }], queries: ['Personal ranker documentation'] }, questions: Array.from({ length: 4 }, (_, index) => ({ id: `question_${index}`, question: `What matters for decision ${index}?`, options: ['Implementation', 'Overview'] })) };
         return { value: args[0].parse(candidate), tokens: 100, durationMs: 1, model: 'mock/model' };
       }
       return fixture.generate(...args);

@@ -84,7 +84,7 @@ generated body and unsupported citations are discarded.
 - Source analysis: one scoped local-source tool step and one synthesis step,
   each capped at 1,800 output tokens; one separately reserved format repair.
 - Jev: one SDK request with an eight-second transport timeout, 20-second overall
-  bound, three fixed structured questions, and a 60,000-byte repeated-state input
+  bound, three ranking questions plus an optional source-support question, and a 60,000-byte repeated-state input
   limit. Direct TypeSafe and unreviewed model versions are blocked.
 - Vision: one validated PNG/JPEG, at most 650 KB and 1,600 pixels per side; 800
   output tokens and a full-context reservation of US$0.31325. No image-generation

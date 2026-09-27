@@ -45,8 +45,19 @@ const questions = {
   },
 } as const satisfies Questions;
 
-export function buildRequest(item: ContentItem, analysis: Analysis, profile: Profile, model: string, provider: JevProvider = 'typesafe') {
+export const JEV_SUPPORT_QUESTION = 'Does source.excerpt support the material factual assertions in claim, with the same scope and qualifications?';
+const supportQuestion = {
+  type: 'noul',
+  instructions: DATA_RULE + JEV_SUPPORT_QUESTION + ' Judge source support, not personal relevance, plausibility, persuasion, or agreement with the recommendation. A source claim is not independently verified truth. Do not treat conditional advice or explicit uncertainty as a verified product fact.',
+  criteria: {
+    true: 'The excerpt supports the claim\'s factual assertions and qualifications. The claim does not add unsupported capabilities, prices, benchmark results, local compatibility, or implementation-timeline certainty.',
+    false: 'A material assertion is contradicted, absent, more certain, broader in scope, or more specific than the excerpt supports. Plausible outside knowledge, a title, the user goal, and the proposed recommendation cannot supply missing evidence.',
+  },
+} as const satisfies Questions[string];
+
+export function buildRequest(item: ContentItem, analysis: Analysis, profile: Profile, model: string, provider: JevProvider = 'typesafe', claim?: string) {
   validateRequestModel(model, provider);
+  if (claim !== undefined && (typeof claim !== 'string' || !claim.trim() || claim.length > 2_000)) throw new Error('Jev source support needs a nonempty claim of at most 2000 characters.');
   const excerpt = item.text.slice(0, MAX_SOURCE_CHARS).trim();
   if (!excerpt) throw new Error('Jev needs source text to evaluate.');
   const normalizedExcerpt = normalizeWhitespace(excerpt);
@@ -61,6 +72,7 @@ export function buildRequest(item: ContentItem, analysis: Analysis, profile: Pro
   return {
     model,
     state: {
+      ...(claim !== undefined ? { claim: claim.trim() } : {}),
       source: { title: item.title.slice(0, 500), excerpt },
       analysis: {
         concepts: analysis.concepts.slice(0, 32).map((concept) => concept.slice(0, 160)),
@@ -71,7 +83,7 @@ export function buildRequest(item: ContentItem, analysis: Analysis, profile: Pro
         knownConcepts: profile.knownConcepts.slice(0, 100).map((concept) => concept.slice(0, 240)),
       },
     },
-    questions,
+    questions: { ...questions, ...(claim !== undefined ? { support: supportQuestion } : {}) },
   };
 }
 
@@ -80,7 +92,7 @@ const noulAnswer = z.object({ type: z.literal('noul'), noul: probability });
 const responseSchema = z.object({
   id: z.string().optional(),
   model: z.string(),
-  answers: z.object({ relevance: noulAnswer, novelty: noulAnswer, actionability: noulAnswer }),
+  answers: z.object({ relevance: noulAnswer, novelty: noulAnswer, actionability: noulAnswer, support: noulAnswer.optional() }),
   usage: z.object({
     input_tokens: z.number().int().nonnegative().max(Number.MAX_SAFE_INTEGER),
     output_tokens: z.number().int().nonnegative().max(Number.MAX_SAFE_INTEGER),
@@ -88,10 +100,11 @@ const responseSchema = z.object({
   }),
 });
 
-export function parseResponse(raw: unknown, requestedModel: string, provider: JevProvider = 'typesafe') {
+export function parseResponse(raw: unknown, requestedModel: string, provider: JevProvider = 'typesafe', options: { requireSupport?: boolean } = {}) {
   validateRequestModel(requestedModel, provider);
   const result = responseSchema.safeParse(raw);
   if (!result.success) throw new Error('Jev returned an invalid decision response.');
+  if (options.requireSupport && !result.data.answers.support) throw new Error('Jev returned an invalid source-support response.');
   const returnedModel = result.data.model;
   const responsePattern = provider === 'openrouter' ? OPENROUTER_MODEL : VERSIONED_MODEL;
   if (!responsePattern.test(returnedModel)) throw new Error('Jev returned an invalid decision response.');
@@ -105,8 +118,8 @@ export function parseResponse(raw: unknown, requestedModel: string, provider: Je
   return result.data;
 }
 
-type Configuration = { apiKey: string; model: string; provider?: JevProvider; budget?: CostBudget };
-type EvaluationResult = { decision: Decision; tokens: number };
+type Configuration = { apiKey: string; model: string; provider?: JevProvider; budget?: CostBudget; claim?: string };
+type EvaluationResult = { decision: Decision; tokens: number; /** Fallible source-support aid, not calibrated truth probability. */ support?: number };
 
 // An injectable transport makes contract/error tests exercise the real SDK
 // without contacting a model or consuming credits.
@@ -121,7 +134,7 @@ export function createJevEvaluator(fetchImpl?: Fetch) {
     const provider = config.provider ?? 'typesafe';
     if (!config.apiKey.trim()) throw new Error(`${provider === 'openrouter' ? 'OpenRouter' : 'TypeSafe'} API key is not configured.`);
     if (provider !== 'openrouter') throw new CostBudgetError('unpriced-provider', 'Direct TypeSafe calls are paused because their price and transport limits have not been reviewed. Use the existing OpenRouter route.');
-    const request = buildRequest(item, analysis, profile, config.model, provider);
+    const request = buildRequest(item, analysis, profile, config.model, provider, config.claim);
     const client = new TypeSafeClient({
       apiKey: config.apiKey,
       baseURL: provider === 'openrouter' ? 'https://openrouter.ai/api' : 'https://api.typesafe.ai',
@@ -139,8 +152,9 @@ export function createJevEvaluator(fetchImpl?: Fetch) {
       const reported = responseSchema.pick({ id: true, usage: true }).safeParse(value);
       return { value, usage: reported.success ? { inputTokens: reported.data.usage.input_tokens, outputTokens: reported.data.usage.output_tokens, costUsd: reported.data.usage.cost, requestId: reported.data.id } : undefined };
     }, { signal });
-    const { answers, model, usage } = parseResponse(raw, config.model, provider);
+    const { answers, model, usage } = parseResponse(raw, config.model, provider, { requireSupport: config.claim !== undefined });
     return {
+      ...(config.claim !== undefined ? { support: answers.support!.noul } : {}),
       decision: {
         relevance: answers.relevance.noul,
         novelty: answers.novelty.noul,
