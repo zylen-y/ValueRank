@@ -1,0 +1,1023 @@
+{
+  "url": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+  "title": "Browse Standard Ebooks - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover",
+  "heading": "Browse Ebooks",
+  "observedAt": "2026-09-27T00:12:06.151Z",
+  "itemCount": 48,
+  "items": [
+    {
+      "attributes": {
+        "readingEase": 56.29,
+        "subjects": "Horror, Science Fiction",
+        "wordCount": 77898
+      },
+      "creator": "Mary Shelley",
+      "description": "77,898 words • 56.29 reading ease Horror Science Fiction",
+      "externalId": "mary-shelley/frankenstein",
+      "imageUrl": "https://standardebooks.org/images/covers/mary-shelley_frankenstein/a2a4d948cd6d7eaa6bd1ce223fe17e4380689b5a/cover@2x.jpg",
+      "title": "Frankenstein",
+      "url": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 56.69,
+        "subjects": "Science Fiction",
+        "wordCount": 162488
+      },
+      "creator": "Jane C. Loudon",
+      "description": "162,488 words • 56.69 reading ease Science Fiction",
+      "externalId": "jane-c-loudon/the-mummy",
+      "imageUrl": "https://standardebooks.org/images/covers/jane-c-loudon_the-mummy/9ec8047e8252bca555fa9a35b0aa0395f59119b5/cover@2x.jpg",
+      "title": "The Mummy!",
+      "url": "https://standardebooks.org/ebooks/jane-c-loudon/the-mummy",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.04,
+        "subjects": "Science Fiction",
+        "wordCount": 32429
+      },
+      "creator": "H. G. Wells",
+      "description": "32,429 words • 71.04 reading ease Science Fiction",
+      "externalId": "h-g-wells/the-time-machine",
+      "imageUrl": "https://standardebooks.org/images/covers/h-g-wells_the-time-machine/974914346ad9e79cf998605783ecd534716ce12c/cover@2x.jpg",
+      "title": "The Time Machine",
+      "url": "https://standardebooks.org/ebooks/h-g-wells/the-time-machine",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 66.88,
+        "subjects": "Horror, Science Fiction",
+        "wordCount": 25664
+      },
+      "creator": "Robert Louis Stevenson",
+      "description": "25,664 words • 66.88 reading ease Horror Science Fiction",
+      "externalId": "robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+      "imageUrl": "https://standardebooks.org/images/covers/robert-louis-stevenson_the-strange-case-of-dr-jekyll-and-mr-hyde/272fad7d23f75883b253e3d7aaf868c79ae572af/cover@2x.jpg",
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "url": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 57.3,
+        "subjects": "Adventure, Comedy, Horror, Mystery, Satire, Science Fiction, Shorts",
+        "wordCount": 318069
+      },
+      "creator": "Edgar Allan Poe",
+      "description": "318,069 words • 57.3 reading ease Adventure Comedy Horror Mystery Satire Science Fiction Shorts",
+      "externalId": "edgar-allan-poe/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/edgar-allan-poe_short-fiction/113021f2b2d2f3b5cdb4751661bf742b6e3ee6b4/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 69.11,
+        "subjects": "Science Fiction",
+        "wordCount": 60181
+      },
+      "creator": "H. G. Wells",
+      "description": "60,181 words • 69.11 reading ease Science Fiction",
+      "externalId": "h-g-wells/the-war-of-the-worlds",
+      "imageUrl": "https://standardebooks.org/images/covers/h-g-wells_the-war-of-the-worlds/12d577609d522c5326c06924c1540c00b7dd687d/cover@2x.jpg",
+      "title": "The War of the Worlds",
+      "url": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 77.23,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 23442
+      },
+      "creator": "Isaac Asimov",
+      "description": "23,442 words • 77.23 reading ease Science Fiction Shorts",
+      "externalId": "isaac-asimov/short-science-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/isaac-asimov_short-science-fiction/2b580f80dfdfaaf96f338c3b273b69afa382c4ee/cover@2x.jpg",
+      "title": "Short Science Fiction",
+      "url": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 42.04,
+        "subjects": "Adventure, Horror, Science Fiction",
+        "wordCount": 39980
+      },
+      "creator": "H. P. Lovecraft",
+      "description": "39,980 words • 42.04 reading ease Adventure Horror Science Fiction",
+      "externalId": "h-p-lovecraft/at-the-mountains-of-madness",
+      "imageUrl": "https://standardebooks.org/images/covers/h-p-lovecraft_at-the-mountains-of-madness/2e2a85aa258f19c3c19d08a8900609d3bfa6b24d/cover@2x.jpg",
+      "title": "At the Mountains of Madness",
+      "url": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.46,
+        "subjects": "Adventure, Science Fiction",
+        "translation": "Translated by F. A. Malleson",
+        "wordCount": 72197
+      },
+      "creator": "Jules Verne",
+      "description": "Translated by F. A. Malleson 72,197 words • 72.46 reading ease Adventure Science Fiction",
+      "externalId": "jules-verne/journey-to-the-center-of-the-earth/f-a-malleson",
+      "imageUrl": "https://standardebooks.org/images/covers/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson/f8c532b4d301f55adae230745148ae30f6da1db9/cover@2x.jpg",
+      "title": "Journey to the Center of the Earth",
+      "url": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.69,
+        "subjects": "Science Fiction",
+        "wordCount": 48767
+      },
+      "creator": "H. G. Wells",
+      "description": "48,767 words • 74.69 reading ease Science Fiction",
+      "externalId": "h-g-wells/the-invisible-man",
+      "imageUrl": "https://standardebooks.org/images/covers/h-g-wells_the-invisible-man/49f7d6f48473f7a352e86657dd3a67f4a6d994f5/cover@2x.jpg",
+      "title": "The Invisible Man",
+      "url": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.49,
+        "subjects": "Satire, Science Fiction",
+        "translation": "Translated by Lawrence Hyde",
+        "wordCount": 100295
+      },
+      "creator": "Karel Čapek",
+      "description": "Translated by Lawrence Hyde 100,295 words • 74.49 reading ease Satire Science Fiction",
+      "externalId": "karel-capek/krakatit/lawrence-hyde",
+      "imageUrl": "https://standardebooks.org/images/covers/karel-capek_krakatit_lawrence-hyde/898610e113d1b867019bbe6ce27874bbbd947d60/cover@2x.jpg",
+      "title": "Krakatit",
+      "url": "https://standardebooks.org/ebooks/karel-capek/krakatit/lawrence-hyde",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 79.67,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 102412
+      },
+      "creator": "Philip K. Dick",
+      "description": "102,412 words • 79.67 reading ease Science Fiction Shorts",
+      "externalId": "philip-k-dick/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/philip-k-dick_short-fiction/4de1f7d70bcab51eaf6a250d7810c93696ead7e7/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 72.36,
+        "subjects": "Science Fiction",
+        "wordCount": 43618
+      },
+      "creator": "H. G. Wells",
+      "description": "43,618 words • 72.36 reading ease Science Fiction",
+      "externalId": "h-g-wells/the-island-of-doctor-moreau",
+      "imageUrl": "https://standardebooks.org/images/covers/h-g-wells_the-island-of-doctor-moreau/b8a754eb65f5c5e2ea685e45d26a8f0b117a32e9/cover@2x.jpg",
+      "title": "The Island of Doctor Moreau",
+      "url": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.49,
+        "subjects": "Fantasy, Science Fiction, Shorts",
+        "wordCount": 78029
+      },
+      "creator": "E. M. Forster",
+      "description": "78,029 words • 74.49 reading ease Fantasy Science Fiction Shorts",
+      "externalId": "e-m-forster/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/e-m-forster_short-fiction/10023b57f315bc7aad3f017a64ac3510540e63e7/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 67.59,
+        "subjects": "Adventure, Science Fiction",
+        "wordCount": 60794
+      },
+      "creator": "Edgar Rice Burroughs",
+      "description": "60,794 words • 67.59 reading ease Adventure Science Fiction",
+      "externalId": "edgar-rice-burroughs/pirates-of-venus",
+      "imageUrl": "https://standardebooks.org/images/covers/edgar-rice-burroughs_pirates-of-venus/e924ff8003fba0e166fba59577a55031646aa30e/cover@2x.jpg",
+      "title": "Pirates of Venus",
+      "url": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 78.65,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 74642
+      },
+      "creator": "Ray Bradbury",
+      "description": "74,642 words • 78.65 reading ease Science Fiction Shorts",
+      "externalId": "ray-bradbury/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/ray-bradbury_short-fiction/b3fffb9f21d0ed5c1966fd93bc96cccf92177576/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/ray-bradbury/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.78,
+        "subjects": "Science Fiction",
+        "translation": "Translated by Gregory Zilboorg",
+        "wordCount": 63805
+      },
+      "creator": "Yevgeny Zamyatin",
+      "description": "Translated by Gregory Zilboorg 63,805 words • 73.78 reading ease Science Fiction",
+      "externalId": "yevgeny-zamyatin/we/gregory-zilboorg",
+      "imageUrl": "https://standardebooks.org/images/covers/yevgeny-zamyatin_we_gregory-zilboorg/5104e3df5172394ffeee25545b6558f89efa2ea3/cover@2x.jpg",
+      "title": "We",
+      "url": "https://standardebooks.org/ebooks/yevgeny-zamyatin/we/gregory-zilboorg",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.44,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 303431
+      },
+      "creator": "H. G. Wells",
+      "description": "303,431 words • 71.44 reading ease Science Fiction Shorts",
+      "externalId": "h-g-wells/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/h-g-wells_short-fiction/aaa9cb427da884aa1520399784bdd0fffeaa11a0/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/h-g-wells/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 75.71,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 46072
+      },
+      "creator": "Noel Loomis",
+      "description": "46,072 words • 75.71 reading ease Science Fiction Shorts",
+      "externalId": "noel-loomis/short-science-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/noel-loomis_short-science-fiction/3e96e0f25314bae0b534efe76495240acdba24bc/cover@2x.jpg",
+      "title": "Short Science Fiction",
+      "url": "https://standardebooks.org/ebooks/noel-loomis/short-science-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 62.72,
+        "subjects": "Science Fiction",
+        "wordCount": 175315
+      },
+      "creator": "Mary Shelley",
+      "description": "175,315 words • 62.72 reading ease Science Fiction",
+      "externalId": "mary-shelley/the-last-man",
+      "imageUrl": "https://standardebooks.org/images/covers/mary-shelley_the-last-man/b91db3ebd15425bd4693cc7e60b54c02107c9e8b/cover@2x.jpg",
+      "title": "The Last Man",
+      "url": "https://standardebooks.org/ebooks/mary-shelley/the-last-man",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.55,
+        "subjects": "Science Fiction",
+        "wordCount": 68524
+      },
+      "creator": "H. G. Wells",
+      "description": "68,524 words • 71.55 reading ease Science Fiction",
+      "externalId": "h-g-wells/the-first-men-in-the-moon",
+      "imageUrl": "https://standardebooks.org/images/covers/h-g-wells_the-first-men-in-the-moon/56d26c5689b0800b33cc491740ba44e98524ad2f/cover@2x.jpg",
+      "title": "The First Men in the Moon",
+      "url": "https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 70.84,
+        "subjects": "Horror, Science Fiction",
+        "wordCount": 50945
+      },
+      "creator": "William Hope Hodgson",
+      "description": "50,945 words • 70.84 reading ease Horror Science Fiction",
+      "externalId": "william-hope-hodgson/the-house-on-the-borderland",
+      "imageUrl": "https://standardebooks.org/images/covers/william-hope-hodgson_the-house-on-the-borderland/ea7e5aa47e74140eb078e1873997b77e2f3a6d03/cover@2x.jpg",
+      "title": "The House on the Borderland",
+      "url": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 49.96,
+        "subjects": "Science Fiction",
+        "wordCount": 115372
+      },
+      "creator": "Olaf Stapledon",
+      "description": "115,372 words • 49.96 reading ease Science Fiction",
+      "externalId": "olaf-stapledon/last-and-first-men",
+      "imageUrl": "https://standardebooks.org/images/covers/olaf-stapledon_last-and-first-men/9a4243c277238f7b9bbce3e35a98e4040ab69182/cover@2x.jpg",
+      "title": "Last and First Men",
+      "url": "https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.55,
+        "subjects": "Science Fiction",
+        "wordCount": 53073
+      },
+      "creator": "Charlotte Perkins Gilman",
+      "description": "53,073 words • 71.55 reading ease Science Fiction",
+      "externalId": "charlotte-perkins-gilman/herland",
+      "imageUrl": "https://standardebooks.org/images/covers/charlotte-perkins-gilman_herland/8d3ef34525b276f0f4d2cb1cad10c3d7e8210a78/cover@2x.jpg",
+      "title": "Herland",
+      "url": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/herland",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 69.01,
+        "subjects": "Science Fiction",
+        "wordCount": 81092
+      },
+      "creator": "H. G. Wells",
+      "description": "81,092 words • 69.01 reading ease Science Fiction",
+      "externalId": "h-g-wells/in-the-days-of-the-comet",
+      "imageUrl": "https://standardebooks.org/images/covers/h-g-wells_in-the-days-of-the-comet/36bfebf0a56827b4341d541d8653195e12c37ad0/cover@2x.jpg",
+      "title": "In the Days of the Comet",
+      "url": "https://standardebooks.org/ebooks/h-g-wells/in-the-days-of-the-comet",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 82.65,
+        "subjects": "Science Fiction",
+        "translation": "Translated by The Readers Library",
+        "wordCount": 71794
+      },
+      "creator": "Thea von Harbou",
+      "description": "Translated by The Readers Library 71,794 words • 82.65 reading ease Science Fiction",
+      "externalId": "thea-von-harbou/metropolis/the-readers-library",
+      "imageUrl": "https://standardebooks.org/images/covers/thea-von-harbou_metropolis_the-readers-library/71189ca5281dba2a3b60ceabb5c6b65ebf471fc8/cover@2x.jpg",
+      "title": "Metropolis",
+      "url": "https://standardebooks.org/ebooks/thea-von-harbou/metropolis/the-readers-library",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 74.59,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 46861
+      },
+      "creator": "Harry Harrison",
+      "description": "46,861 words • 74.59 reading ease Science Fiction Shorts",
+      "externalId": "harry-harrison/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/harry-harrison_short-fiction/d1b0c020f244e708d66af6dded7c80da590531e5/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/harry-harrison/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.55,
+        "subjects": "Science Fiction",
+        "wordCount": 74720
+      },
+      "creator": "H. G. Wells",
+      "description": "74,720 words • 71.55 reading ease Science Fiction",
+      "externalId": "h-g-wells/the-food-of-the-gods",
+      "imageUrl": "https://standardebooks.org/images/covers/h-g-wells_the-food-of-the-gods/2cec037e74b8772435d1948aba10950110461475/cover@2x.jpg",
+      "title": "The Food of the Gods",
+      "url": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 64.95,
+        "subjects": "Fantasy, Science Fiction, Shorts",
+        "wordCount": 41278
+      },
+      "creator": "Clark Ashton Smith",
+      "description": "41,278 words • 64.95 reading ease Fantasy Science Fiction Shorts",
+      "externalId": "clark-ashton-smith/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/clark-ashton-smith_short-fiction/f5992fbc42cd12376ddf752c164918835d506860/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.68,
+        "subjects": "Science Fiction",
+        "wordCount": 52137
+      },
+      "creator": "Harry Harrison",
+      "description": "52,137 words • 73.68 reading ease Science Fiction",
+      "externalId": "harry-harrison/the-stainless-steel-rat",
+      "imageUrl": "https://standardebooks.org/images/covers/harry-harrison_the-stainless-steel-rat/a23654ff15048ac02f289d4a8a57586a23ed9dae/cover@2x.jpg",
+      "title": "The Stainless Steel Rat",
+      "url": "https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 58.62,
+        "subjects": "Science Fiction",
+        "wordCount": 65030
+      },
+      "creator": "H. G. Wells",
+      "description": "65,030 words • 58.62 reading ease Science Fiction",
+      "externalId": "h-g-wells/the-world-set-free",
+      "imageUrl": "https://standardebooks.org/images/covers/h-g-wells_the-world-set-free/d058bd49184c5fcc3e860409829d17c5b37e55cb/cover@2x.jpg",
+      "title": "The World Set Free",
+      "url": "https://standardebooks.org/ebooks/h-g-wells/the-world-set-free",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 80.88,
+        "subjects": "Drama, Science Fiction",
+        "translation": "Translated by Paul Selver and Nigel Playfair",
+        "wordCount": 19917
+      },
+      "creator": "Karel Čapek",
+      "description": "Translated by Paul Selver and Nigel Playfair 19,917 words • 80.88 reading ease Drama Science Fiction",
+      "externalId": "karel-capek/r-u-r/paul-selver_nigel-playfair",
+      "imageUrl": "https://standardebooks.org/images/covers/karel-capek_r-u-r_paul-selver_nigel-playfair/e202f55b10e7e56af1e1d6b500d1b23f99676a4f/cover@2x.jpg",
+      "title": "R.U.R.",
+      "url": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 79.4,
+        "subjects": "Science Fiction",
+        "wordCount": 54027
+      },
+      "creator": "Tom Godwin",
+      "description": "54,027 words • 79.4 reading ease Science Fiction",
+      "externalId": "tom-godwin/the-survivors",
+      "imageUrl": "https://standardebooks.org/images/covers/tom-godwin_the-survivors/46cf842476f43223ca045c2d7cbe5ac44454c998/cover@2x.jpg",
+      "title": "The Survivors",
+      "url": "https://standardebooks.org/ebooks/tom-godwin/the-survivors",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 65.86,
+        "subjects": "Adventure, Science Fiction",
+        "wordCount": 111487
+      },
+      "creator": "Edgar Rice Burroughs",
+      "description": "111,487 words • 65.86 reading ease Adventure Science Fiction",
+      "externalId": "edgar-rice-burroughs/the-land-that-time-forgot",
+      "imageUrl": "https://standardebooks.org/images/covers/edgar-rice-burroughs_the-land-that-time-forgot/9494194cc0136c650f199c46f86d39313dbf17d2/cover@2x.jpg",
+      "title": "The Land That Time Forgot",
+      "url": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-land-that-time-forgot",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 64.51,
+        "subjects": "Science Fiction",
+        "wordCount": 197154
+      },
+      "creator": "William Hope Hodgson",
+      "description": "197,154 words • 64.51 reading ease Science Fiction",
+      "externalId": "william-hope-hodgson/the-night-land",
+      "imageUrl": "https://standardebooks.org/images/covers/william-hope-hodgson_the-night-land/b9f289f21d363921a3b09815d284da595499d1ac/cover@2x.jpg",
+      "title": "The Night Land",
+      "url": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 68.81,
+        "subjects": "Adventure, Science Fiction",
+        "wordCount": 41120
+      },
+      "creator": "Arthur Conan Doyle",
+      "description": "41,120 words • 68.81 reading ease Adventure Science Fiction",
+      "externalId": "arthur-conan-doyle/the-maracot-deep",
+      "imageUrl": "https://standardebooks.org/images/covers/arthur-conan-doyle_the-maracot-deep/8f73fb740c0dc4c92aec57115d6a38c463b81671/cover@2x.jpg",
+      "title": "The Maracot Deep",
+      "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 75.81,
+        "subjects": "Science Fiction",
+        "wordCount": 55608
+      },
+      "creator": "Harry Harrison",
+      "description": "55,608 words • 75.81 reading ease Science Fiction",
+      "externalId": "harry-harrison/planet-of-the-damned",
+      "imageUrl": "https://standardebooks.org/images/covers/harry-harrison_planet-of-the-damned/ec07687b163946af5f57914964990fe361dbad0b/cover@2x.jpg",
+      "title": "Planet of the Damned",
+      "url": "https://standardebooks.org/ebooks/harry-harrison/planet-of-the-damned",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 69.92,
+        "subjects": "Science Fiction",
+        "wordCount": 86867
+      },
+      "creator": "James De Mille",
+      "description": "86,867 words • 69.92 reading ease Science Fiction",
+      "externalId": "james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder",
+      "imageUrl": "https://standardebooks.org/images/covers/james-de-mille_a-strange-manuscript-found-in-a-copper-cylinder/0d8dccf9cb866a6033950d2f05ff73ca69687b87/cover@2x.jpg",
+      "title": "A Strange Manuscript Found in a Copper Cylinder",
+      "url": "https://standardebooks.org/ebooks/james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 65.12,
+        "subjects": "Satire, Science Fiction",
+        "wordCount": 53168
+      },
+      "creator": "George Schuyler",
+      "description": "53,168 words • 65.12 reading ease Satire Science Fiction",
+      "externalId": "george-schuyler/black-no-more",
+      "imageUrl": "https://standardebooks.org/images/covers/george-schuyler_black-no-more/d592a1099a4edaf446dd13e889549420023968f8/cover@2x.jpg",
+      "title": "Black No More",
+      "url": "https://standardebooks.org/ebooks/george-schuyler/black-no-more",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 65.25,
+        "subjects": "Science Fiction",
+        "wordCount": 49736
+      },
+      "creator": "Edgar Rice Burroughs",
+      "description": "49,736 words • 65.25 reading ease Science Fiction",
+      "externalId": "edgar-rice-burroughs/at-the-earths-core",
+      "imageUrl": "https://standardebooks.org/images/covers/edgar-rice-burroughs_at-the-earths-core/7820e4e7c63d5fbb889c72a0f0d9fdbc67b671fb/cover@2x.jpg",
+      "title": "At the Earth’s Core",
+      "url": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 78.14,
+        "subjects": "Horror, Science Fiction, Shorts",
+        "wordCount": 108472
+      },
+      "creator": "Henry Kuttner",
+      "description": "108,472 words • 78.14 reading ease Horror Science Fiction Shorts",
+      "externalId": "henry-kuttner/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/henry-kuttner_short-fiction/1fc49fc37f3b8a487ca48c3995f9873c9c6bd861/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 78.35,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 88051
+      },
+      "creator": "Robert Sheckley",
+      "description": "88,051 words • 78.35 reading ease Science Fiction Shorts",
+      "externalId": "robert-sheckley/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/robert-sheckley_short-fiction/aa1320a522998d5f0b72821a8a5436d517428a33/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 84.78,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 92289
+      },
+      "creator": "Clifford D. Simak",
+      "description": "92,289 words • 84.78 reading ease Science Fiction Shorts",
+      "externalId": "clifford-d-simak/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/clifford-d-simak_short-fiction/158daf10a959cf90a856fbd02db300b030ecf273/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 70.94,
+        "subjects": "Science Fiction",
+        "wordCount": 84300
+      },
+      "creator": "E. E. Smith",
+      "description": "84,300 words • 70.94 reading ease Science Fiction",
+      "externalId": "e-e-smith/the-skylark-of-space",
+      "imageUrl": "https://standardebooks.org/images/covers/e-e-smith_the-skylark-of-space/bc5d81feafea680dad824741ef27179e341fc7f3/cover@2x.jpg",
+      "title": "The Skylark of Space",
+      "url": "https://standardebooks.org/ebooks/e-e-smith/the-skylark-of-space",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 75.54,
+        "subjects": "Science Fiction",
+        "wordCount": 39271
+      },
+      "creator": "Fritz Leiber",
+      "description": "39,271 words • 75.54 reading ease Science Fiction",
+      "externalId": "fritz-leiber/the-big-time",
+      "imageUrl": "https://standardebooks.org/images/covers/fritz-leiber_the-big-time/cbc15342b510fca0286844c314d6e162eda57176/cover@2x.jpg",
+      "title": "The Big Time",
+      "url": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 65.62,
+        "subjects": "Science Fiction",
+        "translation": "Translated by Šárka B. Hrbková",
+        "wordCount": 49457
+      },
+      "creator": "Karel Čapek",
+      "description": "Translated by Šárka B. Hrbková 49,457 words • 65.62 reading ease Science Fiction",
+      "externalId": "karel-capek/the-absolute-at-large/sarka-b-hrbkova",
+      "imageUrl": "https://standardebooks.org/images/covers/karel-capek_the-absolute-at-large_sarka-b-hrbkova/84e87d22077b9b560e1d32f75b40b8c89b51adf0/cover@2x.jpg",
+      "title": "The Absolute at Large",
+      "url": "https://standardebooks.org/ebooks/karel-capek/the-absolute-at-large/sarka-b-hrbkova",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 75.5,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 287933
+      },
+      "creator": "Poul Anderson",
+      "description": "287,933 words • 75.5 reading ease Science Fiction Shorts",
+      "externalId": "poul-anderson/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/poul-anderson_short-fiction/fa5983c83fc43ad143a6f0d24969f1f5349504a1/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/poul-anderson/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 63.09,
+        "subjects": "Science Fiction",
+        "wordCount": 91552
+      },
+      "creator": "E. E. Smith",
+      "description": "91,552 words • 63.09 reading ease Science Fiction",
+      "externalId": "e-e-smith/triplanetary",
+      "imageUrl": "https://standardebooks.org/images/covers/e-e-smith_triplanetary/f5ce4411b846d470ce314fac662dba64470b1e00/cover@2x.jpg",
+      "title": "Triplanetary",
+      "url": "https://standardebooks.org/ebooks/e-e-smith/triplanetary",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    }
+  ]
+}

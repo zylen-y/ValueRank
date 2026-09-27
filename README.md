@@ -1,12 +1,12 @@
 # ValueRank
 
-**Search the web. Shape the information. Train your personal ranking engine.**
+**Discover real things. Make a choice. Train your personal ranking engine.**
 
 ValueRank combines open web exploration with source-grounded information cards and a
 model that learns from your choices. The durable asset is your editable, scoped
 knowledge and preferences, plus versioned content, comparisons, and ranking weights.
 
-![ValueRank personal search](docs/prototype/personal-home.png)
+![ValueRank Library](docs/prototype/catalog-library.png)
 
 ## Try it locally
 
@@ -23,7 +23,15 @@ npm run dev
 Open **http://127.0.0.1:5188**. Credentials stay on the server. Databases, keys,
 uploaded images, and private evaluation records are ignored by Git.
 
-## Three connected experiences
+## Four connected experiences
+
+**Library.** Browse **2,416 real browser-collected items in 18 collections**: music,
+YouTube videos, fashion, beauty products, classic books and papers. Compare similar
+items, give feedback, and see the collection reordered by your learned category
+model. Every item carries its source URL, collection page and observation time.
+The library and its local metadata ranker work without API keys. Instagram and
+Pinterest remain visibly uncollected behind login; OLIVE YOUNG data is from its
+Global storefront (USD). See [coverage, evidence and limits](docs/prototype/CATALOG.md).
 
 **Search.** Enter a real query, answer optional clarification questions, and explore
 original source results, independently readable information cards, or a generated
@@ -77,6 +85,7 @@ The original reading queue, source harness, and provider traces remain available
 ## Implementation and evidence
 
 - [Personal-engine implementation and limits](docs/prototype/PERSONAL-INTELLIGENCE.md)
+- [Browser-collected catalog and ranking loop](docs/prototype/CATALOG.md)
 - [Approved implementation plan](docs/prototype/PERSONAL-INTELLIGENCE-PLAN.md)
 - [Configuration and operation](demo/README.md)
 - [Jev contract and official references](docs/prototype/JEV.md)

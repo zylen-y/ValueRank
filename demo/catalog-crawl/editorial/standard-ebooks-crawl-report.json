@@ -1,0 +1,56 @@
+{
+  "sourceId": "standard-ebooks",
+  "uniqueItems": 389,
+  "pages": [
+    {
+      "url": "https://standardebooks.org/subjects/philosophy?per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T00:11:54.561Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/subjects/philosophy?page=2&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T00:11:58.178Z",
+      "count": 38
+    },
+    {
+      "url": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/subjects/nonfiction?page=2&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T00:12:03.145Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/subjects/science-fiction?per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T00:12:06.151Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/subjects/science-fiction?page=2&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T00:12:09.768Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/subjects/science-fiction?page=3&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T00:12:12.804Z",
+      "count": 4
+    },
+    {
+      "url": "https://standardebooks.org/subjects/mystery?per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T00:12:14.077Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/subjects/mystery?page=2&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T00:12:17.694Z",
+      "count": 48
+    },
+    {
+      "url": "https://standardebooks.org/subjects/mystery?page=3&per-page=48&sort=popularity&view=list",
+      "observedAt": "2026-09-27T00:12:20.816Z",
+      "count": 40
+    }
+  ]
+}

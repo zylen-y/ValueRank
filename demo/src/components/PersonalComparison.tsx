@@ -7,10 +7,14 @@ function imageSource(value?: string) {
   if (!value) return undefined;
   return value.startsWith('/api/personal/assets/') || value.startsWith('/personal/') || value.startsWith('/arena/') ? value : safeExternalUrl(value);
 }
+function previewDescription(unit: PersonalUnit) {
+  if (!unit.domain.startsWith('catalog-')) return unit.body;
+  return unit.body.split('\n').filter(line => /^(creator|category|price|currency|year|duration|rating|publicationYear|firstPublishYear):/i.test(line)).map(line => line.replace(/^Creator:\s*/i, '')).slice(0, 5).join('\n') || unit.body;
+}
 export function PersonalUnitVisual({ unit }: { unit: PersonalUnit }) {
   const url = imageSource(unit.imageUrl);
   const [failed, setFailed] = useState(false);
-  return unit.modality === 'image' && url && !failed ? <div className="p-choice-image"><img src={url} alt={unit.title} onError={() => setFailed(true)} loading="eager" decoding="async" /></div> : <div className="p-choice-text"><Icon name={unit.modality === 'image' ? 'source' : 'known'} size={27} /><h3>{unit.title}</h3><p>{unit.body}</p>{unit.modality === 'image' && <small>Image unavailable · source description shown</small>}</div>;
+  return url && !failed ? <><div className="p-choice-image"><img src={url} alt={unit.title} onError={() => setFailed(true)} loading="eager" decoding="async" referrerPolicy="no-referrer" /></div>{unit.modality === 'text' && <p className="cl-choice-description">{previewDescription(unit)}</p>}</> : <div className="p-choice-text"><Icon name={unit.modality === 'image' ? 'source' : 'known'} size={27} /><h3>{unit.title}</h3><p>{unit.body}</p>{unit.modality === 'image' && <small>Image unavailable · source description shown</small>}</div>;
 }
 export default function PersonalComparison({ pair, result, busy, onChoose, onNext, onUndo, nextLabel = 'Next comparison' }: { pair: PersonalComparisonPrompt; result: PersonalComparisonResult | null; busy: boolean; onChoose: (choice: ComparisonChoice, reason: string) => Promise<void>; onNext: () => void; onUndo?: () => Promise<void>; nextLabel?: string }) {
   const [reason, setReason] = useState('');

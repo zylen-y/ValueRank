@@ -1,0 +1,13 @@
+{
+  "source": {
+    "id": "oliveyoung-korea",
+    "label": "OLIVE YOUNG Korea",
+    "homeUrl": "https://www.oliveyoung.co.kr/",
+    "kind": "beauty",
+    "status": "blocked",
+    "checkedAt": "2026-09-27T00:05:56.419Z",
+    "note": "The public ranking URL https://www.oliveyoung.co.kr/store/main/getBestList.do displayed a Cloudflare Verify you are human challenge in the browser. Collection stopped without solving or bypassing it. No domestic items were collected. The separately accessible global store has its own source ID and USD prices."
+  },
+  "collections": [],
+  "items": []
+}

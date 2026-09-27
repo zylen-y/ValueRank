@@ -1,0 +1,13 @@
+{
+  "source": {
+    "id": "open-library",
+    "label": "Open Library",
+    "homeUrl": "https://openlibrary.org",
+    "kind": "books",
+    "status": "blocked",
+    "checkedAt": "2026-09-27T00:11:43.920917Z",
+    "note": "Initial public search discovery rendered 20 book cards. Subsequent collection requests displayed Human Verification. Collection stopped; no verification bypass attempted and no uncollected items counted."
+  },
+  "collections": [],
+  "items": []
+}

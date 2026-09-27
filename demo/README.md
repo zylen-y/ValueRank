@@ -52,9 +52,23 @@ The earlier reading database is `.data/valuerank.sqlite`. A custom path is avail
 `VALUERANK_DB_PATH`, useful for isolated tests. `API_PORT` changes the API port;
 update the Vite proxy too if changing it in development.
 
-## Personal search, Arena, and Memory
+## Library, personal search, Arena, and Memory
 
-Search is the default entry. Gateway's Exa tool uses the existing Gateway key; no
+Library is the default entry, with 2,416 real browser-collected items in 18 collections.
+The bundled snapshots automatically populate `.data/catalog.sqlite` on startup.
+Browse, compare, undo and rerank with the local metadata model without API calls.
+`VALUERANK_CATALOG_DB_PATH` selects a different database and
+`VALUERANK_SKIP_CATALOG_SEEDS=1` disables bundled imports. This public catalog is
+separate from private preference records.
+
+Use `npm run catalog:import` to reimport bundled captures (idempotently),
+`npm run catalog:import -- /path/batch.json` for new normalized observations,
+`npm run catalog:stats` for counts, and
+`npm run catalog:export -- /path/catalog.json` for a portable metadata snapshot.
+The UI also exposes source records; `GET /api/catalog/export` downloads the catalog.
+See [actual collection coverage, reproduction and learning limits](../docs/prototype/CATALOG.md).
+
+Search remains available in the navigation. Gateway's Exa tool uses the existing Gateway key; no
 separate search key is required. The implementation stores actual tool-returned
 URLs and text, validates quotations, scores cards with Jev, and uses a separate
 trainable pairwise ranking head. A fresh web exploration takes longer than the

@@ -1,0 +1,1411 @@
+{
+  "category": "002000",
+  "items": [
+    {
+      "attributes": {
+        "brandId": "lululemon",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "159,000원",
+        "price": 159000,
+        "rankingTheme": "NEW",
+        "sourceRank": 24
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "룰루레몬",
+      "externalId": "6413760",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260501/6413760/6413760_17776027083957_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "24\n\n룰루레몬\n\n스쿠바 오버사이즈드 퍼넬넥 하프집  HRLI GOLD\n\n159,000원",
+      "sourceId": "musinsa",
+      "title": "스쿠바 오버사이즈드 퍼넬넥 하프집  HRLI GOLD",
+      "url": "https://www.musinsa.com/products/6413760"
+    },
+    {
+      "attributes": {
+        "brandId": "luvistrue",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "112,800원",
+        "price": 112800,
+        "rankingTheme": "NEW",
+        "sourceRank": 25
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "러브이즈트루",
+      "externalId": "6970400",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260731/6970400/6970400_17866946225434_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "25\n\n러브이즈트루\n\nRL CROSS COLORSTONE HOOD ZIP UP(BLACK)\n\n30%\n112,800원",
+      "sourceId": "musinsa",
+      "title": "RL CROSS COLORSTONE HOOD ZIP UP(BLACK)",
+      "url": "https://www.musinsa.com/products/6970400"
+    },
+    {
+      "attributes": {
+        "brandId": "puma",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "149,000원",
+        "price": 149000,
+        "rankingTheme": "NEW",
+        "sourceRank": 26
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "푸마",
+      "externalId": "7165984",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260826/7165984/7165984_17884248773379_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "26\n\n푸마\n\n[헬로 선라이즈 컬래버] ESS 재킷 - 초콜릿 브라운 / 611921-01\n\n149,000원\n11명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "[헬로 선라이즈 컬래버] ESS 재킷 - 초콜릿 브라운 / 611921-01",
+      "url": "https://www.musinsa.com/products/7165984"
+    },
+    {
+      "attributes": {
+        "brandId": "nike",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "63,990원",
+        "price": 63990,
+        "rankingTheme": "NEW",
+        "sourceRank": 27
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "나이키",
+      "externalId": "6661654",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260612/6661654/6661654_17816850655708_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "27\n\n나이키\n\n스포츠웨어 UV 루즈 핏 후드 재킷 W - 블랙:세일 / IM8162-010\n\n19%\n63,990원\n24명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "스포츠웨어 UV 루즈 핏 후드 재킷 W - 블랙:세일 / IM8162-010",
+      "url": "https://www.musinsa.com/products/6661654"
+    },
+    {
+      "attributes": {
+        "brandId": "mahagrid",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "143,200원",
+        "price": 143200,
+        "rankingTheme": "NEW",
+        "sourceRank": 28
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "마하그리드",
+      "externalId": "7186124",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260827/7186124/7186124_17878296238041_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "28\n\n마하그리드\n\nFAUX LEATHER BLOUSON JACKET[BLACK]\n\n20%\n143,200원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "FAUX LEATHER BLOUSON JACKET[BLACK]",
+      "url": "https://www.musinsa.com/products/7186124"
+    },
+    {
+      "attributes": {
+        "brandId": "theknitcompany",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "45,900원",
+        "price": 45900,
+        "rankingTheme": "NEW",
+        "sourceRank": 29
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "더니트컴퍼니",
+      "externalId": "7011617",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260806/7011617/7011617_17877291590017_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "29\n판매 2천개\n\n더니트컴퍼니\n\n워셔블 에센셜 라운드 가디건 4color\n\n43%\n45,900원\n77명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "워셔블 에센셜 라운드 가디건 4color",
+      "url": "https://www.musinsa.com/products/7011617"
+    },
+    {
+      "attributes": {
+        "brandId": "lululemon",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "139,000원",
+        "price": 139000,
+        "rankingTheme": "NEW",
+        "sourceRank": 30
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "룰루레몬",
+      "externalId": "6563579",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260528/6563579/6563579_17799466293630_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "30\n\n룰루레몬\n\n브리즐리 보머 재킷  BLK\n\n30%\n139,000원",
+      "sourceId": "musinsa",
+      "title": "브리즐리 보머 재킷  BLK",
+      "url": "https://www.musinsa.com/products/6563579"
+    },
+    {
+      "attributes": {
+        "brandId": "maninstore",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "44,900원",
+        "price": 44900,
+        "rankingTheme": "NEW",
+        "sourceRank": 31
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "무드인사이드",
+      "externalId": "6823731",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260710/6823731/6823731_17863480049933_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "31\n판매 1천개\n\n무드인사이드\n\n워시드 프렌치 워크 자켓_Blue\n\n55%\n44,900원\n142명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "워시드 프렌치 워크 자켓_Blue",
+      "url": "https://www.musinsa.com/products/6823731"
+    },
+    {
+      "attributes": {
+        "brandId": "lowclassic",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "105,640원",
+        "price": 105640,
+        "rankingTheme": "NEW",
+        "sourceRank": 32
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "로우클래식",
+      "externalId": "7041063",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260810/7041063/7041063_17877195647002_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "32\n\n로우클래식\n\nLOW WASHED ZIP-UP HOODIE_MELANGE GREY [LC267TS13MG]\n\n24%\n105,640원",
+      "sourceId": "musinsa",
+      "title": "LOW WASHED ZIP-UP HOODIE_MELANGE GREY [LC267TS13MG]",
+      "url": "https://www.musinsa.com/products/7041063"
+    },
+    {
+      "attributes": {
+        "brandId": "paradigmfilm",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "131,400원",
+        "price": 131400,
+        "rankingTheme": "NEW",
+        "sourceRank": 33
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "패러다임 필름",
+      "externalId": "6880372",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260720/6880372/6880372_17866075978085_500.png?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "33\n\n패러다임 필름\n\n[Ep.03] 슬릭 레더 크롭 블레이저 (블랙)\n\n40%\n131,400원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "[Ep.03] 슬릭 레더 크롭 블레이저 (블랙)",
+      "url": "https://www.musinsa.com/products/6880372"
+    },
+    {
+      "attributes": {
+        "brandId": "aeae",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "117,990원",
+        "price": 117990,
+        "rankingTheme": "NEW",
+        "sourceRank": 34
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "에이이에이이",
+      "externalId": "7013674",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260806/7013674/7013674_17876434740808_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "34\n\n에이이에이이\n\nSTRIPE BLOCK CARDIGAN [YELLOW]\n\n15%\n117,990원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "STRIPE BLOCK CARDIGAN [YELLOW]",
+      "url": "https://www.musinsa.com/products/7013674"
+    },
+    {
+      "attributes": {
+        "brandId": "trillion",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "29,990원",
+        "price": 29990,
+        "rankingTheme": "NEW",
+        "sourceRank": 35
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "트릴리온",
+      "externalId": "7003256",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260805/7003256/7003256_17863564619302_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "35\n판매 1.3천개\n\n트릴리온\n\n에센셜 CP 백컷 세미크롭 후드 집업_3color\n\n40%\n29,990원\n108명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "에센셜 CP 백컷 세미크롭 후드 집업_3color",
+      "url": "https://www.musinsa.com/products/7003256"
+    },
+    {
+      "attributes": {
+        "brandId": "musinsastandardwoman",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "125,910원",
+        "price": 125910,
+        "rankingTheme": "NEW",
+        "sourceRank": 36
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "무신사 스탠다드 우먼",
+      "externalId": "6796671",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260707/6796671/6796671_17901545779215_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "36\n\n무신사 스탠다드 우먼\n\n[시티 레저] 우먼즈 시어 후디드 라이트 다운 재킷 [라이트 그레이]\n\n10%\n125,910원\n209명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "[시티 레저] 우먼즈 시어 후디드 라이트 다운 재킷 [라이트 그레이]",
+      "url": "https://www.musinsa.com/products/6796671"
+    },
+    {
+      "attributes": {
+        "brandId": "musinsastandard",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "123,290원",
+        "price": 123290,
+        "rankingTheme": "NEW",
+        "sourceRank": 37
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "무신사 스탠다드",
+      "externalId": "6504087",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260518/6504087/6504087_17865083433892_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "37\n\n무신사 스탠다드\n\n신세틱 스웨이드 미니멀 블루종 재킷 [토프]\n\n5%\n123,290원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "신세틱 스웨이드 미니멀 블루종 재킷 [토프]",
+      "url": "https://www.musinsa.com/products/6504087"
+    },
+    {
+      "attributes": {
+        "brandId": "nike",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "103,280원",
+        "price": 103280,
+        "rankingTheme": "NEW",
+        "sourceRank": 38
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "나이키",
+      "externalId": "6111771",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260311/6111771/6111771_17750210149246_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "38\n\n나이키\n\n윈드러너 경량 하프집 재킷 M - 블랙:화이트 / IF3391-010\n\n23%\n103,280원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "윈드러너 경량 하프집 재킷 M - 블랙:화이트 / IF3391-010",
+      "url": "https://www.musinsa.com/products/6111771"
+    },
+    {
+      "attributes": {
+        "brandId": "wkndrs",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "119,250원",
+        "price": 119250,
+        "rankingTheme": "NEW",
+        "sourceRank": 39
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "위캔더스",
+      "externalId": "6966857",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260731/6966857/6966857_17878836553664_500.png?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "39\n\n위캔더스\n\nWKNDRS x CHAMPION LAYERED BASEBALL SHIRT JK (WHITE)\n\n25%\n119,250원\n15명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "WKNDRS x CHAMPION LAYERED BASEBALL SHIRT JK (WHITE)",
+      "url": "https://www.musinsa.com/products/6966857"
+    },
+    {
+      "attributes": {
+        "brandId": "they",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "56,750원",
+        "price": 56750,
+        "rankingTheme": "NEW",
+        "sourceRank": 40
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "데이",
+      "externalId": "7071862",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260813/7071862/7071862_17883115245091_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "40\n\n데이\n\n스웨이드 레더 트랙 자켓_CHARCOAL BLACK\n\n46%\n56,750원\n388명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "스웨이드 레더 트랙 자켓_CHARCOAL BLACK",
+      "url": "https://www.musinsa.com/products/7071862"
+    },
+    {
+      "attributes": {
+        "brandId": "dickies",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "104,490원",
+        "price": 104490,
+        "rankingTheme": "NEW",
+        "sourceRank": 41
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "디키즈",
+      "externalId": "6968037",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260731/6968037/6968037_17872903671448_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "41\n\n디키즈\n\n가먼트 다이드 세미 크롭 집업 후디 Navy\n\n19%\n104,490원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "가먼트 다이드 세미 크롭 집업 후디 Navy",
+      "url": "https://www.musinsa.com/products/6968037"
+    },
+    {
+      "attributes": {
+        "brandId": "seez",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "57,000원",
+        "price": 57000,
+        "rankingTheme": "NEW",
+        "sourceRank": 42
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "로템버",
+      "externalId": "6987006",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260804/6987006/6987006_17883427694142_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "42\n\n로템버\n\n소프트 헤어리 스트라이프 크롭 니트 가디건 [그레이]\n\n25%\n57,000원\n736명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "소프트 헤어리 스트라이프 크롭 니트 가디건 [그레이]",
+      "url": "https://www.musinsa.com/products/6987006"
+    },
+    {
+      "attributes": {
+        "brandId": "spao",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "32,320원",
+        "price": 32320,
+        "rankingTheme": "NEW",
+        "sourceRank": 43
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "스파오",
+      "externalId": "6788126",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260706/6788126/6788126_17865187251771_500.png?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "43\n판매 2.2천개\n\n스파오\n\n배색 플리스 반오픈 풀오버_SPFWG4TC03\n\n19%\n32,320원\n88명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "배색 플리스 반오픈 풀오버_SPFWG4TC03",
+      "url": "https://www.musinsa.com/products/6788126"
+    },
+    {
+      "attributes": {
+        "brandId": "musinsastandardwoman",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "82,320원",
+        "price": 82320,
+        "rankingTheme": "NEW",
+        "sourceRank": 44
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "무신사 스탠다드 우먼",
+      "externalId": "6039366",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260223/6039366/6039366_17854554703024_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "44\n\n무신사 스탠다드 우먼\n\n[시티 레저] 우먼즈 후디드 라이트 다운 재킷 [그레이]\n\n25%\n82,320원\n106명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "[시티 레저] 우먼즈 후디드 라이트 다운 재킷 [그레이]",
+      "url": "https://www.musinsa.com/products/6039366"
+    },
+    {
+      "attributes": {
+        "brandId": "dimitriblack",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "54,900원",
+        "price": 54900,
+        "rankingTheme": "NEW",
+        "sourceRank": 45
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "디미트리블랙",
+      "externalId": "7108771",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260819/7108771/7108771_17872799321634_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "45\n\n디미트리블랙\n\n2WAY 에센셜 해링턴 자켓_(C/N 워시드) 4 COLOR\n\n39%\n54,900원\n141명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "2WAY 에센셜 해링턴 자켓_(C/N 워시드) 4 COLOR",
+      "url": "https://www.musinsa.com/products/7108771"
+    },
+    {
+      "attributes": {
+        "brandId": "arcteryx",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "655,500원",
+        "price": 655500,
+        "rankingTheme": "NEW",
+        "sourceRank": 46
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "아크테릭스",
+      "externalId": "6516682",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260520/6516682/6516682_17799536496251_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "46\n\n아크테릭스\n\n세륨 SL 후디 남성 - BLACK / AJQSM11036\n\n5%\n655,500원\n13명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "세륨 SL 후디 남성 - BLACK / AJQSM11036",
+      "url": "https://www.musinsa.com/products/6516682"
+    },
+    {
+      "attributes": {
+        "brandId": "rshemiste",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "276,750원",
+        "price": 276750,
+        "rankingTheme": "NEW",
+        "sourceRank": 47
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "알에스에스씨",
+      "externalId": "6917571",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260724/6917571/6917571_17883197617202_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "47\n\n알에스에스씨\n\nOVERDYED N-2B BOMBER JACKET - KHAKI\n\n25%\n276,750원\n17명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "OVERDYED N-2B BOMBER JACKET - KHAKI",
+      "url": "https://www.musinsa.com/products/6917571"
+    },
+    {
+      "attributes": {
+        "brandId": "musinsastandardwoman",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "103,920원",
+        "price": 103920,
+        "rankingTheme": "NEW",
+        "sourceRank": 48
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "무신사 스탠다드 우먼",
+      "externalId": "6877525",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260720/6877525/6877525_17877215244831_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "48\n\n무신사 스탠다드 우먼\n\n우먼즈 신세틱 스웨이드 싱글 재킷 [브라운]\n\n20%\n103,920원\n35명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "우먼즈 신세틱 스웨이드 싱글 재킷 [브라운]",
+      "url": "https://www.musinsa.com/products/6877525"
+    },
+    {
+      "attributes": {
+        "brandId": "looxp",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "92,340원",
+        "price": 92340,
+        "rankingTheme": "NEW",
+        "sourceRank": 49
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "루프",
+      "externalId": "6901514",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260722/6901514/6901514_17851328027603_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "49\n\n루프\n\n로고 자수 사선 투지퍼 워머 후드집업 그레이\n\n15%\n92,340원",
+      "sourceId": "musinsa",
+      "title": "로고 자수 사선 투지퍼 워머 후드집업 그레이",
+      "url": "https://www.musinsa.com/products/6901514"
+    },
+    {
+      "attributes": {
+        "brandId": "arcteryx",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "617,500원",
+        "price": 617500,
+        "rankingTheme": "NEW",
+        "sourceRank": 50
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "아크테릭스",
+      "externalId": "6182222",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260324/6182222/6182222_17745801196144_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "50\n\n아크테릭스\n\n베타 자켓 남성 - BLACK / AJQSM09816\n\n5%\n617,500원\n27명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "베타 자켓 남성 - BLACK / AJQSM09816",
+      "url": "https://www.musinsa.com/products/6182222"
+    },
+    {
+      "attributes": {
+        "brandId": "schisminducing",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "136,080원",
+        "price": 136080,
+        "rankingTheme": "NEW",
+        "sourceRank": 51
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "스키즘 인듀싱",
+      "externalId": "6989103",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260804/6989103/6989103_17879043882322_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "51\n\n스키즘 인듀싱\n\nASYMMETRIC BUTTON COWL JACKET KHAKI\n\n19%\n136,080원\n104명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "ASYMMETRIC BUTTON COWL JACKET KHAKI",
+      "url": "https://www.musinsa.com/products/6989103"
+    },
+    {
+      "attributes": {
+        "brandId": "nodelabs",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "95,900원",
+        "price": 95900,
+        "rankingTheme": "NEW",
+        "sourceRank": 52
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "노드랩스",
+      "externalId": "7144339",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260824/7144339/7144339_17896949003784_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "52\n\n노드랩스\n\nDEV:12 플리스 후드 하프집업_블루\n\n26%\n95,900원\n31명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "DEV:12 플리스 후드 하프집업_블루",
+      "url": "https://www.musinsa.com/products/7144339"
+    },
+    {
+      "attributes": {
+        "brandId": "brownbreath",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "92,650원",
+        "price": 92650,
+        "rankingTheme": "NEW",
+        "sourceRank": 53
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "브라운브레스",
+      "externalId": "7042801",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260811/7042801/7042801_17888445329227_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "53\n\n브라운브레스\n\nESSENTIAL CROP TAG ZIP UP (3colors)\n\n15%\n92,650원\n28명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "ESSENTIAL CROP TAG ZIP UP (3colors)",
+      "url": "https://www.musinsa.com/products/7042801"
+    },
+    {
+      "attributes": {
+        "brandId": "adidas",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "91,990원",
+        "price": 91990,
+        "rankingTheme": "NEW",
+        "sourceRank": 54
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "아디다스",
+      "externalId": "6918831",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260724/6918831/6918831_17853137498938_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "54\n\n아디다스\n\n파이어버드 클래식 트랙탑 - 블랙:화이트 / KV9552\n\n16%\n91,990원\n35명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "파이어버드 클래식 트랙탑 - 블랙:화이트 / KV9552",
+      "url": "https://www.musinsa.com/products/6918831"
+    },
+    {
+      "attributes": {
+        "brandId": "outstanding",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "548,000원",
+        "price": 548000,
+        "rankingTheme": "NEW",
+        "sourceRank": 55
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "아웃스탠딩",
+      "externalId": "7219758",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260901/7219758/7219758_17893468824683_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "55\n\n아웃스탠딩\n\n[MUT lab] 60S ROUGHOUT TRUCKER JACKET_TOBACCO\n\n548,000원\n105명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "[MUT lab] 60S ROUGHOUT TRUCKER JACKET_TOBACCO",
+      "url": "https://www.musinsa.com/products/7219758"
+    },
+    {
+      "attributes": {
+        "brandId": "kichul",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "76,240원",
+        "price": 76240,
+        "rankingTheme": "NEW",
+        "sourceRank": 56
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "기철",
+      "externalId": "6002664",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260210/6002664/6002664_17896176711026_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "56\n\n기철\n\nHidden Check Reversible Hooded Jacket (Melange Grey)\n\n29%\n76,240원\n52명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "Hidden Check Reversible Hooded Jacket (Melange Grey)",
+      "url": "https://www.musinsa.com/products/6002664"
+    },
+    {
+      "attributes": {
+        "brandId": "xtonzwoman",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "72,090원",
+        "price": 72090,
+        "rankingTheme": "NEW",
+        "sourceRank": 57
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "루나키후",
+      "externalId": "7158150",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260825/7158150/7158150_17884181539090_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "57\n\n루나키후\n\nWXJ037 호와리 벨루아 세미크롭 후드 집업 (MELANGE GRAY)\n\n19%\n72,090원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "WXJ037 호와리 벨루아 세미크롭 후드 집업 (MELANGE GRAY)",
+      "url": "https://www.musinsa.com/products/7158150"
+    },
+    {
+      "attributes": {
+        "brandId": "anolorcode",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "35,910원",
+        "price": 35910,
+        "rankingTheme": "NEW",
+        "sourceRank": 58
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "어널러코드",
+      "externalId": "7156274",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260825/7156274/7156274_17887454420823_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "58\n\n어널러코드\n\n에스티 크롭가디건 (3color)\n\n34%\n35,910원",
+      "sourceId": "musinsa",
+      "title": "에스티 크롭가디건 (3color)",
+      "url": "https://www.musinsa.com/products/7156274"
+    },
+    {
+      "attributes": {
+        "brandId": "eeespace",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "66,150원",
+        "price": 66150,
+        "rankingTheme": "NEW",
+        "sourceRank": 59
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "이스페이스",
+      "externalId": "6870304",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260717/6870304/6870304_17846226253078_500.png?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "59\n\n이스페이스\n\nFlower Garden Waffle Hoodie\n\n37%\n66,150원",
+      "sourceId": "musinsa",
+      "title": "Flower Garden Waffle Hoodie",
+      "url": "https://www.musinsa.com/products/6870304"
+    },
+    {
+      "attributes": {
+        "brandId": "ghostrepublic",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "34,900원",
+        "price": 34900,
+        "rankingTheme": "NEW",
+        "sourceRank": 60
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "고스트리퍼블릭",
+      "externalId": "7213372",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/prd_img/20260901/7213372/detail_7213372_17895207187495_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "60\n\n고스트리퍼블릭\n\n소프트 세미크롭 니트 가디건 5Color GKK-282\n\n30%\n34,900원\n204명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "소프트 세미크롭 니트 가디건 5Color GKK-282",
+      "url": "https://www.musinsa.com/products/7213372"
+    },
+    {
+      "attributes": {
+        "brandId": "escapefrom",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "55,920원",
+        "price": 55920,
+        "rankingTheme": "NEW",
+        "sourceRank": 61
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "이스케이프프롬",
+      "externalId": "7133921",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260821/7133921/7133921_17878852605348_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "61\n\n이스케이프프롬\n\nESCF 로고 포인트 하이넥 윈드 브레이커 차콜\n\n44%\n55,920원\n43명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "ESCF 로고 포인트 하이넥 윈드 브레이커 차콜",
+      "url": "https://www.musinsa.com/products/7133921"
+    },
+    {
+      "attributes": {
+        "brandId": "madden",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "69,900원",
+        "price": 69900,
+        "rankingTheme": "NEW",
+        "sourceRank": 62
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "매든",
+      "externalId": "6919723",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260724/6919723/6919723_17901530020449_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "62\n\n매든\n\n퍼니 지그재그 글러브 집업 후디\n\n30%\n69,900원\n17명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "퍼니 지그재그 글러브 집업 후디",
+      "url": "https://www.musinsa.com/products/6919723"
+    },
+    {
+      "attributes": {
+        "brandId": "luvistrue",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "135,360원",
+        "price": 135360,
+        "rankingTheme": "NEW",
+        "sourceRank": 63
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "러브이즈트루",
+      "externalId": "6970450",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260731/6970450/6970450_17866847937993_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "63\n\n러브이즈트루\n\nRL CROWN HOOD ZIP UP(BLACK)\n\n30%\n135,360원\n54명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "RL CROWN HOOD ZIP UP(BLACK)",
+      "url": "https://www.musinsa.com/products/6970450"
+    },
+    {
+      "attributes": {
+        "brandId": "thenorthface",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "169,100원",
+        "price": 169100,
+        "rankingTheme": "NEW",
+        "sourceRank": 64
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "노스페이스",
+      "externalId": "7048610",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260811/7048610/7048610_17864307328015_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "64\n급상승\n\n노스페이스\n\nNJ5JS54K 엣지라인 후드 집업 BLACK\n\n5%\n169,100원\n34명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "NJ5JS54K 엣지라인 후드 집업 BLACK",
+      "url": "https://www.musinsa.com/products/7048610"
+    },
+    {
+      "attributes": {
+        "brandId": "noirer",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "412,200원",
+        "price": 412200,
+        "rankingTheme": "NEW",
+        "sourceRank": 65
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "노이어",
+      "externalId": "6679696",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260616/6679696/6679696_17815986929219_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "65\n\n노이어\n\n램스 레더 하프 카코트 (블랙)\n\n15%\n412,200원",
+      "sourceId": "musinsa",
+      "title": "램스 레더 하프 카코트 (블랙)",
+      "url": "https://www.musinsa.com/products/6679696"
+    },
+    {
+      "attributes": {
+        "brandId": "drawfit",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "66,600원",
+        "price": 66600,
+        "rankingTheme": "NEW",
+        "sourceRank": 66
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "드로우핏",
+      "externalId": "7036780",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260810/7036780/7036780_17896104873500_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "66\n\n드로우핏\n\n워셔블 모크넥 투웨이 집업 니트 [3color]\n\n10%\n66,600원",
+      "sourceId": "musinsa",
+      "title": "워셔블 모크넥 투웨이 집업 니트 [3color]",
+      "url": "https://www.musinsa.com/products/7036780"
+    },
+    {
+      "attributes": {
+        "brandId": "poloralphlauren",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "399,000원",
+        "price": 399000,
+        "rankingTheme": "NEW",
+        "sourceRank": 67
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "폴로 랄프 로렌",
+      "externalId": "7105605",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260819/7105605/7105605_17883322732282_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "67\n\n폴로 랄프 로렌\n\n리미티드 에디션 랄프 로고 재킷-네이비\n\n399,000원\n36명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "리미티드 에디션 랄프 로고 재킷-네이비",
+      "url": "https://www.musinsa.com/products/7105605"
+    },
+    {
+      "attributes": {
+        "brandId": "badblood",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "153,090원",
+        "price": 153090,
+        "rankingTheme": "NEW",
+        "sourceRank": 68
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "배드블러드",
+      "externalId": "7186226",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260827/7186226/7186226_17900481391962_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "68\n\n배드블러드\n\n델타2 유틸리티 코튼립 후드 집업 – 워시드그레이\n\n19%\n153,090원\n10명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "델타2 유틸리티 코튼립 후드 집업 – 워시드그레이",
+      "url": "https://www.musinsa.com/products/7186226"
+    },
+    {
+      "attributes": {
+        "brandId": "dimitriblack",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "64,900원",
+        "price": 64900,
+        "rankingTheme": "NEW",
+        "sourceRank": 69
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "디미트리블랙",
+      "externalId": "7291734",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260909/7291734/7291734_17891090994620_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "69\n\n디미트리블랙\n\n2WAY 에센셜 해링턴 자켓_스웨이드 4 COLOR\n\n28%\n64,900원\n72명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "2WAY 에센셜 해링턴 자켓_스웨이드 4 COLOR",
+      "url": "https://www.musinsa.com/products/7291734"
+    },
+    {
+      "attributes": {
+        "brandId": "moodinsidewoman",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "59,900원",
+        "price": 59900,
+        "rankingTheme": "NEW",
+        "sourceRank": 70
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "무드인사이드 우먼",
+      "externalId": "7249954",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260904/7249954/7249954_17885008687246_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "70\n\n무드인사이드 우먼\n\n(woman) 유틸 레더 웹 자켓_Black\n\n57%\n59,900원\n49명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "(woman) 유틸 레더 웹 자켓_Black",
+      "url": "https://www.musinsa.com/products/7249954"
+    },
+    {
+      "attributes": {
+        "brandId": "hooves",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "59,500원",
+        "price": 59500,
+        "rankingTheme": "NEW",
+        "sourceRank": 71
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "후브스",
+      "externalId": "7183727",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/prd_img/20260827/7183727/detail_7183727_17896242052279_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "71\n\n후브스\n\n헤더 스트라이프 후드집업[블랙]\n\n30%\n59,500원",
+      "sourceId": "musinsa",
+      "title": "헤더 스트라이프 후드집업[블랙]",
+      "url": "https://www.musinsa.com/products/7183727"
+    },
+    {
+      "attributes": {
+        "brandId": "trillion",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "57,990원",
+        "price": 57990,
+        "rankingTheme": "NEW",
+        "sourceRank": 72
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "트릴리온",
+      "externalId": "6970489",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260731/6970489/6970489_17866046628060_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "72\n판매 1.4천개\n\n트릴리온\n\n빈티지 워시드 크롭 해링턴 자켓_4color\n\n38%\n57,990원\n146명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "빈티지 워시드 크롭 해링턴 자켓_4color",
+      "url": "https://www.musinsa.com/products/6970489"
+    },
+    {
+      "attributes": {
+        "brandId": "comieu",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "44,980원",
+        "price": 44980,
+        "rankingTheme": "NEW",
+        "sourceRank": 73
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "쏘비",
+      "externalId": "7274505",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260908/7274505/7274505_17895463559989_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "73\n\n쏘비\n\n하이넥 0416RED (세미오버) 후드집업 [블랙]\n\n25%\n44,980원\n27명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "하이넥 0416RED (세미오버) 후드집업 [블랙]",
+      "url": "https://www.musinsa.com/products/7274505"
+    },
+    {
+      "attributes": {
+        "brandId": "euggen",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "55,900원",
+        "price": 55900,
+        "rankingTheme": "NEW",
+        "sourceRank": 74
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "유젠",
+      "externalId": "7218463",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260901/7218463/7218463_17887633691186_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "74\n\n유젠\n\n2WAY 코튼 바이커 자켓_워시드 블랙\n\n21%\n55,900원\n28명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "2WAY 코튼 바이커 자켓_워시드 블랙",
+      "url": "https://www.musinsa.com/products/7218463"
+    },
+    {
+      "attributes": {
+        "brandId": "drawfit",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "139,200원",
+        "price": 139200,
+        "rankingTheme": "NEW",
+        "sourceRank": 75
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "드로우핏",
+      "externalId": "7140448",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260824/7140448/7140448_17888418431901_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "75\n\n드로우핏\n\n[너드킹X드로우핏] 몰스킨 코튼 해링턴 자켓 [3color]\n\n20%\n139,200원\n76명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "[너드킹X드로우핏] 몰스킨 코튼 해링턴 자켓 [3color]",
+      "url": "https://www.musinsa.com/products/7140448"
+    },
+    {
+      "attributes": {
+        "brandId": "musinsastandardwoman",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "52,420원",
+        "price": 52420,
+        "rankingTheme": "NEW",
+        "sourceRank": 76
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "무신사 스탠다드 우먼",
+      "externalId": "6503291",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260518/6503291/6503291_17881652740528_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "76\n\n무신사 스탠다드 우먼\n\n우먼즈 CN 하이 넥 윈드브레이커 [브라운]\n\n25%\n52,420원\n42명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "우먼즈 CN 하이 넥 윈드브레이커 [브라운]",
+      "url": "https://www.musinsa.com/products/6503291"
+    },
+    {
+      "attributes": {
+        "brandId": "musinsastandard",
+        "category": "Outerwear",
+        "categoryCode": "002000",
+        "currency": "KRW",
+        "displayedPrice": "75,890원",
+        "price": 75890,
+        "rankingTheme": "NEW",
+        "sourceRank": 77
+      },
+      "collectionIds": [
+        "musinsa-002000"
+      ],
+      "creator": "무신사 스탠다드",
+      "externalId": "6777735",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260703/6777735/6777735_17872076627949_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:07:34.362Z",
+      "rawVisibleText": "77\n판매 1.3천개\n\n무신사 스탠다드\n\n[빅토리아 울] 라운드 넥 크롭 가디건 (4 colors)\n\n5%\n75,890원\n3.4천명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "[빅토리아 울] 라운드 넥 크롭 가디건 (4 colors)",
+      "url": "https://www.musinsa.com/products/6777735"
+    }
+  ],
+  "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=002000&ageBand=AGE_BAND_ALL&subPan=product",
+  "observedAt": "2026-09-27T00:07:34.362Z"
+}

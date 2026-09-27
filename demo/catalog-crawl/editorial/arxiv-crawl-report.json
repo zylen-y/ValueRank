@@ -1,0 +1,21 @@
+{
+  "sourceId": "arxiv",
+  "uniqueItems": 549,
+  "pages": [
+    {
+      "url": "https://arxiv.org/search/?query=reinforcement%20learning&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=0",
+      "observedAt": "2026-09-27T00:08:39.711Z",
+      "count": 200
+    },
+    {
+      "url": "https://arxiv.org/search/?query=AI%20agents&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=0",
+      "observedAt": "2026-09-27T00:08:54.878Z",
+      "count": 200
+    },
+    {
+      "url": "https://arxiv.org/search/?query=language%20learning&searchtype=all&abstracts=show&order=-announced_date_first&size=200&start=0",
+      "observedAt": "2026-09-27T00:09:11.106Z",
+      "count": 200
+    }
+  ]
+}

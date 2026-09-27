@@ -11,6 +11,9 @@
     "typecheck": "tsc -b",
     "test": "vitest run",
     "lint": "oxlint",
+    "catalog:import": "node --import tsx server/catalog-cli.ts import",
+    "catalog:stats": "node --import tsx server/catalog-cli.ts stats",
+    "catalog:export": "node --import tsx server/catalog-cli.ts export",
     "start": "tsx server/index.ts",
     "preview": "vite preview --host 127.0.0.1 --port 4173 --strictPort"
   },

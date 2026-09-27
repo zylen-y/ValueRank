@@ -142,7 +142,10 @@ export function createPersonalService(store: PersonalStore, options: { now?: () 
     let candidates = dataset.itemRefs.filter(ref => ref.partition === (mode === 'test' ? 'test' : 'train')).map(unit).filter(item => !forbiddenEntities.has(entityKey(item)));
     if (candidates.length < 2) throw new PersonalError(mode === 'test' ? 'Not enough unseen held-out items remain. Import a fresh dataset for an honest test.' : 'Not enough training items remain. Held-out test items are kept separate.', 409);
     const past = exposures.filter(exposure => exposure.datasetId === dataset.id && exposure.datasetVersion === dataset.version && exposure.mode === mode);
-    const seenPairs = new Set(past.map(exposure => pairKey(exposure.a, exposure.b)));
+    // Undo permits a corrected learning answer through a fresh exposure. Keep all
+    // original predictions/audit rows, and never reopen test or tournament pairs.
+    const undoneLearning = new Set(mode === 'learn' ? comparisons.filter(comparison => comparison.undone).map(comparison => comparison.exposureId) : []);
+    const seenPairs = new Set(past.filter(exposure => !undoneLearning.has(exposure.id)).map(exposure => pairKey(exposure.a, exposure.b)));
     let pairs: [PersonalUnit, PersonalUnit][] = [];
     let policy = mode === 'test' ? 'heldout-random-v1' : 'uncertainty-coverage-v1';
     if (mode === 'tournament') {

@@ -1,0 +1,13 @@
+{
+  "source": {
+    "id": "instagram",
+    "label": "Instagram",
+    "homeUrl": "https://www.instagram.com/",
+    "kind": "instagram",
+    "status": "blocked",
+    "checkedAt": "2026-09-27T00:08:55.422Z",
+    "note": "The public @figma page displayed a signup/login overlay. Collection stopped at the access barrier; no guessed account records or private content were added."
+  },
+  "collections": [],
+  "items": []
+}

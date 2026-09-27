@@ -1,0 +1,94 @@
+{
+  "url": "https://standardebooks.org/subjects/science-fiction?page=3&per-page=48&sort=popularity&view=list",
+  "title": "Browse Standard Ebooks, page 3 - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover",
+  "heading": "Browse Ebooks",
+  "observedAt": "2026-09-27T00:12:12.804Z",
+  "itemCount": 4,
+  "items": [
+    {
+      "attributes": {
+        "readingEase": 75.71,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 66513
+      },
+      "creator": "Algis Budrys",
+      "description": "66,513 words • 75.71 reading ease Science Fiction Shorts",
+      "externalId": "algis-budrys/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/algis-budrys_short-fiction/dbd9fae3f7e3b8949febf8da0cd48e6538910cda/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/algis-budrys/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:12.804Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 55.37,
+        "subjects": "Science Fiction",
+        "wordCount": 30004
+      },
+      "creator": "Philip Francis Nowlan",
+      "description": "30,004 words • 55.37 reading ease Science Fiction",
+      "externalId": "philip-francis-nowlan/the-airlords-of-han",
+      "imageUrl": "https://standardebooks.org/images/covers/philip-francis-nowlan_the-airlords-of-han/934221d91ace7e785ee03d1105ef96f7b017c58d/cover@2x.jpg",
+      "title": "The Airlords of Han",
+      "url": "https://standardebooks.org/ebooks/philip-francis-nowlan/the-airlords-of-han",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:12.804Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 76.22,
+        "subjects": "Science Fiction, Shorts",
+        "wordCount": 296432
+      },
+      "creator": "Mack Reynolds",
+      "description": "296,432 words • 76.22 reading ease Science Fiction Shorts",
+      "externalId": "mack-reynolds/short-fiction",
+      "imageUrl": "https://standardebooks.org/images/covers/mack-reynolds_short-fiction/3da21912cc0a7b3320a45fe8abcc9bb2822d811e/cover@2x.jpg",
+      "title": "Short Fiction",
+      "url": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:12.804Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 44.78,
+        "subjects": "Science Fiction",
+        "translation": "Translated by J. B. Walker",
+        "wordCount": 54860
+      },
+      "creator": "Camille Flammarion",
+      "description": "Translated by J. B. Walker 54,860 words • 44.78 reading ease Science Fiction",
+      "externalId": "camille-flammarion/omega/j-b-walker",
+      "imageUrl": "https://standardebooks.org/images/covers/camille-flammarion_omega_j-b-walker/d38bae85798dc537aa0ed66caaf9d1b26d670434/cover@2x.jpg",
+      "title": "Omega",
+      "url": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-science-fiction"
+      ],
+      "observedAt": "2026-09-27T00:12:12.804Z",
+      "listingUrl": "https://standardebooks.org/subjects/science-fiction?page=3&per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    }
+  ]
+}

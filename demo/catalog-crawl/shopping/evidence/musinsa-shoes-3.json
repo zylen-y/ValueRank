@@ -1,0 +1,1385 @@
+{
+  "category": "103000",
+  "items": [
+    {
+      "attributes": {
+        "brandId": "newbalance",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "119,200원",
+        "price": 119200,
+        "rankingTheme": "NEW",
+        "sourceRank": 78
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "뉴발란스",
+      "externalId": "6192576",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260325/6192576/6192576_17751110239943_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "78\n\n뉴발란스\n\nNBPDGS413B / U204L3TH (BLACK)\n\n20%\n119,200원\n60명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "NBPDGS413B / U204L3TH (BLACK)",
+      "url": "https://www.musinsa.com/products/6192576"
+    },
+    {
+      "attributes": {
+        "brandId": "wettia",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "94,910원",
+        "price": 94910,
+        "rankingTheme": "NEW",
+        "sourceRank": 79
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "위띠아",
+      "externalId": "6991563",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260804/6991563/6991563_17875363949351_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "79\n\n위띠아\n\n천연 양가죽 샤브레 플랫 68503\n\n36%\n94,910원\n22명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "천연 양가죽 샤브레 플랫 68503",
+      "url": "https://www.musinsa.com/products/6991563"
+    },
+    {
+      "attributes": {
+        "brandId": "adidas",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "111,200원",
+        "price": 111200,
+        "rankingTheme": "NEW",
+        "sourceRank": 80
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "아디다스",
+      "externalId": "6918834",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260724/6918834/6918834_17853138022278_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "80\n\n아디다스\n\n삼바 OG 뮬 - 화이트:블랙 / LB3814\n\n20%\n111,200원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "삼바 OG 뮬 - 화이트:블랙 / LB3814",
+      "url": "https://www.musinsa.com/products/6918834"
+    },
+    {
+      "attributes": {
+        "brandId": "onru",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "117,040원",
+        "price": 117040,
+        "rankingTheme": "NEW",
+        "sourceRank": 81
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "온루",
+      "externalId": "6636835",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260609/6636835/6636835_17810751357590_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "81\n판매 1.6천개\n\n온루\n\n[ONRU x kinchi] LITE-808 드럼워싱 홀스레더 컴포트 슈즈\n\n44%\n117,040원\n37명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "[ONRU x kinchi] LITE-808 드럼워싱 홀스레더 컴포트 슈즈",
+      "url": "https://www.musinsa.com/products/6636835"
+    },
+    {
+      "attributes": {
+        "brandId": "elizabethstuart",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "89,920원",
+        "price": 89920,
+        "rankingTheme": "NEW",
+        "sourceRank": 82
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "엘리자베스 스튜어트",
+      "externalId": "7121527",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260820/7121527/7121527_17901420039639_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "82\n\n엘리자베스 스튜어트\n\n더블럭 투웨이 폴딩 버클 부츠 EBAL165523\n\n55%\n89,920원",
+      "sourceId": "musinsa",
+      "title": "더블럭 투웨이 폴딩 버클 부츠 EBAL165523",
+      "url": "https://www.musinsa.com/products/7121527"
+    },
+    {
+      "attributes": {
+        "brandId": "elizabethstuart",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "89,920원",
+        "price": 89920,
+        "rankingTheme": "NEW",
+        "sourceRank": 83
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "엘리자베스 스튜어트",
+      "externalId": "7121525",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260820/7121525/7121525_17872919372238_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "83\n\n엘리자베스 스튜어트\n\n카나 폴딩 커스텀 부츠 EBAL165524\n\n55%\n89,920원",
+      "sourceId": "musinsa",
+      "title": "카나 폴딩 커스텀 부츠 EBAL165524",
+      "url": "https://www.musinsa.com/products/7121525"
+    },
+    {
+      "attributes": {
+        "brandId": "bsqtbyclassy",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "38,380원",
+        "price": 38380,
+        "rankingTheme": "NEW",
+        "sourceRank": 84
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "비에스큐티바이클래시",
+      "externalId": "6523969",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260521/6523969/6523969_17793279028943_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "84\n\n비에스큐티바이클래시\n\nGO116 리아 컴포트 뮬 슬리퍼 마스블랙\n\n56%\n38,380원\n14명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "GO116 리아 컴포트 뮬 슬리퍼 마스블랙",
+      "url": "https://www.musinsa.com/products/6523969"
+    },
+    {
+      "attributes": {
+        "brandId": "skechers",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "99,000원",
+        "price": 99000,
+        "rankingTheme": "NEW",
+        "sourceRank": 85
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "스케쳐스",
+      "externalId": "6747992",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260629/6747992/6747992_17827200505951_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "85\n\n스케쳐스\n\n남성 고워크 아치핏 엔조이(슬립인스)_SP0MWCGY131\n\n17%\n99,000원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "남성 고워크 아치핏 엔조이(슬립인스)_SP0MWCGY131",
+      "url": "https://www.musinsa.com/products/6747992"
+    },
+    {
+      "attributes": {
+        "brandId": "pinoki",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "98,690원",
+        "price": 98690,
+        "rankingTheme": "NEW",
+        "sourceRank": 86
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "피노키",
+      "externalId": "7072050",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260813/7072050/7072050_17890439744237_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "86\n\n피노키\n\n[pinoki x STalkers] ST - 26(p) / 3color\n\n23%\n98,690원\n57명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "[pinoki x STalkers] ST - 26(p) / 3color",
+      "url": "https://www.musinsa.com/products/7072050"
+    },
+    {
+      "attributes": {
+        "brandId": "rockfish",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "89,300원",
+        "price": 89300,
+        "rankingTheme": "NEW",
+        "sourceRank": 87
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "락피쉬웨더웨어",
+      "externalId": "6926925",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/prd_img/20260727/6926925/detail_6926925_17871364837041_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "87\n\n락피쉬웨더웨어\n\nBELLA MARYJANES(CORDUROY) - 7 colors\n\n5%\n89,300원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "BELLA MARYJANES(CORDUROY) - 7 colors",
+      "url": "https://www.musinsa.com/products/6926925"
+    },
+    {
+      "attributes": {
+        "brandId": "kumkang",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "89,000원",
+        "price": 89000,
+        "rankingTheme": "NEW",
+        "sourceRank": 88
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "금강",
+      "externalId": "6978975",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260803/6978975/6978975_17871992501379_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "88\n\n금강\n\nFAIR LADY 여성 클래식 셔링 페니 로퍼 FAIPUC6879WF1\n\n50%\n89,000원\n21명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "FAIR LADY 여성 클래식 셔링 페니 로퍼 FAIPUC6879WF1",
+      "url": "https://www.musinsa.com/products/6978975"
+    },
+    {
+      "attributes": {
+        "brandId": "akiiiclassic",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "88,000원",
+        "price": 88000,
+        "rankingTheme": "NEW",
+        "sourceRank": 89
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "아키클래식",
+      "externalId": "7100240",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260819/7100240/7100240_17870992790950_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "89\n\n아키클래식\n\n모션플렉스 스톤라이트\n\n37%\n88,000원\n14명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "모션플렉스 스톤라이트",
+      "url": "https://www.musinsa.com/products/7100240"
+    },
+    {
+      "attributes": {
+        "brandId": "skechers",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "87,200원",
+        "price": 87200,
+        "rankingTheme": "NEW",
+        "sourceRank": 90
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "스케쳐스",
+      "externalId": "6747948",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260629/6747948/6747948_17827198853173_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "90\n\n스케쳐스\n\n남성 고워크 아치핏 엔조이_SP0MWCGY121\n\n20%\n87,200원\n19명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "남성 고워크 아치핏 엔조이_SP0MWCGY121",
+      "url": "https://www.musinsa.com/products/6747948"
+    },
+    {
+      "attributes": {
+        "brandId": "converse",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "76,500원",
+        "price": 76500,
+        "rankingTheme": "NEW",
+        "sourceRank": 91
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "컨버스",
+      "externalId": "6760711",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260701/6760711/6760711_17828856543461_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "91\n\n컨버스\n\n척테일러 올스타 디스트레스드 스타즈 네이비 A20568C\n\n10%\n76,500원",
+      "sourceId": "musinsa",
+      "title": "척테일러 올스타 디스트레스드 스타즈 네이비 A20568C",
+      "url": "https://www.musinsa.com/products/6760711"
+    },
+    {
+      "attributes": {
+        "brandId": "shoopen",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "29,900원",
+        "price": 29900,
+        "rankingTheme": "NEW",
+        "sourceRank": 92
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "슈펜",
+      "externalId": "6564853",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260528/6564853/6564853_17827966819898_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "92\n판매 1.3천개\n\n슈펜\n\nMule Wallabee\n\n25%\n29,900원\n38명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "Mule Wallabee",
+      "url": "https://www.musinsa.com/products/6564853"
+    },
+    {
+      "attributes": {
+        "brandId": "otz",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "76,870원",
+        "price": 76870,
+        "rankingTheme": "NEW",
+        "sourceRank": 93
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "오찌",
+      "externalId": "6967452",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260731/6967452/6967452_17893510275236_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "93\n\n오찌\n\n로미타 S2 글로우 밴딩 블랙 OZSQGA387B\n\n14%\n76,870원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "로미타 S2 글로우 밴딩 블랙 OZSQGA387B",
+      "url": "https://www.musinsa.com/products/6967452"
+    },
+    {
+      "attributes": {
+        "brandId": "differshoe",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "79,840원",
+        "price": 79840,
+        "rankingTheme": "NEW",
+        "sourceRank": 94
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "디퍼슈",
+      "externalId": "6700297",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260619/6700297/6700297_17818342403206_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "94\n\n디퍼슈\n\n쿠바 스니커즈 7CM [투톤 블랙 데님]\n\n44%\n79,840원",
+      "sourceId": "musinsa",
+      "title": "쿠바 스니커즈 7CM [투톤 블랙 데님]",
+      "url": "https://www.musinsa.com/products/6700297"
+    },
+    {
+      "attributes": {
+        "brandId": "otz",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "76,410원",
+        "price": 76410,
+        "rankingTheme": "NEW",
+        "sourceRank": 95
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "오찌",
+      "externalId": "6976697",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260803/6976697/6976697_17896087626158_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "95\n\n오찌\n\n[오찌X안은빈] 로미타 S2 플랫폼 밴딩 그레이 OZSQGA353G\n\n15%\n76,410원\n10명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "[오찌X안은빈] 로미타 S2 플랫폼 밴딩 그레이 OZSQGA353G",
+      "url": "https://www.musinsa.com/products/6976697"
+    },
+    {
+      "attributes": {
+        "brandId": "champion",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "68,670원",
+        "price": 68670,
+        "rankingTheme": "NEW",
+        "sourceRank": 96
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "챔피온",
+      "externalId": "6039194",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260223/6039194/6039194_17848666879832_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "96\n\n챔피온\n\n여성 T 트레이너 스니커즈 Cream\n\n37%\n68,670원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "여성 T 트레이너 스니커즈 Cream",
+      "url": "https://www.musinsa.com/products/6039194"
+    },
+    {
+      "attributes": {
+        "brandId": "crocs",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "11,990원",
+        "price": 11990,
+        "rankingTheme": "NEW",
+        "sourceRank": 97
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "크록스",
+      "externalId": "6201831",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260326/6201831/6201831_17846152234767_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "97\n\n크록스\n\n산리오 헬로키티 앤 프렌즈 5개 세트 / 10018103\n\n40%\n11,990원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "산리오 헬로키티 앤 프렌즈 5개 세트 / 10018103",
+      "url": "https://www.musinsa.com/products/6201831"
+    },
+    {
+      "attributes": {
+        "brandId": "goalstudio",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "71,100원",
+        "price": 71100,
+        "rankingTheme": "NEW",
+        "sourceRank": 98
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "골스튜디오",
+      "externalId": "6747847",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260629/6747847/6747847_17827193620788_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "98\n\n골스튜디오\n\nGB PRO X SLIDE-GREY\n\n10%\n71,100원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "GB PRO X SLIDE-GREY",
+      "url": "https://www.musinsa.com/products/6747847"
+    },
+    {
+      "attributes": {
+        "brandId": "collonil",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "11,600원",
+        "price": 11600,
+        "rankingTheme": "NEW",
+        "sourceRank": 99
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "콜로닐",
+      "externalId": "6523702",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260521/6523702/6523702_17793265758235_500.png?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "99\n\n콜로닐\n\n델리케이트 가죽 수분 영양 크림 60ml\n\n20%\n11,600원",
+      "sourceId": "musinsa",
+      "title": "델리케이트 가죽 수분 영양 크림 60ml",
+      "url": "https://www.musinsa.com/products/6523702"
+    },
+    {
+      "attributes": {
+        "brandId": "oofos",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "69,000원",
+        "price": 69000,
+        "rankingTheme": "NEW",
+        "sourceRank": 100
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "우포스",
+      "externalId": "7167169",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260826/7167169/7167169_17877124095359_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "100\n\n우포스\n\n[OOahh] 블랙 남여공용 슬라이드\n\n69,000원",
+      "sourceId": "musinsa",
+      "title": "[OOahh] 블랙 남여공용 슬라이드",
+      "url": "https://www.musinsa.com/products/7167169"
+    },
+    {
+      "attributes": {
+        "brandId": "musinsastandardwoman",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "65,700원",
+        "price": 65700,
+        "rankingTheme": "NEW",
+        "sourceRank": 101
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "무신사 스탠다드 우먼",
+      "externalId": "6996182",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260805/6996182/6996182_17889410166623_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "101\n\n무신사 스탠다드 우먼\n\n우먼즈 스웨이드 셔링 페니 로퍼 [브라운]\n\n6%\n65,700원\n10명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "우먼즈 스웨이드 셔링 페니 로퍼 [브라운]",
+      "url": "https://www.musinsa.com/products/6996182"
+    },
+    {
+      "attributes": {
+        "brandId": "soliberty",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "62,300원",
+        "price": 62300,
+        "rankingTheme": "NEW",
+        "sourceRank": 102
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "노버크",
+      "externalId": "6382400",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260427/6382400/6382400_17792599659182_500.png?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "102\n판매 1.1천개\n\n노버크\n\n플렉스 라이트 로퍼\n\n48%\n62,300원\n40명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "플렉스 라이트 로퍼",
+      "url": "https://www.musinsa.com/products/6382400"
+    },
+    {
+      "attributes": {
+        "brandId": "shufit",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "61,560원",
+        "price": 61560,
+        "rankingTheme": "NEW",
+        "sourceRank": 103
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "슈피트",
+      "externalId": "6378525",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260425/6378525/6378525_17771330883984_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "103\n\n슈피트\n\n6.5cm 와이드 더비슈즈 볼륨 스웨이드 블랙 구두 SFT-113\n\n5%\n61,560원",
+      "sourceId": "musinsa",
+      "title": "6.5cm 와이드 더비슈즈 볼륨 스웨이드 블랙 구두 SFT-113",
+      "url": "https://www.musinsa.com/products/6378525"
+    },
+    {
+      "attributes": {
+        "brandId": "coreofalchemy",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "59,000원",
+        "price": 59000,
+        "rankingTheme": "NEW",
+        "sourceRank": 104
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "코어오브알케미",
+      "externalId": "6551674",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260527/6551674/6551674_17798483088282_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "104\n\n코어오브알케미\n\nQubi 2 Cordura Summer Loafer 코듀라 경량 로퍼\n\n53%\n59,000원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "Qubi 2 Cordura Summer Loafer 코듀라 경량 로퍼",
+      "url": "https://www.musinsa.com/products/6551674"
+    },
+    {
+      "attributes": {
+        "brandId": "2365",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "59,000원",
+        "price": 59000,
+        "rankingTheme": "NEW",
+        "sourceRank": 105
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "23.65",
+      "externalId": "7048995",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260811/7048995/7048995_17877949159952_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "105\n\n23.65\n\n메리노 - 그레이\n\n38%\n59,000원",
+      "sourceId": "musinsa",
+      "title": "메리노 - 그레이",
+      "url": "https://www.musinsa.com/products/7048995"
+    },
+    {
+      "attributes": {
+        "brandId": "sappun",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "58,010원",
+        "price": 58010,
+        "rankingTheme": "NEW",
+        "sourceRank": 106
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "사뿐",
+      "externalId": "7033811",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260810/7033811/7033811_17864992984731_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "106\n\n사뿐\n\n레너드 라운드 셔링 로퍼 (2.5cm)\n\n17%\n58,010원",
+      "sourceId": "musinsa",
+      "title": "레너드 라운드 셔링 로퍼 (2.5cm)",
+      "url": "https://www.musinsa.com/products/7033811"
+    },
+    {
+      "attributes": {
+        "brandId": "elcanto",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "47,600원",
+        "price": 47600,
+        "rankingTheme": "NEW",
+        "sourceRank": 107
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "엘칸토",
+      "externalId": "7032684",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260810/7032684/7032684_17876309241002_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "107\n\n엘칸토\n\n마쯔 여성 클래식 셔링 페니 로퍼 2.5cm LCWC37M639\n\n70%\n47,600원",
+      "sourceId": "musinsa",
+      "title": "마쯔 여성 클래식 셔링 페니 로퍼 2.5cm LCWC37M639",
+      "url": "https://www.musinsa.com/products/7032684"
+    },
+    {
+      "attributes": {
+        "brandId": "floridastudio",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "48,480원",
+        "price": 48480,
+        "rankingTheme": "NEW",
+        "sourceRank": 108
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "플로리다 스튜디오",
+      "externalId": "7121361",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260820/7121361/7121361_17872165304561_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "108\n\n플로리다 스튜디오\n\n오데트 핀턱 발레코어 플랫 슈즈 블랙 FL2926\n\n35%\n48,480원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "오데트 핀턱 발레코어 플랫 슈즈 블랙 FL2926",
+      "url": "https://www.musinsa.com/products/7121361"
+    },
+    {
+      "attributes": {
+        "brandId": "2365",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "44,900원",
+        "price": 44900,
+        "rankingTheme": "NEW",
+        "sourceRank": 109
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "23.65",
+      "externalId": "7399767",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260923/7399767/7399767_17901398533152_500.png?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "109\n\n23.65\n\nAROA 스니커즈 - BEIGE\n\n54%\n44,900원",
+      "sourceId": "musinsa",
+      "title": "AROA 스니커즈 - BEIGE",
+      "url": "https://www.musinsa.com/products/7399767"
+    },
+    {
+      "attributes": {
+        "brandId": "musinsastandard",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "43,990원",
+        "price": 43990,
+        "rankingTheme": "NEW",
+        "sourceRank": 110
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "무신사 스탠다드",
+      "externalId": "6032909",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260220/6032909/6032909_17764185371183_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "110\n판매 1.4천개\n\n무신사 스탠다드\n\n스웨이드 뮬 [토프]\n\n21%\n43,990원\n16명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "스웨이드 뮬 [토프]",
+      "url": "https://www.musinsa.com/products/6032909"
+    },
+    {
+      "attributes": {
+        "brandId": "underarmour",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "43,600원",
+        "price": 43600,
+        "rankingTheme": "NEW",
+        "sourceRank": 111
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "언더아머",
+      "externalId": "6799577",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260707/6799577/6799577_17834089995428_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "111\n\n언더아머\n\nUA 페이드 RN 46010462-001\n\n60%\n43,600원",
+      "sourceId": "musinsa",
+      "title": "UA 페이드 RN 46010462-001",
+      "url": "https://www.musinsa.com/products/6799577"
+    },
+    {
+      "attributes": {
+        "brandId": "vans",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "40,990원",
+        "price": 40990,
+        "rankingTheme": "NEW",
+        "sourceRank": 112
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "반스",
+      "externalId": "6268665",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260407/6268665/6268665_17758011326284_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "112\n\n반스\n\n어센틱 - (컬러 띠어리) 머쉬룸 / VN000D6G7D61\n\n41%\n40,990원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "어센틱 - (컬러 띠어리) 머쉬룸 / VN000D6G7D61",
+      "url": "https://www.musinsa.com/products/6268665"
+    },
+    {
+      "attributes": {
+        "brandId": "trillion",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "39,990원",
+        "price": 39990,
+        "rankingTheme": "NEW",
+        "sourceRank": 113
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "트릴리온",
+      "externalId": "6976462",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260802/6976462/6976462_17859011190578_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "113\n\n트릴리온\n\n[6.5CM UP] 논슬립 러기드 스웨이드 뮬_블랙\n\n58%\n39,990원\n118명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "[6.5CM UP] 논슬립 러기드 스웨이드 뮬_블랙",
+      "url": "https://www.musinsa.com/products/6976462"
+    },
+    {
+      "attributes": {
+        "brandId": "chaakan",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "35,910원",
+        "price": 35910,
+        "rankingTheme": "NEW",
+        "sourceRank": 114
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "착한구두",
+      "externalId": "7166064",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260826/7166064/7166064_17896191657295_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "114\n\n착한구두\n\n홀랜드 벨크로 메리제인 로퍼 PMSDR3i150\n\n10%\n35,910원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "홀랜드 벨크로 메리제인 로퍼 PMSDR3i150",
+      "url": "https://www.musinsa.com/products/7166064"
+    },
+    {
+      "attributes": {
+        "brandId": "armedes",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "23,660원",
+        "price": 23660,
+        "rankingTheme": "NEW",
+        "sourceRank": 115
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "아르메데스",
+      "externalId": "6849515",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260715/6849515/6849515_17840854317938_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "115\n\n아르메데스\n\n리커버리 에어쿠셔닝 운동화 AR-2009\n\n56%\n23,660원",
+      "sourceId": "musinsa",
+      "title": "리커버리 에어쿠셔닝 운동화 AR-2009",
+      "url": "https://www.musinsa.com/products/6849515"
+    },
+    {
+      "attributes": {
+        "brandId": "asics",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "209,000원",
+        "price": 209000,
+        "rankingTheme": "NEW",
+        "sourceRank": 116
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "아식스",
+      "externalId": "7260774",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260907/7260774/7260774_17899567121035_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "116\n\n아식스\n\n젤 카야노 12.1 MSS - 블랙/블랙 / 1203B424-001\n\n209,000원\n602명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "젤 카야노 12.1 MSS - 블랙/블랙 / 1203B424-001",
+      "url": "https://www.musinsa.com/products/7260774"
+    },
+    {
+      "attributes": {
+        "brandId": "asics",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "209,000원",
+        "price": 209000,
+        "rankingTheme": "NEW",
+        "sourceRank": 117
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "아식스",
+      "externalId": "7260775",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260907/7260775/7260775_17899566672975_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "117\n\n아식스\n\n젤 카야노 12.1 MSS - 샌드쉘/블랙 / 1203B424-250\n\n209,000원\n318명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "젤 카야노 12.1 MSS - 샌드쉘/블랙 / 1203B424-250",
+      "url": "https://www.musinsa.com/products/7260775"
+    },
+    {
+      "attributes": {
+        "brandId": "nike",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "152,290원",
+        "price": 152290,
+        "rankingTheme": "NEW",
+        "sourceRank": 118
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "나이키",
+      "externalId": "6067706",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260227/6067706/6067706_17745029767347_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "118\n\n나이키\n\n샥스 TL M - 화이트:블랙:쿨 그레이:메탈릭 쿨 그레이 / IR2005-100\n\n33%\n152,290원\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "샥스 TL M - 화이트:블랙:쿨 그레이:메탈릭 쿨 그레이 / IR2005-100",
+      "url": "https://www.musinsa.com/products/6067706"
+    },
+    {
+      "attributes": {
+        "brandId": "otz",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "17,560원",
+        "price": 17560,
+        "rankingTheme": "NEW",
+        "sourceRank": 119
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "오찌",
+      "externalId": "6527706",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260521/6527706/6527706_17802741977096_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "119\n판매 1.2천개\n\n오찌\n\n코브스 플립플랍 실버 OZFJGS222S\n\n56%\n17,560원",
+      "sourceId": "musinsa",
+      "title": "코브스 플립플랍 실버 OZFJGS222S",
+      "url": "https://www.musinsa.com/products/6527706"
+    },
+    {
+      "attributes": {
+        "brandId": "tawntoe",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "51,300원",
+        "price": 51300,
+        "rankingTheme": "NEW",
+        "sourceRank": 120
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "토앤토",
+      "externalId": "6319875",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260416/6319875/6319875_17791624683512_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "120\n\n토앤토\n\n포차코 세트\n\n35%\n51,300원",
+      "sourceId": "musinsa",
+      "title": "포차코 세트",
+      "url": "https://www.musinsa.com/products/6319875"
+    },
+    {
+      "attributes": {
+        "brandId": "thenorthface",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "60,690원",
+        "price": 60690,
+        "rankingTheme": "NEW",
+        "sourceRank": 121
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "노스페이스",
+      "externalId": "6291408",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260410/6291408/6291408_17757965677577_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "121\n\n노스페이스\n\nNS82S67J 스니커 샌달 BLACK\n\n49%\n60,690원",
+      "sourceId": "musinsa",
+      "title": "NS82S67J 스니커 샌달 BLACK",
+      "url": "https://www.musinsa.com/products/6291408"
+    },
+    {
+      "attributes": {
+        "brandId": "mizuno",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "259,000원",
+        "price": 259000,
+        "rankingTheme": "NEW",
+        "sourceRank": 123
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "미즈노",
+      "externalId": "7212102",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260901/7212102/7212102_17901523775574_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "123\n\n미즈노\n\n(공용) 웨이브 프로페시 13.2 와디 - 블랙:실버 / D1GG261101\n\n259,000원\n130명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "(공용) 웨이브 프로페시 13.2 와디 - 블랙:실버 / D1GG261101",
+      "url": "https://www.musinsa.com/products/7212102"
+    },
+    {
+      "attributes": {
+        "brandId": "adidas",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "125,990원",
+        "price": 125990,
+        "rankingTheme": "NEW",
+        "sourceRank": 124
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "아디다스",
+      "externalId": "6839049",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260714/6839049/6839049_17846323660279_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "124\n\n아디다스\n\n재팬 - 웜바닐라:팀빅토리레드 / KJ2377\n\n15%\n125,990원\n138명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "재팬 - 웜바닐라:팀빅토리레드 / KJ2377",
+      "url": "https://www.musinsa.com/products/6839049"
+    },
+    {
+      "attributes": {
+        "brandId": "nike",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "144,270원",
+        "price": 144270,
+        "rankingTheme": "NEW",
+        "sourceRank": 125
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "나이키",
+      "externalId": "6427488",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260506/6427488/6427488_17784666549418_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "125\n\n나이키\n\n에어 맥스 95 빅 버블 SE M - 멀티컬러:화이트:블랙 / IU2254-900\n\n37%\n144,270원\n103명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "에어 맥스 95 빅 버블 SE M - 멀티컬러:화이트:블랙 / IU2254-900",
+      "url": "https://www.musinsa.com/products/6427488"
+    },
+    {
+      "attributes": {
+        "brandId": "adidas",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "126,450원",
+        "price": 126450,
+        "rankingTheme": "NEW",
+        "sourceRank": 126
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "아디다스",
+      "externalId": "7152801",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260825/7152801/7152801_17876379758247_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "126\n\n아디다스\n\n도쿄 - 아우라커피 / HQ2887\n\n9%\n126,450원\n79명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "도쿄 - 아우라커피 / HQ2887",
+      "url": "https://www.musinsa.com/products/7152801"
+    },
+    {
+      "attributes": {
+        "brandId": "newbalance",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "139,000원",
+        "price": 139000,
+        "rankingTheme": "NEW",
+        "sourceRank": 127
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "뉴발란스",
+      "externalId": "7276916",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260908/7276916/7276916_17889187390391_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "127\n\n뉴발란스\n\nNBPDGF717B / U530JPB (BLACK)\n\n139,000원\n85명이 보는 중",
+      "sourceId": "musinsa",
+      "title": "NBPDGF717B / U530JPB (BLACK)",
+      "url": "https://www.musinsa.com/products/7276916"
+    },
+    {
+      "attributes": {
+        "brandId": "adidas",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "70,990원",
+        "price": 70990,
+        "rankingTheme": "NEW",
+        "sourceRank": 128
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "아디다스",
+      "externalId": "5943435",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260127/5943435/5943435_17756277254897_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "128\n\n아디다스\n\n아디스타 컨트롤 5 - 블랙 / KI5226\n\n55%\n70,990원\n86명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "아디스타 컨트롤 5 - 블랙 / KI5226",
+      "url": "https://www.musinsa.com/products/5943435"
+    },
+    {
+      "attributes": {
+        "brandId": "puma",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "150,530원",
+        "price": 150530,
+        "rankingTheme": "NEW",
+        "sourceRank": 129
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "푸마",
+      "externalId": "6680956",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260616/6680956/6680956_17823770748889_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "129\n\n푸마\n\n매그맥스 나이트로 2 - 푸마 블랙:플랫 다크 그레이 / 312125-24\n\n37%\n150,530원\n81명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "매그맥스 나이트로 2 - 푸마 블랙:플랫 다크 그레이 / 312125-24",
+      "url": "https://www.musinsa.com/products/6680956"
+    },
+    {
+      "attributes": {
+        "brandId": "asics",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "229,000원",
+        "price": 229000,
+        "rankingTheme": "NEW",
+        "sourceRank": 130
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "아식스",
+      "externalId": "7143427",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260824/7143427/7143427_17875561562172_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "130\n\n아식스\n\n노바블라스트 6 GTX 남성 스탠다드 - 블랙:그래파이트 그레이 / 1011C256-001\n\n229,000원\n60명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "노바블라스트 6 GTX 남성 스탠다드 - 블랙:그래파이트 그레이 / 1011C256-001",
+      "url": "https://www.musinsa.com/products/7143427"
+    },
+    {
+      "attributes": {
+        "brandId": "elizabethstuart",
+        "category": "Shoes",
+        "categoryCode": "103000",
+        "currency": "KRW",
+        "displayedPrice": "69,920원",
+        "price": 69920,
+        "rankingTheme": "NEW",
+        "sourceRank": 131
+      },
+      "collectionIds": [
+        "musinsa-103000"
+      ],
+      "creator": "엘리자베스 스튜어트",
+      "externalId": "7121531",
+      "extraction": "browser-dom",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20260820/7121531/7121531_17894358202408_500.jpg?w=780",
+      "kind": "fashion",
+      "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+      "observedAt": "2026-09-27T00:08:48.962Z",
+      "rawVisibleText": "131\n\n엘리자베스 스튜어트\n\n레제르 라이트 도트 스니커즈 EBAL165521\n\n56%\n69,920원\n42명이 보는 중\n\n내일(월) 도착보장",
+      "sourceId": "musinsa",
+      "title": "레제르 라이트 도트 스니커즈 EBAL165521",
+      "url": "https://www.musinsa.com/products/7121531"
+    }
+  ],
+  "listingUrl": "https://www.musinsa.com/main/musinsa/ranking?gf=A&storeCode=musinsa&sectionId=200&contentsId=&categoryCode=103000&ageBand=AGE_BAND_ALL&subPan=product",
+  "observedAt": "2026-09-27T00:08:48.962Z"
+}

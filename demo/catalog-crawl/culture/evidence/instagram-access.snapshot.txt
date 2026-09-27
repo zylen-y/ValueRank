@@ -1,0 +1,7 @@
+- generic "CloseSee photos, videos and more from figmaSign up and never miss a post from figma.By continuing, y" [ref=e3377] clickable [onclick]
+  - button "Close" [ref=e3383]
+  - link "figma's profile picture" [ref=e3378]
+  - link "Terms of Use" [ref=e3379]
+  - link "Privacy Policy" [ref=e3380]
+  - button "Sign up" [ref=e3381]
+  - button "Log in" [ref=e3382]

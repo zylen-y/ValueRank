@@ -59,6 +59,41 @@ describe('personal learning ledger', () => {
     expect(service.snapshot().comparisons.filter(row => row.undone)).toHaveLength(2);
     expect(() => service.undo(results[0].comparison.id)).toThrow(/already/);
   });
+  it('reissues an undone learning pair with a fresh prediction while preserving the original audit', () => {
+    const { store, service } = setup();
+    const dataset = service.createDataset({ id: 'correctable', title: 'Two choices', domain: 'content', prompt: 'Pick', units: [makeItem(1), makeItem(2)], provenance: 'Authored fixture', evaluation: false });
+    const first = service.startComparison({ datasetId: dataset.id });
+    const originalPrediction = store.get('predictions', first.exposure.id);
+    const result = service.answer({ exposureId: first.exposure.id, choice: 'a' });
+    expect(() => service.startComparison({ datasetId: dataset.id })).toThrow(/Every available pair/);
+    service.undo(result.comparison.id);
+    const corrected = service.startComparison({ datasetId: dataset.id, unitIds: [first.a.id, first.b.id] });
+    expect(corrected.exposure.id).not.toBe(first.exposure.id);
+    expect(corrected.exposure.modelVersion).toBe(2);
+    expect(corrected.a).toEqual(first.a); expect(corrected.b).toEqual(first.b);
+    expect(service.startComparison({ datasetId: dataset.id }).exposure.id).toBe(corrected.exposure.id);
+    expect(store.get('predictions', first.exposure.id)).toEqual(originalPrediction);
+    expect(store.get('exposures', first.exposure.id)).toEqual(first.exposure);
+    expect(store.get('comparisons', result.comparison.id)).toMatchObject({ undone: true });
+    expect(store.get('predictions', corrected.exposure.id)).toMatchObject({ modelVersion: 2, probabilityA: 0.5 });
+    expect(service.exportData().predictions.some(row => row.exposureId === corrected.exposure.id)).toBe(false);
+    expect(() => service.answer({ exposureId: first.exposure.id, choice: 'b' })).toThrow(/already been answered/);
+    service.answer({ exposureId: corrected.exposure.id, choice: 'b' });
+    expect(service.trainingRows()).toHaveLength(1);
+    expect(service.trainingRows()[0]).toMatchObject({ exposureId: corrected.exposure.id, target: 0 });
+    expect(() => service.startComparison({ datasetId: dataset.id })).toThrow(/Every available pair/);
+  });
+  it.each(['test', 'tournament'] as const)('keeps an undone %s pair ineligible for replay', mode => {
+    const { service } = setup();
+    const dataset = service.createDataset({ id: `no-replay-${mode}`, title: 'Protected mode', domain: 'content', prompt: 'Pick', units: Array.from({ length: mode === 'test' ? 4 : 2 }, (_, index) => makeItem(index)), provenance: 'Authored fixture', evaluation: mode === 'test' });
+    const pair = service.startComparison({ datasetId: dataset.id, mode });
+    const answer = service.answer({ exposureId: pair.exposure.id, choice: 'a' });
+    service.undo(answer.comparison.id);
+    expect(() => service.startComparison({ datasetId: dataset.id, mode })).toThrow(/Every available pair/);
+    if (mode === 'test') expect(() => service.startComparison({ datasetId: dataset.id, mode: 'learn', unitIds: [pair.a.id, pair.b.id] })).toThrow(/Held-out/);
+    expect(() => service.answer({ exposureId: pair.exposure.id, choice: 'b' })).toThrow(/already been answered/);
+    expect(service.trainingRows()).toHaveLength(0);
+  });
   it('holds out entities deterministically and never trains on test answers, even after later rebuilds', () => {
     const { service, pack } = setup(); const dataset = pack();
     const train = service.startComparison({ datasetId: dataset.id, mode: 'learn' });

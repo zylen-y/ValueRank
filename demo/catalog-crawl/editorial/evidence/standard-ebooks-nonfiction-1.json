@@ -1,0 +1,1029 @@
+{
+  "url": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+  "title": "Browse Standard Ebooks - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover",
+  "heading": "Browse Ebooks",
+  "observedAt": "2026-09-27T00:11:59.478Z",
+  "itemCount": 48,
+  "items": [
+    {
+      "attributes": {
+        "readingEase": 49.18,
+        "subjects": "Nonfiction, Spirituality",
+        "translation": "Translated by Montague Summers",
+        "wordCount": 230618
+      },
+      "creator": "Heinrich Kramer",
+      "description": "Translated by Montague Summers 230,618 words • 49.18 reading ease Nonfiction Spirituality",
+      "externalId": "heinrich-kramer/malleus-maleficarum/montague-summers",
+      "imageUrl": "https://standardebooks.org/images/covers/heinrich-kramer_malleus-maleficarum_montague-summers/c3749c6a5c1b6df681e6eaac22fb124840583547/cover@2x.jpg",
+      "title": "Malleus Maleficarum",
+      "url": "https://standardebooks.org/ebooks/heinrich-kramer/malleus-maleficarum/montague-summers",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 51.01,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 94433
+      },
+      "creator": "Edmund Burke",
+      "description": "94,433 words • 51.01 reading ease Nonfiction Philosophy",
+      "externalId": "edmund-burke/reflections-on-the-revolution-in-france",
+      "imageUrl": "https://standardebooks.org/images/covers/edmund-burke_reflections-on-the-revolution-in-france/bddc6b813d6786b46a2af85f282ef0a6885c0303/cover@2x.jpg",
+      "title": "Reflections on the Revolution in France",
+      "url": "https://standardebooks.org/ebooks/edmund-burke/reflections-on-the-revolution-in-france",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 54.56,
+        "subjects": "Nonfiction, Travel",
+        "wordCount": 80580
+      },
+      "creator": "Theodore Roosevelt",
+      "description": "80,580 words • 54.56 reading ease Nonfiction Travel",
+      "externalId": "theodore-roosevelt/a-book-lovers-holidays-in-the-open",
+      "imageUrl": "https://standardebooks.org/images/covers/theodore-roosevelt_a-book-lovers-holidays-in-the-open/e33ef8cf0d083669acdc41bbf9de8c762acbdbb9/cover@2x.jpg",
+      "title": "A Book-Lover’s Holidays in the Open",
+      "url": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 58.45,
+        "subjects": "Nonfiction, Spirituality",
+        "wordCount": 46831
+      },
+      "creator": "C. H. Spurgeon",
+      "description": "46,831 words • 58.45 reading ease Nonfiction Spirituality",
+      "externalId": "c-h-spurgeon/the-art-of-illustration",
+      "imageUrl": "https://standardebooks.org/images/covers/c-h-spurgeon_the-art-of-illustration/4cb010ef3e14ac3ae0744a9d4b06dee2d6992d81/cover@2x.jpg",
+      "title": "The Art of Illustration",
+      "url": "https://standardebooks.org/ebooks/c-h-spurgeon/the-art-of-illustration",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 38.69,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 216363
+      },
+      "creator": "David Hume",
+      "description": "216,363 words • 38.69 reading ease Nonfiction Philosophy",
+      "externalId": "david-hume/a-treatise-of-human-nature",
+      "imageUrl": "https://standardebooks.org/images/covers/david-hume_a-treatise-of-human-nature/95aed2a34685d83e936d545121087b25f92a2d0b/cover@2x.jpg",
+      "title": "A Treatise of Human Nature",
+      "url": "https://standardebooks.org/ebooks/david-hume/a-treatise-of-human-nature",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 67.59,
+        "subjects": "Nonfiction",
+        "translation": "Translated by Lionel Giles",
+        "wordCount": 24005
+      },
+      "creator": "Sun Tzu",
+      "description": "Translated by Lionel Giles 24,005 words • 67.59 reading ease Nonfiction",
+      "externalId": "sun-tzu/the-art-of-war/lionel-giles",
+      "imageUrl": "https://standardebooks.org/images/covers/sun-tzu_the-art-of-war_lionel-giles/6c4312d7c3f753293f5f01e55a1b42695dfaebb6/cover@2x.jpg",
+      "title": "The Art of War",
+      "url": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 71.89,
+        "subjects": "Nonfiction, Travel",
+        "wordCount": 54729
+      },
+      "creator": "Arthur Ransome",
+      "description": "54,729 words • 71.89 reading ease Nonfiction Travel",
+      "externalId": "arthur-ransome/racundras-first-cruise",
+      "imageUrl": "https://standardebooks.org/images/covers/arthur-ransome_racundras-first-cruise/da8c4e6d35e9159d36852bdc517f5694f6008ce8/cover@2x.jpg",
+      "title": "Racundra’s First Cruise",
+      "url": "https://standardebooks.org/ebooks/arthur-ransome/racundras-first-cruise",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 59.77,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 106677
+      },
+      "creator": "Henry David Thoreau",
+      "description": "106,677 words • 59.77 reading ease Nonfiction Philosophy",
+      "externalId": "henry-david-thoreau/walden",
+      "imageUrl": "https://standardebooks.org/images/covers/henry-david-thoreau_walden/92db4fdc4b6f86a49f22362fea2bff60b2b904cc/cover@2x.jpg",
+      "title": "Walden",
+      "url": "https://standardebooks.org/ebooks/henry-david-thoreau/walden",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 44.78,
+        "subjects": "Nonfiction",
+        "wordCount": 1105395
+      },
+      "creator": "Edward Gibbon",
+      "description": "1,105,395 words • 44.78 reading ease Nonfiction",
+      "externalId": "edward-gibbon/the-history-of-the-decline-and-fall-of-the-roman-empire",
+      "imageUrl": "https://standardebooks.org/images/covers/edward-gibbon_the-history-of-the-decline-and-fall-of-the-roman-empire/8c875c2c2ab72f9430bf640aa445fabcc248e9fd/cover@2x.jpg",
+      "title": "The History of the Decline and Fall of the Roman Empire",
+      "url": "https://standardebooks.org/ebooks/edward-gibbon/the-history-of-the-decline-and-fall-of-the-roman-empire",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 37.54,
+        "subjects": "Nonfiction, Philosophy, Spirituality",
+        "translation": "Translated by Talcott Parsons",
+        "wordCount": 49172
+      },
+      "creator": "Max Weber",
+      "description": "Translated by Talcott Parsons 49,172 words • 37.54 reading ease Nonfiction Philosophy Spirituality",
+      "externalId": "max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
+      "imageUrl": "https://standardebooks.org/images/covers/max-weber_the-protestant-ethic-and-the-spirit-of-capitalism_talcott-parsons/da83666c4439bb6c03bb995f719cf12c1df60cb4/cover@2x.jpg",
+      "title": "The Protestant Ethic and the Spirit of Capitalism",
+      "url": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 51.92,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 42740
+      },
+      "creator": "Bertrand Russell",
+      "description": "42,740 words • 51.92 reading ease Nonfiction Philosophy",
+      "externalId": "bertrand-russell/the-problems-of-philosophy",
+      "imageUrl": "https://standardebooks.org/images/covers/bertrand-russell_the-problems-of-philosophy/5976ebf2ba04f1338a5a1c2001e5acd700ddaf1b/cover@2x.jpg",
+      "title": "The Problems of Philosophy",
+      "url": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 65.56,
+        "subjects": "Adventure, Memoir, Nonfiction",
+        "wordCount": 252065
+      },
+      "creator": "T. E. Lawrence",
+      "description": "252,065 words • 65.56 reading ease Adventure Memoir Nonfiction",
+      "externalId": "t-e-lawrence/seven-pillars-of-wisdom",
+      "imageUrl": "https://standardebooks.org/images/covers/t-e-lawrence_seven-pillars-of-wisdom/59111f3110f6a4743f56ac1bc6975f15370927a7/cover@2x.jpg",
+      "title": "Seven Pillars of Wisdom",
+      "url": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 54.8,
+        "subjects": "Nonfiction, Philosophy, Spirituality",
+        "translation": "Translated by Marcus Dods, George Wilson, and J. J. Smith",
+        "wordCount": 444136
+      },
+      "creator": "Augustine of Hippo",
+      "description": "Translated by Marcus Dods, George Wilson, and J. J. Smith 444,136 words • 54.8 reading ease Nonfiction Philosophy Spirituality",
+      "externalId": "augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+      "imageUrl": "https://standardebooks.org/images/covers/augustine-of-hippo_the-city-of-god_marcus-dods_george-wilson_j-j-smith/e5a729874c23618f724f845667ed3841c818cd78/cover@2x.jpg",
+      "title": "The City of God",
+      "url": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 49.93,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 207766
+      },
+      "creator": "Thomas Hobbes",
+      "description": "207,766 words • 49.93 reading ease Nonfiction Philosophy",
+      "externalId": "thomas-hobbes/leviathan",
+      "imageUrl": "https://standardebooks.org/images/covers/thomas-hobbes_leviathan/a10a333bdb8f993d266b2c72e69642e6f01da918/cover@2x.jpg",
+      "title": "Leviathan",
+      "url": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 36.66,
+        "subjects": "Nonfiction",
+        "wordCount": 199940
+      },
+      "creator": "Charles Darwin",
+      "description": "199,940 words • 36.66 reading ease Nonfiction",
+      "externalId": "charles-darwin/the-origin-of-species",
+      "imageUrl": "https://standardebooks.org/images/covers/charles-darwin_the-origin-of-species/61f7f2e25a49695c6188e01f35648bf0940fb2b6/cover@2x.jpg",
+      "title": "The Origin of Species",
+      "url": "https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 50.91,
+        "subjects": "Nonfiction, Philosophy",
+        "translation": "Translated by G. D. H. Cole",
+        "wordCount": 56409
+      },
+      "creator": "Jean-Jacques Rousseau",
+      "description": "Translated by G. D. H. Cole 56,409 words • 50.91 reading ease Nonfiction Philosophy",
+      "externalId": "jean-jacques-rousseau/the-social-contract/g-d-h-cole",
+      "imageUrl": "https://standardebooks.org/images/covers/jean-jacques-rousseau_the-social-contract_g-d-h-cole/23ab6e703d8fe8a98987e3fe2c632e7c52aa546b/cover@2x.jpg",
+      "title": "The Social Contract",
+      "url": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 49.99,
+        "subjects": "Autobiography, Nonfiction",
+        "wordCount": 64545
+      },
+      "creator": "Benjamin Franklin",
+      "description": "64,545 words • 49.99 reading ease Autobiography Nonfiction",
+      "externalId": "benjamin-franklin/the-autobiography-of-benjamin-franklin",
+      "imageUrl": "https://standardebooks.org/images/covers/benjamin-franklin_the-autobiography-of-benjamin-franklin/a36fc28d81ed972ce40db12548db2cdd5e22e022/cover@2x.jpg",
+      "title": "The Autobiography of Benjamin Franklin",
+      "url": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 64.2,
+        "subjects": "Autobiography, Memoir, Nonfiction, Philosophy, Spirituality",
+        "translation": "Translated by Mahadev Desai",
+        "wordCount": 173177
+      },
+      "creator": "Mahatma Gandhi",
+      "description": "Translated by Mahadev Desai 173,177 words • 64.2 reading ease Autobiography Memoir Nonfiction Philosophy Spirituality",
+      "externalId": "mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+      "imageUrl": "https://standardebooks.org/images/covers/mahatma-gandhi_the-story-of-my-experiments-with-truth_mahadev-desai/6cc40f2747c8f1b43a638810fca60a29ef683e7d/cover@2x.jpg",
+      "title": "The Story of My Experiments with Truth",
+      "url": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 53.34,
+        "subjects": "Nonfiction",
+        "wordCount": 69006
+      },
+      "creator": "W. E. B. Du Bois",
+      "description": "69,006 words • 53.34 reading ease Nonfiction",
+      "externalId": "w-e-b-du-bois/the-souls-of-black-folk",
+      "imageUrl": "https://standardebooks.org/images/covers/w-e-b-du-bois_the-souls-of-black-folk/1d861c3ea737fcd08c0656b76201c0cc9ef51c61/cover@2x.jpg",
+      "title": "The Souls of Black Folk",
+      "url": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 66.07,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 132881
+      },
+      "creator": "Ralph Waldo Emerson",
+      "description": "132,881 words • 66.07 reading ease Nonfiction Philosophy",
+      "externalId": "ralph-waldo-emerson/essays",
+      "imageUrl": "https://standardebooks.org/images/covers/ralph-waldo-emerson_essays/9e71d8b90bc1b8627aaf289d30762dab590f0eea/cover@2x.jpg",
+      "title": "Essays",
+      "url": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 54.66,
+        "subjects": "Nonfiction, Spirituality",
+        "wordCount": 154887
+      },
+      "creator": "William James",
+      "description": "154,887 words • 54.66 reading ease Nonfiction Spirituality",
+      "externalId": "william-james/the-varieties-of-religious-experience",
+      "imageUrl": "https://standardebooks.org/images/covers/william-james_the-varieties-of-religious-experience/ecafea02034a46e9a160f5c5cf3278e64cdd8fd9/cover@2x.jpg",
+      "title": "The Varieties of Religious Experience",
+      "url": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 38.36,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 101888
+      },
+      "creator": "John Locke",
+      "description": "101,888 words • 38.36 reading ease Nonfiction Philosophy",
+      "externalId": "john-locke/two-treatises-of-government",
+      "imageUrl": "https://standardebooks.org/images/covers/john-locke_two-treatises-of-government/8f828cb773c9c2425bf3b423b0568ef4617ec019/cover@2x.jpg",
+      "title": "Two Treatises of Government",
+      "url": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 73.81,
+        "subjects": "Adventure, Memoir, Nonfiction, Travel",
+        "wordCount": 68723
+      },
+      "creator": "Joshua Slocum",
+      "description": "68,723 words • 73.81 reading ease Adventure Memoir Nonfiction Travel",
+      "externalId": "joshua-slocum/sailing-alone-around-the-world",
+      "imageUrl": "https://standardebooks.org/images/covers/joshua-slocum_sailing-alone-around-the-world/a68744501fda55b4151385c0818856a3a2650bae/cover@2x.jpg",
+      "title": "Sailing Alone Around the World",
+      "url": "https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 37.68,
+        "subjects": "Nonfiction",
+        "wordCount": 195351
+      },
+      "creator": "Alexander Hamilton, John Jay, James Madison",
+      "description": "195,351 words • 37.68 reading ease Nonfiction",
+      "externalId": "alexander-hamilton_john-jay_james-madison/the-federalist-papers",
+      "imageUrl": "https://standardebooks.org/images/covers/alexander-hamilton_john-jay_james-madison_the-federalist-papers/b8b6dd27b4af1963bc7ae4a27cbeb3729f0ab202/cover@2x.jpg",
+      "title": "The Federalist Papers",
+      "url": "https://standardebooks.org/ebooks/alexander-hamilton_john-jay_james-madison/the-federalist-papers",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 65.96,
+        "subjects": "Nonfiction, Spirituality",
+        "translation": "Translated by William Benham",
+        "wordCount": 62787
+      },
+      "creator": "Thomas à Kempis",
+      "description": "Translated by William Benham 62,787 words • 65.96 reading ease Nonfiction Spirituality",
+      "externalId": "thomas-a-kempis/the-imitation-of-christ/william-benham",
+      "imageUrl": "https://standardebooks.org/images/covers/thomas-a-kempis_the-imitation-of-christ_william-benham/87cda0dc82762a1630f0878d6cd9af34f264f092/cover@2x.jpg",
+      "title": "The Imitation of Christ",
+      "url": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 39.34,
+        "subjects": "Nonfiction",
+        "translation": "Translated by Richard Crawley",
+        "wordCount": 204733
+      },
+      "creator": "Thucydides",
+      "description": "Translated by Richard Crawley 204,733 words • 39.34 reading ease Nonfiction",
+      "externalId": "thucydides/history-of-the-peloponnesian-war/richard-crawley",
+      "imageUrl": "https://standardebooks.org/images/covers/thucydides_history-of-the-peloponnesian-war_richard-crawley/2ba11f6d955e9abb177970a1b34aaab57d30417c/cover@2x.jpg",
+      "title": "History of the Peloponnesian War",
+      "url": "https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 43.33,
+        "subjects": "Nonfiction",
+        "translation": "Translated by G. C. Macaulay",
+        "wordCount": 287977
+      },
+      "creator": "Herodotus",
+      "description": "Translated by G. C. Macaulay 287,977 words • 43.33 reading ease Nonfiction",
+      "externalId": "herodotus/histories/g-c-macaulay",
+      "imageUrl": "https://standardebooks.org/images/covers/herodotus_histories_g-c-macaulay/ee019c231c6e8318c04c505978e3a828e5dcd0fb/cover@2x.jpg",
+      "title": "Histories",
+      "url": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 42.08,
+        "subjects": "Nonfiction, Philosophy, Spirituality",
+        "translation": "Translated by Leo Wiener",
+        "wordCount": 122608
+      },
+      "creator": "Leo Tolstoy",
+      "description": "Translated by Leo Wiener 122,608 words • 42.08 reading ease Nonfiction Philosophy Spirituality",
+      "externalId": "leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
+      "imageUrl": "https://standardebooks.org/images/covers/leo-tolstoy_the-kingdom-of-god-is-within-you_leo-wiener/27829f84c90818d926f04e8aaafb1b526c492f9c/cover@2x.jpg",
+      "title": "The Kingdom of God Is Within You",
+      "url": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 50.7,
+        "subjects": "Nonfiction",
+        "translation": "Translated by Florence Kelley Wischnewetzky",
+        "wordCount": 113317
+      },
+      "creator": "Friedrich Engels",
+      "description": "Translated by Florence Kelley Wischnewetzky 113,317 words • 50.7 reading ease Nonfiction",
+      "externalId": "friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky",
+      "imageUrl": "https://standardebooks.org/images/covers/friedrich-engels_the-condition-of-the-working-class-in-england_florence-kelley-wischnewetzky/ade9f465bf01ae9d0c6c162e605e2b92d33947c2/cover@2x.jpg",
+      "title": "The Condition of the Working Class in England",
+      "url": "https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 66.98,
+        "subjects": "Memoir, Nonfiction",
+        "wordCount": 81151
+      },
+      "creator": "Solomon Northup",
+      "description": "81,151 words • 66.98 reading ease Memoir Nonfiction",
+      "externalId": "solomon-northup/twelve-years-a-slave",
+      "imageUrl": "https://standardebooks.org/images/covers/solomon-northup_twelve-years-a-slave/e9d0997fb145443d9c3a1f71fe48b4676c4a4ff8/cover@2x.jpg",
+      "title": "Twelve Years a Slave",
+      "url": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 53.55,
+        "subjects": "Nonfiction",
+        "wordCount": 198529
+      },
+      "creator": "Charles Darwin",
+      "description": "198,529 words • 53.55 reading ease Nonfiction",
+      "externalId": "charles-darwin/the-voyage-of-the-beagle",
+      "imageUrl": "https://standardebooks.org/images/covers/charles-darwin_the-voyage-of-the-beagle/d1f63270d6816db58b6478806092fb4cbe1a1abc/cover@2x.jpg",
+      "title": "The Voyage of the Beagle",
+      "url": "https://standardebooks.org/ebooks/charles-darwin/the-voyage-of-the-beagle",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 60.24,
+        "subjects": "Nonfiction",
+        "wordCount": 18029
+      },
+      "creator": "Okakura Kakuzō",
+      "description": "18,029 words • 60.24 reading ease Nonfiction",
+      "externalId": "okakura-kakuzo/the-book-of-tea",
+      "imageUrl": "https://standardebooks.org/images/covers/okakura-kakuzo_the-book-of-tea/f93c1294fe81e80ea6d0f86f5252f2acbaf1232b/cover@2x.jpg",
+      "title": "The Book of Tea",
+      "url": "https://standardebooks.org/ebooks/okakura-kakuzo/the-book-of-tea",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 56.69,
+        "subjects": "Autobiography, Nonfiction",
+        "wordCount": 271916
+      },
+      "creator": "Ulysses S. Grant",
+      "description": "271,916 words • 56.69 reading ease Autobiography Nonfiction",
+      "externalId": "ulysses-s-grant/personal-memoirs-of-ulysses-s-grant",
+      "imageUrl": "https://standardebooks.org/images/covers/ulysses-s-grant_personal-memoirs-of-ulysses-s-grant/556a422d7eddc2aef5d034bf90f917f8f1fa6ec1/cover@2x.jpg",
+      "title": "Personal Memoirs of Ulysses S. Grant",
+      "url": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 62.21,
+        "subjects": "Memoir, Nonfiction, Travel",
+        "wordCount": 231525
+      },
+      "creator": "Henry David Thoreau",
+      "description": "231,525 words • 62.21 reading ease Memoir Nonfiction Travel",
+      "externalId": "henry-david-thoreau/essays",
+      "imageUrl": "https://standardebooks.org/images/covers/henry-david-thoreau_essays/91346a7ee533665525b17d680325020abc522b8c/cover@2x.jpg",
+      "title": "Essays",
+      "url": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 49.96,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 51077
+      },
+      "creator": "William James",
+      "description": "51,077 words • 49.96 reading ease Nonfiction Philosophy",
+      "externalId": "william-james/pragmatism",
+      "imageUrl": "https://standardebooks.org/images/covers/william-james_pragmatism/4d97b5e47b23c76574a2f16a972d9fc8533e8eb0/cover@2x.jpg",
+      "title": "Pragmatism",
+      "url": "https://standardebooks.org/ebooks/william-james/pragmatism",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 64.44,
+        "subjects": "Nonfiction",
+        "wordCount": 79803
+      },
+      "creator": "Jacob Riis",
+      "description": "79,803 words • 64.44 reading ease Nonfiction",
+      "externalId": "jacob-riis/how-the-other-half-lives",
+      "imageUrl": "https://standardebooks.org/images/covers/jacob-riis_how-the-other-half-lives/2905d6f3ef08b37fa5c0fe1e2222460d4c2caace/cover@2x.jpg",
+      "title": "How the Other Half Lives",
+      "url": "https://standardebooks.org/ebooks/jacob-riis/how-the-other-half-lives",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 66.47,
+        "subjects": "Nonfiction",
+        "wordCount": 327694
+      },
+      "creator": "Thomas Bulfinch",
+      "description": "327,694 words • 66.47 reading ease Nonfiction",
+      "externalId": "thomas-bulfinch/bulfinchs-mythology",
+      "imageUrl": "https://standardebooks.org/images/covers/thomas-bulfinch_bulfinchs-mythology/c8184ed433131a8b01137a896ddfc07f00f936aa/cover@2x.jpg",
+      "title": "Bulfinch’s Mythology",
+      "url": "https://standardebooks.org/ebooks/thomas-bulfinch/bulfinchs-mythology",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 57.3,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 59907
+      },
+      "creator": "G. K. Chesterton",
+      "description": "59,907 words • 57.3 reading ease Nonfiction Philosophy",
+      "externalId": "g-k-chesterton/whats-wrong-with-the-world",
+      "imageUrl": "https://standardebooks.org/images/covers/g-k-chesterton_whats-wrong-with-the-world/ea4624f492101794d22a953d531d94bfc2446bd6/cover@2x.jpg",
+      "title": "What’s Wrong with the World",
+      "url": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 68.3,
+        "subjects": "Autobiography, Nonfiction",
+        "wordCount": 40415
+      },
+      "creator": "Frederick Douglass",
+      "description": "40,415 words • 68.3 reading ease Autobiography Nonfiction",
+      "externalId": "frederick-douglass/narrative-of-the-life-of-frederick-douglass",
+      "imageUrl": "https://standardebooks.org/images/covers/frederick-douglass_narrative-of-the-life-of-frederick-douglass/45952962df03279e6125f0687ad3b5cd4276c6ab/cover@2x.jpg",
+      "title": "Narrative of the Life of Frederick Douglass",
+      "url": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 36.09,
+        "subjects": "Memoir, Nonfiction",
+        "translation": "Translated by W. A. McDevitte and W. S. Bohn",
+        "wordCount": 74999
+      },
+      "creator": "Julius Caesar",
+      "description": "Translated by W. A. McDevitte and W. S. Bohn 74,999 words • 36.09 reading ease Memoir Nonfiction",
+      "externalId": "julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+      "imageUrl": "https://standardebooks.org/images/covers/julius-caesar_commentaries-on-the-gallic-war_w-a-mcdevitte_w-s-bohn/3df1749c8da70e33fc532599c4a392f5bd4d7ed8/cover@2x.jpg",
+      "title": "Commentaries on the Gallic War",
+      "url": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 65.46,
+        "subjects": "Nonfiction, Travel",
+        "wordCount": 194758
+      },
+      "creator": "Mark Twain",
+      "description": "194,758 words • 65.46 reading ease Nonfiction Travel",
+      "externalId": "mark-twain/the-innocents-abroad",
+      "imageUrl": "https://standardebooks.org/images/covers/mark-twain_the-innocents-abroad/a1ae2a2446200cb554152e0a015a1dc880821255/cover@2x.jpg",
+      "title": "The Innocents Abroad",
+      "url": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 45.22,
+        "subjects": "Nonfiction, Philosophy",
+        "wordCount": 83264
+      },
+      "creator": "Mary Wollstonecraft",
+      "description": "83,264 words • 45.22 reading ease Nonfiction Philosophy",
+      "externalId": "mary-wollstonecraft/a-vindication-of-the-rights-of-woman",
+      "imageUrl": "https://standardebooks.org/images/covers/mary-wollstonecraft_a-vindication-of-the-rights-of-woman/f123843961ddbf9a6af783e0da876ab2941644be/cover@2x.jpg",
+      "title": "A Vindication of the Rights of Woman",
+      "url": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 54.26,
+        "subjects": "Nonfiction, Philosophy, Spirituality",
+        "wordCount": 106972
+      },
+      "creator": "G. K. Chesterton",
+      "description": "106,972 words • 54.26 reading ease Nonfiction Philosophy Spirituality",
+      "externalId": "g-k-chesterton/the-everlasting-man",
+      "imageUrl": "https://standardebooks.org/images/covers/g-k-chesterton_the-everlasting-man/f04e0db969580bd13b4df4928af8d5543f4ef7db/cover@2x.jpg",
+      "title": "The Everlasting Man",
+      "url": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 67.38,
+        "subjects": "Autobiography, Nonfiction",
+        "wordCount": 195363
+      },
+      "creator": "Mark Twain",
+      "description": "195,363 words • 67.38 reading ease Autobiography Nonfiction",
+      "externalId": "mark-twain/the-autobiography-of-mark-twain",
+      "imageUrl": "https://standardebooks.org/images/covers/mark-twain_the-autobiography-of-mark-twain/2dd4bd3878154d7fc3f19b8785a3d52fc9620899/cover@2x.jpg",
+      "title": "The Autobiography of Mark Twain",
+      "url": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 63.22,
+        "subjects": "Autobiography, Memoir, Nonfiction",
+        "wordCount": 76703
+      },
+      "creator": "Booker T. Washington",
+      "description": "76,703 words • 63.22 reading ease Autobiography Memoir Nonfiction",
+      "externalId": "booker-t-washington/up-from-slavery",
+      "imageUrl": "https://standardebooks.org/images/covers/booker-t-washington_up-from-slavery/5e9a9f45444da1a707ebb2b251be9f5c632783b2/cover@2x.jpg",
+      "title": "Up from Slavery",
+      "url": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 44.98,
+        "subjects": "Nonfiction, Philosophy, Spirituality",
+        "wordCount": 90125
+      },
+      "creator": "R. H. Tawney",
+      "description": "90,125 words • 44.98 reading ease Nonfiction Philosophy Spirituality",
+      "externalId": "r-h-tawney/religion-and-the-rise-of-capitalism",
+      "imageUrl": "https://standardebooks.org/images/covers/r-h-tawney_religion-and-the-rise-of-capitalism/2e61d12a90b63dfb4dad143bcfcebc7b8d73135f/cover@2x.jpg",
+      "title": "Religion and the Rise of Capitalism",
+      "url": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 79.5,
+        "subjects": "Nonfiction, Spirituality",
+        "wordCount": 41502
+      },
+      "creator": "D. L. Moody",
+      "description": "41,502 words • 79.5 reading ease Nonfiction Spirituality",
+      "externalId": "d-l-moody/the-way-to-god-and-how-to-find-it",
+      "imageUrl": "https://standardebooks.org/images/covers/d-l-moody_the-way-to-god-and-how-to-find-it/88585fad855fc5520ca1f8447b530a4684739e71/cover@2x.jpg",
+      "title": "The Way to God and How to Find It",
+      "url": "https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    },
+    {
+      "attributes": {
+        "readingEase": 64.44,
+        "subjects": "Nonfiction",
+        "wordCount": 13564
+      },
+      "creator": "P. T. Barnum",
+      "description": "13,564 words • 64.44 reading ease Nonfiction",
+      "externalId": "p-t-barnum/the-art-of-money-getting",
+      "imageUrl": "https://standardebooks.org/images/covers/p-t-barnum_the-art-of-money-getting/295d511df094ee2a94f1cfd580c67543ad030ffd/cover@2x.jpg",
+      "title": "The Art of Money Getting",
+      "url": "https://standardebooks.org/ebooks/p-t-barnum/the-art-of-money-getting",
+      "sourceId": "standard-ebooks",
+      "kind": "books",
+      "collectionIds": [
+        "standard-ebooks-nonfiction"
+      ],
+      "observedAt": "2026-09-27T00:11:59.478Z",
+      "listingUrl": "https://standardebooks.org/subjects/nonfiction?per-page=48&sort=popularity&view=list",
+      "extraction": "browser-dom"
+    }
+  ]
+}

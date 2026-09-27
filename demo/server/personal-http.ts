@@ -9,6 +9,10 @@ import { createPersonalSearchService } from './personal-search.ts';
 import { createMediaService } from './personal-media.ts';
 import { designStarterPack } from './personal-seeds.ts';
 import { importPersonalDataset } from './personal-import.ts';
+import { createCatalogStore } from './catalog-store.ts';
+import { createCatalogService } from './catalog-service.ts';
+import { createCatalogHttp } from './catalog-http.ts';
+import { seedCatalog } from './catalog-seed.ts';
 import type { Profile } from '../src/domain/types.ts';
 
 type Send = (response: ServerResponse, status: number, data: unknown) => void;
@@ -32,6 +36,10 @@ export function createPersonalHttp(dependencies: { profile: () => Profile; legac
   }
   const active = () => search.isRunning() || media.isRunning();
   const requireIdle = () => { if (active() || dependencies.legacyBusy()) throw new PersonalError('Wait for the current operation or cancel it before starting another one.', 409); };
+  const catalogStore = createCatalogStore(process.env.VALUERANK_CATALOG_DB_PATH || (process.env.VALUERANK_PERSONAL_DB_PATH ? `${process.env.VALUERANK_PERSONAL_DB_PATH}.catalog.sqlite` : undefined));
+  if (!process.env.VALUERANK_SKIP_CATALOG_SEEDS) seedCatalog(catalogStore);
+  const catalog = createCatalogService(catalogStore, personal);
+  const handleCatalog = createCatalogHttp(catalog, { json: dependencies.json, body: dependencies.body, requireIdle });
   const sessionPayload = (id: string) => {
     const session = personal.getSession(idSchema.parse(id));
     if (!session) throw new PersonalError('Search session not found.',404);
@@ -39,8 +47,9 @@ export function createPersonalHttp(dependencies: { profile: () => Profile; legac
     return {session,ranking:personal.rank(session.units,session.context),dataset};
   };
   const {json,body} = dependencies;
-  return { personal, media, search, isRunning: active,
+  return { personal, media, search, catalog, isRunning: active,
     async handle(request: IncomingMessage,response:ServerResponse,path:string):Promise<boolean> {
+      if (await handleCatalog(request, response, path)) return true;
       if (!path.startsWith('/api/personal')) return false;
       const pieces = path.slice('/api/personal'.length).split('/').filter(Boolean).map(decodeURIComponent);
       const [resource,id,action] = pieces; const method=request.method;
